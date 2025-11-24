@@ -1,0 +1,454 @@
+[
+    {
+        "source_id": 301,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante la gestión de equipos y recursos, notas que varios compañeros y tu supervisor han dejado de registrar movimientos y aprobaciones para avanzar más rápido. Si exiges seguir cada paso del protocolo, el proyecto se atrasará y quedarás como quien complica el trabajo; si te adaptas al atajo, aceptas decisiones sin control que pueden traer problemas después. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 302,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden cruzar información de distintas bases de datos para crear perfiles muy detallados de clientes, incluyendo hábitos y posibles situaciones personales. Si pones límites al uso de esos datos, el análisis se hará más lento y pueden culparte de frenar resultados; si aceptas todo, contribuyes a un uso invasivo de la información. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 303,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al analizar un posible conflicto de interés, accedes a información muy sensible sobre una persona implicada que no estaba destinada a ti. Si pides que otro tome el caso o que se limite el uso de esos datos, el proceso se alargará y pueden decir que exageras; si sigues adelante usándolos, expones a la persona y normalizas ese manejo de información. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Social."
+    },
+    {
+        "source_id": 304,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En una decisión de presupuesto, ves que una de las opciones beneficia indirectamente a tu área o a proyectos donde tú participas más, aunque no sea lo más equilibrado para la empresa. Si propones que alguien más decida o eliges la opción más neutral, puedes perder recursos y quedar como poco hábil políticamente; si eliges lo que te favorece, antepones tu interés personal. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 305,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te encargan reorganizar tareas y prioridades del equipo en muy poco tiempo, sabiendo que un análisis a fondo tomaría varios días. Si te detienes a revisar caso por caso, no cumplirás el plazo y recibirás presión y críticas; si reasignas rápido, generarás injusticias y errores que afectarán a personas concretas. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Tiempo."
+    },
+    {
+        "source_id": 306,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante una negociación, representantes de tu área y de la otra parte te presionan para aceptar condiciones que se salen de los estándares de la empresa con tal de cerrar rápido. Si te mantienes firme, el acuerdo puede caerse y te verán como el obstáculo que hizo perder el negocio; si cedes, firmas algo que sabes que no cumple con lo que la empresa define como aceptable. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 307,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al revisar documentos de recursos de la empresa, encuentras información personal y estratégica sobre empleados, como salarios, posibles recortes y decisiones de cambio, que no deberías ver. Si pides que se corrija el acceso y te niegas a usar esos datos, el trabajo se retrasará y tu jefe puede molestarse; si los utilizas para priorizar apoyos, te aprovechas de información privada. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Social."
+    },
+    {
+        "source_id": 308,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden liberar equipos y materiales a gran velocidad para cumplir un pedido urgente, dejando de lado controles como revisiones de estado y registros detallados. Si insistes en seguir cada control, el envío se atrasa y pueden culparte de perder al cliente; si te saltas pasos, facilitas que se pierdan recursos o queden sin rastro. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 309,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al preparar un reporte de resultados, notas que tu equipo está omitiendo revisiones cruzadas y explicaciones detalladas para alcanzar la fecha de presentación. Si exiges hacer el proceso completo, se pierde el plazo y tu nombre quedará asociado al retraso; si aceptas el recorte, entregas un reporte menos transparente. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 310,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al asignar personal, descubres que podrías organizar turnos y proyectos para quedarte tú y tus cercanos con los horarios más cómodos y las tareas más visibles sin romper una regla escrita. Si te asignas esas ventajas, mejoras tu bienestar y visibilidad a costa del resto; si repartes de forma estrictamente justa, puedes perder apoyos y quedar como ingenuo. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Económico (oportunidades)."
+    },
+    {
+        "source_id": 311,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En una negociación ves errores en montos, plazos o responsabilidades que, si se corrigen, implican reabrir puntos ya cerrados y retrasar la firma. Si los señalas, el acuerdo puede caerse y tu área perdería beneficios y tiempo invertido; si los callas, dejas a la empresa expuesta a condiciones desfavorables. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Tiempo."
+    },
+    {
+        "source_id": 312,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al manejar datos de clientes, también puedes ver comentarios internos sobre empleados y decisiones de la empresa que no estaban destinados a ti. Si denuncias el acceso y te niegas a usarlos, generas tensión con compañeros que ya se han beneficiado de esa información; si la aprovechas para anticiparte a cambios, te favoreces usando algo que sabes que no corresponde. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Legal/Grave."
+    },
+    {
+        "source_id": 313,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al revisar solicitudes de reembolso, te enfrentas a casos en zona gris que no son claramente personales ni claramente laborales, y la gente espera una respuesta rápida. Si te tomas tiempo para revisar criterios o pedir aclaraciones, se enojarán quienes esperan el dinero; si apruebas sin cuestionar, permites que se carguen gastos dudosos a la empresa. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 314,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante una revisión de equipos, detectas que los listados no coinciden con la realidad: hay materiales sin responsable, elementos duplicados y otros que faltan. Si exiges corregir todo, deberás invertir muchas horas extra y generarás incomodidad con tu jefe; si lo dejas pasar, mantienes un sistema poco confiable. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 315,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al trabajar con datos de clientes, te piden incluir también información confidencial sobre empleados que no se recopiló para ese fin, para justificar ciertos cambios en un reporte urgente. Si te niegas, el informe se retrasará y tu jefe puede culparte del atraso; si aceptas, usas datos personales fuera de contexto. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Tiempo."
+    },
+    {
+        "source_id": 316,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En el uso de salas, equipos o servicios internos, descubres que con descripciones muy amplias puedes reservar recursos para reuniones o actividades personales sin que nadie cuestione el motivo. Si lo haces, ahorras dinero y esfuerzo en tus asuntos personales; si te niegas, renuncias a un beneficio que otros ya están aprovechando. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Económico."
+    },
+    {
+        "source_id": 317,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te encargan reorganizar horarios y turnos del equipo en muy poco tiempo, sin poder hablar con todos ni analizar la carga real de trabajo. Si te detienes a revisar con cuidado, no cumplirás el plazo y recibirás críticas por “no resolver”; si ajustas rápido, dejarás a personas sobrecargadas o injustamente afectadas. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 318,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En las negociaciones de contratos se han vuelto comunes atajos que reducen revisiones y controles, con el argumento de que los protocolos son muy lentos. Si insistes en revisar cláusulas con detalle, puedes retrasar acuerdos y quedarte con fama de lento; si aceptas el atajo, firmas sin evaluar bien los riesgos. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 319,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te enfrentas a un caso de manejo de información privilegiada donde las reglas no son del todo claras y debes decidir en poco tiempo cómo actuar. Si te inclinas por la opción más cuidadosa, retrasas el proceso y puedes perder una oportunidad importante; si eliges lo más conveniente para cerrar rápido, asumes un riesgo ético que luego podría señalársete. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 320,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión del tiempo de trabajo, detectas un desequilibrio en cómo se asignan horas y permisos que beneficia a ciertos compañeros más cercanos a los jefes. Si lo planteas, puedes romper relaciones y quedar aislado; si lo ignoras, aceptas una distribución injusta que te perjudica a ti o a otros. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Social."
+    },
+    {
+        "source_id": 321,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En un caso de conflicto de interés, te presionan para que resuelvas rápido sin aplicar todos los pasos del protocolo, porque una decisión de negocio importante depende del cierre del caso. Si insistes en aplicar el proceso completo, el negocio puede retrasarse o incluso perderse y te culparán por eso; si cedes, dejas un conflicto mal resuelto. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Económico."
+    },
+    {
+        "source_id": 322,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Mientras revisas casos de conflictos de interés, varias áreas te piden que “no exageres” con ciertas relaciones personales o de negocio para que todo siga funcionando sin frenos. Si sigues el protocolo al detalle, se detendrán proyectos y algunos te verán como alguien que pone trabas; si miras hacia otro lado, normalizas decisiones que favorecen a unos sobre otros. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 323,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al elaborar un reporte para la dirección, tienes acceso a un archivo con información personal y estratégica sobre empleados que no estaba pensada para ese uso. Si te niegas a incluir esos datos, el reporte quedará menos completo y tu jefe puede molestarse; si los incluyes, expones información que la gente no esperaba ver ahí. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Social."
+    },
+    {
+        "source_id": 324,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al asignar personal, algunos jefes de área te piden de forma insistente que priorices a sus equipos para recibir más gente, aunque no cumplan todos los criterios. Si llevas la conversación a reglas claras, puedes quedar como poco flexible y ganarte la antipatía de personas influyentes; si cedes, avalas decisiones parciales. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Económico (recursos)."
+    },
+    {
+        "source_id": 325,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Observas que, al asignar puestos y horarios, quienes tienen mejor relación con la dirección reciben sistemáticamente las opciones más convenientes, sin explicarse los criterios. Si lo señalas, puedes comprometer tu propia proyección y ser visto como problemático; si guardas silencio, mantienes un sistema que margina a otros. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Social."
+    },
+    {
+        "source_id": 326,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En una comunicación con un cliente o proveedor, recibes documentos internos donde aparecen datos confidenciales sobre empleados, como quién será reasignado o despedido. Si te niegas a usar esa información para justificar cambios, retrasas la respuesta y puedes ser visto como poco práctico; si la usas, expones decisiones internas que no corresponden. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Social."
+    },
+    {
+        "source_id": 327,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Mientras manejas información interna reservada, ves que ciertas decisiones se toman basadas en datos sobre cierres o cambios de liderazgo que solo unos pocos conocen. Si pides que se comparta más contexto y se formalicen los criterios, generarás tensión con quienes hoy tienen esa ventaja; si cooperas sin decir nada, ayudas a sostener un juego desigual. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Legal/Grave."
+    },
+    {
+        "source_id": 328,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden decidir si prestas equipos o espacios de la empresa a un proyecto externo que no está claramente vinculado con el negocio, pero que podría mejorar tu relación con un socio o amigo. Si dices que no, pierdes esa relación y puedes quedar como poco colaborador; si dices que sí, usas recursos de la empresa para fines dudosos. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 329,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión de beneficios de la empresa, te piden aprobar apoyos antes de una fecha límite para que “no se pierdan”, aunque no has podido revisar todos los casos. Si te tomas el tiempo de analizar, algunos beneficios caducarán y te acusarán de rígido; si firmas todo sin revisar, puedes avalar abusos o injusticias. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Económico."
+    },
+    {
+        "source_id": 330,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al asignar personal, sientes presión para cerrar el proceso muy rápido aunque sabes que la información sobre carga, habilidades y disponibilidad está incompleta. Si detienes el proceso para corregir datos y preguntar más, el proyecto se retrasará y te verán como quien bloquea; si sigues adelante, puedes dejar a gente sobrecargada o fuera de oportunidades justas. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 331,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Mientras manejas información privilegiada, descubres que algunos compañeros ya están manipulando procesos o decisiones para obtener ventajas, como mejores proyectos o recursos, sin que nadie los corrija. Si denuncias la situación, te enfrentas a personas influyentes y puedes quedarte aislado; si te sumas a la práctica, ganas beneficios usando métodos que consideras injustos. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Social."
+    },
+    {
+        "source_id": 332,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al revisar decisiones presupuestarias, descubres información sensible que muestra que algunos proyectos se favorecen por criterios poco claros y que casi nadie conoce. Si exiges transparencia, puedes perder apoyo de quienes hoy tienen más poder y cerrar puertas a tu crecimiento; si callas, avalas decisiones que perjudican a otros. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Económico."
+    },
+    {
+        "source_id": 333,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En el uso de recursos de la empresa, observas que ciertas personas deciden quién recibe equipos o apoyos según afinidades y no según criterios formales, generando ventajas constantes para los mismos. Si cuestionas esta práctica, te ganarás la antipatía de quienes hoy se benefician; si la aceptas, te adaptas a un reparto injusto esperando que algún día te toque. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Social."
+    },
+    {
+        "source_id": 334,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante la gestión de equipos y recursos, ves que se están omitiendo registros, segundas aprobaciones y justificaciones con tal de ganar tiempo, aunque ya hubo errores por este motivo. Si propones volver al protocolo completo, el trabajo se hará más lento y te verán como un estorbo; si sigues igual, aceptas el riesgo de nuevos fallos. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costo: Tiempo."
+    },
+    {
+        "source_id": 335,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden reorganizar horarios y turnos en un plazo muy corto, sabiendo que para hacerlo bien tendrías que consultar con varias personas y revisar muchos detalles. Si respetas el proceso, llegarás tarde y recibirás críticas por no “alinearte con la urgencia”; si improvisas, cambiarás la vida de varios compañeros sin haberlos escuchado. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 336,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Debes cubrir varios puestos en poco tiempo y completar una asignación de personal con información incompleta sobre habilidades, historial y disponibilidad. Si exiges mejores datos, el proceso se alarga y tu jefe puede culparte de no “sacar el trabajo”; si decides con lo que hay, tomas decisiones que podrían perjudicar a personas durante meses. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 337,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En una negociación importante, te piden reducir al mínimo las revisiones legales y técnicas para firmar antes de una fecha crítica. Si insistes en revisar todo, existe el riesgo de perder el acuerdo y los bonos asociados; si firmas con una revisión superficial, asumes riesgos que podrían volverse en tu contra más adelante. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Legal/Grave."
+    },
+    {
+        "source_id": 338,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Un compañero te pide ajustar sus registros de horas para reflejar tiempo trabajado desde casa que no puede demostrar, y si no lo haces su pago se verá reducido. Si registras esas horas sin respaldo, facilitas que otros reclamen lo mismo y se distorsione el control; si te niegas, empeora la relación con esa persona y puede acusarte de no apoyarla. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 339,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión del tiempo de trabajo, descubres entradas y salidas sin registrar, cambios de turno no documentados y ajustes manuales que no coinciden con lo que realmente ocurrió. Si pides reabrir los registros para corregirlos, significará horas extra y discusiones incómodas con tu jefe; si lo dejas así, validas un sistema poco confiable que otros seguirán usando. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    },
+    {
+        "source_id": 340,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante una revisión de materiales, descubres que los listados de herramientas y accesos no coinciden con lo que realmente existe, y que algunos elementos no tienen responsable asignado. Si propones depurar la información, tendrás que invertir muchas horas y remover privilegios a gente conocida; si lo ignoras, mantienes un sistema vulnerable a pérdidas o abusos. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 341,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al gestionar tus propios horarios, ves que el sistema te permite ajustar manualmente entradas y salidas para que parezcas más puntual o dedicado de lo que en realidad has sido. Si aprovechas esa flexibilidad, mejoras tu imagen y reduces el riesgo de descuentos económicos; si registras todo tal cual, puedes quedar comparativamente peor que otros que ya se aprovechan. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 342,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden preparar un informe para la dirección en pocas horas usando datos que aún no han sido revisados ni contrastados como de costumbre. Si priorizas la revisión, el informe llegará tarde y puedes afectar decisiones clave y tu relación con el jefe; si lo entregas con la información cruda, arriesgas que se tomen decisiones importantes sobre datos equivocados. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Legal/Grave."
+    },
+    {
+        "source_id": 343,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión de inventarios debes decidir si asignar un lote limitado de materiales a un proyecto donde tú y tu equipo participan directamente o a otro que tiene mayor impacto para la empresa pero no te involucra. Si eliges tu propio proyecto, te beneficias a costa del resultado global; si priorizas el otro, tu equipo perderá recursos y puede reprochártelo. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 344,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Detectas que algunos líderes piden no registrar todas las horas extra o cambios de turno para evitar trámites y discusiones de presupuesto, y que varias personas ya aceptan esta práctica. Si te opones, podrías quedar como conflictivo y arriesgar tu relación con quienes toman decisiones sobre tus propios horarios; si lo aceptas, colaboras con un manejo poco transparente del tiempo trabajado. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 345,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Te piden reutilizar información de clientes que se recopiló para una finalidad específica, como una encuesta, para otro propósito que nunca se les explicó. Si te niegas, retrasas una campaña importante y tu área puede perder dinero y reconocimiento; si aceptas, usas datos de personas de una forma que no aprobaron. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Legal/Grave + Económico."
+    },
+    {
+        "source_id": 346,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Mientras manejas datos de clientes, también tienes acceso a información interna sobre empleados que no estaba destinada a ti, como evaluaciones y decisiones salariales, y sabes que algunos ya la han usado para tomar decisiones personales ventajosas. Si denuncias este uso, te enfrentarás a personas con peso en la empresa; si te beneficias igual que ellos, te sumas a una práctica que consideras injusta. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Legal/Grave."
+    },
+    {
+        "source_id": 347,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión de beneficios de la empresa, recibes una solicitud para aprobar un apoyo personal que no encaja del todo con los criterios formales, pero cuya situación te genera empatía. Si respetas estrictamente las reglas, esa persona se quedará sin ayuda y puede resentirse contigo; si haces una excepción discreta, abres la puerta a otros casos difíciles de negar. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 348,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Al revisar casos de posibles conflictos de interés, ves que algunas personas resuelven sus situaciones hablando directo con sus jefes, sin registrar nada en el sistema ni seguir el procedimiento formal. Si insistes en que se regularicen, crearás incomodidad con jefes que prefieren manejar todo en corto; si no haces nada, dejas que quienes tienen más poder eviten las reglas. ¿Qué priorizas?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Social + Legal/Grave."
+    },
+    {
+        "source_id": 349,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "En la gestión del tiempo de trabajo, descubres que el sistema te permite modificar manualmente tus registros para que siempre aparezcan horas completas, aunque a veces llegues tarde o salgas antes, y sabes que varios compañeros ya lo hacen. Si decides registrar todo con exactitud, podrías terminar con menos ingresos o menos confianza de tus jefes comparado con otros; si también ajustas tus horas, mejoras tu situación usando un truco que consideras dudoso. ¿Cómo justificas tu acción?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Económico + Social."
+    },
+    {
+        "source_id": 350,
+        "module_id": 1,
+        "module_name": "Integridad Laboral",
+        "module_score": "I",
+        "type": "video",
+        "refactored_text": "Durante una revisión del sistema de tiempo, detectas inconsistencias que benefician a ciertas personas, como horas extra infladas o ausencias no registradas, y nadie parece dispuesto a corregirlas. Si abres el tema, tendrás que invertir muchas horas en arreglarlo y enfrentarás reacciones molestas; si miras hacia otro lado, aceptas que el registro oficial no refleje la realidad. ¿Vale la pena?",
+        "analysis_notes": "Compresión: 3 oraciones. Costos: Tiempo + Social."
+    }
+]
+
+

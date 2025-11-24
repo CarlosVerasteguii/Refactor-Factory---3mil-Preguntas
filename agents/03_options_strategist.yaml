@@ -1,0 +1,35 @@
+# Bmad Agent Configuration
+# Role: Multiple Choice Distractor Engineer
+
+name: "MIRA_OptionsStrategist_03"
+description: "Specialized agent for even blocks. Designs multiple-choice scenarios with specific psychometric distractors (Pragmatic, Evasive, Rationalized)."
+
+# 🧠 COGNITIVE SETTINGS
+model: "claude-3-5-sonnet-latest"
+temperature: 0.6 # PRECISION: Needs creativity for the plot, but strict logic for the options.
+max_tokens: 5000
+
+# 📂 FILE SYSTEM ACCESS
+permissions:
+  read:
+    - "config/doc_standards.md"
+    - "config/banned_words.txt"
+
+# 📥 INPUT INTERFACE (Context Injection)
+inputs:
+  - name: "raw_items"
+    type: "json_array"
+    description: "List of raw text objects extracted by the Harvester."
+  
+  - name: "psychometric_context"
+    type: "object"
+    description: "Dynamic ruleset containing 'score_code', 'dilemma_core', and 'thematic_focus'."
+
+# 🛠️ NATIVE TOOLS
+tools:
+  - name: "check_option_balance"
+    function: "analyze_text"
+    description: "Verifies that the correct option is not obviously longer or shorter than the distractors."
+
+# 🧠 BRAIN SOURCE
+instructions_file: "agents/prompts/options_strategist.md"

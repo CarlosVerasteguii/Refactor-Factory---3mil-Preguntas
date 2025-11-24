@@ -1,0 +1,82 @@
+{
+  "status": "REJECTED",
+  "feedback_for_fix": "Item ID 4 (source_id: 4) excede el límite de 80 palabras. El texto tiene aproximadamente 95 palabras. Se requiere acortar el texto manteniendo el dilema y el costo de la integridad.",
+  "failed_items_ids": [4],
+  "validation_details": {
+    "check_1_banned_words": {
+      "status": "PASSED",
+      "details": "No se encontraron palabras prohibidas en ningún item."
+    },
+    "check_2_structural_integrity": {
+      "status": "FAILED",
+      "details": {
+        "item_1": {
+          "refactored_text_exists": true,
+          "word_count": 78,
+          "under_80_words": true,
+          "ends_with_question": true,
+          "status": "PASSED"
+        },
+        "item_2": {
+          "refactored_text_exists": true,
+          "word_count": 68,
+          "under_80_words": true,
+          "ends_with_question": true,
+          "status": "PASSED"
+        },
+        "item_3": {
+          "refactored_text_exists": true,
+          "word_count": 72,
+          "under_80_words": true,
+          "ends_with_question": true,
+          "status": "PASSED"
+        },
+        "item_4": {
+          "refactored_text_exists": true,
+          "word_count": 95,
+          "under_80_words": false,
+          "ends_with_question": true,
+          "status": "FAILED - Excede límite de 80 palabras"
+        },
+        "item_5": {
+          "refactored_text_exists": true,
+          "word_count": 73,
+          "under_80_words": true,
+          "ends_with_question": true,
+          "status": "PASSED"
+        }
+      }
+    },
+    "check_3_psychometric_validity": {
+      "status": "PASSED",
+      "details": {
+        "item_1": {
+          "has_cost": true,
+          "cost_description": "evaluación de desempeño se verá afectada",
+          "status": "PASSED"
+        },
+        "item_2": {
+          "has_cost": true,
+          "cost_description": "puedes quedar como poco solidario y aislarte del equipo",
+          "status": "PASSED"
+        },
+        "item_3": {
+          "has_cost": true,
+          "cost_description": "renuncias a un beneficio y podrías sentir que estás en desventaja",
+          "status": "PASSED"
+        },
+        "item_4": {
+          "has_cost": true,
+          "cost_description": "tu equipo quedaría mal y tu supervisor verá tu negativa como falta de compromiso",
+          "status": "PASSED"
+        },
+        "item_5": {
+          "has_cost": true,
+          "cost_description": "es probable que lo despidan, afectes su ingreso, dañes tu amistad y el equipo te vea como traidor",
+          "status": "PASSED"
+        }
+      }
+    }
+  }
+}
+

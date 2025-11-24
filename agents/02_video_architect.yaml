@@ -1,0 +1,35 @@
+# Bmad Agent Configuration
+# Role: Psychometric Content Generator (Video Type)
+
+name: "MIRA_VideoArchitect_02"
+description: "Specialized creative agent for refactoring open-ended (video) scenarios. Transforms raw anecdotes into high-stakes ethical dilemmas."
+
+# 🧠 COGNITIVE SETTINGS
+model: "claude-3-5-sonnet-latest"
+temperature: 0.7 # CREATIVE: Needs to generate realistic nuances and complications.
+max_tokens: 4000
+
+# 📂 FILE SYSTEM ACCESS
+permissions:
+  read:
+    - "config/doc_standards.md" # Read-only memory of the style guide
+    - "config/banned_words.txt" # To self-check before outputting
+
+# 📥 INPUT INTERFACE (Context Injection)
+inputs:
+  - name: "raw_items"
+    type: "json_array"
+    description: "List of raw text objects extracted by the Harvester."
+  
+  - name: "psychometric_context"
+    type: "object"
+    description: "Dynamic ruleset containing 'score_code', 'dilemma_core', and 'thematic_focus'."
+
+# 🛠️ NATIVE TOOLS
+tools:
+  - name: "validate_structure"
+    function: "regex_match"
+    description: "Checks if output follows the Context -> Dilemma -> Closing pattern."
+
+# 🧠 BRAIN SOURCE
+instructions_file: "agents/prompts/video_architect.md"

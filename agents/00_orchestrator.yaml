@@ -1,0 +1,66 @@
+# Bmad Agent Configuration
+# Role: System Manager & Pipeline Controller
+
+name: "MIRA_Orchestrator_00"
+description: "Project Manager agent responsible for the end-to-end execution of the refactoring pipeline. Routes tasks based on matrix_map.json."
+
+# 🧠 COGNITIVE SETTINGS
+model: "claude-3-5-sonnet-latest" # O el modelo más inteligente disponible (Gemini 1.5 Pro)
+temperature: 0.1 # EXTREMELY LOW: We need logic and routing, not creativity.
+max_tokens: 4000
+reasoning_effort: "high" # For complex dependency resolution
+
+# 📂 FILE SYSTEM ACCESS (Permissions)
+permissions:
+  read:
+    - "config/matrix_map.json"
+    - "config/doc_standards.md"
+    - "00_raw_data/*"
+    - "logs/*"
+  write:
+    - "01_processed_json/*"
+    - "logs/pipeline_execution.log"
+    - "state/workflow_status.json"
+
+# 🤝 SUB-AGENT DELEGATION (The Squad)
+# Defines which specialists this manager can summon.
+sub_agents:
+  - id: "harvester"
+    config: "agents/01_harvester.yaml"
+    description: "Extracts raw text from Legacy SQL files."
+  
+  - id: "video_architect"
+    config: "agents/02_video_architect.yaml"
+    description: "Refactors open-ended (video) questions (Odd Blocks)."
+  
+  - id: "options_strategist"
+    config: "agents/03_options_strategist.yaml"
+    description: "Refactors multiple-choice options (Even Blocks)."
+  
+  - id: "auditor"
+    config: "agents/04_auditor.yaml"
+    description: "QA Sentinel. Validates banned words and structure."
+
+# 🛠️ NATIVE TOOLS
+tools:
+  - name: "read_config"
+    function: "read_json"
+    path: "config/matrix_map.json"
+  
+  - name: "log_event"
+    function: "append_text"
+    path: "logs/pipeline_execution.log"
+
+# 🧠 BRAIN SOURCE
+instructions_file: "agents/prompts/orchestrator.md"
+
+# 🔄 RETRY & ERROR HANDLING POLICIES
+execution_policy:
+  max_retries_per_block: 3
+  on_error: "log_and_skip" # If Block 3 fails, log it and move to Block 4. Don't crash.
+  validate_output: true    # Must pass Auditor check before writing final JSON.
+
+# 🧩 CONTEXT INJECTION
+# Global context available to the manager to make decisions.
+global_context:
+  - "config/matrix_map.json"

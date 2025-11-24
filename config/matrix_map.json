@@ -1,0 +1,202 @@
+{
+    "project_meta": {
+        "name": "MIRA Refactor System",
+        "version": "2.0-Bmad",
+        "total_questions_target": 3000,
+        "source_directory": "00_raw_data",
+        "output_directory": "01_processed_json"
+    },
+    "agent_roles": {
+        "video": "02_video_architect",
+        "options": "03_options_strategist"
+    },
+    "processing_matrix": [
+        {
+            "block_id": "B01",
+            "input_filename": "1Bloque.md",
+            "module_id": 1,
+            "module_name": "Integridad Laboral",
+            "target_type": "video",
+            "target_count": 400,
+            "assigned_agent": "video_architect",
+            "psychometric_context": {
+                "score_code": "I",
+                "dilemma_core": "Integridad vs Presión / Beneficio Inmediato",
+                "thematic_focus": [
+                    "Decisiones presupuestarias bajo presión",
+                    "Manejo de beneficios corporativos y viáticos",
+                    "Uso de información confidencial",
+                    "Conflictos de interés con proveedores o amigos",
+                    "Uso indebido de recursos empresariales"
+                ]
+            }
+        },
+        {
+            "block_id": "B02",
+            "input_filename": "2Bloque.md",
+            "module_id": 1,
+            "module_name": "Integridad Laboral",
+            "target_type": "options",
+            "target_count": 200,
+            "assigned_agent": "options_strategist",
+            "psychometric_context": {
+                "score_code": "I",
+                "dilemma_core": "Integridad vs Racionalización",
+                "thematic_focus": [
+                    "Decisiones en zonas grises",
+                    "Presión de grupo para romper reglas menores",
+                    "Justificación de faltas por 'urgencia'"
+                ]
+            }
+        },
+        {
+            "block_id": "B03",
+            "input_filename": "3Bloque.md",
+            "module_id": 2,
+            "module_name": "Permanencia",
+            "target_type": "video",
+            "target_count": 400,
+            "assigned_agent": "video_architect",
+            "psychometric_context": {
+                "score_code": "M",
+                "dilemma_core": "Adaptación y Compromiso vs Resistencia y Abandono",
+                "thematic_focus": [
+                    "Adaptación a cambios estructurales o de jefatura",
+                    "Nuevas políticas impopulares",
+                    "Gestión de estrés por sobrecarga",
+                    "Cambios en jerarquía o degradación percibida",
+                    "Nuevas exigencias de trabajo (horarios, herramientas)"
+                ]
+            }
+        },
+        {
+            "block_id": "B04",
+            "input_filename": "4Bloque.md",
+            "module_id": 2,
+            "module_name": "Permanencia",
+            "target_type": "options",
+            "target_count": 200,
+            "assigned_agent": "options_strategist",
+            "psychometric_context": {
+                "score_code": "M",
+                "dilemma_core": "Resiliencia vs Huida",
+                "thematic_focus": [
+                    "Reacción ante feedback negativo injusto",
+                    "Ofertas externas vs lealtad interna",
+                    "Rumores de despidos o cierres"
+                ]
+            }
+        },
+        {
+            "block_id": "B05",
+            "input_filename": "5Bloque.md",
+            "module_id": 3,
+            "module_name": "Ética",
+            "target_type": "video",
+            "target_count": 400,
+            "assigned_agent": "video_architect",
+            "psychometric_context": {
+                "score_code": "I",
+                "dilemma_core": "Principios Universales vs Reglas/Beneficio Personal",
+                "thematic_focus": [
+                    "Decisiones éticas complejas (Dilemas morales)",
+                    "Transparencia ante errores propios o ajenos",
+                    "Impacto social de las decisiones de la empresa",
+                    "Decisiones con información incompleta"
+                ]
+            }
+        },
+        {
+            "block_id": "B06",
+            "input_filename": "6Bloque.md",
+            "module_id": 3,
+            "module_name": "Ética",
+            "target_type": "options",
+            "target_count": 200,
+            "assigned_agent": "options_strategist",
+            "psychometric_context": {
+                "score_code": "I",
+                "dilemma_core": "Juicio Moral (Pre-convencional a Post-convencional)",
+                "thematic_focus": [
+                    "Cumplir órdenes vs Proteger al cliente",
+                    "Ocultar errores para salvar al equipo",
+                    "Denunciar malas prácticas (Whistleblowing)"
+                ]
+            }
+        },
+        {
+            "block_id": "B07",
+            "input_filename": "7Bloque.md",
+            "module_id": 4,
+            "module_name": "Riesgo/Control Emocional",
+            "target_type": "video",
+            "target_count": 400,
+            "assigned_agent": "video_architect",
+            "psychometric_context": {
+                "score_code": "L",
+                "dilemma_core": "Regulación Emocional vs Reacción Impulsiva",
+                "thematic_focus": [
+                    "Gestión del estrés extremo y burnout",
+                    "Presión por deadlines imposibles",
+                    "Control emocional ante clientes o jefes agresivos",
+                    "Sobrecarga laboral repentina"
+                ]
+            }
+        },
+        {
+            "block_id": "B08",
+            "input_filename": "8Bloque.md",
+            "module_id": 4,
+            "module_name": "Riesgo/Control Emocional",
+            "target_type": "options",
+            "target_count": 200,
+            "assigned_agent": "options_strategist",
+            "psychometric_context": {
+                "score_code": "L",
+                "dilemma_core": "Afrontamiento Saludable vs Evasión/Explosión",
+                "thematic_focus": [
+                    "Conflictos interpersonales públicos",
+                    "Errores graves con consecuencias visibles",
+                    "Frustración por falta de recursos"
+                ]
+            }
+        },
+        {
+            "block_id": "B09",
+            "input_filename": "9Bloque.md",
+            "module_id": 5,
+            "module_name": "Apego Laboral",
+            "target_type": "video",
+            "target_count": 400,
+            "assigned_agent": "video_architect",
+            "psychometric_context": {
+                "score_code": "C/L",
+                "dilemma_core": "Colaboración/Confianza vs Individualismo/Cinismo",
+                "thematic_focus": [
+                    "Cultura organizacional y rituales de empresa",
+                    "Participación en eventos corporativos fuera de horario",
+                    "Sentido de pertenencia ante críticas externas",
+                    "Apoyo a decisiones estratégicas controversiales"
+                ]
+            }
+        },
+        {
+            "block_id": "B10",
+            "input_filename": "10Bloque.md",
+            "module_id": 5,
+            "module_name": "Apego Laboral",
+            "target_type": "options",
+            "target_count": 200,
+            "assigned_agent": "options_strategist",
+            "psychometric_context": {
+                "score_code": "C/L",
+                "dilemma_core": "Confianza en la Organización vs Desconfianza/Rebeldía",
+                "thematic_focus": [
+                    "Seguir procesos burocráticos vs atajos individuales",
+                    "Confianza en promesas de la dirección",
+                    "Solidaridad con el equipo vs beneficio propio"
+                ]
+            }
+        }
+    ]
+}

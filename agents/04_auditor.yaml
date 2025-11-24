@@ -1,0 +1,35 @@
+# Bmad Agent Configuration
+# Role: Quality Assurance & Compliance Sentinel
+
+name: "MIRA_Auditor_04"
+description: "Gatekeeper agent. Validates JSON structure, enforces banned word policies, and checks psychometric logical consistency."
+
+# 🧠 COGNITIVE SETTINGS
+model: "claude-3-5-sonnet-latest" # Needs high logic reasoning to detect subtle tone issues.
+temperature: 0.0 # ZERO TOLERANCE: Strict adherence to rules.
+max_tokens: 2000
+
+# 📂 FILE SYSTEM ACCESS
+permissions:
+  read:
+    - "config/banned_words.txt"
+    - "config/matrix_map.json" # To verify target counts
+
+# 📥 INPUT INTERFACE
+inputs:
+  - name: "candidate_json"
+    type: "json_array"
+    description: "The drafted content from Video or Options agents pending approval."
+  
+  - name: "validation_mode"
+    type: "string"
+    description: "Either 'video_check' or 'options_check'."
+
+# 🛠️ NATIVE TOOLS
+tools:
+  - name: "scan_banned_terms"
+    function: "text_search"
+    description: "Scans the text against the banned_words.txt list."
+
+# 🧠 BRAIN SOURCE
+instructions_file: "agents/prompts/auditor.md"

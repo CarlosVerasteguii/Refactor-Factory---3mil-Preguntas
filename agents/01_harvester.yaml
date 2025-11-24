@@ -1,0 +1,32 @@
+# Bmad Agent Configuration
+# Role: Data Extraction & SQL Parsing
+
+name: "MIRA_Harvester_01"
+description: "Specialized agent for parsing legacy SQL dumps and extracting raw text payloads. Ignores SQL syntax and boilerplate."
+
+# 🧠 COGNITIVE SETTINGS
+model: "gemini-1.5-pro-latest" # High context window is preferred for large files
+temperature: 0.0 # ABSOLUTE ZERO: No creativity allowed. Pure extraction.
+max_tokens: 8192 # Large output buffer for batch extraction
+
+# 📂 FILE SYSTEM ACCESS
+permissions:
+  read:
+    - "00_raw_data/*"
+  write:
+    - "temp/extraction_buffer/*" # Intermediate storage if needed
+
+# 🛠️ NATIVE TOOLS
+tools:
+  - name: "read_file_content"
+    function: "read_text"
+    description: "Reads the raw content of the legacy .md or .sql file."
+
+# 🧠 BRAIN SOURCE
+instructions_file: "agents/prompts/harvester.md"
+
+# 🛡️ SAFETY RAILS
+constraints:
+  - "Do not modify the inner text content."
+  - "Do not attempt to fix grammar or typos at this stage."
+  - "Strictly ignore SQL keywords (INSERT, VALUES, GO)."
