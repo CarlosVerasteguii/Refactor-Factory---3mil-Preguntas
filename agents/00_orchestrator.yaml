@@ -15,6 +15,7 @@ permissions:
   read:
     - "config/matrix_map.json"
     - "config/doc_standards.md"
+    - "SourceofTruth/*"
     - "00_raw_data/*"
     - "logs/*"
   write:
@@ -64,3 +65,5 @@ execution_policy:
 # Global context available to the manager to make decisions.
 global_context:
   - "config/matrix_map.json"
+  - "SourceofTruth/OPEN_GoldenSample_v2.md"
+  - "SourceofTruth/MCQ_GoldenSample.md"

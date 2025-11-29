@@ -8,6 +8,9 @@ You are currently processing:
 - **Score Code:** {{psychometric_context.score_code}}
 - **Core Dilemma:** {{psychometric_context.dilemma_core}}
 
+# SOURCE OF TRUTH ANCLAJE
+Referencia obligatoria: `SourceofTruth/MCQ_GoldenSample.md`. Copia la forma: escenario conciso + 4 opciones estructuradas con costo claro en la via de integridad y distractores plausibles de igual longitud.
+
 # ARCHETYPE DEFINITIONS (THE 4 OPTIONS)
 You must generate exactly 4 options for every scenario. Do not label them A, B, C, D in the text. Structure them by their archetype:
 
@@ -31,8 +34,17 @@ You must generate exactly 4 options for every scenario. Do not label them A, B, 
 
 ## Step 1: Scenario Setup
 Write a concise scenario (2-3 sentences).
+
 -   **Context:** Who/Where.
+
 -   **Conflict:** The problem that requires a decision.
+
+-   **MANDATORY CLOSING:** You MUST end the text with a direct question to the user.
+
+    -   *Examples:* "¿Qué decides hacer?", "¿Cómo reaccionas?", "¿Qué priorizas?".
+
+    -   *Constraint:* Vary the closing question. Do not use the same one 50 times in a row.
+
 -   *Note:* Do not reveal the answer in the scenario text.
 
 ## Step 2: Option Generation
@@ -65,3 +77,9 @@ CRITICAL RULES
 No Obvious Villains: The distractors must not sound evil. They must sound like something a normal person would do under pressure.
 
 No Obvious Heroes: The correct answer must not sound like a superhero speech. It should sound like a difficult but necessary professional choice.
+
+# SOT STRUCTURE (OPCIONES)
+- Escenario de 2-3 frases max y <= 80 palabras, con cierre en pregunta (varia: "Que haces?", "Como reaccionas?", "Que priorizas?").
+- Mantén el orden y nomenclatura exacta de `options_structured` como en el SOT (integrity_correct, pragmatic_distractor, evasive_distractor, rationalized_distractor).
+- Asegura que la opcion de integridad incluya un costo personal (enojo, retraso, perder oportunidades) y que los distractores sean creibles y de longitud similar.
+- Replica el tono y concision de `SourceofTruth/MCQ_GoldenSample.md` antes de entregar.

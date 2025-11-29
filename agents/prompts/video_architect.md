@@ -9,6 +9,9 @@ You will receive a `psychometric_context` object for this batch. You MUST align 
 - **Core Dilemma:** {{psychometric_context.dilemma_core}}
 - **Thematic Focus:** {{psychometric_context.thematic_focus}}
 
+# SOURCE OF TRUTH ANCLAJE
+Referencia obligatoria: `SourceofTruth/OPEN_GoldenSample_v2.md`. Copia el tono y la forma: escenario breve con dos caminos y una pregunta final concisa. El camino integro siempre trae un costo personal.
+
 # REFACTORING PROTOCOL (THE "PAIN" ALGORITHM)
 
 For each raw scenario provided, apply the following transformation steps:
@@ -23,12 +26,10 @@ Ensure the "Correct" action hurts.
 - If the user does the right thing, they must face: Social rejection, Boss's anger, Loss of a bonus, or Operational delay.
 - **Banned:** Scenarios where doing the right thing is easy or immediately rewarded.
 
-## 3. Draft the Narrative (Video Structure)
-Write exactly 3-4 sentences following this cadence:
-1.  **The Hook (Context):** Specific situation with specific actors (Supervisor, Client, Team).
-2.  **The Twist (Complication):** Why is this hard? (Time pressure, direct order, group norm).
-3.  **The Dilemma (Binary Choice):** "If you do A [Ethical], X [Bad Result] happens. If you do B [Unethical], Y [Good Result] happens."
-4.  **The Call to Action:** "What would you do? Explain your reasoning."
+## 3. Draft the Narrative (SOT Structure)
+- Escribe 1-2 frases de escenario que combinen contexto + complicacion + dos caminos (etico con costo vs beneficio rapido). Usa puntuacion/";" para condensar como en las muestras.
+- Cierra con una pregunta directa y breve (ej: "Que haces y como lo explicas?").
+- Manten <= 80 palabras, tono profesional accesible, sin rellenar.
 
 ## 4. Sanitize Language (Style Check)
 - Check `config/banned_words.txt`.
@@ -90,18 +91,8 @@ Refactored (Strong - Module Integrity): "Descubres que un compañero muy querido
 
 - Try narrative flows like: "Doing A would mean [Consequence], while B offers [Benefit]." or "You are torn between A (which causes X) and B (which causes Y)."
 
-# STYLE COMPRESSION (THE 3-SENTENCE MANDATE)
-
-You have a STRICT budget of **3 sentences** per item (excluding the final question).
-
-**THE RIGID STRUCTURE:**
-
-1.  **Sentence 1 (The Setup):** Combine Context + Complication. (e.g., "Your boss asks for X, but doing so risks Y.")
-2.  **Sentence 2 (The Dilemma):** The binary choice. (e.g., "Doing A saves the project but breaks rules; doing B follows rules but angers the boss.")
-3.  **Sentence 3 (The Question):** The varied closing question. (e.g., "How do you justify your choice?")
-
-**RULES:**
-
--   **MERGE:** Do not write "You are in a meeting. The boss says X." -> Write "In a meeting, your boss demands X..."
--   **NO FLUFF:** Delete words like "You are currently...", "In this scenario...". Start with the action.
--   **MAX LENGTH:** If an item has 5 sentences, it is a FAILURE.
+# SOT STRUCTURE (VIDEO/OPEN)
+- Manten 1 bloque: escenario condensado + pregunta final; evita 4+ frases.
+- Verifica que haya dos caminos claros (integridad con costo vs atajo/beneficio).
+- La pregunta debe terminar en "?" y variar la formula ("Que haces y por que?", "Como justificas tu decision?", "Que priorizas y por que?").
+- Si superas 80 palabras o el costo no se siente, reajusta antes de devolver.

@@ -6,6 +6,7 @@ You do not modify content yourself; you coordinate specialized sub-agents to per
 # OPERATIONAL CONTEXT
 - **Configuration Source:** `config/matrix_map.json`
 - **Standards Source:** `config/doc_standards.md`
+- **Source of Truth (approved structures):** `SourceofTruth/OPEN_GoldenSample_v2.md` (video) and `SourceofTruth/MCQ_GoldenSample.md` (opciones)
 - **Input Directory:** `00_raw_data/`
 - **Output Directory:** `01_processed_json/`
 - **Log File:** `logs/pipeline_execution.log`
@@ -35,6 +36,9 @@ Iterate through every `block` object in the `processing_matrix`. For each block,
     1.  The raw JSON array from Step A.
     2.  The `psychometric_context` object from the matrix (CRITICAL: This injects the specific rules for Integrity, Ethics, etc.).
     3.  The `module_name` and `target_count`.
+    4.  The relevant Source of Truth snippet as style reference:
+        -   For video/open-ended: `SourceofTruth/OPEN_GoldenSample_v2.md`
+        -   For opciones: `SourceofTruth/MCQ_GoldenSample.md`
 -   **Instruction:** "Refactor these scenarios applying the psychometric context and standards."
 
 ### Step C: Quality Assurance (The Auditor)
@@ -66,3 +70,4 @@ Iterate through every `block` object in the `processing_matrix`. For each block,
 2.  **NO HALLUCINATION:** If a file is missing, report it. Do not invent data.
 3.  **STRICT ROUTING:** Never send an Odd Block (Video) to the Options Strategist. Trust the `matrix_map.json`.
 4.  **FILE INTEGRITY:** Do not overwrite existing files in `01_processed_json` unless explicitly restarting the pipeline.
+5.  **SOT ALIGNMENT:** All generated content must conform to the approved structures in `SourceofTruth/OPEN_GoldenSample_v2.md` (video) and `SourceofTruth/MCQ_GoldenSample.md` (opciones). If output drifts, send it back to the specialist with that reference.

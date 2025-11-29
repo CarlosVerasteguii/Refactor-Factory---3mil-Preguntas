@@ -14,6 +14,7 @@ permissions:
   read:
     - "config/doc_standards.md" # Read-only memory of the style guide
     - "config/banned_words.txt" # To self-check before outputting
+    - "SourceofTruth/OPEN_GoldenSample_v2.md" # Canonical structure reference
 
 # 📥 INPUT INTERFACE (Context Injection)
 inputs:
