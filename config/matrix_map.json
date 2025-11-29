@@ -46,7 +46,11 @@
                     "Decisiones en zonas grises",
                     "Presión de grupo para romper reglas menores",
                     "Justificación de faltas por 'urgencia'"
-                ]
+                ],
+                "options_validation": {
+                    "integrity_cost": "ALTO y EXPLICITO (frustración, evaluación, reputación)",
+                    "distractors": "SUTILES, viables a primera vista, no obviamente malos"
+                }
             }
         },
         {
@@ -84,7 +88,11 @@
                     "Reacción ante feedback negativo injusto",
                     "Ofertas externas vs lealtad interna",
                     "Rumores de despidos o cierres"
-                ]
+                ],
+                "options_validation": {
+                    "integrity_cost": "ALTO y EXPLICITO (incomodidad, riesgo personal, esfuerzo extra)",
+                    "distractors": "SUTILES, viables a primera vista, no obviamente malos"
+                }
             }
         },
         {
@@ -121,7 +129,11 @@
                     "Cumplir órdenes vs Proteger al cliente",
                     "Ocultar errores para salvar al equipo",
                     "Denunciar malas prácticas (Whistleblowing)"
-                ]
+                ],
+                "options_validation": {
+                    "integrity_cost": "ALTO y EXPLICITO (enojo, retraso, riesgo a evaluación)",
+                    "distractors": "SUTILES, viables a primera vista, no obviamente malos"
+                }
             }
         },
         {
@@ -158,7 +170,11 @@
                     "Conflictos interpersonales públicos",
                     "Errores graves con consecuencias visibles",
                     "Frustración por falta de recursos"
-                ]
+                ],
+                "options_validation": {
+                    "integrity_cost": "ALTO y EXPLICITO (jornada pesada, frustración, afecta evaluación)",
+                    "distractors": "SUTILES, viables a primera vista, no obviamente malos"
+                }
             }
         },
         {
@@ -195,7 +211,11 @@
                     "Seguir procesos burocráticos vs atajos individuales",
                     "Confianza en promesas de la dirección",
                     "Solidaridad con el equipo vs beneficio propio"
-                ]
+                ],
+                "options_validation": {
+                    "integrity_cost": "ALTO y EXPLICITO (retraso, frustración de otros, afecta evaluación)",
+                    "distractors": "SUTILES, viables a primera vista, no obviamente malos"
+                }
             }
         }
     ]

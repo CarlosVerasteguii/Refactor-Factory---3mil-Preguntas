@@ -1,110 +1,80 @@
-# ESTÁNDARES DE REFACTORIZACIÓN MIRA (v2.0 Enterprise)
 
-Este documento define la "Verdad Única" (Single Source of Truth) para la generación y refactorización de reactivos psicométricos. Todos los agentes (Video y Opciones) deben adherirse estrictamente a estas directivas.
+# ESTANDARES DE REFACTORIZACION MIRA (SOT-ALIGNED v4)
 
----
+Este documento reemplaza versiones previas. Usa SOT módulo-específicos:
+- Video: `SourceofTruth/SOT_Modulo{1-5}_Video.md` (por módulo)
+- Options: `SourceofTruth/SOT_Modulo{1-5}_Opciones.md` (por módulo)
+- Referencia general (fallback): `SourceofTruth/OPEN_GoldenSample_v2.md`
 
-## 1. REGLAS DE LENGUAJE Y TONO (Globales)
+## Lenguaje y tono
+- Tono: profesional accesible, frases concisas.
+- Longitud meta: 65-80 palabras por reactivo (no superar 80).
+- Longitud meta en caracteres: objetivo 320-350; rango aceptable 300-380 (rechazar fuera de rango).
+- Banned words: ver `config/banned_words.txt`. Reemplazar según mapa.
+- Evita tecnicismos y anglicismos innecesarios.
 
-### 🚫 Vocabulario Prohibido (Lista Negra)
-El lenguaje debe ser accesible para personal operativo y administrativo medio.
-- **PROHIBIDO:** "Stakeholders", "Partes interesadas". -> **USAR:** "Clientes", "Proveedores", "Socios".
-- **PROHIBIDO:** "Recursos Humanos", "RR.HH.", "Capital Humano". -> **USAR:** "Personal", "Gente de contratos", "Empleados".
-- **PROHIBIDO:** "Activos organizacionales". -> **USAR:** "Equipos", "Herramientas", "Recursos de la empresa".
-- **PROHIBIDO:** "Intereses organizacionales". -> **USAR:** "Intereses de la empresa".
-- **PROHIBIDO:** Juerga legal o financiera compleja ("Compliance", "Due diligence").
+## Estructura obligatoria (Video / Open)
+1) Contexto + presion en 1-2 frases.
+2) Dos caminos claros:
+   - Integridad con COSTO PERSONAL ALTO Y EXPLÍCITO (frustración de otros, afecta evaluación, daña reputación, jornada pesada, conflicto directo).
+   - Atajo/beneficio inmediato (evitar conflicto, ganar tiempo/dinero, quedar bien).
+3) Cierre en pregunta (varia el cierre: "Que haces y por que?", "Como justificas tu decision?", "Que priorizas y por que?").
+4) REGLA CRITICA: La opción correcta debe ser DIFICIL de elegir. Si es muy fácil, el reactivo falla psicométricamente.
 
-### ✅ Estilo de Redacción
-- **Tono:** Profesional pero cotidiano. Ni académico ni coloquial.
-- **Longitud:** Máxima concisión.
-    - **Situación:** 1-2 oraciones para establecer el contexto.
-    - **Dilema:** 1 oración clara que contraste las dos opciones ("Si haces A, pasa X; si haces B, pasa Y").
-    - **Total:** No más de 4-5 oraciones por planteamiento.
-- **Inicios Variados:** NO empezar siempre con "Imagina que...". Usar:
-    - "Te solicitan aprobar..."
-    - "Descubres que..."
-    - "Durante una reunión..."
-    - "Tu supervisor te pide..."
+## Estructura obligatoria (MCQ / Options)
+1) Escenario (1-2 frases): Contexto + presión, dos caminos implícitos. Meta 65-80 palabras, 300-380 chars.
+2) 4 opciones sin etiquetas A-D, siguiendo REGLAS PSICOMETRICAS:
+   - **integrity_correct**: Costo personal ALTO y EXPLICITO (frustración de otros, afecta evaluación, daña reputación). DEBE SER DIFICIL DE ELEGIR.
+   - **pragmatic_distractor**: Parece razonable y proactiva (propone solución, busca cumplir) pero tiene costo oculto (calidad sacrificada, riesgo asumido). VIABLE a primera vista.
+   - **evasive_distractor**: Parece proactiva (consulta, busca validación) pero EVITA DECIDIR mientras el tiempo pasa o traslada responsabilidad a otros.
+   - **rationalized_distractor**: Justificación aparentemente razonable (calidad, beneficio colectivo, eficiencia) pero EVITA COMPROMISO o esfuerzo real.
+3) VALIDACION PSICOMETRICA CRITICA:
+   - RECHAZAR si la opción de integridad es muy fácil de elegir (sin costo real).
+   - RECHAZAR si cualquier distractor es OBVIAMENTE malo (fácil de descartar).
+   - Las trampas deben ser SUTILES, no obvias.
+   - Todas las opciones deben parecer viables a primera vista.
 
----
+## Formato de salida sugerido (JSON)
+Video:
+```json
+{
+  "id": "block-01-q001",
+  "module_id": 1,
+  "type": "video",
+  "refactored_text": "...",
+  "notes": "opcional breve",
+  "sot_checksum": "..."
+}
+```
 
-## 2. INGENIERÍA DE DIFICULTAD (Física del Dilema)
+Options:
+```json
+{
+  "id": "block-02-q001",
+  "module_id": 1,
+  "type": "options",
+  "scenario": "...",
+  "options_structured": {
+    "integrity_correct": "...",
+    "pragmatic_distractor": "...",
+    "evasive_distractor": "...",
+    "rationalized_distractor": "..."
+  },
+  "notes": "opcional breve",
+  "sot_checksum": "..."
+}
+```
 
-Para que el reactivo sea válido, debe doler elegir la opción correcta.
+## Reglas de variacion
+- Aperturas variadas (no siempre "Tu supervisor...").
+- Cierre de pregunta variado.
+- Distribuir el "costo" (social, tiempo, economico, reputacional) sin repetir el mismo patrón en todo el batch.
 
-### Principio de "Costo de la Integridad"
-La opción correcta (Alta Integridad/Ética) **NUNCA** debe ser fácil ni gratuita.
-- Debe implicar un **costo personal inmediato**: enojo del jefe, rechazo del equipo, perder un bono, trabajar horas extra, quedar como "lento" o "conflictivo".
-- **PROHIBIDO:** Escenarios donde ser honesto te convierte en héroe y todos te aplauden al instante.
-
-### Diseño de Opciones Incorrectas (Seductoras)
-Las opciones incorrectas no deben parecer "malvadas", deben parecer **lógicas** o **necesarias**.
-1.  **La Opción Pragmática:** "Es lo más eficiente/rápido/lógico para el negocio".
-2.  **La Opción Evasiva:** "No es mi problema, mejor no me meto para no salir quemado".
-3.  **La Opción Racionalizada:** "Lo hago por el bien del equipo/empresa, aunque rompa una regla pequeña".
-
----
-
-## 3. FORMATOS ESPECÍFICOS POR TIPO
-
-### 🎥 TIPO A: VIDEO (Preguntas Abiertas)
-**Bloques Impares (1, 3, 5, 7, 9)**
-
-**Estructura Obligatoria:**
-1.  **Contexto:** Situación específica y concreta (quién, qué, dónde).
-2.  **Complicación:** El factor de presión (tiempo, autoridad, dinero).
-3.  **Dilema Explicito:** Contrastar las dos rutas principales.
-    * "Si haces [Correcto], sufres [Consecuencia Negativa]."
-    * "Si haces [Incorrecto], obtienes [Beneficio Inmediato]."
-4.  **Cierre:** "¿Qué harías? Explica tu razonamiento."
-
-**Ejemplo Perfecto (Video):**
-> "Tu supervisor te pide registrar como 'gasto menor' una compra grande para que no llame la atención, porque si no se aprueba hoy se cae un proyecto importante. Si aceptas, ayudas a que el proyecto siga pero ocultas un gasto que rompe el presupuesto; si te niegas, el proyecto se puede perder y tu jefe puede decir que no apoyaste al equipo. ¿Qué harías? Explica tu razonamiento."
-
----
-
-### 🔠 TIPO B: OPCIONES (Opción Múltiple)
-**Bloques Pares (2, 4, 6, 8, 10)**
-
-**Estructura Obligatoria:**
-1.  **Escenario:** Breve descripción del problema (sin explicar el dilema tanto como en video).
-2.  **4 Opciones (Sin etiquetas A, B, C, D en el texto, solo el contenido):**
-    * **Opción 1 (Alta Integridad con Costo):** Cumple la regla al 100% aunque genere fricción o pérdida.
-    * **Opción 2 (Pragmática):** Solución intermedia/rápida que compromete levemente la ética.
-    * **Opción 3 (Evasiva/Política):** Evita el conflicto directo, delega o calla.
-    * **Opción 4 (Racionalización/Complacencia):** Rompe la regla justificándose en la urgencia, costumbre u orden superior.
-
-**Ejemplo Perfecto (Opciones):**
-> **Escenario:** "Al cierre del día, la caja marca cierto monto pero el dinero contado es más. Tu supervisor dice que 'seguro alguien cobró de más sin mala intención' y que lo mejor es dejarlo así para evitar una auditoría larga."
->
-> **Opciones:**
-> - Pides que se registre la diferencia y se revisen los tickets, aunque todos deban quedarse tarde y tu supervisor se moleste. (Alta Integridad)
-> - Cierras la caja como está, pero al día siguiente comentas casualmente que deberían mejorar el control. (Evasiva)
-> - Ajustas los montos en el sistema para que cuadre, pensando que así nadie sale perjudicado. (Racionalización)
-> - Cierras la caja sin decir nada, confiando en que si hubo error, el cliente reclamará después. (Pragmática/Pasiva)
-
----
-
-## 4. GUÍA TEMÁTICA POR MÓDULO
-
-Los agentes deben consultar el `matrix_map.json` para saber qué ID de módulo están procesando y aplicar estos temas.
-
-**Módulo 1: Integridad Laboral (Score I)**
-- *Temas:* Dinero, presupuestos, viáticos, robo hormiga, información confidencial, conflicto de interés.
-- *Foco:* ¿Robas/Mientes por presión o beneficio?
-
-**Módulo 2: Permanencia (Score M)**
-- *Temas:* Cambios de jefe, reestructuras, aumento de carga, feedback injusto, ofertas externas.
-- *Foco:* ¿Te vas a la primera dificultad o te adaptas?
-
-**Módulo 3: Ética (Score I)**
-- *Temas:* Dilemas morales profundos, seguridad del cliente vs ganancia, impacto social, denunciar a compañeros (whistleblowing).
-- *Foco:* ¿Sigues tus principios o sigues a la manada?
-
-**Módulo 4: Riesgo/Control Emocional (Score L)**
-- *Temas:* Estrés extremo, insultos de clientes, errores graves públicos, provocaciones de compañeros.
-- *Foco:* ¿Explotas/Te paralizas o gestionas la emoción?
-
-**Módulo 5: Apego Laboral (Score C/L)**
-- *Temas:* Cultura, rituales, burocracia "inútil", confianza en la dirección, trabajo en equipo vs "yo solo".
-- *Foco:* ¿Confías en el sistema o eres cínico?
+## Modulos (referencia rapida)
+- Modulo 1: Integridad Laboral (score I). Temas: presupuesto, viáticos, uso de recursos, info confidencial, conflicto de interés.
+- Modulo 2: Permanencia (score M). Temas: adaptación a cambios, nuevas políticas, gestión de estrés, cambios jerárquicos.
+- Modulo 3: Ética (score I). Temas: dilemas morales, transparencia, impacto social, decisiones con información incompleta.
+- Modulo 4: Riesgo/Control Emocional (score L). Temas: gestión de estrés, deadlines imposibles, control emocional, sobrecarga.
+- Modulo 5: Apego Laboral (score C/L). Temas: cultura organizacional, sentido de pertenencia, confianza en la organización.
+- Para detalles completos, ver `config/matrix_map.json`.
+- IMPORTANTE: En runtime, cada agente DEBE cargar el SOT específico del módulo/tipo desde `SourceofTruth/` en lugar de depender de este doc.
