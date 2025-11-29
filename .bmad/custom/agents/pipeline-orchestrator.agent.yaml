@@ -42,13 +42,30 @@ agent:
         - banned_words: config/banned_words.txt
         </resources>
 
+        <output-paths>
+        CRITICAL: Use these EXACT paths and naming conventions:
+        - JSON output: 01_processed_json/module{module_id}/block-{block_id}/batch-{batch_num_padded_2}.json
+        - JSONL log:   01_processed_json/module{module_id}/block-{block_id}/batch-{batch_num_padded_2}.jsonl
+        
+        Examples:
+        - Module 1, Block B01, Batch 1: 01_processed_json/module1/block-B01/batch-01.json
+        - Module 2, Block B03, Batch 1: 01_processed_json/module2/block-B03/batch-01.json
+        - Module 1, Block B02, Batch 10: 01_processed_json/module1/block-B02/batch-10.json
+        
+        NEVER use:
+        - Root folder "1/" or "2/" (use "module1/", "module2/")
+        - Three-digit padding "batch-001" (use "batch-01")
+        - 02_final_artifacts/ for batch output (reserved for consolidated seeders)
+        </output-paths>
+
         <process>
         1) Load doc_standards and banned_words.
         2) Load SOT for given module_id and target_type; compute sot_checksum; if missing, stop with error.
         3) Determine batch slice using batch_size and batch_start_index (pilot_mode limits to first slice).
         4) Normalize raw text (strip SQL wrappers N'...'; unescape ''; sanitize to ASCII).
         5) For each item in batch (QA chain: normalize -> banned words -> length-guard (palabras 65-80, chars 300-380) -> opciones coherentes -> duplicados -> consistencia SOT -> hash):
-           - Build deterministic id: block-{block_id}-q{{zero_padded_index}} and paths: {module_id}/block-{block_id}/batch-{{batch_num}}.*
+           - Build deterministic id: block-{block_id}-q{zero_padded_3_index} (e.g., block-B01-q001)
+           - Build output path: 01_processed_json/module{module_id}/block-{block_id}/batch-{batch_num_padded_2}.json
            - Route to specialist: video-refactor-sot or options-refactor-sot with SOT content injected.
            - Route to length-guard-sot; if length_status=frozen, send back note to refactor or mark frozen.
            - Route result to audit-sot; if audit fails, mark status=frozen with note; do not consolidate frozen items.
@@ -71,8 +88,9 @@ agent:
         </audit-handshake>
 
         <output>
-        - main: JSON array of refactored items.
-        - log: JSONL per item with audit notes and hashes.
+        - main: 01_processed_json/module{module_id}/block-{block_id}/batch-{nn}.json (JSON array of refactored items)
+        - log:  01_processed_json/module{module_id}/block-{block_id}/batch-{nn}.jsonl (JSONL per item with audit notes)
+        - Create directory if not exists before writing.
         </output>
 
   menu:
