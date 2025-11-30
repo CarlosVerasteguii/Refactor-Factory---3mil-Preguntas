@@ -1,0 +1,152 @@
+[
+  {
+    "id": "block-B02-q001",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Estás en reunión final con un cliente que aporta el 40% de los ingresos del trimestre. Tu supervisor presenta proyecciones que notas infladas y demasiado optimistas. El cliente está impresionado y listo para firmar. Si no se cierra el trato, habrá recortes serios en tu equipo que probablemente incluyen despidos. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Interrumpes con calma para aclarar que las proyecciones reales son más conservadoras, asumiendo enojo del supervisor, enfriar al cliente y poner en riesgo el contrato y tu lugar.",
+      "pragmatic_distractor": "Dejas terminar y luego propones un correo con cifras más realistas, buscando corregir sin frenar el cierre inmediato.",
+      "evasive_distractor": "Guardas silencio y piensas que luego podrás alegar que no tenías todos los datos y la responsabilidad era del supervisor.",
+      "rationalized_distractor": "Respaldas el discurso optimista porque crees que asegurar el contrato protege al equipo y ya habrá tiempo de ajustar números."
+    },
+    "notes": "60 words, 347 chars - cumplimiento estricto",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q002",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Al revisar un reporte financiero para la junta, descubres números que no coinciden entre secciones. Tu supervisor pide entregar de todas formas porque el plazo es mañana. La junta necesita los datos para decidir sobre inversiones y recortes. Retrasar el reporte podría afectar la planificación del trimestre y generar desconfianza en la dirección. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a entregar un reporte con errores, comunicas al supervisor que necesitas tiempo para corregir, asumiendo el retraso, el enfado de la dirección y afectación en tu evaluación.",
+      "pragmatic_distractor": "Corriges las discrepancias más obvias por tu cuenta antes de entregar, asumiendo el riesgo de errores nuevos pero cumpliendo el plazo.",
+      "evasive_distractor": "Entregas el reporte y adjuntas nota privada al supervisor señalando las discrepancias, esperando que él decida cómo manejarlo sin que la dirección se entere.",
+      "rationalized_distractor": "Le pides al supervisor que lo envíe él mismo si insiste, transfiriendo la responsabilidad y evitando que tu nombre esté asociado con datos incorrectos."
+    },
+    "notes": "60 words, 350 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q003",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Descubres que un compañero cercano maneja un conflicto de interés omitiendo pasos del protocolo, exponiendo a la empresa a riesgos legales. Tu supervisor lo sabe pero no interviene. Otros también están al tanto pero nadie dice nada. Reportar generaría investigación que afectaría al equipo y dañaría permanentemente tu relación con tu compañero. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas la desviación del protocolo directamente al área de cumplimiento, sabiendo que generará investigación, afectará al equipo y dañará permanentemente tu relación con tu compañero.",
+      "pragmatic_distractor": "Hablas directamente con el compañero para recordarle el protocolo antes de escalar, esperando que corrija sin investigación formal.",
+      "evasive_distractor": "Le preguntas discretamente al supervisor sobre la situación, confiando en que tiene razón válida para no intervenir y manejará cuando sea apropiado.",
+      "rationalized_distractor": "Decides no involucrarte, ya que es responsabilidad del supervisor. Si él no actúa, probablemente tiene razón válida y no es tu lugar cuestionar."
+    },
+    "notes": "60 words, 348 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q004",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Tu supervisor pide compartir información confidencial de clientes con un tercero sin verificar autorizaciones, argumentando urgencia porque un cliente espera para cerrar un trato millonario. Si no compartes ya, el cliente podría irse con la competencia, resultando en pérdida de ingresos y posibles despidos. Esto violaría políticas de privacidad. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a compartir la información hasta tener autorización por escrito, explicando los riesgos, sabiendo que el cliente puede irse con la competencia, causar pérdidas y posibles despidos, incluyendo el tuyo.",
+      "pragmatic_distractor": "Propones compartir solo la información estrictamente necesaria, minimizando exposición de datos pero cumpliendo la urgencia, esperando satisfacer al cliente sin violar completamente las políticas.",
+      "evasive_distractor": "Consultas rápido con el departamento legal o cumplimiento para validar la solicitud, esperando respuesta rápida que te permita proceder sin asumir toda la responsabilidad.",
+      "rationalized_distractor": "Compartes la información para cumplir la urgencia, confiando en la palabra del supervisor y que él se hará responsable, priorizando retención del cliente y estabilidad financiera."
+    },
+    "notes": "62 words, 346 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q005",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Observas que varios compañeros usan recursos de la empresa como equipos y servicios sin seguir procedimientos. Tu supervisor lo sabe pero no dice nada. Parece práctica común y tácitamente aceptada. Reportar generaría una investigación que afectaría a tus compañeros, crearía un ambiente de trabajo tenso y posiblemente te aislaría del equipo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas el incumplimiento directamente al área de personal, ya que el supervisor no actúa, sabiendo que generará investigación, afectará a compañeros, creará tensión y posiblemente te aislará.",
+      "pragmatic_distractor": "Hablas informalmente con tus compañeros para recordarles las políticas de uso, esperando que corrijan sin investigación formal que afectaría a todos.",
+      "evasive_distractor": "Sugieres al supervisor, en privado, que sería bueno enviar recordatorio general sobre uso de recursos, esperando que maneje sin generar conflictos directos.",
+      "rationalized_distractor": "No haces nada, ya que tu supervisor está al tanto y es su responsabilidad actuar. Si no interviene, tiene razón válida y no es tu lugar cuestionar."
+    },
+    "notes": "61 words, 347 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q006",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te enteras que tu supervisor tiene acceso a información privilegiada que el equipo no tiene y la usa para tomar decisiones que afectan a todos. Algunos miembros del equipo reciben proyectos más deseables, mientras otros, incluyéndote, quedan con tareas menos gratificantes. Confrontar a tu supervisor podría afectar negativamente tu relación con él y tu carrera en la empresa. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Buscas el canal apropiado en la empresa para reportar posible abuso de poder o favoritismo, sabiendo que generará conflicto directo con tu supervisor, afectará tu relación y carrera, y te etiquetará como no leal.",
+      "pragmatic_distractor": "Solicitas reunión con tu supervisor para pedir más transparencia en la toma de decisiones, esperando resolver el problema sin escalar y crear conflictos mayores.",
+      "evasive_distractor": "Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar acción conjunta, pensando que enfoque grupal sería más efectivo y menos riesgoso.",
+      "rationalized_distractor": "No haces nada para no arriesgar tu relación con el supervisor. Aunque el sistema es injusto, confrontarlo generaría represalias que afectarían aún más tu posición."
+    },
+    "notes": "64 words, 350 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q007",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Descubres que algunos del equipo tienen acceso a datos de clientes que otros no, creando desequilibrio en la toma de decisiones. Esos compañeros hacen propuestas más informadas y ganan reconocimiento, mientras tú y otros quedan en desventaja. Proponer cambios podría verse como queja o cuestionar las decisiones de gerencia sobre quién debe tener acceso a qué información. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Propones en reunión de equipo que se estandarice el acceso a información para todos, sabiendo que podría verse como queja o cuestionar a gerencia, y que compañeros con acceso privilegiado podrían resentirse por perder ventaja.",
+      "pragmatic_distractor": "Hablas con los compañeros que tienen acceso privilegiado para entender mejor, pensando que podrían tener información sobre por qué se distribuyó así y ayudarte a obtener el mismo nivel.",
+      "evasive_distractor": "Informas al supervisor sobre el desequilibrio para que lo gestione, esperando que tenga razón válida para la distribución actual y pueda explicarla o corregirla sin conflictos.",
+      "rationalized_distractor": "Te centras en tu trabajo, asumiendo que la distribución tiene razón válida basada en roles, responsabilidades o necesidades del proyecto, y cuestionarla crearía conflictos innecesarios."
+    },
+    "notes": "63 words, 349 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q008",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Al preparar un reporte financiero crítico, notas que tu supervisor usa información que tú no puedes ver para influir en decisiones, dejando al equipo sin contexto completo. El equipo toma decisiones con información incompleta, lo que podría afectar la precisión del reporte y las decisiones financieras de la empresa. Pedir que comparta información podría verse como cuestionar su autoridad. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le pides directamente que comparta la información relevante con el equipo para alinear a todos, sabiendo que podría verse como cuestionar su autoridad, solicitud inapropiada de datos sensibles, y generar fricción.",
+      "pragmatic_distractor": "Documentas tus objeciones y las decisiones tomadas sin información completa como respaldo, protegiéndote en caso de problemas más adelante, sin confrontar directamente al supervisor.",
+      "evasive_distractor": "Hablas con otros colegas para saber si sienten misma falta de contexto y considerar acción conjunta, pensando que enfoque grupal sería más efectivo y menos riesgoso.",
+      "rationalized_distractor": "Sigues las instrucciones del supervisor, confiando en que tiene visión completa y toma decisiones correctas con información que, por confidencialidad u operación, no puede compartir con todos."
+    },
+    "notes": "63 words, 349 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q009",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te piden usar activos de la empresa como equipos y recursos para un proyecto urgente con plazo muy ajustado. No tienes claro si las políticas lo permiten. Si no usas los activos ya, el proyecto se retrasará mucho, lo que podría afectar a clientes importantes y resultar en pérdida de ingresos. Buscar aclaración tomaría tiempo que no tienes. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a usar los recursos hasta tener confirmación clara para evitar riesgos, sabiendo que retrasará el proyecto significativamente, podría afectar clientes importantes, resultar en pérdida de ingresos y verse como falta de iniciativa.",
+      "pragmatic_distractor": "Buscas la política de la empresa por escrito antes de usar los activos, esperando encontrar respuesta rápida que te permita proceder con confianza, aunque tome tiempo que no tienes.",
+      "evasive_distractor": "Le pides al supervisor aclaración por escrito sobre si el uso está permitido, esperando que dé respuesta rápida que te permita proceder sin asumir toda la responsabilidad.",
+      "rationalized_distractor": "Usas los activos, asumiendo que si no está explícitamente prohibido, está permitido. El proyecto es urgente y es mejor pedir perdón que permiso cuando se trata de cumplir plazos críticos."
+    },
+    "notes": "63 words, 348 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q010",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Al preparar un reporte financiero, descubres una oportunidad de obtener beneficio personal usando información que manejas, como datos para inversiones o negocios paralelos. Varios compañeros ya lo hacen y parece práctica común. Tu supervisor lo sabe pero no interviene. Reportar esto generaría investigación que afectaría a compañeros, crearía ambiente hostil y posiblemente te aislaría del equipo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te abstienes de hacerlo y reportas la conducta de tus compañeros al supervisor, sabiendo que generará investigación, afectará a compañeros, creará ambiente hostil, te aislará del equipo y podría resultar en despidos.",
+      "pragmatic_distractor": "Consultas de forma anónima con el departamento de cumplimiento para entender los límites éticos, esperando obtener claridad sin exponerte directamente y sin generar conflictos con compañeros.",
+      "evasive_distractor": "Ignoras la oportunidad y te limitas a hacer tu trabajo sin involucrarte, decidiendo que no es tu batalla y es mejor no crear conflictos innecesarios, aunque pierdas beneficio que otros obtienen.",
+      "rationalized_distractor": "Aprovechas la oportunidad, ya que otros lo hacen y parece práctica común. Si todos lo hacen y nadie dice nada, probablemente está bien, y no es tu responsabilidad ser policía ético."
+    },
+    "notes": "64 words, 350 chars",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "block-B04-q001",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tras una reestructuración, tu nuevo supervisor impone un estilo autoritario que choca con la autonomía que valorabas. Varios compañeros talentosos ya buscan otras ofertas y el ambiente se ha tensado. Tu salario es clave para tu familia, pero sientes que el control excesivo limita tu crecimiento profesional y bienestar diario.",
+    "options_structured": {
+      "integrity_correct": "Pides una reunión individual para expresar tus inquietudes y proponer acuerdos de autonomía, aunque sabes que cuestionar su estilo tan pronto puede incomodarle y afectar tu evaluación.",
+      "pragmatic_distractor": "Te adaptas completamente a su estilo sin cuestionar, entregando todo con rigor para ganar su confianza, asumiendo que el control alto continuará indefinidamente.",
+      "evasive_distractor": "Cumples lo mínimo requerido y compartes tu frustración solo con compañeros cercanos, esperando que alguien más plantee el problema o que la situación cambie sola.",
+      "rationalized_distractor": "Mantienes buen desempeño visible pero comienzas a explorar oportunidades externas discretamente, priorizando tu estabilidad familiar sin confrontar el problema actual."
+    },
+    "notes": "Costo explícito en integridad: riesgo a evaluación y molestia del supervisor",
+    "word_count": 73,
+    "char_count": 345,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q002",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa fue adquirida por una corporación mayor y anuncian que tu proyecto favorito queda pausado indefinidamente. Tu rol se vuelve ambiguo con tareas de mantenimiento menores. Sientes estancamiento profesional mientras la incertidumbre crece sobre el futuro de tu posición en la nueva estructura organizacional.",
+    "options_structured": {
+      "integrity_correct": "Buscas activamente nuevas responsabilidades y propones cómo tus habilidades aportan a otros proyectos, aunque esto implique exponerte y recibir rechazo o indiferencia de la nueva gerencia.",
+      "pragmatic_distractor": "Cumples las tareas de mantenimiento asignadas con eficiencia mientras esperas señales claras, asumiendo que la pasividad temporal protege tu posición sin generar conflictos.",
+      "evasive_distractor": "Consultas informalmente con colegas sobre sus estrategias y buscas validación antes de actuar, dejando pasar el tiempo mientras otros toman iniciativas.",
+      "rationalized_distractor": "Mantienes tu desempeño actual y esperas que el proyecto original se reactive, argumentando que la paciencia es la mejor estrategia en tiempos de cambio."
+    },
+    "notes": "Costo explícito: exposición y posible rechazo de nueva gerencia",
+    "word_count": 71,
+    "char_count": 362,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q003",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Recibiste calificación satisfactoria en tu evaluación pese a cumplir objetivos, quedando fuera del ciclo de promociones. Tu supervisor menciona vagamente que debes mejorar tu visibilidad sin dar pasos concretos. La frustración crece mientras ves a colegas con menos logros avanzar, y dudas si tu esfuerzo realmente vale la pena.",
+    "options_structured": {
+      "integrity_correct": "Solicitas reunión de seguimiento para crear un plan concreto de desarrollo, aunque esto implique insistir y posiblemente escuchar críticas más duras sobre tu perfil.",
+      "pragmatic_distractor": "Aceptas la retroalimentación y comienzas a participar más en reuniones y enviar comunicaciones sobre tus logros, esperando que la visibilidad llegue naturalmente.",
+      "evasive_distractor": "Continúas trabajando igual y esperas la próxima evaluación para ver si las cosas cambian, evitando confrontar directamente el tema con tu supervisor.",
+      "rationalized_distractor": "Comienzas a buscar ofertas en otras empresas donde sientas que tu desempeño será mejor valorado, sin abordar el problema internamente."
+    },
+    "notes": "Costo explícito: insistir y recibir críticas duras",
+    "word_count": 76,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q004",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa elimina el trabajo remoto que valorabas, imponiendo retorno presencial completo con viajes largos y costosos. Varios colegas en situación similar hablan de renunciar. Tu productividad era alta desde casa y sientes que esta política ignora resultados comprobados, afectando tu calidad de vida y gastos familiares significativamente.",
+    "options_structured": {
+      "integrity_correct": "Organizas reunión con tu supervisor para discutir el impacto concreto y explorar excepciones, aunque sabes que ser el primero en cuestionar puede etiquetarte como problemático.",
+      "pragmatic_distractor": "Aceptas la política y buscas apoyo de compañeros para compartir consejos sobre el viaje, adaptándote sin cuestionar formalmente la decisión de la empresa.",
+      "evasive_distractor": "Cumples temporalmente mientras observas si otros logran excepciones primero, evitando ser tú quien tome la iniciativa de confrontar la nueva norma.",
+      "rationalized_distractor": "Empiezas a buscar trabajo remoto en otras empresas, argumentando que no vale la pena luchar contra políticas corporativas ya decididas."
+    },
+    "notes": "Costo explícito: ser etiquetado como problemático por cuestionar",
+    "word_count": 74,
+    "char_count": 358,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q005",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Por iniciativa de eficiencia, no reemplazan a un colega que renunció y dividen sus tareas entre el equipo. Tu carga aumentó treinta por ciento sin compensación adicional. Los plazos se vuelven imposibles y el equipo muestra señales de agotamiento mientras la gerencia celebra los ahorros logrados sin reconocer el impacto real.",
+    "options_structured": {
+      "integrity_correct": "Propones al equipo reorganizar tareas y automatizar procesos, aunque esto implique jornadas más largas temporalmente y posible fricción con quienes prefieren no cambiar.",
+      "pragmatic_distractor": "Absorbes el trabajo extra manteniendo tus estándares, asumiendo que eventualmente contratarán a alguien o la situación se normalizará con el tiempo.",
+      "evasive_distractor": "Cumples lo urgente y dejas que los retrasos evidencien el problema, esperando que la gerencia note la sobrecarga sin que tú debas señalarla.",
+      "rationalized_distractor": "Comienzas a buscar otro empleo ante la carga insostenible, argumentando que la empresa no valora a su personal y no cambiará."
+    },
+    "notes": "Costo explícito: jornadas largas y fricción con el equipo",
+    "word_count": 73,
+    "char_count": 349,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q006",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "El nuevo gerente decide eliminar un proceso que diseñaste y ha funcionado durante años, reemplazándolo con una metodología que consideras ineficiente. Tu trabajo anterior queda invalidado mientras otros aplauden el cambio sin conocer los detalles técnicos. Sientes frustración por el desperdicio de tu experiencia y esfuerzo invertido.",
+    "options_structured": {
+      "integrity_correct": "Presentas un análisis comparativo mostrando ventajas del proceso actual y proponiendo integrar elementos de ambos, aunque esto pueda verse como resistencia al cambio y afecte tu imagen.",
+      "pragmatic_distractor": "Aceptas la decisión y te esfuerzas por aprender la nueva metodología buscando guía del gerente, adaptándote sin cuestionar públicamente.",
+      "evasive_distractor": "Sigues el nuevo proceso pero compartes tu escepticismo solo con compañeros cercanos, esperando que la gerencia note los problemas por sí misma.",
+      "rationalized_distractor": "Interpretas la decisión como señal de que tus contribuciones ya no son valoradas y comienzas a buscar un rol fuera de la empresa."
+    },
+    "notes": "Costo explícito: parecer resistente al cambio y dañar imagen",
+    "word_count": 75,
+    "char_count": 356,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q007",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu rol de análisis está siendo automatizado por un sistema de inteligencia artificial y te piden entrenar al sistema que podría hacer obsoleto tu trabajo. La ironía es evidente mientras dedicas horas a transferir conocimiento que podría eliminarte. Tu experiencia de años se convierte en datos para una máquina que no entiende contexto humano.",
+    "options_structured": {
+      "integrity_correct": "Te ofreces a liderar la implementación buscando convertirte en experto de la nueva tecnología, aunque esto signifique más trabajo sin garantía de que conserves tu puesto.",
+      "pragmatic_distractor": "Colaboras en el entrenamiento mientras exploras con tu supervisor qué nuevas habilidades desarrollar, manteniendo bajo perfil sobre tus preocupaciones reales.",
+      "evasive_distractor": "Haces el trabajo requerido con mínima iniciativa mientras evalúas internamente si tus habilidades serán valoradas, sin expresar tus dudas abiertamente.",
+      "rationalized_distractor": "Sientes que la empresa devalúa tu experiencia y comienzas a buscar donde tus habilidades actuales sean más apreciadas, resistiendo colaborar plenamente."
+    },
+    "notes": "Costo explícito: más trabajo sin garantía de conservar puesto",
+    "word_count": 77,
+    "char_count": 366,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q008",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa congela ascensos y aumentos indefinidamente por dificultades financieras, pero simultáneamente presenta un plan estratégico ambicioso que requiere esfuerzo extra de todos. El mensaje contradictorio genera cinismo mientras te piden sacrificios sin reciprocidad. Tu motivación baja mientras las expectativas suben sin compensación a la vista.",
+    "options_structured": {
+      "integrity_correct": "Organizas reunión con tu equipo para discutir cómo contribuir al plan enfocándose en crecimiento a largo plazo, aunque esto te exponga como ingenuo ante compañeros más cínicos.",
+      "pragmatic_distractor": "Entiendes la situación y te comprometes a hacer tu parte esperando que la empresa supere la crisis, sin cuestionar la contradicción públicamente.",
+      "evasive_distractor": "Cumples tus responsabilidades básicas pero evitas esfuerzo extra hasta que la empresa demuestre que volverá a invertir en empleados.",
+      "rationalized_distractor": "Actualizas tu perfil profesional y contactas reclutadores, argumentando que la empresa pide sacrificios sin ofrecer nada a cambio."
+    },
+    "notes": "Costo explícito: exponerse como ingenuo ante compañeros cínicos",
+    "word_count": 75,
+    "char_count": 358,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q009",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tras la salida de un gerente clave, tu supervisor te pide asumir sus responsabilidades además de tu carga actual sin aumento ni cambio de título. Te promete que tu esfuerzo será recompensado en el futuro sin fecha concreta. La promesa vaga te genera desconfianza mientras el trabajo se duplica y otros observan para ver tu respuesta.",
+    "options_structured": {
+      "integrity_correct": "Aceptas y usas la oportunidad para demostrar capacidad de liderazgo, aunque el esfuerzo sin garantías pueda resultar en explotación si la promesa no se cumple.",
+      "pragmatic_distractor": "Aceptas ayudar temporalmente pero pides definir un plazo para reevaluar rol y compensación, negociando desde una posición de aparente colaboración.",
+      "evasive_distractor": "Pides que te otorguen inmediatamente aumento y nuevo título antes de asumir más, trasladando la decisión de regreso a tu supervisor.",
+      "rationalized_distractor": "Rechazas las responsabilidades argumentando que tu carga actual ya es muy alta y no es justo pedir que hagas dos trabajos sin compensación."
+    },
+    "notes": "Costo explícito: esfuerzo sin garantías, riesgo de explotación",
+    "word_count": 79,
+    "char_count": 378,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  },
+  {
+    "id": "block-B04-q010",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu departamento se fusiona con otro y ahora reportas a dos supervisores con expectativas contradictorias y estilos opuestos. Frecuentemente recibes instrucciones conflictivas quedando en medio de sus desacuerdos. La ambigüedad genera estrés constante mientras cualquier decisión que tomes puede molestar a uno de ellos y afectar tu evaluación.",
+    "options_structured": {
+      "integrity_correct": "Propones reunión con ambos supervisores para definir un único punto de contacto y unificar prioridades, aunque esto pueda incomodarles y revelar su falta de coordinación.",
+      "pragmatic_distractor": "Tratas de cumplir con las instrucciones de ambos adaptándote a sus diferentes estilos, absorbiendo la tensión internamente sin escalar el conflicto.",
+      "evasive_distractor": "Sigues las instrucciones del supervisor que parece tener más autoridad, esperando que el conflicto entre ellos se resuelva naturalmente con el tiempo.",
+      "rationalized_distractor": "Comienzas a buscar posición en otro departamento para escapar del conflicto, argumentando que la situación no tiene solución desde tu posición."
+    },
+    "notes": "Costo explícito: incomodar supervisores y revelar su falta de coordinación",
+    "word_count": 75,
+    "char_count": 352,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "sot_checksum": "69338D2A"
+  }
+]

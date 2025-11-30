@@ -12,6 +12,7 @@ Este documento reemplaza versiones previas. Usa SOT módulo-específicos:
 - Longitud meta en caracteres: objetivo 320-350; rango aceptable 300-380 (rechazar fuera de rango).
 - Banned words: ver `config/banned_words.txt`. Reemplazar según mapa.
 - Evita tecnicismos y anglicismos innecesarios.
+- PROHIBIDO vocabulario técnico específico: Scrum, Kanban, CEO, CTO, Sprint, Backlog, Software, App, Startup. Usar términos genéricos (ver banned_words.txt).
 
 ## Estructura obligatoria (Video / Open)
 1) Contexto + presion en 1-2 frases.

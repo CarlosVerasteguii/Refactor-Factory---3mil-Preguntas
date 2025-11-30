@@ -1,0 +1,192 @@
+[
+  {
+    "id": "block-B06-q001",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa lanzará un producto en días. Detectas un fallo de seguridad poco frecuente que podría exponer datos de usuarios en situaciones específicas. Corregirlo atrasaría el lanzamiento varias semanas y la política no obliga a reportar fallos de este nivel. Tu jefe espera que cumplas el calendario. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Escalas el problema y pausas el lanzamiento, argumentando que proteger datos es prioritario aunque generes enojo en tu equipo, afectes tu evaluación y retrases ingresos.",
+      "pragmatic_distractor": "Propones lanzar con un plan de parche inmediato documentado, asumiendo el riesgo de reclamos si el parche falla o la vulnerabilidad se explota antes.",
+      "evasive_distractor": "Solicitas que el área de seguridad firme un análisis de riesgo formal y actuarás según su dictamen, trasladando la decisión aunque tome tiempo.",
+      "rationalized_distractor": "Sigues la política de la empresa al pie de la letra: como no es obligatorio reportarlo, permites el lanzamiento y te comprometes a revisarlo después."
+    },
+    "word_count": 78,
+    "char_count": 356,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL original. Costo explícito: enojo equipo, evaluación afectada, retraso ingresos.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q002",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa construirá una fábrica que creará empleos, pero generará contaminación que, aunque legal, afectará la calidad del aire de una comunidad cercana. Te piden liderar la campaña de comunicación. Tus jefes esperan un mensaje positivo que evite controversias. ¿Qué enfoque priorizas?",
+    "options_structured": {
+      "integrity_correct": "Exiges a la empresa invertir en tecnología más limpia aunque sea más cara, argumentando responsabilidad moral, aunque esto genere tensión con finanzas y afecte tu posición.",
+      "pragmatic_distractor": "Diseñas una campaña que destaca empleos y legalidad, incluyendo un foro comunitario para canalizar inquietudes sin comprometer realmente a la empresa a cambios.",
+      "evasive_distractor": "Organizas grupos focales con la comunidad para entender preocupaciones y ajustar el mensaje, posponiendo la decisión sobre acciones concretas.",
+      "rationalized_distractor": "Te centras en resaltar beneficios económicos regionales, argumentando que la empresa cumple todas las normas y que la comunidad se beneficiará a largo plazo."
+    },
+    "word_count": 76,
+    "char_count": 361,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: tensión con finanzas, posición afectada.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q003",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Para cumplir objetivos de diversidad, tu supervisor sugiere contratar a un candidato de grupo subrepresentado que está calificado pero no es el más experimentado. El candidato más experimentado tiene perfil tradicional. La política dice contratar al mejor candidato y promover diversidad. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Argumentas que la diversidad enriquece al equipo y es un bien mayor, eligiendo al candidato diverso aunque algunos colegas cuestionen tu criterio y afecte tu imagen de imparcialidad.",
+      "pragmatic_distractor": "Contratas al más experimentado documentando que cumple mejor los requisitos técnicos, dejando la diversidad para futuras vacantes cuando haya candidatos más fuertes.",
+      "evasive_distractor": "Preguntas a otros gerentes cómo interpretan la aparente contradicción en las políticas, esperando que el consenso te guíe y proteja ante cuestionamientos.",
+      "rationalized_distractor": "Contratas al candidato que tu supervisor prefiere para evitar conflicto, argumentando que así tu decisión tendrá respaldo de la gerencia si alguien la cuestiona."
+    },
+    "word_count": 74,
+    "char_count": 367,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: imagen de imparcialidad cuestionada.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q004",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa puede ahorrar millones cambiando a un proveedor que usa mano de obra infantil en sus fábricas, práctica no ilegal en ese país. La política dice cumplir leyes locales, pero los valores corporativos mencionan derechos humanos. La dirección espera tu recomendación. ¿Qué recomiendas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas al proveedor, argumentando que los derechos humanos universales están por encima de leyes locales, aunque esto genere tensión con finanzas y afecte tu evaluación de desempeño.",
+      "pragmatic_distractor": "Recomiendas aceptar al proveedor con un plan de auditorías periódicas para verificar condiciones laborales, asumiendo que mejorarán con supervisión.",
+      "evasive_distractor": "Sugieres realizar una encuesta entre empleados para ver si se sienten cómodos con el proveedor, posponiendo tu recomendación hasta tener ese resultado.",
+      "rationalized_distractor": "Recomiendas al proveedor argumentando que el ahorro protegerá empleos en tu empresa y que cumplir leyes locales es lo correcto según la política."
+    },
+    "word_count": 77,
+    "char_count": 376,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: tensión con finanzas, evaluación afectada.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q005",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Te piden implementar un sistema que automatizará tareas y resultará en despidos de la mitad de tu equipo. La regla es notificarles con dos semanas de antelación. Sientes que esto es injusto para empleados leales. Tu jefe espera que ejecutes el plan sin demoras. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Luchas por un paquete de indemnización más generoso y programas de recolocación, aunque la política no lo exija y esto genere fricción con finanzas y retrase el proyecto.",
+      "pragmatic_distractor": "Ejecutas los despidos según procedimiento, pero ofreces personalmente ayudar a cada afectado con referencias y conexiones para suavizar el impacto.",
+      "evasive_distractor": "Hablas con tus compañeros de equipo para explicar la situación y tratar de hacer el proceso menos doloroso, sin cuestionar formalmente la política.",
+      "rationalized_distractor": "Ejecutas los despidos rápidamente para minimizar el impacto en la moral del resto, argumentando que prolongar la incertidumbre sería peor para todos."
+    },
+    "word_count": 75,
+    "char_count": 361,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: fricción con finanzas, retraso del proyecto.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q006",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Sabes que tu empresa descontinuará un producto que muchos clientes pequeños usan para operar. La política es no anunciarlo hasta el último momento para no perder ventas. Esto no les dará tiempo de encontrar alternativa, causándoles graves problemas. Tu bonus depende de esas ventas. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Filtras la información de forma anónima a un medio de la industria para que los clientes se enteren con tiempo, aunque arriesgas tu posición si te descubren.",
+      "pragmatic_distractor": "Adviertes discretamente a tus clientes más importantes con los que tienes buena relación, protegiendo al menos a algunos sin exponer a la empresa públicamente.",
+      "evasive_distractor": "Propones internamente adelantar el anuncio por responsabilidad con clientes, dejando la decisión final a la dirección sin presionar demasiado.",
+      "rationalized_distractor": "Sigues la política y no comunicas nada hasta la fecha oficial, argumentando que tu responsabilidad es con la empresa y que los clientes encontrarán soluciones."
+    },
+    "word_count": 79,
+    "char_count": 373,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: riesgo a posición si descubren filtración.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q007",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "El equipo de marketing propone una campaña publicitaria que exagera beneficios del producto y omite limitaciones. La campaña es legal y aumentará ganancias, pero es engañosa. Como gerente del producto, tienes autoridad para aprobarla. Tu jefe espera resultados agresivos este trimestre. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la campaña, insistiendo en que la honestidad con clientes es prioritaria para construir confianza, aunque esto genere conflicto con marketing y afecte tus metas trimestrales.",
+      "pragmatic_distractor": "Apruebas una versión moderada que reduce exageraciones pero mantiene el mensaje optimista, buscando equilibrio entre ética y resultados comerciales.",
+      "evasive_distractor": "Realizas una encuesta interna para ver si la mayoría de empleados se sienten cómodos con el nivel de exageración, dejando que el resultado guíe tu decisión.",
+      "rationalized_distractor": "Apruebas la campaña argumentando que no viola leyes y que el éxito te posicionaría para un ascenso, beneficiando tu carrera y al equipo."
+    },
+    "word_count": 76,
+    "char_count": 362,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: conflicto con marketing, metas trimestrales afectadas.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q008",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Un nuevo empleado de tu principal competidor te ofrece una memoria USB con planes de lanzamiento de su antigua empresa. Dice querer demostrar su lealtad. La política prohíbe usar información de la competencia obtenida indebidamente. Tu jefe valora mucho la inteligencia competitiva. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Informas inmediatamente al área legal y de personal sobre el incidente, protegiendo a la empresa de riesgo legal aunque esto le cueste el trabajo al nuevo empleado y te genere incomodidad.",
+      "pragmatic_distractor": "Te niegas a aceptar la memoria y le explicas la política, pero no lo reportas para darle una oportunidad de integrarse sin ese antecedente.",
+      "evasive_distractor": "Comentas la situación a un par de colegas de confianza para decidir en grupo cómo manejar al nuevo empleado, diluyendo tu responsabilidad individual.",
+      "rationalized_distractor": "Aceptas la información argumentando que es una oportunidad única para obtener ventaja competitiva y que rechazarla sería desperdiciar un recurso valioso."
+    },
+    "word_count": 78,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: incomodidad, empleado pierde trabajo.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q009",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa y un competidor consideran colaborar en un proyecto que reduciría costos pero crearía un duopolio, limitando opciones para consumidores y potencialmente subiendo precios. La colaboración es legal pero tendría impacto social negativo. La dirección espera tu postura. ¿Cuál es tu posición?",
+    "options_structured": {
+      "integrity_correct": "Te opones a la colaboración, argumentando que el bienestar del consumidor y un mercado justo son más importantes que las ganancias, aunque esto te ponga en conflicto con la dirección.",
+      "pragmatic_distractor": "Apoyas la colaboración con condiciones: un comité de monitoreo de precios y compromiso de no eliminar competidores menores, buscando mitigar el impacto.",
+      "evasive_distractor": "Realizas un sondeo informal entre compañeros para ver la opinión general antes de formar tu postura, esperando que el consenso te proteja.",
+      "rationalized_distractor": "Apoyas la colaboración argumentando que es legal y beneficiosa para la salud financiera de la empresa, y que el mercado se regulará naturalmente."
+    },
+    "word_count": 76,
+    "char_count": 363,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: conflicto con la dirección.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q010",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Trabajas en una farmacéutica y descubres un estudio interno que sugiere que un medicamento muy vendido podría tener efectos secundarios graves a largo plazo no revelados públicamente. La política es solo revelar riesgos confirmados por reguladores. Tu carrera depende de tu discreción. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Filtras el estudio a una autoridad sanitaria, considerando que el derecho a la salud de los pacientes está por encima de políticas internas, aunque arriesgues tu carrera y enfrentes represalias.",
+      "pragmatic_distractor": "Planteas internamente a tu supervisor que se aceleren los estudios de confirmación, buscando que la empresa actúe sin que tú tengas que filtrar información.",
+      "evasive_distractor": "Compartes tu preocupación con un grupo de científicos de confianza dentro de la empresa para buscar una segunda opinión y actuar en consenso.",
+      "rationalized_distractor": "Sigues la política y no revelas el estudio, confiando en que la empresa cumplirá sus obligaciones legales cuando los reguladores confirmen los riesgos."
+    },
+    "word_count": 79,
+    "char_count": 378,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado. Costo explícito: riesgo carrera, posibles represalias.",
+    "sot_checksum": "D739B398"
+  }
+]
