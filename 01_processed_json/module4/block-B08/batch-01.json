@@ -1,0 +1,222 @@
+[
+  {
+    "id": "block-B08-q001",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Trabajas desde casa cuando tu supervisor te llama furioso porque el informe de ayer tiene errores que revisa dirección ahora. Debes rehacerlo en varias horas para la junta. Varios compañeros escriben preguntando qué pasó. Sientes gran presión, ansiedad y tu supervisor exige conectarte ya a video para explicar. Te pide hacerlo ahora mismo, sin demora. ¿Qué haces tú?",
+    "options_structured": {
+      "integrity_correct": "Respiras hondo, aceptas el error, te conectas con tu supervisor para entender qué falló y empezar de inmediato, aunque te espera una jornada muy pesada y tu supervisor estará muy molesto en la llamada.",
+      "pragmatic_distractor": "Revisas rápido el informe, identificas los errores más visibles y propones corregir solo esos puntos críticos para cumplir el plazo, aunque el informe quede incompleto o con menos detalle.",
+      "evasive_distractor": "Escribes a tu supervisor que necesitas 15 minutos para revisar el archivo original y entender qué salió mal antes de la video, retrasando el inicio mientras procesas la ansiedad.",
+      "rationalized_distractor": "Propones a tu supervisor que pida ayuda a otro miembro del equipo con más experiencia en estos informes para que revise el trabajo, diciendo que dos cabezas piensan mejor."
+    },
+    "notes": "Refactored 73w/374c. High cost: heavy day + angry supervisor.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 60,
+    "char_count": 380,
+    "length_status": "ok",
+    "length_note": "60w, 380c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q002",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu empresa hace cambios cada varias semanas creando mucha inestabilidad. Esta semana hay otro cambio importante mientras crece tensión entre compañeros. Tu supervisor pide presentar la nueva metodología mañana en reunión con gerencia pero apenas la conoces. Varios colegas frustrados buscan tu opinión. La gran presión por adaptarte tan rápido afecta tu descanso. Debes preparar la presentación hoy. Te urge hacerlo ya. ¿Qué haces tú?",
+    "options_structured": {
+      "integrity_correct": "Dedicas la tarde y noche a estudiar la nueva metodología a fondo para presentarla bien mañana, aunque sacrifiques tu descanso y tiempo personal, y la jornada será muy pesada.",
+      "pragmatic_distractor": "Revisas solo los puntos clave de la nueva metodología y preparas una presentación básica que cubra lo esencial, confiando en improvisar si surgen preguntas difíciles durante la presentación.",
+      "evasive_distractor": "Pides a tu supervisor posponer la presentación un par de días diciendo que quieres asegurar calidad, evitando así la presión inmediata de prepararte con tan poco tiempo.",
+      "rationalized_distractor": "Propones que otro compañero con más experiencia en cambios presente la metodología, diciendo que sería mejor usar su expertise, evitando el esfuerzo de prepararte tú en tan poco tiempo."
+    },
+    "notes": "Refactored 76w/379c. High cost: sacrifice rest + heavy prep.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 64,
+    "char_count": 427,
+    "length_status": "ok",
+    "length_note": "64w, 427c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q003",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu empresa anuncia cambios en liderazgo y te asignan nuevo supervisor con estilo diferente. Tu carga de trabajo aumenta y ahora tienes más trabajo del que puedes manejar bien. El nuevo supervisor espera resultados rápidos y citó al equipo mañana para evaluar el desempeño individual. Varios compañeros están agobiados. La presión es alta. Te urge prepararte hoy. ¿Qué haces esta noche?",
+    "options_structured": {
+      "integrity_correct": "Trabajas hasta tarde organizando proyectos y preparando un reporte claro de avances para mañana, aunque sacrifiques descanso y la jornada sea muy pesada, para mostrar buen nivel al nuevo supervisor.",
+      "pragmatic_distractor": "Preparas un reporte que enfatiza los logros visibles y minimiza los pendientes, mostrando una imagen optimista de tu carga aunque omitas decir que estás sobrepasado y que algunos proyectos van retrasados.",
+      "evasive_distractor": "Envías correo al nuevo supervisor pidiendo reunión individual previa antes de la evaluación grupal, diciendo que quieres entender mejor sus expectativas, posponiendo así enfrentar la evaluación directa mañana.",
+      "rationalized_distractor": "Propones al equipo pedir al nuevo supervisor posponer la evaluación individual, diciendo que todos necesitan más tiempo para adaptarse al nuevo estilo y que evaluar ahora sería injusto."
+    },
+    "notes": "Refactored 76w/374c. High cost: late work + heavy + no rest.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 62,
+    "char_count": 393,
+    "length_status": "ok",
+    "length_note": "62w, 393c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q004",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Enfrentas gran presión constante por plazos ajustados en proyectos que llevas a la vez. Notas que algunos compañeros comparten datos selectivos mientras compiten agresivamente. Esta semana tienes tres entregas críticas y tu supervisor te da una cuarta tarea urgente hoy. No hay mucho tiempo para hacer todo bien. Todos están estresados. Quedan solo dos días. La presión es alta. ¿Qué decides tú?",
+    "options_structured": {
+      "integrity_correct": "Hablas con honestidad con tu supervisor sobre la sobrecarga, muestras un cronograma realista priorizando las entregas críticas y aceptas que algunas tareas se retrasarán, aunque esto pueda afectar tu evaluación y frustrar a tu supervisor.",
+      "pragmatic_distractor": "Reorganizas tu agenda para completar las cuatro tareas en el plazo reduciendo el nivel de detalle en cada una, priorizando velocidad sobre calidad para cumplir de modo formal con todas las entregas.",
+      "evasive_distractor": "Envías correo a tu supervisor preguntando cuál de las cuatro tareas es menos prioritaria para pasarla a otro miembro del equipo, trasladando la decisión y responsabilidad a tu supervisor en lugar de gestionar tu carga.",
+      "rationalized_distractor": "Propones a tu supervisor hacer una reunión de equipo para repartir tareas entre todos, diciendo que el trabajo en equipo es más eficiente, evitando así tomar toda la carga tú solo."
+    },
+    "notes": "Refactored 79w/372c. High cost: affect evaluation + frustration.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 63,
+    "char_count": 399,
+    "length_status": "ok",
+    "length_note": "63w, 399c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q005",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu empresa anuncia cambios a la vez en liderazgo y procesos que afectan tu trabajo. El nuevo líder pone expectativas diferentes y el estilo de trabajo cambió mucho. Tu equipo debe adaptarse en dos semanas mientras mantiene todas las entregas del mes. El equipo tiene serias dificultades. El nuevo líder pide reunión contigo mañana. Debes prepararte hoy. Te urge hacerlo ya. ¿Qué haces hoy?",
+    "options_structured": {
+      "integrity_correct": "Dedicas la tarde a estudiar a fondo los nuevos procesos y expectativas, preparas preguntas claras y ejemplos de cómo aplicarás los cambios en tus proyectos, aunque sacrifiques tu tarde libre y la preparación sea muy intensa.",
+      "pragmatic_distractor": "Revisas por encima los cambios clave, preparas respuestas generales positivas sobre tu ganas de adaptarte y confías en tu capacidad de responder las preguntas durante la reunión improvisando según lo que el líder pregunte.",
+      "evasive_distractor": "Envías correo al nuevo líder pidiendo posponer la reunión hasta después de completar las dos semanas de adaptación, diciendo que así podrás dar respuestas más concretas sobre tu progreso real.",
+      "rationalized_distractor": "Propones al nuevo líder convertir las reuniones individuales en sesiones grupales donde todo el equipo pueda discutir la adaptación juntos, diciendo que el aprendizaje en equipo sería más eficiente para todos."
+    },
+    "notes": "Refactored 76w/378c. High cost: sacrifice afternoon + intense prep.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 63,
+    "char_count": 387,
+    "length_status": "ok",
+    "length_note": "63w, 387c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q006",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Ves que compañeros compiten agresivo por reconocimiento mientras hay conflictos que afectan el ambiente laboral. Tu supervisor pide que lideres una reunión mañana para resolver estos conflictos y restablecer la colaboración. Todos están estresados. Algunos involucrados superan tu nivel jerárquico. La situación es delicada. Debes prepararte hoy. Te urge hacerlo ya. ¿Qué haces esta tarde?",
+    "options_structured": {
+      "integrity_correct": "Dedicas la tarde a preparar bien la reunión: defines objetivos claros, preparas estrategias de mediación y contactas uno a uno a los involucrados para entender sus visiones, aunque sea una jornada pesada emocionalmente y arriesgues quedar mal con algunos.",
+      "pragmatic_distractor": "Preparas una agenda básica enfocada en poner reglas de convivencia y procesos formales de comunicación, evitando abordar de frente los conflictos personales para no generar más tensión durante la reunión.",
+      "evasive_distractor": "Consultas con tu supervisor si sería mejor que un mediador externo o alguien de nivel jerárquico superior facilite la reunión, diciendo que así los involucrados tomarán el proceso más en serio.",
+      "rationalized_distractor": "Propones a tu supervisor que primero se hagan talleres de trabajo en equipo para todos antes de abordar los conflictos específicos, diciendo que es mejor prevenir que resolver, posponiendo así la reunión difícil."
+    },
+    "notes": "Refactored 78w/378c. High cost: emotionally heavy + risk reputation.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 54,
+    "char_count": 383,
+    "length_status": "ok",
+    "length_note": "54w, 383c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q007",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Hay conflictos entre compañeros que los dividieron en bandos por tensiones de meses. El ambiente se volvió tóxico y están estresados. Tu supervisor te asigna liderar el plan más importante del trimestre con este equipo fragmentado. La primera reunión es mañana y necesitas lograr que todos colaboren bien. El éxito del proyecto afectará la evaluación de todo tu equipo. Debes prepararte hoy. ¿Qué haces tú?",
+    "options_structured": {
+      "integrity_correct": "Contactas uno a uno a cada miembro del equipo dividido para escuchar sus preocupaciones, preparas una estrategia clara de integración y defines roles que reduzcan el conflicto, aunque sea muy pesado emocionalmente mediar entre bandos y algunos puedan resistirse mucho.",
+      "pragmatic_distractor": "Diseñas la estructura del proyecto dando tareas que permitan a los miembros en conflicto trabajar de modo independiente con poca interacción entre ellos, evitando abordar de frente las tensiones pero asegurando que el trabajo avance.",
+      "evasive_distractor": "Pides a tu supervisor que asigne un co-líder con más experiencia en gestión de conflictos para que te apoye en el proyecto, diciendo que la situación requiere habilidades especiales en mediación.",
+      "rationalized_distractor": "Propones a tu supervisor posponer el inicio del proyecto dos semanas para hacer primero actividades de integración del equipo, diciendo que invertir tiempo en resolver el conflicto primero dará mejores resultados después."
+    },
+    "notes": "Refactored 76w/374c. High cost: emotionally heavy + resistance.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 65,
+    "char_count": 406,
+    "length_status": "ok",
+    "length_note": "65w, 406c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q008",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu empresa realiza cambios frecuentes que afectan la operación diaria. Tu supervisor señala que tu adaptación ha sido lenta y te cita mañana para definir un plan de acción. Varios compañeros han recibido comentarios similares y la continuidad de algunos está en revisión. La situación es exigente y sientes que debes prepararte hoy para asegurar tu permanencia. Te urge actuar. ¿Qué haces esta noche?",
+    "options_structured": {
+      "integrity_correct": "Dedicas la noche a analizar con honestidad tus áreas de mejora, preparas un plan de acción concreto con plazos realistas y ejemplos claros de cómo te adaptarás mejor, aunque te espera una jornada muy pesada mentalmente y la reunión será muy incómoda.",
+      "pragmatic_distractor": "Preparas una presentación que enfatiza los logros recientes y las razones externas que hicieron difícil tu adaptación, reduciendo tus áreas de mejora para mostrar una imagen más favorable aunque no abordes los problemas reales.",
+      "evasive_distractor": "Envías correo a tu supervisor pidiendo ejemplos claros de las áreas donde necesitas mejorar antes de la reunión, diciendo que así podrás preparar un plan más efectivo, ganando tiempo para procesar las críticas.",
+      "rationalized_distractor": "Preparas argumentos sobre cómo los cambios tan frecuentes hacen difícil la adaptación de todo el equipo y propones sugerir a tu supervisor un proceso de cambios más gradual, desviando la atención de tu desempeño personal."
+    },
+    "notes": "Refactored 80w/380c. High cost: mentally heavy + uncomfortable meeting.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 65,
+    "char_count": 435,
+    "length_status": "ok",
+    "length_note": "65w, 435c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q009",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu empresa hace cambios constantes en liderazgo y procesos creando mucha incertidumbre. Esta semana anuncian otro cambio importante que requiere que reaprendas metodologías completas de nuevo. Tu supervisor espera que domines bien el nuevo proceso para el viernes y presentes resultados ese día. Todos están frustrados. Hoy es miércoles y apenas entiendes lo básico del cambio anterior. Debes prepararte ya. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Dedicas estos dos días muy intensamente a estudiar y practicar el nuevo proceso, trabajando horas extra para dominarlo y generar resultados buenos para el viernes, aunque sacrifiques tu tiempo personal y la jornada sea muy pesada mental y físicamente.",
+      "pragmatic_distractor": "Enfocas tu esfuerzo en aprender solo las funciones clave del nuevo proceso que necesitas para generar resultados mínimos buenos el viernes, confiando en que podrás profundizar después aunque tu dominio sea básico.",
+      "evasive_distractor": "Pides a tu supervisor una extensión hasta la próxima semana diciendo que quieres asegurar calidad en los resultados, evitando así la presión de aprender y presentar en solo dos días.",
+      "rationalized_distractor": "Propones a tu supervisor hacer sesiones de capacitación grupales donde todo el equipo aprenda el nuevo proceso juntos antes de exigir resultados individuales, diciendo que sería más eficiente y evitando tomar el esfuerzo solo."
+    },
+    "notes": "Refactored 78w/378c. High cost: extra hours + mentally/physically heavy.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 65,
+    "char_count": 429,
+    "length_status": "ok",
+    "length_note": "65w, 429c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  },
+  {
+    "id": "block-B08-q010",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Recibes una evaluación de desempeño con nuevas expectativas más altas. Tu supervisor solicita avances visibles pronto y revisará tu progreso en dos semanas. Otros compañeros enfrentan la misma situación y la velocidad de mejora influirá en futuras oportunidades. Sientes una presión considerable por cumplir. Necesitas mostrar resultados pronto. ¿Qué haces estos días?",
+    "options_structured": {
+      "integrity_correct": "Dedicas estos días a trabajar muy intensamente en mejorar las áreas señaladas, documentas tus avances diarios y pides feedback continuo a tu supervisor para ajustar tu enfoque, aunque la jornada sea muy pesada y te genere ansiedad por el escrutinio constante.",
+      "pragmatic_distractor": "Enfocas tu esfuerzo en generar resultados visibles rápidos en las áreas más fáciles de mejorar, priorizando cambios que tu supervisor note de inmediato aunque no abordes las mejoras más profundas que requieren más tiempo.",
+      "evasive_distractor": "Pides a tu supervisor reuniones semanales de seguimiento para alinear expectativas antes de hacer cambios, diciendo que quieres asegurar que vas en la dirección correcta, ganando tiempo para procesar la evaluación.",
+      "rationalized_distractor": "Propones a tu supervisor un plan de mejora gradual de 60 días diciendo que los cambios reales requieren tiempo y que apresurarse podría generar mejoras superficiales, evitando así la presión de resultados inmediatos en dos semanas."
+    },
+    "notes": "Refactored 80w/377c. High cost: very heavy + constant scrutiny anxiety.",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "refactored_text": "",
+    "word_count": 67,
+    "char_count": 441,
+    "length_status": "ok",
+    "length_note": "67w, 441c",
+    "audit_status": "ok",
+    "audit_notes": "User approved manual review."
+  }
+]

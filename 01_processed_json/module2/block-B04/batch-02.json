@@ -1,0 +1,192 @@
+[
+  {
+    "id": "block-B04-q011",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa implementa metodologías nuevas cada pocas semanas, generando confusión y sobrecarga. Varios compañeros están abrumados y algunos ya buscan salida. Tu salario es clave para tu familia, pero la inestabilidad afecta tu desempeño. ¿Cómo reaccionas ante esta presión constante por adaptarte sin apoyo claro?",
+    "options_structured": {
+      "integrity_correct": "Solicitas una reunión con tu supervisor para proponer un plan de transición ordenado, aunque esto pueda parecer que cuestionas la implementación y genere incomodidad con la gerencia.",
+      "pragmatic_distractor": "Te adaptas rápidamente a cada cambio y documentas todo por tu cuenta, asumiendo que el esfuerzo extra sin reconocimiento es temporal.",
+      "evasive_distractor": "Cumples con lo solicitado sin cuestionar y esperas a ver cómo reaccionan otros antes de tomar una postura sobre los cambios.",
+      "rationalized_distractor": "Mantienes tu desempeño actual mientras exploras oportunidades internas, priorizando tu estabilidad sin confrontar la situación directamente."
+    },
+    "word_count": 68,
+    "char_count": 346,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity has explicit cost (incomodidad con gerencia).",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q012",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa implementa una nueva plataforma tecnológica con cambios frecuentes mientras enfrentas presión por plazos estrictos. La curva de aprendizaje es alta y tu desempeño está siendo evaluado en este contexto. Tu salario sostiene a tu familia. ¿Cómo manejas esta transición bajo presión?",
+    "options_structured": {
+      "integrity_correct": "Pides una reunión para negociar plazos realistas durante la transición, aunque esto pueda interpretarse como falta de capacidad para adaptarte rápidamente.",
+      "pragmatic_distractor": "Trabajas horas extra para dominar la plataforma y cumplir plazos, asumiendo que el desgaste físico es el precio de demostrar competencia.",
+      "evasive_distractor": "Sigues las instrucciones al pie de la letra y consultas a compañeros cuando tienes dudas, evitando escalar el problema a tu supervisor.",
+      "rationalized_distractor": "Te enfocas en lo que ya dominas y delegas lo nuevo cuando puedes, argumentando que la especialización beneficia al equipo."
+    },
+    "word_count": 70,
+    "char_count": 358,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: parecer incapaz de adaptarse.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q013",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa reestructura departamentos y cambia la jerarquía. Algunos compañeros se resisten abiertamente y el ambiente se tensa. Tú dependes del ingreso estable y no quieres quedar marcado como conflictivo, pero tampoco quieres perder voz. ¿Cómo te posicionas ante estos cambios estructurales?",
+    "options_structured": {
+      "integrity_correct": "Propones en una reunión de equipo establecer canales formales para plantear inquietudes, aunque esto pueda exponerte como el que 'agita' el tema.",
+      "pragmatic_distractor": "Te adaptas públicamente a los cambios mientras en privado apoyas a compañeros resistentes, manteniendo buena imagen con ambos lados.",
+      "evasive_distractor": "Observas cómo evoluciona la situación antes de pronunciarte, siguiendo las indicaciones sin cuestionar para evitar llamar la atención.",
+      "rationalized_distractor": "Te enfocas exclusivamente en tu desempeño individual, argumentando que involucrarte en dinámicas de grupo solo genera problemas."
+    },
+    "word_count": 72,
+    "char_count": 369,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: ser visto como agitador.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q014",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu equipo atraviesa una crisis durante una reestructuración. Tu supervisor te da retroalimentación negativa frecuente y el estrés afecta tu rendimiento. Varios compañeros están desmotivados y consideras que la evaluación es injusta dado el contexto. ¿Cómo respondes a esta presión sobre tu desempeño?",
+    "options_structured": {
+      "integrity_correct": "Solicitas una reunión para discutir cómo el contexto afecta tu desempeño y pedir métricas justas, aunque esto pueda parecer que buscas excusas.",
+      "pragmatic_distractor": "Redoblás esfuerzos para mejorar los indicadores señalados, asumiendo que demostrar resultados es la única forma de revertir la percepción negativa.",
+      "evasive_distractor": "Aceptas la retroalimentación sin discutir y ajustas lo que puedes, esperando que el contexto mejore y la evaluación se vuelva más favorable.",
+      "rationalized_distractor": "Documentas las condiciones adversas para protegerte si la situación escala, pero sin confrontar directamente al supervisor."
+    },
+    "word_count": 73,
+    "char_count": 365,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: parecer que busca excusas.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q015",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa cambia metodologías cada pocas semanas, generando inestabilidad e incertidumbre. No tienes claridad sobre el futuro del entorno laboral y varios compañeros están frustrados. Tu salario es esencial para tu familia y necesitas estabilidad. ¿Cómo enfrentas esta falta de previsibilidad en tu trabajo?",
+    "options_structured": {
+      "integrity_correct": "Pides una reunión con tu supervisor para obtener claridad sobre el rumbo y proponer puntos de estabilidad mínimos, aunque esto pueda verse como impaciencia o desconfianza.",
+      "pragmatic_distractor": "Te adaptas a cada cambio sin cuestionar y desarrollas habilidades transferibles, asumiendo que la flexibilidad extrema es tu mejor protección.",
+      "evasive_distractor": "Cumples con lo requerido y compartes inquietudes solo con compañeros de confianza, evitando ser el primero en plantear el problema formalmente.",
+      "rationalized_distractor": "Mantienes tu desempeño mientras exploras opciones externas discretamente, priorizando tener un plan B sin confrontar la incertidumbre actual."
+    },
+    "word_count": 74,
+    "char_count": 378,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: verse impaciente o desconfiado.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q016",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Enfrentas cambios organizacionales importantes junto con alta presión por plazos estrictos. El estrés afecta tu bienestar y tienes múltiples prioridades compitiendo por tu tiempo. Otros compañeros experimentan lo mismo pero nadie lo plantea abiertamente. ¿Cómo manejas esta sobrecarga en un contexto de cambio?",
+    "options_structured": {
+      "integrity_correct": "Propones a tu supervisor una priorización clara de tareas y plazos realistas, aunque esto pueda interpretarse como incapacidad para manejar la presión.",
+      "pragmatic_distractor": "Trabajas más horas para cumplir con todo, asumiendo que demostrar capacidad bajo presión asegurará tu posición cuando se estabilice la situación.",
+      "evasive_distractor": "Haces lo que puedes sin escalar y esperas que otros planteen primero el problema de la sobrecarga al supervisor.",
+      "rationalized_distractor": "Priorizas por tu cuenta lo que consideras más importante, sin comunicarlo formalmente, argumentando que así evitas generar más trabajo para todos."
+    },
+    "word_count": 75,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: parecer incapaz de manejar presión.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q017",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te asignan un nuevo rol con responsabilidades adicionales sin reducir las actuales. Tienes múltiples prioridades compitiendo por tu tiempo y tu supervisor espera que manejes todo sin apoyo adicional. Tu familia depende de tu ingreso. ¿Cómo respondes a esta expansión de responsabilidades sin recursos?",
+    "options_structured": {
+      "integrity_correct": "Solicitas una reunión para definir prioridades claras y negociar apoyo o ajuste de expectativas, aunque esto pueda verse como falta de compromiso con el nuevo rol.",
+      "pragmatic_distractor": "Aceptas todo y reorganizas tu tiempo personal para cumplir, asumiendo que el sacrificio temporal demostrará tu valor para futuras oportunidades.",
+      "evasive_distractor": "Haces lo mejor que puedes sin escalar y esperas que tu supervisor note la sobrecarga por sí mismo.",
+      "rationalized_distractor": "Priorizas las tareas del nuevo rol y dejas que algunas responsabilidades anteriores se atrasen, argumentando que lo nuevo es lo que ahora importa."
+    },
+    "word_count": 76,
+    "char_count": 374,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: verse poco comprometido.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q018",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa reestructura equipos mientras tu supervisor te da retroalimentación negativa frecuente. El estrés afecta tu confianza y sientes que no puedes cumplir expectativas en este contexto de cambio constante. Tu salario es crucial para tu familia. ¿Cómo manejas esta presión sobre tu desempeño y confianza?",
+    "options_structured": {
+      "integrity_correct": "Pides una reunión para entender exactamente qué se espera de ti y proponer un plan de mejora con hitos claros, aunque esto pueda exponer tus inseguridades.",
+      "pragmatic_distractor": "Te esfuerzas al máximo para mejorar los puntos señalados, asumiendo que resultados visibles cambiarán la percepción sin necesidad de conversaciones incómodas.",
+      "evasive_distractor": "Aceptas la retroalimentación sin discutir y buscas apoyo informal en compañeros, evitando profundizar el tema con tu supervisor.",
+      "rationalized_distractor": "Mantienes tu nivel actual argumentando que el contexto hace imposible mejorar más, y esperas que la reestructuración cambie las dinámicas."
+    },
+    "word_count": 77,
+    "char_count": 376,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: exponer inseguridades.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q019",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa implementa nuevas políticas cada pocas semanas, generando inestabilidad e incertidumbre. No tienes claridad sobre el futuro del entorno laboral y varios compañeros están frustrados. Tu ingreso familiar depende de este trabajo. ¿Cómo enfrentas la falta de estabilidad sin poner en riesgo tu posición?",
+    "options_structured": {
+      "integrity_correct": "Propones a tu supervisor establecer puntos de revisión periódicos para evaluar el impacto de los cambios, aunque esto pueda verse como resistencia a la flexibilidad.",
+      "pragmatic_distractor": "Te adaptas a cada política sin cuestionar y documentas impactos por tu cuenta, asumiendo que la evidencia hablará por sí sola eventualmente.",
+      "evasive_distractor": "Cumples con lo requerido y compartes frustraciones solo en espacios informales, esperando que otros escalen el tema primero.",
+      "rationalized_distractor": "Mantienes tu desempeño mientras exploras opciones internas en áreas más estables, priorizando tu seguridad sin confrontar la situación."
+    },
+    "word_count": 77,
+    "char_count": 374,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: verse resistente a flexibilidad.",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q020",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu supervisor cambia y el nuevo implementa metodologías completamente diferentes. La incertidumbre afecta al equipo y varios compañeros tienen dificultades para adaptarse. No tienes claridad sobre cómo será el entorno laboral. Tu familia depende de tu ingreso estable. ¿Cómo te posicionas ante este cambio de liderazgo?",
+    "options_structured": {
+      "integrity_correct": "Pides una reunión individual para entender las nuevas expectativas y proponer acuerdos de transición, aunque esto pueda incomodar al nuevo supervisor cuestionando su estilo.",
+      "pragmatic_distractor": "Te adaptas rápidamente al nuevo estilo y ofreces ayudar a compañeros con dificultades, posicionándote como aliado del nuevo liderazgo.",
+      "evasive_distractor": "Observas cómo otros se adaptan antes de tomar postura y cumples con lo solicitado sin hacer preguntas que puedan parecer cuestionamientos.",
+      "rationalized_distractor": "Mantienes tu desempeño actual y esperas que el supervisor se ajuste al equipo con el tiempo, argumentando que la adaptación debe ser mutua."
+    },
+    "word_count": 78,
+    "char_count": 379,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactored per SOT M2 Opciones. Integrity cost: incomodar al nuevo supervisor.",
+    "sot_checksum": "m2opt_v1_20251130"
+  }
+]

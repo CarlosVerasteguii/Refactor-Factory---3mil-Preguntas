@@ -13,6 +13,8 @@ Este documento reemplaza versiones previas. Usa SOT módulo-específicos:
 - Banned words: ver `config/banned_words.txt`. Reemplazar según mapa.
 - Evita tecnicismos y anglicismos innecesarios.
 - PROHIBIDO vocabulario técnico específico: Scrum, Kanban, CEO, CTO, Sprint, Backlog, Software, App, Startup. Usar términos genéricos (ver banned_words.txt).
+-
+- PRIORIDAD GRAMATICAL: Si hay conflicto entre cumplir exactamente los rangos de longitud y mantener una redacción gramaticalmente correcta y natural en español (artículos, sujetos, concordancias, fluidez), SIEMPRE se prioriza la corrección gramatical. Es aceptable salir ligeramente de los rangos (por pocas palabras o caracteres) para evitar frases telegráficas o estructuras agramaticales.
 
 ## Estructura obligatoria (Video / Open)
 1) Contexto + presion en 1-2 frases.

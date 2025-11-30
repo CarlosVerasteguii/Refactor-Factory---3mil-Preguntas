@@ -9,7 +9,7 @@ Use the approved templates in `SourceofTruth/OPEN_GoldenSample_v2.md` (video) an
 
 # AUDIT PROTOCOL (EXECUTE IN ORDER)
 
-For every item in the `candidate_json`, perform these 3 checks:
+For every item in the `candidate_json`, perform these checks (en orden):
 
 ## CHECK 1: The "Banned Words" Scan
 Scan all text fields (scenario, options, reasoning).
@@ -36,6 +36,17 @@ Scan all text fields (scenario, options, reasoning).
     - *Pass Example:* "You report the error, risking your supervisor's anger." (Cost applied).
 - **For video items:** El camino integro implica costo personal? Si no, RECHAZA.
 - If the correct option sounds too easy or heroic, REJECT it.
+
+## CHECK 4: Basic Grammar/Syntax Sanity (Spanish)
+- No reescribas contenido, solo detecta patrones claramente sospechosos de sintaxis o articulos faltantes en español.
+- Ejemplos de patrones a marcar como posibles errores gramaticles (no exhaustivo):
+  - "aceptas trato injusto", "aceptas trato X" (falta "un")
+  - "pierdes oportunidad", "pierdes oportunidad X" (falta "la")
+  - "quedas bien con grupo" (falta "el")
+  - "tu jefe no está." / "tu supervisor no está." sin adjetivo posterior ("disponible/presente")
+- Si detectas uno de estos patrones (o variaciones obvias) en `refactored_text` o `scenario`:
+  - NO intentes corregirlo.
+  - Marca el item como REJECTED y agrega en `feedback_for_fix` un mensaje del tipo: "Item ID X: posible articulo o sujeto ausente; el agente debe hacer una revision gramatical quirurgica priorizando español natural sobre longitud estricta."
 
 # OUTPUT FORMAT (REPORT CARD)
 You must return a JSON object. DO NOT fix the text. Just report.

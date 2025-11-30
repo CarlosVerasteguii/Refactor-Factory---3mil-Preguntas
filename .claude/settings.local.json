@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(md5sum:*)",
+      "Bash(mkdir:*)",
+      "Bash(text=\"Estás en la reunión final con un cliente que representa el 40% de los ingresos del trimestre. Tu supervisor presenta proyecciones que notas infladas y optimistas en exceso. El cliente está impresionado y listo para firmar. Si no se cierra el trato, habrá recortes serios que afectarán a tu equipo, probablemente con despidos. ¿Qué haces?\")",
+      "Bash(echo:*)",
+      "Bash(certutil:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -29,13 +29,20 @@ Ensure the "Correct" action hurts.
 ## 3. Draft the Narrative (SOT Structure)
 - Escribe 1-2 frases de escenario que combinen contexto + complicacion + dos caminos (etico con costo vs beneficio rapido). Usa puntuacion/";" para condensar como en las muestras.
 - Cierra con una pregunta directa y breve (ej: "Que haces y como lo explicas?").
-- Manten <= 80 palabras, tono profesional accesible, sin rellenar.
+- Manten como objetivo 65-80 palabras y 300-380 caracteres, tono profesional accesible, sin rellenar. Si para mantener español natural y gramaticalmente correcto (articulos, sujetos, concordancias) necesitas pasarte ligeramente de esos rangos, PRIORIZA la correccion gramatical sobre la longitud estricta.
 
 ## 4. Sanitize Language (Style Check)
 - Check `config/banned_words.txt`.
 - Replace "Stakeholders" -> "Clients/Partners".
 - Replace "HR" -> "Personnel/Staff".
 - Tone: Professional but accessible (Grade 10 reading level).
+
+## 5. Grammar-First Surgical Review (Spanish Naturalness)
+- Antes de devolver cada item, relee SOLO el `refactored_text` pensando en español natural:
+  - Corrige de forma QUERÚRGICA articulos y sujetos ausentes o extraños (ejemplos tipicos: "aceptas trato injusto", "pierdes oportunidad", "quedas bien con grupo", "tu jefe no está." sin "disponible/presente").
+  - Ajusta concordancias y fluidez minima si una frase suena cortada o telegráfica.
+- Haz cambios MINIMOS: no cambies el dilema central ni el costo psicometrico, solo la superficie gramatical.
+- Si esta revision gramatical te lleva a superar ligeramente los limites de longitud, aceptalo: la prioridad es que el texto suene a español correcto y natural.
 
 # OUTPUT FORMAT
 Return a pure JSON Array containing the refactored items.

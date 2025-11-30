@@ -1,0 +1,11 @@
+{"id": "block-B08-q001", "step": "length_validation", "status": "fail", "note": "Scenario 60w/383c exceeds char limit. Requires ultra compression (18%) vs Spanish natural avg.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q002", "step": "length_validation", "status": "fail", "note": "Scenario 63w/427c exceeds limits. Compression challenge: 65-80w + 300-380c requires 5.4 chars/word avg vs 6.5 Spanish natural.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q003", "step": "length_validation", "status": "fail", "note": "Scenario 64w/400c. Near word target but 20c over char limit.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q004", "step": "length_validation", "status": "partial", "note": "Scenario 68w [OK] / 415c [FAIL]. Word count in range, chars exceed by 35.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q005", "step": "length_validation", "status": "fail", "note": "Scenario 64w/391c. 1w short, 11c over.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q006", "step": "length_validation", "status": "fail", "note": "Scenario 62w/428c. 3w short, 48c over.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q007", "step": "length_validation", "status": "partial", "note": "Scenario 68w [OK] / 433c [FAIL]. Word count in range, chars exceed by 53.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q008", "step": "length_validation", "status": "partial", "note": "Scenario 67w [OK] / 452c [FAIL]. Word count in range, chars exceed by 72.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q009", "step": "length_validation", "status": "partial", "note": "Scenario 70w [OK] / 453c [FAIL]. Word count in range, chars exceed by 73.", "timestamp": "2025-11-29T05:45:00Z"}
+{"id": "block-B08-q010", "step": "length_validation", "status": "partial", "note": "Scenario 74w [OK] / 485c [FAIL]. Word count in range, chars exceed by 105.", "timestamp": "2025-11-29T05:45:00Z"}
+{"batch": "module4-B08-01", "step": "batch_summary", "status": "fail_fast_activated", "total_items": 10, "passed": 0, "failed": 10, "note": "FAIL-FAST: Constraint conflict detected. Target 65-80w + 300-380c requires 5.36 chars/word avg vs 6.5 Spanish natural. Multiple refactor iterations failed. Recommend relaxing char limit to 400-450 OR reducing word requirement to 55-70.", "timestamp": "2025-11-29T05:45:00Z"}

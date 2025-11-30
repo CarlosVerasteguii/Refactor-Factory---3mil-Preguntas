@@ -18,6 +18,7 @@ agent:
       - Integrity choice must be HARD to select (if too easy, the item fails psychometrically)
       - Vary openings and closings; keep concise
       - Honor banned_words replacements
+      - NEVER use "trabajo infantil" - replace with "mano de obra mal pagada", "condiciones laborales precarias", or "prácticas laborales cuestionables"
 
   prompts:
     - id: refactor-video
@@ -39,7 +40,8 @@ agent:
         4) Draft 2-3 frases (meta 65-80 palabras, max 80; meta 320-350 caracteres, rango 300-380) con contexto+presion y dos caminos claros (integridad con costo inmediato vs atajo/beneficio).
         5) Close con pregunta variada ("Que haces y por que?", "Como justificas tu decision?", "Que priorizas y por que?").
         6) Enforce 65-80 palabras y 300-380 caracteres (meta 320-350); si <60 o >80 palabras o <300 o >380 caracteres, reescribir; sin banned words; tono profesional accesible.
-        7) Output JSON object:
+        7) CRITICAL: Never use "trabajo infantil" - always replace with "mano de obra mal pagada", "condiciones laborales precarias", or "prácticas laborales cuestionables".
+        8) Output JSON object:
            {
              "id": "block-{{block_id}}-q{{zero_padded_item_index}}",
              "module_id": {{module_id}},
@@ -54,7 +56,7 @@ agent:
         <checks>
         - Two clear paths present
         - Integrity choice has immediate HIGH cost (frustración, evaluación, reputación) - must be HARD to choose
-        - Banned words replaced
+        - Banned words replaced (including "trabajo infantil" -> "mano de obra mal pagada" or similar)
         - Length 65-80 words (reject <60 or >80)
         - Characters 300-380 (reject outside range)
         </checks>
