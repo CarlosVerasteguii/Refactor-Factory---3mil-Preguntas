@@ -55,12 +55,12 @@
     },
     "notes": "SOT M1 Opciones; escenario ajustado a rango y costo de integridad reforzado.",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
-    "word_count": 70,
-    "char_count": 350,
+    "word_count": 72,
+    "char_count": 373,
     "length_status": "ok",
     "length_note": "",
-    "audit_status": "ok",
-    "audit_notes": "Manual fix: Expanded scenario and strengthened integrity cost."
+    "audit_status": "frozen",
+    "audit_notes": "integrity_weak_cost: Missing explicit HIGH cost (frustración, riesgo, reputación, evaluación)"
   },
   {
     "id": "block-B02-q014",
@@ -80,8 +80,8 @@
     "char_count": 313,
     "length_status": "ok",
     "length_note": "",
-    "audit_status": "ok",
-    "audit_notes": "Manual fix: Strengthened integrity cost."
+    "audit_status": "frozen",
+    "audit_notes": "integrity_weak_cost: Missing explicit HIGH cost (frustración, riesgo, reputación, evaluación)"
   },
   {
     "id": "block-B02-q015",
@@ -102,7 +102,7 @@
     "length_status": "ok",
     "length_note": "",
     "audit_status": "ok",
-    "audit_notes": "Manual fix: Strengthened integrity cost."
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q016",
@@ -185,8 +185,8 @@
     "char_count": 316,
     "length_status": "ok",
     "length_note": "",
-    "audit_status": "ok",
-    "audit_notes": "Manual fix: Strengthened integrity cost."
+    "audit_status": "frozen",
+    "audit_notes": "integrity_weak_cost: Missing explicit HIGH cost (frustración, riesgo, reputación, evaluación)"
   },
   {
     "id": "block-B02-q020",
