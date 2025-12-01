@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-30T23:57:24.128168",
+  "total_items": 400,
+  "chunk_size": 50,
+  "chunks_count": 8,
+  "by_module": {
+    "1": 80,
+    "2": 80,
+    "3": 80,
+    "4": 80,
+    "5": 80
+  },
+  "by_type": {
+    "video": 200,
+    "options": 200
+  },
+  "files_processed": [
+    "module1_all.json",
+    "module2_all.json",
+    "module3_all.json",
+    "module4_all.json",
+    "module5_all.json"
+  ]
+}
