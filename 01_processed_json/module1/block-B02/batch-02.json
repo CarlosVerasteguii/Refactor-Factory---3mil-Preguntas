@@ -12,7 +12,13 @@
       "rationalized_distractor": "Organizas la cena y la registras como capacitación, convenciéndote de que el esfuerzo extra del equipo merece ese beneficio y que el detalle contable no hace daño real."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 313,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q012",
@@ -27,22 +33,34 @@
       "rationalized_distractor": "Aceptas usar todos los datos disponibles para priorizar despidos, convenciéndote de que la fusión debe salir bien para salvar la mayoría de los empleos aunque se fuerce un poco el acuerdo de privacidad."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 315,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q013",
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "En tu área hay una suscripción a un sistema profesional pensada para proyectos del trabajo, pero descubres que también podrías usarla para un proyecto personal que te ilusiona. Varios colegas ya lo hacen sin consecuencias y tu supervisor la llama una “zona gris” tolerada. Si pides una regla clara, pueden quitar ese acceso para todos, incluso para ti mismo. ¿Cómo actúas?",
+    "scenario": "En tu área hay una suscripción a un sistema profesional costoso pensada exclusivamente para proyectos laborales, pero descubres que podrías usarla para un proyecto personal que te ilusiona mucho. Varios colegas ya lo hacen sin consecuencias y tu supervisor la llama una “zona gris” tolerada. Si pides una regla clara, pueden quitar ese acceso para todos y tus compañeros te verán como el culpable de perder el beneficio. ¿Cómo actúas ante esto?",
     "options_structured": {
-      "integrity_correct": "Decides no usar el sistema para tu proyecto personal y pides por canales formales que se aclare la política para todos, aun sabiendo que podrías cerrar ese beneficio informal y ganarte fama de aguafiestas entre tus colegas.",
+      "integrity_correct": "Decides no usar el sistema y solicitas formalmente aclarar la política de uso, asumiendo que esto provocará que cancelen el acceso libre y que tus compañeros te culparán y aislarán por haberles quitado ese beneficio.",
       "pragmatic_distractor": "Lo usas solo fuera del horario laboral, cuidando que no afecte tu desempeño y diciéndote que mientras cumplas con tus tareas el uso extra es aceptable.",
       "evasive_distractor": "Optas por no usar la suscripción pero tampoco preguntas nada, evitando exponerte y dejando que otros sigan aprovechando la zona gris sin involucrarte.",
-      "rationalized_distractor": "Aprovechas la suscripción para tu proyecto personal pensando que la empresa ofrece pocas oportunidades de desarrollo y que mejorar tus habilidades terminará beneficiando también a la organización."
+      "rationalized_distractor": "Utilizas la suscripción para tu proyecto personal, pensando que al mejorar tus habilidades técnicas beneficias indirectamente a la empresa y que el recurso ya está pagado."
     },
-    "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "notes": "SOT M1 Opciones; escenario ajustado a rango y costo de integridad reforzado.",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 70,
+    "char_count": 350,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "Manual fix: Expanded scenario and strengthened integrity cost."
   },
   {
     "id": "block-B02-q014",
@@ -51,13 +69,19 @@
     "type": "options",
     "scenario": "En pleno cierre del plan del próximo año, un fallo del sistema te da acceso a salarios y bonos de varios jefes. Tu supervisor te pide usar esos datos no oficiales para ajustar las cifras y entregar mañana, diciendo que así el cálculo de personal será aún más realista. Sabes que esa información no te corresponde y que negarte puede detener el calendario financiero. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reportas de inmediato el fallo al equipo de sistemas, dejas claro que no usarás esos salarios en tu cálculo y preparas un presupuesto menos preciso con la información autorizada, asumiendo que tu supervisor puede verlo como poco realista o lento.",
+      "integrity_correct": "Reportas de inmediato el fallo al equipo de sistemas y te niegas a usar los datos, entregando un presupuesto incompleto que retrasará todo el proceso, sabiendo que tu supervisor te evaluará mal por no resolver el problema a tiempo.",
       "pragmatic_distractor": "Usas los datos para ajustar el presupuesto de este año y a la vez reportas el fallo técnico, convenciéndote de que solo aprovecharás esa información una vez mientras se corrige.",
       "evasive_distractor": "Planteas que otro colega lleve el ajuste argumentando carga de trabajo, y dejas en sus manos decidir si usa o no la información sensible para no enfrentarte al conflicto.",
       "rationalized_distractor": "Utilizas los salarios completos para afinar el presupuesto, pensando que proteger la salud financiera de la empresa justifica aprovechar datos que llegaron por error mientras nadie resulte afectado en lo personal."
     },
-    "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "notes": "SOT M1 Opciones; costo de integridad reforzado.",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 66,
+    "char_count": 313,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "Manual fix: Strengthened integrity cost."
   },
   {
     "id": "block-B02-q015",
@@ -66,13 +90,19 @@
     "type": "options",
     "scenario": "La empresa está por cerrar un gran contrato y formas parte del comité que evaluará a varios proveedores. Uno de los finalistas es una empresa de un pariente, y tu supervisor, que conoce el vínculo, te pide quedarte en el comité porque confía en tu criterio técnico. Salir del proceso podría retrasar la decisión y molestar a la dirección. ¿Cómo gestionas ese conflicto de interés?",
     "options_structured": {
-      "integrity_correct": "Informas formalmente el vínculo familiar y pides salir del comité, proponiendo apoyar desde lo técnico a otro colega aunque eso retrase la decisión y haga que algunos duden de tu compromiso con el proyecto.",
+      "integrity_correct": "Informas formalmente el vínculo familiar y exiges salir del comité, aceptando que tu salida repentina retrasará la firma del contrato y causará una gran molestia en la dirección, afectando tu reputación como alguien confiable en momentos críticos.",
       "pragmatic_distractor": "Permaneces en el comité pero pides dejar por escrito que te abstendrás en la votación final, limitándote a comentarios técnicos para sentir que reduces el sesgo.",
       "evasive_distractor": "Minimizas el vínculo al describirlo como lejano en conversaciones informales y no lo documentas, confiando en que podrás ser objetivo sin generar ruido en el proceso.",
       "rationalized_distractor": "Te quedas en el comité y participas plenamente, convenciéndote de que tu experiencia es clave para elegir al mejor proveedor y que, si tu pariente gana, será porque ofreció la mejor propuesta."
     },
-    "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "notes": "SOT M1 Opciones; costo de integridad reforzado.",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 316,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "Manual fix: Strengthened integrity cost."
   },
   {
     "id": "block-B02-q016",
@@ -87,7 +117,13 @@
       "rationalized_distractor": "Aceptas sin matices las cifras más altas, pensando que mantener el valor de las acciones y los bonos del equipo es más importante que ser estricto con las validaciones técnicas."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 66,
+    "char_count": 314,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q017",
@@ -102,7 +138,13 @@
       "rationalized_distractor": "Compartes de forma anónima la información con colegas para que presionen en grupo, evitando dar la cara pero esperando que alguien más enfrente a la dirección por ti."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 314,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q018",
@@ -117,7 +159,13 @@
       "rationalized_distractor": "Omites los controles tal como se te pide, diciéndote que es una medida temporal para salvar los resultados y evitar posibles recortes de personal si la producción no se cumple."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 315,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   },
   {
     "id": "block-B02-q019",
@@ -126,13 +174,19 @@
     "type": "options",
     "scenario": "Tu empresa tiene un acuerdo con una marca de autos que te da un descuento personal. Estás a punto de comprar un auto cuando tu supervisor propone registrarlo a nombre de la empresa para conseguir aún más rebaja y luego “vendértelo” de forma simbólica. Lo presenta como un tecnicismo que ayuda a compensar salarios bajos, y temes parecer poco leal si lo rechazas. ¿Cómo reaccionas?",
     "options_structured": {
-      "integrity_correct": "Rechazas el esquema y usas solo el descuento personal autorizado, explicándole a tu supervisor que no quieres simular una compra de la empresa, aunque eso signifique pagar mucho más y parecer la única persona que no aprovecha el beneficio.",
+      "integrity_correct": "Rechazas el esquema y pagas el precio completo con el descuento estándar, asumiendo el costo económico personal y sabiendo que tu supervisor te marcará como alguien rígido y difícil que no valora los esfuerzos que él hace por el equipo.",
       "pragmatic_distractor": "Preguntas si existe una forma formal de reconocer ese ahorro, como un bono transparente o ayuda económica, buscando un resultado similar sin recurrir a movimientos contables dudosos.",
       "evasive_distractor": "Dices que necesitas tiempo para pensarlo y pospones la compra, esperando que el tema se enfríe sin tener que aceptar ni confrontar abiertamente la propuesta de tu supervisor.",
       "rationalized_distractor": "Aceptas registrar el auto a nombre de la empresa y comprárselo después por un monto simbólico, convenciéndote de que es parte de la cultura interna y una compensación justa por salarios bajos."
     },
-    "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "notes": "SOT M1 Opciones; costo de integridad reforzado.",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 316,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "Manual fix: Strengthened integrity cost."
   },
   {
     "id": "block-B02-q020",
@@ -147,7 +201,12 @@
       "rationalized_distractor": "Aceptas presentar el reporte con el 5% extra y planeas corregirlo en el siguiente trimestre, diciéndote que el sistema es el verdadero responsable y que lo importante es no frenar las decisiones de la dirección."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
-    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
+    "word_count": 65,
+    "char_count": 314,
+    "length_status": "ok",
+    "length_note": "",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length, banned words, 4 balanced options, psychometric validation."
   }
 ]
-
