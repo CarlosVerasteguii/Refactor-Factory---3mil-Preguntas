@@ -1,0 +1,21 @@
+{"timestamp":"2025-12-01T05:10:00.000Z","batch_num":"03","module_id":3,"block_id":"B06","target_type":"options","items_processed":20,"start_index":21,"end_index":40,"source_file":"00_raw_data/6Bloque.md","sot_file":"SourceofTruth/SOT_Modulo3_Opciones.md","sot_checksum":"D739B398","agents_used":["options-refactor-sot","length-guard-sot","audit-sot"],"length_spec":{"words":{"min":60,"max":80,"target":"65-80"},"chars":{"min":300,"max":380,"target":"320-350"}},"validation_summary":{"total":20,"ok":20,"frozen":0},"notes":"Batch-03 procesado inline. Items q021-q040 refactorizados con costo explícito en opción de integridad."}
+{"item_id":"block-B06-q021","word_count":68,"char_count":352,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q022","word_count":66,"char_count":356,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q023","word_count":66,"char_count":345,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q024","word_count":65,"char_count":323,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q025","word_count":65,"char_count":340,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q026","word_count":65,"char_count":333,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q027","word_count":68,"char_count":371,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q028","word_count":69,"char_count":376,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q029","word_count":67,"char_count":362,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q030","word_count":65,"char_count":318,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q031","word_count":69,"char_count":373,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q032","word_count":66,"char_count":346,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q033","word_count":65,"char_count":328,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q034","word_count":65,"char_count":308,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q035","word_count":67,"char_count":361,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q036","word_count":65,"char_count":355,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q037","word_count":65,"char_count":321,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q038","word_count":65,"char_count":300,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q039","word_count":65,"char_count":323,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}
+{"item_id":"block-B06-q040","word_count":65,"char_count":313,"length_status":"ok","audit_status":"ok","agent":"options-refactor-sot"}

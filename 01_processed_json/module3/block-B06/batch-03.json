@@ -1,0 +1,382 @@
+[
+  {
+    "id": "block-B06-q021",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Te llega información privilegiada sobre un ajuste interno que aún no se anuncia. La dirección presiona por cerrar un trato clave que se beneficiaría de esa información pero cuyo uso podría ser cuestionable. Si la usas, cumples metas y subes tu perfil. Si adviertes del riesgo, podrías frenar el negocio y quedar como obstáculo. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Alertas sobre el origen dudoso de la información y recomiendas no usarla aunque eso retrase el trato, genere molestia en la dirección y afecte tu imagen de ejecutor eficaz.",
+      "pragmatic_distractor": "Usas la información para orientar la negociación sin citarla explícitamente, confiando en que si no queda documentada el riesgo será bajo y los resultados hablarán por sí solos.",
+      "evasive_distractor": "Consultas al área legal sobre el uso de información no pública y postergas tu recomendación hasta recibir su dictamen, evitando definirte antes de que otro valide.",
+      "rationalized_distractor": "Aprovechas la información porque crees que la competencia haría lo mismo y que tu deber primordial es proteger los intereses comerciales de la empresa."
+    },
+    "word_count": 68,
+    "char_count": 352,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #11. Costo explícito: retraso del trato y etiqueta de obstáculo.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q022",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu equipo enfrenta conflictos internos mientras lideras un proyecto cuyas decisiones impactarán la calidad de vida de una comunidad vecina. Si priorizas el bienestar comunitario, el conflicto podría escalar y algunos colegas te culparán por tensionar el ambiente. Si calmas al equipo cediendo en aspectos sociales, sentirás que traicionas tus valores. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Defiendes medidas que protejan a la comunidad aunque agraven las tensiones internas, explicando los riesgos con transparencia y aceptando que tu liderazgo sea cuestionado por quienes prefieren la calma.",
+      "pragmatic_distractor": "Propones un diseño intermedio que reduce algo el impacto social pero mantiene los plazos, confiando en que la comunidad tolerará molestias menores si la comunicación es cuidadosa.",
+      "evasive_distractor": "Creas un grupo de trabajo para que el equipo defina la postura y tú solo facilitas, esperando un consenso que te libere de asumir la decisión difícil.",
+      "rationalized_distractor": "Eliges la opción que calma más rápido el conflicto interno, argumentando que un equipo cohesionado es condición indispensable para cualquier resultado de largo plazo."
+    },
+    "word_count": 66,
+    "char_count": 356,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #12. Costo explícito: liderazgo cuestionado y tensión interna.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q023",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Notas que tu jefe asigna proyectos clave y bonos a ciertos colegas sin criterios claros, mientras tú debes recomendar quién lidera una iniciativa importante. Si expones el favoritismo y propones criterios transparentes, arriesgas tu relación con él y con quienes reciben trato preferente. Si guardas silencio, perpetúas la injusticia y tu integridad queda en duda. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Confrontas el favoritismo proponiendo criterios transparentes para decisiones, aunque eso tense tu relación con el jefe y con colegas beneficiados y te cierre oportunidades futuras.",
+      "pragmatic_distractor": "Sugieres ajustes menores en asignaciones para atenuar los casos más notorios sin cuestionar a tu jefe de frente, buscando equilibrar algo la situación sin arriesgar tu posición.",
+      "evasive_distractor": "Recopilas testimonios de forma anónima y los compartes con instancias internas de apoyo, esperando que alguien de nivel superior intervenga sin notar tu participación.",
+      "rationalized_distractor": "Decides no intervenir y cultivas buenas relaciones con quienes gozan de trato preferente, convenciéndote de que así podrás influir más adelante sin exponerte ahora."
+    },
+    "word_count": 66,
+    "char_count": 355,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #13. Corregido: enfoque claro en favoritismos. Costo explícito: fricción con jefe y colegas favorecidos.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q024",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu supervisor te presiona para decidir rápido qué personas conservarán su puesto en una reestructuración. Los candidatos que entregan resultados rápidos han rozado límites éticos; los más cuidadosos son más lentos. Si defiendes a los segundos, retrasas metas, irritas a la dirección y pones en riesgo tu evaluación. ¿Cómo decides?",
+    "options_structured": {
+      "integrity_correct": "Defiendes a quienes han actuado con mayor cuidado ético aunque su velocidad sea menor, explicando que no quieres premiar atajos cuestionables, aun sabiendo que eso puede retrasar metas e incomodar a tu supervisor.",
+      "pragmatic_distractor": "Mantienes a los más rápidos pero pides reforzar controles y formación ética, confiando en que con mayor supervisión reducirás el riesgo sin sacrificar desempeño.",
+      "evasive_distractor": "Solicitas que un comité superior tome la decisión basándose en métricas existentes y te limitas a entregar datos, evitando posicionarte sobre los casos polémicos.",
+      "rationalized_distractor": "Seleccionas a quienes entregan cifras rápidas, argumentando que la empresa atraviesa un momento crítico y primero hay que asegurar resultados; luego habrá tiempo para revisar temas éticos."
+    },
+    "word_count": 65,
+    "char_count": 323,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #14. Costo explícito: metas retrasadas y evaluación en riesgo.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q025",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes manejar múltiples intereses mientras navegas un conflicto entre lo que conviene a la empresa y lo que protege tu posición personal. Si recomiendas lo mejor para la organización podrías perder beneficios propios; si cuidas tu situación, la empresa pierde oportunidades. Algunos compañeros te presionan en ambas direcciones. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Recomiendas lo que más beneficia a la empresa aunque implique recortes que afecten tu rol, dejando constancia de tus reservas y asumiendo el riesgo de perder influencia o ciertos beneficios.",
+      "pragmatic_distractor": "Intentas un punto medio que preserve tu posición y ofrezca mejoras moderadas a la empresa, confiando en que un acuerdo aceptable será mejor que abrir un conflicto profundo.",
+      "evasive_distractor": "Pides más estudios y revisiones para posponer la decisión mientras observas cómo evoluciona la situación, sin mostrar claramente qué alternativa prefieres.",
+      "rationalized_distractor": "Optas por proteger tu rol y los ingresos de tu área, argumentando que si te mantienes fuerte podrás aportar más valor a la empresa en el futuro."
+    },
+    "word_count": 65,
+    "char_count": 340,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #15. Costo explícito: pérdida de rol e influencia personal.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q026",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Recibes información competitiva confidencial cuyo origen desconoces. La dirección te pide usarla para ajustar precios y mensajes sin revelar de dónde viene. Si transparentas la situación, podrías perder la ventaja y quedar como quien complicó una oportunidad. Si la usas en silencio, sientes que cruzas una línea ética. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Informas que la información llegó por un canal cuestionable y propones no usarla hasta aclarar su origen, aunque pierdas la oportunidad de ajustar la estrategia y algunos directivos te vean como poco práctico.",
+      "pragmatic_distractor": "Usas los datos solo para orientar decisiones internas sin citarlos en documentos formales, convencido de que mientras no queden registrados el riesgo será bajo.",
+      "evasive_distractor": "Sugieres que un asesor externo evalúe el uso de esa información y pospones cualquier decisión, esperando que otra persona asuma la responsabilidad final.",
+      "rationalized_distractor": "Decides usar la información porque crees que así proteges empleos y resultados, minimizando la importancia de cómo se obtuvo."
+    },
+    "word_count": 65,
+    "char_count": 333,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #16. Costo explícito: pérdida de ventaja y etiqueta de poco práctico.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q027",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Te proponen firmar una alianza con un competidor para compartir datos sensibles. No tienes información completa sobre riesgos legales ni de confidencialidad, pero la dirección destaca los beneficios económicos y espera tu recomendación rápida. Si adviertes los riesgos y frenas la negociación, podrías ser visto como obstáculo. Si apoyas, podrías exponer a la empresa. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Recomiendas frenar la alianza hasta tener una evaluación independiente de riesgos y condiciones claras de confidencialidad, aunque eso retrase el proyecto, incomode a la dirección y te haga parecer quien complica la oportunidad.",
+      "pragmatic_distractor": "Apoyas avanzar con un acuerdo piloto limitado, confiando en que podrás corregir problemas sobre la marcha si surgen riesgos imprevistos.",
+      "evasive_distractor": "Planteas el caso a varios directivos y dejas que ellos definan la postura final, presentando pros y contras sin inclinarte claramente por ninguna opción.",
+      "rationalized_distractor": "Respaldas la alianza argumentando que, si es legal y beneficia las finanzas, cualquier duda ética es secundaria frente a la obligación de cuidar resultados."
+    },
+    "word_count": 68,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #17. Costo explícito: retraso del proyecto y etiqueta de complicador.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q028",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes comunicar públicamente los resultados de un estudio de impacto social de tu empresa. Ciertos datos son técnicamente correctos pero podrían frenar inversiones y generar críticas. Si los destacas con claridad, enfrentarás a la dirección y a inversionistas. Si los minimizas, la comunidad podría tomar decisiones sin información completa. Tu voz define el tono del mensaje. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Presentas los datos sensibles con total claridad y contexto, advirtiendo los riesgos aunque eso genere críticas, frene inversiones y te convierta en la cara asociada a las malas noticias.",
+      "pragmatic_distractor": "Resaltas primero los beneficios del proyecto y colocas los datos más preocupantes en anexos técnicos, confiando en que quien necesite la información la encontrará sin crear alarma innecesaria.",
+      "evasive_distractor": "Propones que otra área más acostumbrada a manejar temas públicos lidere la comunicación y te limitas a revisar el texto sin insistir demasiado en cómo se presentan los riesgos.",
+      "rationalized_distractor": "Minimizas los datos delicados en la comunicación principal, argumentando que exagerarlos perjudicaría empleos y que lo responsable es no alimentar temores hasta tener más evidencia."
+    },
+    "word_count": 69,
+    "char_count": 376,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #18. Costo explícito: críticas públicas y tensión con dirección e inversionistas.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q029",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Negocias contratos clave mientras clientes internos, proveedores y tu equipo presionan por descuentos agresivos y entregas rápidas. Si aceptas condiciones duras para los proveedores, cumplirás metas de corto plazo pero deteriorarás relaciones y podrías fomentar prácticas poco éticas. Si proteges un trato equilibrado, quizá pierdas negocios y enfrentes reclamos internos. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Defiendes condiciones que permitan a los proveedores trabajar de forma sostenible, explicando que no aceptarás prácticas abusivas aunque eso reduzca el margen y genere molestias en quienes querían descuentos más duros.",
+      "pragmatic_distractor": "Cierras contratos muy exigentes pero incluyes cláusulas de revisión futura, confiando en que si la relación se deteriora podrás suavizar después sin perder ahora el ahorro.",
+      "evasive_distractor": "Pides a tu jefe y al equipo de compras que definan el nivel de dureza aceptable y firmas lo que ellos acuerden, evitando marcar una postura propia.",
+      "rationalized_distractor": "Aceptas presionar al máximo a los proveedores porque crees que tu responsabilidad principal es obtener ahorros para la empresa y asumes que ellos encontrarán la forma de adaptarse."
+    },
+    "word_count": 67,
+    "char_count": 362,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #19. Costo explícito: reclamos internos y posible pérdida de negocios.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q030",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Te ofrecen liderar un acuerdo de colaboración con un competidor directo que implica compartir información sensible. Es legal, pero colegas temen que afecte a consumidores y pequeños negocios. Si apoyas el acuerdo, tu área podría crecer. Si te opones, podrías frenar un proyecto estrella y quedar aislado internamente. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Cuestionas el diseño del acuerdo y propones límites estrictos al intercambio de información para proteger a consumidores y pequeños negocios, aun sabiendo que podrías frenar el proyecto estrella y quedar etiquetado como poco alineado.",
+      "pragmatic_distractor": "Sugieres aprobar la colaboración con salvaguardas mínimas y monitoreo básico, pensando que los beneficios iniciales justifican probar y ajustar después si surgen efectos negativos.",
+      "evasive_distractor": "Envías el borrador a varias áreas para que emitan opinión y retrasas tu recomendación hasta que exista un consenso claro, evitando asumir una posición firme.",
+      "rationalized_distractor": "Apoyas el acuerdo tal como está, argumentando que si es legal y otros sectores ya se concentran en pocos jugadores, tu empresa perdería competitividad si no participa."
+    },
+    "word_count": 65,
+    "char_count": 318,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #20. Costo explícito: frenar proyecto estrella y aislamiento interno.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q031",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa planea una innovación importante mientras tomas decisiones que afectarán las carreras de varios colegas. La innovación podría requerir cambios profundos en el equipo. Si priorizas proteger a las personas, la innovación puede frenarse y la dirección cuestionará tu compromiso con el cambio. Si priorizas la innovación sin matices, sacrificas relaciones y reputación interna. ¿Qué camino tomas?",
+    "options_structured": {
+      "integrity_correct": "Propones un plan de innovación que incluya transiciones justas para los afectados, aunque eso retrase la implementación, genere resistencia en la dirección y te exponga como quien frena el ritmo deseado.",
+      "pragmatic_distractor": "Apoyas la innovación con un programa de reubicación básico, confiando en que los beneficios del cambio compensarán las molestias y que los afectados encontrarán alternativas.",
+      "evasive_distractor": "Solicitas que un comité multidisciplinario evalúe los impactos en carreras antes de pronunciarte, esperando que otros definan el camino.",
+      "rationalized_distractor": "Impulsas la innovación sin mayor protección a los afectados, argumentando que el mercado exige rapidez y que es responsabilidad de cada persona adaptarse al cambio."
+    },
+    "word_count": 69,
+    "char_count": 373,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #21. Costo explícito: retraso de innovación y cuestionamiento de compromiso.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q032",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu supervisor te presiona para cumplir metas agresivas mientras enfrentas un conflicto entre tus intereses personales y los de la empresa. Si favoreces a la empresa, podrías perder bonos o proyección personal. Si proteges tu situación, la empresa pierde oportunidades y tu ética queda en duda. Tu jefe espera resultados inmediatos. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Recomiendas lo que más beneficia a la empresa aunque signifique sacrificar bonos o visibilidad personal, explicando tus razones con transparencia y aceptando el costo profesional.",
+      "pragmatic_distractor": "Buscas un punto medio que preserve algo de tu proyección y ofrezca mejoras moderadas a la empresa, confiando en que un resultado aceptable será mejor que un conflicto abierto.",
+      "evasive_distractor": "Pides más datos y análisis antes de decidir, ganando tiempo mientras observas cómo evoluciona la situación sin definirte claramente.",
+      "rationalized_distractor": "Optas por proteger tus intereses personales, argumentando que si te mantienes fuerte podrás aportar más valor a la empresa en el futuro."
+    },
+    "word_count": 66,
+    "char_count": 346,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #22. Costo explícito: pérdida de bonos y visibilidad personal.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q033",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa oculta información importante al personal cuando debería ser transparente, y al mismo tiempo enfrentas presión por cumplir metas difíciles. Si exiges transparencia, podrías retrasar metas y generar conflicto con la dirección. Si guardas silencio, la desconfianza crecerá y sentirás que traicionas a tus compañeros. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Planteas la necesidad de mayor transparencia a la dirección y propones un plan de comunicación, aunque eso retrase metas, genere fricción y te exponga como quien cuestiona las decisiones superiores.",
+      "pragmatic_distractor": "Sugieres comunicar la información de forma gradual y selectiva, confiando en que así reduces el impacto sin abrir un conflicto frontal con la dirección.",
+      "evasive_distractor": "Consultas con colegas y esperas que alguien de mayor nivel tome la iniciativa de transparentar, evitando posicionarte claramente.",
+      "rationalized_distractor": "Guardas silencio sobre la información oculta, argumentando que la dirección tendrá sus razones y que no es tu responsabilidad cuestionar decisiones de nivel superior."
+    },
+    "word_count": 65,
+    "char_count": 328,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #23. Costo explícito: fricción con dirección y retraso de metas.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q034",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu supervisor te presiona para tomar decisiones rápidas que afectarán las carreras de varios miembros de tu equipo. Si defiendes procesos justos, retrasarás las metas y tu evaluación estará en riesgo. Si aceleras sin cuidado, algunos compañeros quedarán perjudicados y tu reputación ética sufrirá. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Insistes en procesos justos aunque eso retrase las metas, incomode a tu supervisor y ponga en riesgo tu evaluación, explicando que no puedes sacrificar a compañeros por velocidad.",
+      "pragmatic_distractor": "Aceleras las decisiones pero incluyes revisiones posteriores para corregir posibles injusticias, confiando en que el ajuste vendrá después sin perder el ritmo ahora.",
+      "evasive_distractor": "Solicitas que un comité de nivel superior tome las decisiones más delicadas, limitándote a entregar información sin asumir la responsabilidad directa.",
+      "rationalized_distractor": "Priorizas la velocidad argumentando que el contexto exige decisiones rápidas y que los afectados entenderán cuando vean los resultados generales."
+    },
+    "word_count": 65,
+    "char_count": 308,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #24. Costo explícito: retraso de metas y evaluación en riesgo.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q035",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa considera una innovación relevante mientras enfrentas presión constante por resultados. Tu supervisor te urge a decidir rápido, aunque eso podría tener consecuencias negativas a largo plazo. Si frenas para evaluar mejor, perderás oportunidades inmediatas y la dirección te verá como lento. Si aceleras, podrías generar daños difíciles de revertir. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Solicitas tiempo para evaluar consecuencias a largo plazo, aunque eso retrase la decisión, frustre a tu supervisor y te haga parecer lento frente a la dirección.",
+      "pragmatic_distractor": "Apoyas la innovación con un plan de monitoreo posterior, confiando en que podrás ajustar el rumbo si surgen problemas sin perder la ventaja de actuar rápido.",
+      "evasive_distractor": "Propones que un grupo de trabajo analice las opciones y postergas tu recomendación hasta tener respaldo colectivo, evitando definirte solo.",
+      "rationalized_distractor": "Aceleras la decisión argumentando que en mercados competitivos quien duda pierde y que la empresa debe asumir riesgos para crecer."
+    },
+    "word_count": 67,
+    "char_count": 361,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #25. Costo explícito: parecer lento y perder oportunidades inmediatas.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q036",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Recibes información competitiva confidencial mientras enfrentas decisiones moralmente complejas. Cada opción plantea distintas consideraciones éticas y afecta de modo diferente a tu empresa y a terceros. Si rechazas usar la información, pierdes ventaja y la dirección cuestiona tu pragmatismo. Si la usas, cruzas una línea ética que te incomoda. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Rechazas usar la información y reportas su origen dudoso, aunque pierdas la ventaja competitiva y la dirección te vea como poco pragmático o ingenuo.",
+      "pragmatic_distractor": "Usas la información de forma selectiva para orientar decisiones sin citarla explícitamente, confiando en que el riesgo será bajo si no queda documentada.",
+      "evasive_distractor": "Consultas a varias áreas sobre el uso de información externa y postergas la decisión hasta que haya una opinión mayoritaria, evitando asumir solo la responsabilidad.",
+      "rationalized_distractor": "Usas la información porque crees que la competencia haría lo mismo y que proteger los resultados de la empresa es tu principal obligación."
+    },
+    "word_count": 65,
+    "char_count": 355,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #26. Costo explícito: pérdida de ventaja y etiqueta de ingenuo.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q037",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes elegir entre dos proveedores para un contrato grande: uno ofrece mejor precio pero usa mano de obra mal pagada; el otro es más caro pero cumple estándares laborales. Tu supervisor presiona por cerrar rápido y clientes esperan resultados. Si eliges el más ético, aumentas costos, retrasas el proyecto y frustras a tu supervisor. Si eliges el barato, apoyas prácticas cuestionables. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Eliges al proveedor que cumple estándares laborales aunque sea más caro, explicando que no puedes apoyar prácticas cuestionables aunque eso aumente costos, retrase el proyecto y frustre a tu supervisor.",
+      "pragmatic_distractor": "Eliges al proveedor barato pero incluyes cláusulas de mejora progresiva en condiciones laborales, confiando en que podrás presionar cambios después sin perder el ahorro inicial.",
+      "evasive_distractor": "Pides a tu supervisor y al área de compras que definan cuál proveedor elegir, presentando ambos casos sin inclinarte claramente por ninguno.",
+      "rationalized_distractor": "Eliges al proveedor barato argumentando que el contexto competitivo exige ahorros y que las condiciones laborales son responsabilidad del proveedor, no tuya."
+    },
+    "word_count": 70,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #27. Corregido: dilema específico (proveedores con mano de obra mal pagada). Costo explícito: aumento de costos, retraso y frustración de supervisor.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q038",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Recibes información privilegiada sobre planes de un competidor que te permitiría ajustar tu estrategia antes del lanzamiento. La dirección espera tu recomendación para una decisión urgente. Si rechazas usarla, pierdes ventaja competitiva y la dirección cuestiona tu capacidad de actuar bajo presión. Si la usas, cruzas una línea ética que compromete tus valores. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas usar la información y reportas su origen cuestionable, aunque pierdas la oportunidad y la dirección te perciba como alguien que no sabe aprovechar ventajas.",
+      "pragmatic_distractor": "Usas la información de forma indirecta para orientar decisiones sin mencionarla, confiando en que si no queda rastro formal el riesgo será mínimo.",
+      "evasive_distractor": "Consultas con varias áreas sobre la pertinencia de usar esa información y postergas la decisión, esperando que otros definan el camino.",
+      "rationalized_distractor": "Usas la información porque crees que la competencia haría lo mismo y que tu obligación es proteger los resultados de la empresa por encima de escrúpulos personales."
+    },
+    "word_count": 66,
+    "char_count": 350,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #28. Corregido: especifica información sobre planes de competidor. Costo explícito: pérdida de ventaja competitiva y cuestionamiento de capacidad.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q039",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes manejar información competitiva confidencial mientras navegas dilemas de transparencia interna. Tu equipo está dividido sobre qué datos compartir y la dirección espera resultados rápidos. Si exiges mayor transparencia, podrías retrasar metas y generar conflicto con la dirección. Si guardas silencio, la desconfianza crecerá. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Propones criterios claros de transparencia aunque eso retrase metas, genere fricción con la dirección y te exponga como quien cuestiona las prácticas actuales.",
+      "pragmatic_distractor": "Sugieres compartir la información de forma selectiva y gradual, confiando en que así reduces el impacto sin abrir un conflicto frontal con la dirección.",
+      "evasive_distractor": "Consultas con colegas y esperas que alguien de mayor nivel tome la iniciativa, evitando posicionarte claramente.",
+      "rationalized_distractor": "Guardas silencio sobre los dilemas de transparencia, argumentando que la dirección tendrá sus razones y que no es tu lugar cuestionar decisiones de nivel superior."
+    },
+    "word_count": 65,
+    "char_count": 323,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #29. Costo explícito: retraso de metas y fricción con dirección.",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q040",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes tomar decisiones sobre el personal que afectarán carreras profesionales mientras recibes sugerencias cuestionables de algunos compañeros. La dirección espera resultados inmediatos. Si sigues tu criterio ético, podrías retrasar metas y enfrentar resistencia. Si cedes a las sugerencias dudosas, comprometes tu integridad. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Sigues tu criterio ético aunque eso retrase metas, genere resistencia de quienes propusieron las sugerencias dudosas y ponga en riesgo tu evaluación.",
+      "pragmatic_distractor": "Aceptas parcialmente las sugerencias y añades controles posteriores, confiando en que podrás corregir el rumbo si surgen problemas sin perder el ritmo ahora.",
+      "evasive_distractor": "Solicitas que un comité superior evalúe las sugerencias antes de actuar, evitando definirte mientras esperas que otros tomen la decisión.",
+      "rationalized_distractor": "Sigues las sugerencias argumentando que el contexto exige pragmatismo y que cuestionar a los compañeros generaría un conflicto innecesario."
+    },
+    "word_count": 65,
+    "char_count": 313,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Refactorizado desde item SQL #30. Costo explícito: retraso de metas y resistencia interna.",
+    "sot_checksum": "D739B398"
+  }
+]
