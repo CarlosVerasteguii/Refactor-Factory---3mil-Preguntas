@@ -1,0 +1,222 @@
+[
+  {
+    "id": "block-B09-q041",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está evaluando el compromiso del personal y participas en el análisis de una encuesta reciente. Varios compañeros están involucrados y hay diferentes formas de presentar los resultados. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "Coordina una encuesta de compromiso y descubres que varias personas señalan falta de reconocimiento y confianza en la dirección. Tu jefe te sugiere resumir solo los puntos positivos para presentar un informe amable. Si incluyes todos los hallazgos generas incomodidad, más trabajo y posible molestia de mandos; si suavizas el informe proteges tu relación pero mantienes problemas ocultos. ¿Qué haces y cómo lo explicas?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (visibilizar problemas vs proteger relación con jefatura), sin banned words"
+  },
+  {
+    "id": "block-B09-q042",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está reorganizando la distribución de horas extra y supervisas a un equipo con alta carga de trabajo. Varios compañeros han pedido oportunidades más equilibradas y hay diferentes criterios posibles. ¿Qué criterios considerarías más justos? Explica tu razonamiento.",
+    "refactored_text": "Supervisas un equipo que acumula horas extra y notas que siempre se asignan a las mismas personas cercanas al gerente. Si redistribuyes las oportunidades para que todos participen promueves justicia pero enfrentas reclamos del gerente y de quienes ganan más. Si dejas las cosas como están evitas conflicto y comentarios incómodos, pero sostienes un trato desigual que afecta el apego al trabajo. ¿Qué decides y por qué?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reparto justo vs evitar conflicto con gerente y beneficiados), sin banned words"
+  },
+  {
+    "id": "block-B09-q043",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está lanzando un programa de reconocimiento interno y participas en la selección de personas a destacar. Varios compañeros han hecho aportes importantes y hay diferentes propuestas sobre a quién incluir. ¿Cómo manejarías esta situación? Explica tu razonamiento.",
+    "refactored_text": "Diseñas un programa de reconocimiento interno y la lista propuesta incluye casi solo a personas muy visibles, mientras varios colegas constantes quedan fuera. Si insistes en ampliar criterios y proponer nuevos nombres cuidas la equidad pero retrasas el anuncio y generas molestia en quienes ya fueron aprobados. Si aceptas la lista tal como está simplificas el proceso pero refuerzas la sensación de favoritismo. ¿Cómo actúas?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (equidad en reconocimiento vs conservar protagonismo y rapidez), sin banned words"
+  },
+  {
+    "id": "block-B09-q044",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está revisando indicadores de clima y compromiso por área y colaboras en la elaboración del informe para la dirección. Varios compañeros tienen opiniones distintas sobre cómo agrupar los datos. ¿Qué harías? Explica tu razonamiento.",
+    "refactored_text": "Analizas resultados de compromiso por área y detectas que en tu departamento el índice es bajo por decisiones recientes de carga laboral. Tu jefe te pide agruparlo con otra área para que el reporte luzca mejor. Si aceptas, reduces tensiones con la jefatura pero envías un mensaje engañoso que posterga mejoras reales. Si mantienes los datos separados expones el problema y arriesgas ser visto como desleal. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (datos honestos vs imagen favorable ante jefatura), sin banned words"
+  },
+  {
+    "id": "block-B09-q045",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está incorporando nuevas personas al equipo y te asignan apoyar su integración en el área. Varios compañeros ya tienen alta carga de trabajo y hay distintas formas de acompañar el proceso. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "Te encargan acompañar el ingreso de varias personas nuevas mientras tu equipo ya trabaja al límite. Si dedicas tiempo a integrarlas bien y explicarles procesos retrasas tus entregas y te expones a comentarios sobre tu productividad. Si las dejas aprender solas mantienes tus números, pero aumentas errores, frustración y la sensación de que a nadie le importa su adaptación. ¿Cómo equilibras tu decisión y qué priorizas?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (acompañar integración vs cuidar métricas personales), sin banned words"
+  },
+  {
+    "id": "block-B09-q046",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está definiendo un esquema de trabajo híbrido y participas en la planificación de días presenciales y remotos. Varios compañeros tienen necesidades diferentes y hay distintas formas de repartir los beneficios. ¿Qué priorizarías? Explica tu razonamiento.",
+    "refactored_text": "Coordina la planificación de trabajo híbrido y algunas personas con buena relación con la jefatura reciben más días remotos que el resto, sin criterio claro. Si propones reglas transparentes para todos fortaleces la confianza pero generas resistencia de quienes ya disfrutan de privilegios y de tu jefe. Si miras a otro lado mantienes tranquilidad inmediata, pero alimentas comentarios de injusticia y desánimo. ¿Qué eliges y por qué?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reglas transparentes vs mantener privilegios y evitar tensión), sin banned words"
+  },
+  {
+    "id": "block-B09-q047",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está preparando una campaña interna sobre logros y compromiso del año y colaboras en el diseño de los mensajes. Varios compañeros opinan distinto sobre cuánto mostrar los desafíos pendientes. ¿Qué enfoque considerarías más adecuado? Explica tu razonamiento.",
+    "refactored_text": "Formas parte del equipo que prepara una campaña interna sobre logros del año. La dirección solo quiere mostrar mensajes positivos, aunque sabes que hay reclamos abiertos sobre cargas y horarios. Si propones incluir también compromisos claros de mejora cuidas la credibilidad pero alargas el trabajo y puedes ser visto como negativo. Si sigues la línea aprobada mantienes buena imagen, pero refuerzas la sensación de discurso vacío. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (credibilidad del mensaje vs comodidad de la dirección), sin banned words"
+  },
+  {
+    "id": "block-B09-q048",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está analizando por qué varias personas han renunciado y te piden apoyar con entrevistas de salida. Varios compañeros esperan que sus opiniones se tomen en serio y hay distintas maneras de resumir lo que dicen. ¿Cómo actuarías? Explica tu razonamiento.",
+    "refactored_text": "Te piden conducir entrevistas de salida para entender por qué varias personas renuncian. Un gerente te solicita resumir los comentarios críticos en frases neutras para que el informe no genere tensión. Si registras las opiniones tal como se expresan ofreces información útil pero arriesgas confrontaciones y que te etiqueten como problemático. Si las diluyes proteges relaciones de corto plazo, pero impides cambios que mejoren el apego laboral. ¿Qué decides?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (registrar críticas tal cual vs suavizarlas para evitar fricciones), sin banned words"
+  },
+  {
+    "id": "block-B09-q049",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está organizando una jornada de integración para reforzar el apego laboral y participas en la coordinación con distintas áreas. Varios compañeros tienen restricciones operativas y hay diversas opciones sobre la asistencia. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "Organizas una jornada de integración en la que se espera participación de todas las áreas, pero producción atraviesa un pico de trabajo y pide excepciones. Si mantienes la asistencia obligatoria refuerzas el mensaje de unión pero aumentas estrés, horas extra y reclamos por falta de sensibilidad. Si flexibilizas la asistencia cuidas el bienestar operativo pero recibes críticas por falta de firmeza y el evento pierde fuerza simbólica. ¿Cómo procedes?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reforzar integración vs cuidar operación y carga), sin banned words"
+  },
+  {
+    "id": "block-B09-q050",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está presentando un proyecto exitoso que mejoró el ambiente de trabajo y te piden liderar la exposición. Varios compañeros participaron de forma clave y hay diferentes maneras de repartir el reconocimiento. ¿Qué harías? Explica tu razonamiento.",
+    "refactored_text": "Presentas un proyecto exitoso que mejoró el ambiente del área y sabes que varias ideas clave vinieron de personas con poca visibilidad. Tu jefe te sugiere simplificar la presentación y centrarla en tu liderazgo. Si reconoces explícitamente los aportes de otros fortaleces confianza pero puedes perder protagonismo y futuras oportunidades. Si aceptas el enfoque propuesto ganas reconocimiento personal, pero alimentas desánimo y sensación de injusticia en el equipo. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reconocer al equipo vs maximizar reconocimiento personal), sin banned words"
+  },
+  {
+    "id": "block-B09-q051",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está planificando vacaciones y cambios de turno en un periodo de alta demanda y te asignan coordinar las solicitudes del equipo. Varios compañeros tienen necesidades personales importantes. ¿Cómo decidirías? Explica tu razonamiento.",
+    "refactored_text": "Gestionas las vacaciones del equipo y una persona solicita un cambio de última hora para asistir a un evento familiar importante, lo que complica la cobertura de turnos. Si haces la excepción cuidas su bienestar pero recargas a quienes ya están cansados y recibes reclamos por trato preferente. Si niegas el cambio mantienes la planificación, pero deterioras la confianza y el apego de alguien que siempre ha cumplido. ¿Qué decides?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (cuidar situación personal vs mantener equidad en cargas), sin banned words"
+  },
+  {
+    "id": "block-B09-q052",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está impulsando un programa de rotación interna para fortalecer el apego al trabajo y te ofrecen opciones para cambiar temporalmente de área. Varios compañeros esperan tu decisión para equilibrar cargas y aprendizajes. ¿Qué factores considerarías? Explica tu razonamiento.",
+    "refactored_text": "Participas en un programa de rotación interna y te ofrecen elegir entre un área conocida, con buen ambiente, y otra con mucho desgaste donde la gente se está marchando. Si pides ir al área complicada aportas experiencia y apoyo pero asumes más presión, conflicto y riesgo de afectar tu propia motivación. Si eliges la opción cómoda proteges tu bienestar inmediato, pero dejas sin apoyo un equipo que lo necesita. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (apoyar área desgastada vs proteger tu bienestar inmediato), sin banned words"
+  },
+  {
+    "id": "block-B09-q053",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está desarrollando un proyecto transversal entre áreas y participas en la definición de responsabilidades. Varios compañeros han mencionado confusiones anteriores sobre quién decide qué. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "En un proyecto transversal notas que las responsabilidades entre áreas no están claras y eso genera reproches cuando algo falla. Un gerente te sugiere dejar la situación así para mantener flexibilidad y evitar discusiones. Si propones definir acuerdos por escrito inviertes tiempo adicional, abres conversaciones tensas y puedes ser visto como rígido. Si aceptas la ambigüedad mantienes la calma aparente, pero alimentas injusticias y desgaste silencioso. ¿Qué camino eliges?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (claridad de acuerdos vs conservar ambigüedad cómoda), sin banned words"
+  },
+  {
+    "id": "block-B09-q054",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está cerrando el trimestre y colaboras en el reporte de resultados de clima y permanencia. Varios compañeros sugieren presentar los datos de manera más general para evitar preocupaciones. ¿Qué harías? Explica tu razonamiento.",
+    "refactored_text": "Durante el cierre trimestral ves que varios indicadores de clima y permanencia empeoraron, pero la dirección insiste en presentar solo un resumen general. Un colega propone reagrupar los datos para que parezcan estables. Si aceptas esa propuesta reduces tensión y quedas bien con tus jefes, pero ocultas señales que afectan el compromiso real. Si mantienes la lectura honesta arriesgas incomodidad y cuestionamientos directos. ¿Qué priorizas y por qué?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reporte fiel vs resumen que oculta señales de riesgo), sin banned words"
+  },
+  {
+    "id": "block-B09-q055",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está revisando procesos para reducir tareas repetitivas y lideras un análisis detallado en tu área. Varios compañeros expresan inquietud sobre cómo los cambios pueden afectar sus puestos. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "Lideras una iniciativa para simplificar procesos y descubres una forma de eliminar tareas repetitivas que consumen muchas horas del equipo. Tu jefe te advierte que, si presentas la propuesta completa, podrían cuestionar la necesidad de algunos puestos. Si la presentas igual mejoras la eficiencia y la calidad, pero arriesgas incomodidad y temor entre compañeros cercanos. Si la suavizas proteges relaciones actuales, pero mantienes desgaste diario injustificado. ¿Qué decides?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (mejora de procesos vs temor a impacto en puestos), sin banned words"
+  },
+  {
+    "id": "block-B09-q056",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está definiendo el uso de un presupuesto limitado para formación y participas en la selección de actividades. Varios compañeros han solicitado oportunidades de desarrollo y hay diferentes propuestas. ¿Qué priorizarías? Explica tu razonamiento.",
+    "refactored_text": "Te asignan administrar un presupuesto limitado para formación y recibes propuestas de varios jefes. Una opción es financiar un gran congreso para pocas personas visibles; otra, varios talleres prácticos para el resto del equipo. Si eliges el congreso ganas apoyo de mandos influyentes y visibilidad, pero dejas fuera a quienes más necesitan desarrollo. Si priorizas los talleres generas mayor impacto, pero algunos jefes pueden verlo como poco atractivo. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (beneficio amplio vs complacer a mandos influyentes), sin banned words"
+  },
+  {
+    "id": "block-B09-q057",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está reforzando normas de seguridad y participas en la comunicación con tu equipo. Varios compañeros comentan prácticas que no se cumplen siempre. ¿Cómo reaccionarías? Explica tu razonamiento.",
+    "refactored_text": "Observas que un compañero muy querido por el grupo ignora de forma repetida un procedimiento de seguridad para terminar más rápido sus tareas. Si lo enfrentas directamente y reportas la situación proteges al equipo pero arriesgas tensión, aislamiento y la idea de que no eres leal. Si callas para no romper el clima agradable evitas conflicto inmediato, pero normalizas un riesgo real que puede afectar a todos. ¿Qué decides?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (reportar incumplimiento de seguridad vs preservar buena relación), sin banned words"
+  },
+  {
+    "id": "block-B09-q058",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está revisando el estilo de liderazgo en distintas áreas y participas en reuniones de trabajo. Varios compañeros han expresado que ciertos comentarios en público afectan el ambiente. ¿Cómo responderías? Explica tu razonamiento.",
+    "refactored_text": "Durante varias reuniones ves que un jefe corrige en público a la misma persona, con comentarios que provocan risas nerviosas en el grupo. Si hablas en privado con el jefe y luego con la persona afectada abres espacio para cambiar la conducta, pero te expones a que el jefe se moleste contigo. Si ignoras la situación cuidas tu comodidad, pero permites un trato que deteriora el apego al trabajo. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (intervenir ante trato inadecuado vs evitar molestia del jefe), sin banned words"
+  },
+  {
+    "id": "block-B09-q059",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está revisando la política de contratación y participas en una reunión donde se analizan diferentes tipos de contrato. Varios compañeros expresan preocupación por la estabilidad laboral. ¿Cómo actuarías? Explica tu razonamiento.",
+    "refactored_text": "Trabajas en un área donde varias personas llevan años con contratos temporales encadenados y notas que eso afecta su confianza en la empresa. En una reunión de planificación, la jefatura plantea seguir igual porque es más flexible para el presupuesto. Si cuestionas esa práctica proponiendo alternativas asumes discusiones largas y riesgo de quedar etiquetado como incómodo. Si aceptas el esquema actual facilitas la gestión, pero sostienes incertidumbre injusta. ¿Qué haces?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (cuestionar contratos inestables vs mantener facilidad para la dirección), sin banned words"
+  },
+  {
+    "id": "block-B09-q060",
+    "module_id": 5,
+    "block_id": "B09",
+    "type": "video",
+    "raw_text": "Tu empresa está probando un buzón interno para recoger inquietudes sobre el día a día y te piden ayudar a agrupar los mensajes. Varios compañeros mencionan el estilo de supervisión y la confianza en la empresa. ¿Qué harías? Explica tu razonamiento.",
+    "refactored_text": "Te encargan revisar los mensajes de un buzón interno donde las personas comparten preocupaciones sobre su día a día. Varias notas señalan que cierto estilo de supervisión excesivamente detallado está desgastando al equipo. El gerente involucrado te pide filtrar o suavizar esos comentarios antes de presentarlos. Si los mantienes tal como están proteges la voz del equipo, pero arriesgas conflicto directo. Si los editas, mantienes la calma aparente y traicionas esa confianza. ¿Qué decides?",
+    "length_status": "ok",
+    "audit_status": "ok",
+    "audit_notes": "Dos caminos claros, costo de integridad explícito (respetar la voz del equipo vs proteger relación con gerente), sin banned words"
+  }
+]

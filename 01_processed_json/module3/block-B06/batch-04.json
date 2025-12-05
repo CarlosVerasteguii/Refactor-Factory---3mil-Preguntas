@@ -1,0 +1,382 @@
+[
+  {
+    "id": "block-B06-q041",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Descubres que un colega manipula reportes de desempeño para beneficiar a su equipo mientras tu área compite por los mismos recursos. Si denuncias la irregularidad, podrías ser visto como traidor y enfrentar represalias. Si guardas silencio, la injusticia continúa y pierdes credibilidad ante tu equipo. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Reportas la manipulación de reportes a las instancias correspondientes con evidencia clara, aunque eso te exponga a represalias y algunos colegas te perciban como traidor o conflictivo.",
+      "pragmatic_distractor": "Alertas discretamente a tu supervisor sobre las irregularidades sin formalizar la denuncia, esperando que él tome acción sin que tu nombre quede asociado públicamente.",
+      "evasive_distractor": "Documentas las irregularidades de forma anónima y las entregas a auditoría interna, evitando cualquier confrontación directa que te identifique.",
+      "rationalized_distractor": "Decides no intervenir porque crees que todos manipulan algo las cifras y que señalar a un colega solo generaría conflictos sin cambiar el sistema."
+    },
+    "word_count": 65,
+    "char_count": 341,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 1",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q042",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa implementará un software que automatiza procesos y eliminará varios puestos de trabajo. Conoces a los afectados personalmente y la dirección te pide gestionar la transición sin revelar detalles hasta el último momento. Si adviertes con anticipación, podrías perder la confianza de la dirección. Si esperas, los afectados no podrán prepararse. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Propones a la dirección comunicar con mayor anticipación y ofrecer apoyo en la transición, aunque eso genere tensión, te haga parecer poco leal y retrase la implementación del software.",
+      "pragmatic_distractor": "Das señales indirectas a los más cercanos sin revelar información oficial, confiando en que así les das tiempo para prepararse sin romper explícitamente el protocolo.",
+      "evasive_distractor": "Sugieres que el área de gestión del talento lidere la comunicación y te limitas a ejecutar lo técnico, evitando responsabilidad directa sobre el impacto en las personas.",
+      "rationalized_distractor": "Sigues el protocolo establecido por la dirección argumentando que revelar información prematura causaría pánico innecesario y que es mejor comunicar todo de una vez."
+    },
+    "word_count": 69,
+    "char_count": 381,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 2",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q043",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Un cliente importante solicita un favor personal que roza los límites de las políticas internas pero no es claramente ilegal. Rechazarlo podría afectar una relación comercial estratégica y tu evaluación de desempeño. Aceptarlo te genera incomodidad ética y podría establecer un precedente peligroso. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Rechazas el favor explicando cortésmente que no puede cumplirse dentro de las políticas de la empresa, aunque eso afecte la relación comercial y tu evaluación de desempeño.",
+      "pragmatic_distractor": "Cumples parcialmente el favor buscando una interpretación flexible de las políticas, confiando en que si no queda documentado no habrá consecuencias.",
+      "evasive_distractor": "Trasladas la solicitud a tu supervisor diciendo que necesitas autorización superior, esperando que otro tome la decisión final y asuma la responsabilidad.",
+      "rationalized_distractor": "Aceptas el favor argumentando que la relación con el cliente es estratégica y que las políticas deben interpretarse con flexibilidad cuando está en juego el negocio."
+    },
+    "word_count": 66,
+    "char_count": 342,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 3",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q044",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Participas en la selección de un proveedor estratégico y descubres que uno de los finalistas tiene vínculos personales con tu jefe. El proveedor vinculado no es necesariamente el mejor técnicamente. Si señalas el conflicto de interés, podrías deteriorar tu relación con tu jefe. Si no lo haces, la decisión quedará viciada. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Señalas formalmente el conflicto de interés y propones que tu jefe se excuse del proceso de selección, aunque eso deteriore tu relación con él y genere tensión en el equipo.",
+      "pragmatic_distractor": "Mencionas el vínculo de forma informal y refuerzas los criterios técnicos en tu evaluación, esperando que el proceso objetivo mitigue el riesgo sin confrontar directamente.",
+      "evasive_distractor": "Solicitas que un comité más amplio participe en la decisión final, diluyendo tu responsabilidad y esperando que otros detecten o gestionen el conflicto.",
+      "rationalized_distractor": "No mencionas el vínculo porque crees que tu jefe es profesional y que señalarlo implicaría desconfianza injustificada que dañaría el ambiente de trabajo."
+    },
+    "word_count": 67,
+    "char_count": 356,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 4",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q045",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu equipo desarrolló un producto innovador pero las pruebas revelan un riesgo pequeño pero real para ciertos usuarios. El lanzamiento está programado y cancelarlo afectaría ingresos proyectados y empleos. La dirección minimiza el riesgo argumentando que las probabilidades son bajas. Si insistes en más pruebas, serás visto como obstáculo. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Exiges posponer el lanzamiento hasta resolver el riesgo identificado con pruebas adicionales, aunque eso afecte ingresos proyectados, empleos y tu reputación como gestor de proyectos.",
+      "pragmatic_distractor": "Apruebas el lanzamiento pero incluyes advertencias claras en la documentación y estableces un monitoreo intensivo, confiando en que podrás reaccionar si el problema se materializa.",
+      "evasive_distractor": "Solicitas una evaluación independiente externa sobre el riesgo y pospones tu recomendación hasta tener esa opinión, evitando tomar una posición definitiva.",
+      "rationalized_distractor": "Apoyas el lanzamiento argumentando que todo producto tiene riesgos, que las probabilidades son bajas y que postergar afectaría más personas que el riesgo potencial."
+    },
+    "word_count": 69,
+    "char_count": 367,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 5",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q046",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Descubres que tu empresa factura servicios que no se prestaron completamente a un cliente que no revisa los detalles. Nadie más parece preocupado y confrontar el tema podría hacerte parecer problemático y afectar tu relación con el equipo de ventas. Si callas, participas en una práctica deshonesta. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas la situación al área de cumplimiento y propones corregir la facturación, aunque eso genere conflicto con ventas, te haga parecer problemático y afecte la relación con tu equipo.",
+      "pragmatic_distractor": "Sugieres ajustar las facturas futuras gradualmente para compensar sin hacer explícito el error pasado, esperando corregir el problema sin generar crisis.",
+      "evasive_distractor": "Mencionas tu inquietud de forma general en una reunión sin señalar casos específicos, esperando que alguien más tome la iniciativa de investigar.",
+      "rationalized_distractor": "Decides no intervenir argumentando que si el cliente no reclama es porque está conforme y que cuestionar las prácticas de ventas no es tu responsabilidad."
+    },
+    "word_count": 64,
+    "char_count": 345,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 6",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q047",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu supervisor te pide alterar fechas en documentos para que un proyecto parezca cumplir con plazos regulatorios que en realidad no se respetaron. El ajuste es sutil y probablemente no será detectado. Si te niegas, tu supervisor quedará expuesto y probablemente te marginará de proyectos futuros. Si aceptas, comprometes tu integridad. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a alterar los documentos y reportas la solicitud a las instancias correspondientes, aunque eso exponga a tu supervisor, genere represalias y te margine de proyectos futuros.",
+      "pragmatic_distractor": "Propones documentar formalmente las razones del retraso en lugar de alterar fechas, esperando que la transparencia mitigue el problema sin obedecer la instrucción directa.",
+      "evasive_distractor": "Argumentas que no tienes las competencias técnicas para ese ajuste y sugieres que otro miembro del equipo lo gestione, evitando responsabilidad directa.",
+      "rationalized_distractor": "Alteras las fechas porque crees que el incumplimiento fue por causas externas justificables y que proteger al equipo de sanciones burocráticas es lo correcto."
+    },
+    "word_count": 68,
+    "char_count": 367,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 7",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q048",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Lideras una negociación importante y el cliente ofrece un regalo personal costoso que claramente busca influir en tu decisión. Aceptarlo viola las políticas internas pero rechazarlo podría ofender al cliente y afectar el cierre del acuerdo. Tu equipo espera resultados y la dirección presiona por concretar. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Rechazas cortésmente el regalo explicando las políticas de la empresa, aunque eso pueda ofender al cliente, afectar el cierre del acuerdo y generar presión de tu dirección por los resultados.",
+      "pragmatic_distractor": "Aceptas el regalo pero lo reportas a tu supervisor y propones donarlo o sortearlo internamente, buscando no ofender al cliente sin beneficiarte personalmente.",
+      "evasive_distractor": "Agradeces el gesto pero dices que necesitas consultar con tu supervisor antes de aceptar, trasladando la decisión para evitar responsabilidad directa.",
+      "rationalized_distractor": "Aceptas el regalo porque consideras que rechazarlo sería una descortesía cultural y que lo importante es mantener la objetividad en la negociación independientemente del obsequio."
+    },
+    "word_count": 68,
+    "char_count": 360,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 8",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q049",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Eres responsable de evaluar candidatos para una promoción interna y tu jefe te sugiere favorecer a alguien de su confianza cuyas credenciales son inferiores a las de otros candidatos. Si sigues el criterio técnico, desafías a tu jefe. Si favoreces al candidato sugerido, comprometes la equidad del proceso. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el criterio técnico y recomiendas al candidato mejor calificado, aunque eso desafíe a tu jefe, genere tensión en tu relación laboral y ponga en riesgo tu propia proyección.",
+      "pragmatic_distractor": "Propones un esquema de desarrollo para el candidato sugerido antes de la promoción, buscando un punto medio que satisfaga parcialmente a tu jefe sin comprometer del todo la equidad.",
+      "evasive_distractor": "Solicitas que la decisión final la tome un comité más amplio que incluya otras áreas, diluyendo tu responsabilidad en el resultado.",
+      "rationalized_distractor": "Favoreces al candidato sugerido argumentando que la confianza y alineamiento con el liderazgo son factores igual de importantes que las credenciales técnicas."
+    },
+    "word_count": 66,
+    "char_count": 350,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 9",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q050",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa planea cerrar una planta en una comunidad pequeña donde muchas familias dependen de esos empleos. Conoces la información antes del anuncio oficial y algunos empleados afectados son tus amigos. Si les adviertes, violas confidencialidad. Si guardas silencio, pierden oportunidades de prepararse y sientes que traicionas la amistad. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Respetas la confidencialidad y no adelantas información, aunque eso signifique que tus amigos pierdan tiempo de preparación y sientas que traicionas la confianza personal.",
+      "pragmatic_distractor": "Das consejos generales sobre prepararse para cambios sin revelar información específica, buscando ayudar indirectamente sin romper explícitamente la confidencialidad.",
+      "evasive_distractor": "Propones a la dirección adelantar la comunicación oficial argumentando beneficios para la transición, esperando que eso resuelva tu dilema sin violar reglas.",
+      "rationalized_distractor": "Adviertes discretamente a tus amigos más cercanos porque crees que la lealtad personal es más importante que las reglas corporativas en situaciones de alto impacto humano."
+    },
+    "word_count": 68,
+    "char_count": 363,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 10",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q051",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes autorizar gastos de representación de tu equipo y notas que algunos colegas incluyen conceptos personales disfrazados como gastos profesionales. Nadie parece cuestionarlo y señalarlo te haría parecer inflexible y dañaría las relaciones. Si apruebas, normalizas una práctica incorrecta. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Rechazas los gastos cuestionables y estableces criterios más claros para futuras solicitudes, aunque eso te haga parecer inflexible, genere resentimiento y dañe relaciones con el equipo.",
+      "pragmatic_distractor": "Apruebas esta vez pero comunicas discretamente que en adelante serás más estricto, confiando en que así evitas conflicto inmediato mientras estableces límites progresivos.",
+      "evasive_distractor": "Trasladas algunas solicitudes dudosas al área de administración para que ellos decidan, evitando ser tú quien rechace directamente a tus colegas.",
+      "rationalized_distractor": "Apruebas los gastos argumentando que son montos menores, que el equipo trabaja mucho y merece cierta flexibilidad, y que cuestionar esto generaría un clima laboral negativo."
+    },
+    "word_count": 64,
+    "char_count": 347,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 11",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q052",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Participas en una licitación pública y un competidor te ofrece compartir información para coordinar ofertas y repartirse el mercado. La práctica es ilegal pero común en el sector. Si aceptas, ganas el contrato pero participas en colusión. Si rechazas y denuncias, podrías perder el negocio y enfrentar represalias del sector. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la propuesta y reportas el intento de colusión a las autoridades correspondientes, aunque eso te haga perder el contrato y enfrentar represalias del sector que normaliza esta práctica.",
+      "pragmatic_distractor": "Rechazas participar directamente pero no denuncias, presentando tu oferta de forma independiente y esperando que tu profesionalismo hable por sí solo.",
+      "evasive_distractor": "Consultas con tu área legal de forma hipotética sobre este tipo de situaciones y postergas tu respuesta al competidor, evitando comprometerte mientras evalúas opciones.",
+      "rationalized_distractor": "Aceptas coordinar argumentando que si todos lo hacen y no participas pierdes competitividad, y que tu responsabilidad principal es ganar contratos para tu empresa."
+    },
+    "word_count": 67,
+    "char_count": 360,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 12",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q053",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa lanzará un producto con afirmaciones de marketing que técnicamente son ciertas pero inducen a error sobre beneficios reales. Tú conoces las limitaciones del producto. Si exiges transparencia, retrasas el lanzamiento y enfrentas a marketing y ventas. Si callas, los clientes tomarán decisiones basadas en información engañosa. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Exiges corregir las afirmaciones de marketing para reflejar con precisión las capacidades del producto, aunque eso retrase el lanzamiento, genere conflicto con marketing y ventas, y afecte las proyecciones de ingresos.",
+      "pragmatic_distractor": "Propones añadir notas aclaratorias pequeñas que maticen las afirmaciones principales, buscando equilibrar transparencia con el impacto comercial sin detener el lanzamiento.",
+      "evasive_distractor": "Documentas tus reservas en un correo interno sin bloquear el lanzamiento, esperando que quede registro de tu advertencia sin asumir la responsabilidad de frenar el proyecto.",
+      "rationalized_distractor": "Permites continuar con el marketing tal cual porque consideras que todas las empresas exageran beneficios y que los clientes son responsables de investigar antes de comprar."
+    },
+    "word_count": 66,
+    "char_count": 375,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 13",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q054",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tienes acceso a información sobre el desempeño financiero de la empresa antes de su publicación. Un familiar te pregunta si debería comprar acciones de la compañía. Responder honestamente constituye uso indebido de información privilegiada. Evadirlo podría hacer que tome una mala decisión financiera. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a dar cualquier orientación sobre la compra de acciones explicando que no puedes usar información privilegiada, aunque tu familiar no entienda tu postura y tome decisiones sin tu guía.",
+      "pragmatic_distractor": "Das consejos generales sobre diversificación de inversiones sin mencionar específicamente la empresa, esperando influir indirectamente sin revelar información confidencial.",
+      "evasive_distractor": "Sugieres a tu familiar consultar con un asesor financiero profesional y evitas continuar la conversación, trasladando la responsabilidad sin posicionarte.",
+      "rationalized_distractor": "Compartes tu opinión porque crees que ayudar a la familia es más importante que reglas corporativas y que la información eventualmente será pública de todos modos."
+    },
+    "word_count": 64,
+    "char_count": 345,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 14",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q055",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Eres responsable de implementar medidas de seguridad que tu empresa considera costosas y exageradas. Tú sabes que son necesarias pero la dirección te presiona por reducir inversión. Si insistes, serás visto como alarmista y podrías perder autoridad en futuras decisiones. Si cedes, aumentas riesgos reales. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Insistes en implementar las medidas necesarias documentando los riesgos de no hacerlo, aunque eso te haga parecer alarmista, genere fricción con la dirección y ponga en duda tu autoridad futura.",
+      "pragmatic_distractor": "Propones un esquema de implementación gradual que comience con las medidas más críticas, buscando equilibrar seguridad con restricciones presupuestarias sin abandonar del todo las protecciones.",
+      "evasive_distractor": "Contratas una consultoría externa para que evalúe los riesgos y emita recomendaciones, trasladando la responsabilidad de la decisión a expertos externos.",
+      "rationalized_distractor": "Reduces las medidas de seguridad argumentando que los riesgos son teóricos, que la empresa ha funcionado bien sin ellas y que hay prioridades de inversión más urgentes."
+    },
+    "word_count": 68,
+    "char_count": 367,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 15",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q056",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes decidir sobre despidos en una reestructuración y tu jefe sugiere priorizar criterios distintos al desempeño objetivo para proteger a personas de su círculo cercano. Si sigues el criterio de desempeño real, desafías a tu jefe. Si aceptas su sugerencia, perpetúas favoritismo y perjudicas a mejores empleados. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Mantienes criterios objetivos de desempeño y propones conservar a los empleados más competentes independientemente de su relación con el jefe, aunque eso genere conflicto directo y ponga en riesgo tu posición.",
+      "pragmatic_distractor": "Incorporas parcialmente las sugerencias de tu jefe pero balanceas con otros empleados de alto desempeño, buscando un compromiso que no sea del todo injusto.",
+      "evasive_distractor": "Solicitas que la decisión final la tome un comité de nivel superior que incluya otras gerencias, diluyendo tu responsabilidad directa en el resultado.",
+      "rationalized_distractor": "Aceptas las sugerencias de tu jefe argumentando que las relaciones laborales sólidas y la confianza son tan importantes como el desempeño técnico para el funcionamiento del equipo."
+    },
+    "word_count": 68,
+    "char_count": 365,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 16",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q057",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu equipo desarrolló una tecnología prometedora pero existe incertidumbre sobre posibles impactos ambientales a largo plazo. La dirección quiere comercializarla inmediatamente para adelantarse a la competencia. Si exiges más estudios, pierdes ventaja competitiva. Si avanzas, podrías causar daños irreversibles. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Exiges realizar estudios de impacto ambiental antes de la comercialización, aunque eso retrase el lanzamiento, pierda ventaja competitiva y la dirección cuestione tu capacidad de tomar decisiones ágiles.",
+      "pragmatic_distractor": "Apoyas un lanzamiento limitado en mercados piloto con monitoreo ambiental intensivo, esperando detectar problemas a tiempo sin renunciar completamente a la oportunidad comercial.",
+      "evasive_distractor": "Propones que una entidad independiente evalúe los riesgos ambientales antes de tu recomendación final, trasladando la responsabilidad de la decisión a expertos externos.",
+      "rationalized_distractor": "Apoyas la comercialización inmediata argumentando que la competencia avanzará de todos modos y que es mejor liderar el mercado para después poder invertir en mejoras."
+    },
+    "word_count": 68,
+    "char_count": 379,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 17",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q058",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Un colega de confianza te revela que está pasando por problemas personales graves que afectan su desempeño, pero te pide confidencialidad. Simultáneamente, tu supervisor te pregunta directamente por qué ese colega ha bajado su rendimiento y presiona por tomar medidas. Si revelas la situación, traicionas la confianza. Si callas, tu colega podría ser sancionado injustamente. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Hablas con tu colega y le sugieres que él mismo comunique su situación al supervisor, ofreciéndote a acompañarlo pero no rompiendo su confidencialidad sin su consentimiento, aunque eso no satisfaga las expectativas inmediatas de tu supervisor.",
+      "pragmatic_distractor": "Das explicaciones vagas a tu supervisor sobre factores externos sin revelar detalles específicos, buscando comprar tiempo para tu colega sin traicionar completamente la confidencialidad.",
+      "evasive_distractor": "Sugieres a tu supervisor consultar con el área de bienestar del personal por si existen circunstancias especiales, trasladando indirectamente el tema sin involucrarte.",
+      "rationalized_distractor": "Revelas la situación a tu supervisor porque consideras que proteger el empleo de tu colega es más importante que mantener la confidencialidad y que él lo entenderá después."
+    },
+    "word_count": 69,
+    "char_count": 382,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 18",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q059",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Debes aprobar un contrato con un proveedor internacional y descubres indicios de que podría estar vinculado a violaciones de derechos laborales en su país. La información no es concluyente y el proveedor ofrece condiciones económicas muy ventajosas. Si profundizas la investigación, retrasas un proyecto estratégico. Si firmas, podrías ser cómplice indirecto. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Exiges una auditoría independiente de las prácticas laborales del proveedor antes de firmar, aunque eso retrase el proyecto estratégico, genere costos adicionales y tu dirección te vea como obstáculo.",
+      "pragmatic_distractor": "Firmas el contrato incluyendo cláusulas de cumplimiento de estándares laborales y verificación periódica, confiando en que así mitigas el riesgo sin detener el proyecto.",
+      "evasive_distractor": "Trasladas la decisión al área de sustentabilidad corporativa pidiendo su opinión formal, esperando que ellos asuman la responsabilidad de autorizar o frenar el contrato.",
+      "rationalized_distractor": "Firmas el contrato argumentando que las condiciones laborales en ese país son responsabilidad de su gobierno y que tu obligación es obtener las mejores condiciones para tu empresa."
+    },
+    "word_count": 69,
+    "char_count": 389,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 19",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q060",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa está negociando una fusión que beneficiaría financieramente a accionistas pero probablemente resulte en despidos masivos en tu área. Tienes información anticipada y tus colegas te preguntan directamente si deben preocuparse por sus empleos. Si les adviertes, violas confidencialidad. Si niegas, pierden tiempo valioso para prepararse. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Respetas la confidencialidad y no revelas información específica aunque entiendas la angustia de tus colegas, sugiriéndoles de forma general que todos deberían mantener opciones abiertas en contextos de cambio.",
+      "pragmatic_distractor": "Das señales indirectas sobre la importancia de actualizar sus perfiles profesionales y estar alertas sin confirmar explícitamente la información, buscando ayudar sin romper del todo la confidencialidad.",
+      "evasive_distractor": "Argumentas que no tienes información confirmada sobre impactos en empleos y rediriges a tus colegas a canales oficiales de comunicación, evitando posicionarte.",
+      "rationalized_distractor": "Adviertes discretamente a tus colegas más cercanos porque consideras que la lealtad al equipo es más importante que las reglas de confidencialidad en situaciones que afectan vidas."
+    },
+    "word_count": 68,
+    "char_count": 382,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 04 item 20",
+    "sot_checksum": "D739B398"
+  }
+]

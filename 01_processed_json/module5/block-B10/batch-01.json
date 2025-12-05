@@ -4,219 +4,149 @@
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Para el evento anual te asignan un colega difícil que critica tus ideas frente al equipo. Tu supervisor valora la armonía y espera que lo resuelvas sin escalar. Confrontarlo podría empeorar el conflicto pero ceder sin más afectaría tu posición. Buscar entendimiento tomaría tiempo y quizás no funcione. ¿Qué decides cuando la colaboración parece imposible pero es obligatoria?",
+    "scenario": "Para el evento anual corporativo te asignan colaborar con un colega conocido por criticar públicamente las ideas de otros en reuniones de equipo. Tu supervisor valora la armonía y espera que resuelvas la dinámica sin escalar. Confrontarlo podría intensificar el conflicto y afectar la entrega del evento. Ceder a sus críticas debilita tu autoridad frente al equipo. Buscar entendimiento requiere tiempo sin garantía de éxito. ¿Qué decides cuando la colaboración parece imposible pero es obligatoria?",
     "options_structured": {
-      "integrity_correct": "Buscas entender su perspectiva e integrar sus ideas, aunque esto signifique que tu jefe vea el proyecto como logro de él y tu próxima evaluación refleje menos tu aporte individual.",
-      "pragmatic_distractor": "Te enfocas en ejecutar tu parte con excelencia, documentando claramente tus contribuciones para que queden registradas.",
-      "evasive_distractor": "Mantienes distancia profesional y dejas que cada quien entregue su parte sin forzar una colaboración artificial.",
-      "rationalized_distractor": "Planteas a tu supervisor que la dinámica actual afecta el proyecto, proponiendo roles más claros para evitar roces."
+      "integrity_correct": "Buscas conversaciones individuales para entender su perspectiva e integrar sus ideas donde tengan mérito, aceptando que tu jefe vea el proyecto como logro compartido, tu evaluación refleje menos tu aporte individual y algunos compañeros te vean débil ante sus críticas.",
+      "pragmatic_distractor": "Te enfocas en ejecutar tu parte del proyecto con excelencia visible, documentando meticulosamente tus contribuciones para que queden registradas ante cualquier disputa futura sobre autoría.",
+      "evasive_distractor": "Mantienes distancia profesional cordial coordinando solo lo necesario y permitiendo que cada quien entregue su parte sin forzar una colaboración que genere roces.",
+      "rationalized_distractor": "Planteas a tu supervisor que la dinámica actual afecta la productividad del proyecto y propones roles completamente separados para minimizar puntos de fricción."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 58,
-    "char_count": 376,
-    "length_status": "ok",
-    "length_note": "58w, 376c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q002",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La dirección anuncia una nueva visión estratégica que consideras vaga. El director general pide confianza sin ofrecer un plan concreto. Tienes preguntas incómodas pero hacerlas podría etiquetarte como resistente al cambio. Callar implica aceptar algo que no entiendes. Otros comparten dudas en privado pero nadie habla. ¿Arriesgas tu imagen cuestionando o sigues la corriente esperando claridad?",
+    "scenario": "La dirección anuncia una nueva visión estratégica para los próximos tres años que consideras vaga y sin métricas claras. El director general pidió confianza del equipo sin ofrecer un plan concreto todavía. Tienes preguntas sobre recursos y prioridades pero hacerlas en reunión abierta podría etiquetarte como resistente al cambio. Callar significa aceptar compromisos sobre algo que no comprendes. Varios compañeros comparten tus dudas en privado pero nadie habla. ¿Arriesgas tu imagen cuestionando o sigues la corriente esperando claridad?",
     "options_structured": {
-      "integrity_correct": "Pides públicamente que aclaren métricas y pasos concretos, sabiendo que el director general recordará tu nombre como el que cuestionó y esto pesará en futuras decisiones sobre ti.",
-      "pragmatic_distractor": "Alineas tu trabajo con los nuevos objetivos y esperas que los detalles se aclaren conforme avance la implementación.",
-      "evasive_distractor": "Conversas con colegas de confianza para validar si tus preocupaciones tienen sentido antes de exponerte.",
-      "rationalized_distractor": "Te concentras en ejecutar tus responsabilidades actuales con excelencia, demostrando valor independiente de la estrategia."
+      "integrity_correct": "Pides públicamente que aclaren métricas, plazos y recursos específicos, sabiendo que el director general recordará tu nombre como quien cuestionó la estrategia, esto pesará en futuras decisiones sobre ascensos y algunos colegas te verán como obstáculo político.",
+      "pragmatic_distractor": "Alineas tu trabajo con los objetivos comunicados y esperas que los detalles se aclaren conforme avance la implementación en los próximos meses.",
+      "evasive_distractor": "Conversas con colegas y gerentes de otras áreas para validar si tus preocupaciones son compartidas antes de exponerte cuestionando a la dirección.",
+      "rationalized_distractor": "Te concentras en ejecutar tus responsabilidades actuales con excelencia y resultados medibles, demostrando valor independientemente de la estrategia macro."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 56,
-    "char_count": 395,
-    "length_status": "ok",
-    "length_note": "56w, 395c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q003",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Un proyecto interdepartamental urgente requiere seguir un proceso de aprobación largo. Conoces a alguien clave que podría acelerar todo con un atajo, pero saltarte el protocolo molestaría a otros equipos que sí lo siguieron. Tu jefe presiona por resultados rápidos. El procedimiento existe por buenas razones pero el plazo es real. ¿Cumples el proceso aunque afecte tu evaluación o priorizas velocidad?",
+    "scenario": "Un proyecto interdepartamental urgente requiere completar un proceso de aprobación que normalmente toma cuatro semanas. Conoces a alguien en el comité que podría acelerar todo informalmente, pero saltarte el protocolo molestaría a otros equipos que respetaron el proceso completo. Tu jefe presiona por resultados rápidos. El procedimiento existe por razones válidas de control pero el plazo es inflexible. ¿Cumples el proceso formal aunque afecte tu evaluación o priorizas velocidad?",
     "options_structured": {
-      "integrity_correct": "Sigues el procedimiento formal aunque el proyecto se retrase dos semanas, tu jefe exprese frustración abierta contigo y esto aparezca como incumplimiento en tu evaluación trimestral.",
-      "pragmatic_distractor": "Usas tu contacto para agilizar el proceso, asegurándote de documentar las aprobaciones verbales para tener respaldo.",
-      "evasive_distractor": "Consultas con tu jefe explicando las opciones y dejando que él decida qué camino tomar.",
-      "rationalized_distractor": "Sigues el proceso pero aceleras los pasos que controlas, reduciendo tiempos internos donde puedas."
+      "integrity_correct": "Sigues el procedimiento formal completo aunque el proyecto se retrase dos semanas, tu jefe exprese frustración abierta contigo, esto aparezca como incumplimiento en tu evaluación trimestral y otros equipos que usaron atajos te superen.",
+      "pragmatic_distractor": "Usas tu contacto para agilizar ciertos pasos del proceso, asegurándote de documentar todas las conversaciones y aprobaciones verbales para tener respaldo.",
+      "evasive_distractor": "Consultas con tu jefe y el equipo de gobernanza las opciones disponibles, explicando pros y contras, y dejando que ellos decidan qué camino seguir.",
+      "rationalized_distractor": "Sigues el proceso establecido pero aceleras todos los pasos bajo tu control, reduciendo tiempos de respuesta y priorizando este proyecto sobre otros menos urgentes."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 61,
-    "char_count": 402,
-    "length_status": "ok",
-    "length_note": "61w, 402c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q004",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Un compañero comete un error que retrasa el proyecto. En la reunión con dirección, tu supervisor asume la culpa para proteger al equipo sin dar detalles. Después, un director te pregunta directamente qué salió mal. Decir la verdad expondría al compañero y contradiría a tu supervisor. Mentir te hace cómplice. El silencio parece sospechoso. ¿Qué respondes cuando la lealtad y la honestidad chocan?",
+    "scenario": "Un compañero cometió un error que retrasó dos semanas la entrega de un proyecto visible. En la reunión con directores, tu supervisor asumió la responsabilidad del retraso para proteger al equipo, sin revelar detalles. Después, un director senior te pregunta directamente qué salió mal. Decir la verdad expondría al compañero y contradiría a tu supervisor. Mentir te hace cómplice. Guardar silencio parece sospechoso ante una pregunta directa. ¿Qué respondes cuando lealtad y honestidad chocan?",
     "options_structured": {
-      "integrity_correct": "Explicas que hubo fallas en coordinación del equipo sin señalar a nadie, aunque el director insista y tu supervisor después te reclame por no respaldar su versión completamente.",
-      "pragmatic_distractor": "Confirmas la versión de tu supervisor mostrando que el equipo asume responsabilidad colectiva.",
-      "evasive_distractor": "Respondes de forma general que estás enfocado en las soluciones y prefieres no entrar en detalles del pasado.",
-      "rationalized_distractor": "Explicas los hechos objetivamente, confiando en que la transparencia es mejor para todos a largo plazo."
+      "integrity_correct": "Explicas que hubo fallas en coordinación del equipo sin señalar nombres, aceptando que el director insista en detalles, tu supervisor te reclame por no respaldar su versión y el compañero se entere y se sienta traicionado.",
+      "pragmatic_distractor": "Confirmas completamente la versión de tu supervisor, mostrando que el equipo asume responsabilidad colectiva sin individualizar errores de personas.",
+      "evasive_distractor": "Respondes que el equipo está enfocado en soluciones correctivas y prefieres no entrar en análisis retrospectivos detallados sobre errores pasados.",
+      "rationalized_distractor": "Explicas los hechos técnicos objetivos sin interpretaciones personales, confiando en que la transparencia técnica es mejor para la organización a largo plazo."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 63,
-    "char_count": 397,
-    "length_status": "ok",
-    "length_note": "63w, 397c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q005",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa organiza un evento de innovación el fin de semana. Es voluntario pero tu supervisor menciona que espera ver a los miembros comprometidos del equipo. Tienes el cumpleaños de tu hijo ese día. Asistir demostraría compromiso pero fallarías a tu familia. No ir podría afectar cómo te perciben para el ascenso que viene. Otros esperan ver qué decides tú primero. ¿Qué eliges?",
+    "scenario": "La empresa organiza un evento de innovación el sábado completo. Formalmente es voluntario pero tu supervisor mencionó que espera ver presentes a todos los miembros comprometidos del equipo. Ese sábado es el cumpleaños de tu hijo con fiesta familiar confirmada. Asistir demostraría compromiso pero significa fallar a tu familia en un momento importante. No asistir podría afectar tu consideración para el ascenso que se define el próximo mes. Varios compañeros esperan ver tu decisión primero. ¿Qué eliges y cómo lo justificas?",
     "options_structured": {
-      "integrity_correct": "Asistes al evento perdiendo el cumpleaños de tu hijo, sabiendo que tu pareja estará molesta semanas y tu hijo recordará que no estuviste en su día especial.",
-      "pragmatic_distractor": "Asistes unas horas por la mañana para mostrar presencia y luego te vas a la celebración familiar.",
-      "evasive_distractor": "Avisas con anticipación que tienes un compromiso familiar ineludible y ofreces contribuir de otra forma.",
-      "rationalized_distractor": "Propones a tu supervisor una forma alternativa de demostrar compromiso que no requiera ese fin de semana específico."
+      "integrity_correct": "Comunicas a tu supervisor que tienes un compromiso familiar ineludible y no asistirás al evento, aceptando que esto afecte tu consideración para el ascenso, varios compañeros interpreten que priorizas familia sobre carrera y tu supervisor lo registre como bajo compromiso.",
+      "pragmatic_distractor": "Asistes tres horas durante la mañana para asegurar presencia visible ante ejecutivos clave y luego te retiras discretamente para alcanzar la celebración familiar.",
+      "evasive_distractor": "Avisas con anticipación que tienes un compromiso familiar importante y preguntas a tu supervisor si hay formas alternativas de demostrar compromiso sin ese evento.",
+      "rationalized_distractor": "Asistes al evento completo perdiendo el cumpleaños de tu hijo, porque consideras que asegurar el ascenso beneficiará económicamente a tu familia a largo plazo."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 63,
-    "char_count": 380,
-    "length_status": "ok",
-    "length_note": "63w, 380c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q006",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "En tu equipo hay un experto técnico muy talentoso pero con actitud cínica que afecta la moral. Sus quejas constantes sobre la empresa crean un ambiente tenso. Otros evitan confrontarlo por su conocimiento crítico. Hablarle directamente podría generar conflicto con alguien que controla información clave para tu trabajo. Tu productividad y la del equipo sufren. ¿Intervienes o dejas que otros actúen?",
+    "scenario": "En tu equipo hay un experto técnico senior extremadamente talentoso con conocimiento crítico del sistema legacy, pero con actitud constantemente cínica que afecta la moral colectiva. Sus quejas públicas sobre la empresa crean ambiente tenso en reuniones. Otros evitan confrontarlo por su conocimiento técnico crítico. Hablarle sobre su comportamiento podría generar conflicto con alguien que controla información clave para tu proyecto. La productividad del equipo sufre por el ambiente negativo. ¿Intervienes directamente o esperas que otros actúen?",
     "options_structured": {
-      "integrity_correct": "Hablas con él directamente sobre el impacto de su actitud, arriesgando que después te niegue apoyo técnico en momentos críticos y tu proyecto sufra por falta de su cooperación.",
-      "pragmatic_distractor": "Te enfocas en tu trabajo y desarrollas fuentes alternativas de conocimiento técnico para no depender solo de él.",
-      "evasive_distractor": "Mantienes una relación cordial sin confrontar, priorizando tener acceso a su expertise cuando lo necesites.",
-      "rationalized_distractor": "Comentas la situación con tu supervisor para que él decida si intervenir, sin exponerte directamente."
+      "integrity_correct": "Hablas con él directamente sobre el impacto de su actitud en el equipo, arriesgando que te niegue apoyo técnico en momentos críticos, tu trabajo sufra retrasos por falta de su cooperación y otros te vean como quien provocó ruptura con el experto más valioso.",
+      "pragmatic_distractor": "Te enfocas en tu trabajo y desarrollas fuentes alternativas de conocimiento técnico consultando documentación, expertos externos o colegas de otros equipos para reducir tu dependencia de él.",
+      "evasive_distractor": "Mantienes relación cordial y profesional sin confrontar su comportamiento, priorizando mantener acceso a su expertise cuando tu proyecto lo necesite.",
+      "rationalized_distractor": "Comentas la situación con tu supervisor mostrando evidencia del impacto en productividad para que él decida si intervenir, sin exponerte en conflicto directo."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 61,
-    "char_count": 400,
-    "length_status": "ok",
-    "length_note": "61w, 400c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q007",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Te ofrecen un ascenso que requiere trasladarte a otra ciudad y aceptar un rol en un departamento que no te interesa. Rechazarlo cerraría puertas: tu jefe ya dijo que quien rechaza oportunidades no está listo para crecer. El salario es mejor pero el costo personal es alto. Tu pareja tendría que dejar su trabajo. Aceptar demuestra compromiso pero sacrifica tu vida actual. ¿Carrera o estabilidad familiar?",
+    "scenario": "Te ofrecen un ascenso a gerente regional que requiere trasladarte a otra ciudad y liderar un departamento que no te interesa profesionalmente. Rechazarlo cerraría puertas: tu jefe dijo que quien rechaza oportunidades demuestra que no está listo para crecer. El incremento salarial es considerable pero el costo personal alto. Tu pareja tendría que renunciar a su empleo estable. Aceptar demuestra compromiso pero sacrifica tu estabilidad de vida actual. ¿Priorizas carrera profesional o estabilidad familiar?",
     "options_structured": {
-      "integrity_correct": "Rechazas el traslado priorizando a tu familia, sabiendo que tu jefe te etiquetará como poco ambicioso y pasarán años antes de que te consideren para otra promoción.",
-      "pragmatic_distractor": "Aceptas viendo la oportunidad de crecimiento y confías en que tu familia se adaptará al cambio.",
-      "evasive_distractor": "Pides tiempo para pensarlo mientras exploras si hay otras opciones de crecimiento sin traslado.",
-      "rationalized_distractor": "Propones una alternativa: aceptar el rol con viajes frecuentes en lugar de traslado permanente."
+      "integrity_correct": "Rechazas el traslado priorizando el bienestar de tu familia, sabiendo que tu jefe te etiquetará como poco ambicioso, pasarán años antes de otra oportunidad de promoción y colegas más flexibles te superarán en la jerarquía.",
+      "pragmatic_distractor": "Aceptas el ascenso y traslado viendo esto como oportunidad de crecimiento profesional, confiando en que tu familia se adaptará al cambio de ciudad y estilo de vida.",
+      "evasive_distractor": "Pides dos semanas para pensarlo con tu familia mientras exploras discretamente si existen otras opciones de crecimiento en la organización sin traslado geográfico.",
+      "rationalized_distractor": "Propones una alternativa: aceptar el rol gerencial con responsabilidad regional pero ejecutándolo mediante viajes frecuentes en lugar de traslado permanente."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 66,
-    "char_count": 405,
-    "length_status": "ok",
-    "length_note": "66w, 405c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q008",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Tu supervisor te pide ser mentor de un empleado nuevo con dificultades para integrarse. Dedicarle tiempo real afectará tus entregas este trimestre. Tienes metas agresivas y tu bono depende de cumplirlas. Ayudarlo beneficia al equipo pero tu compensación sufrirá. El nuevo empleado fue contratado por recomendación del director, así que su éxito importa políticamente. ¿Sacrificas tu bono por el bien colectivo?",
+    "scenario": "Tu supervisor te pide ser mentor de un empleado nuevo que tiene dificultades para integrarse al equipo. Dedicarle tiempo afectará tus entregas este trimestre. Tienes metas agresivas y tu bono depende de cumplirlas. Ayudar al nuevo beneficia al equipo pero tu compensación sufrirá. El empleado fue contratado por recomendación del director ejecutivo, así que su éxito importa políticamente. ¿Sacrificas tu bono por el bien del equipo?",
     "options_structured": {
-      "integrity_correct": "Inviertes el tiempo necesario para mentorearlo bien, aceptando que no cumplirás todas tus metas y tu bono trimestral será significativamente menor.",
-      "pragmatic_distractor": "Le dedicas tiempo limitado y estructurado, dándole recursos para que avance solo mientras cumples tus entregas.",
-      "evasive_distractor": "Aceptas el rol pero delegas parte del mentoreo a otros colegas que tienen más disponibilidad.",
-      "rationalized_distractor": "Planteas a tu supervisor que necesitas ajuste en tus metas si vas a dedicar tiempo significativo al mentoreo."
+      "integrity_correct": "Inviertes el tiempo necesario para mentorearlo efectivamente con reuniones semanales y seguimiento activo, aceptando que no cumplirás todas tus metas, tu bono será significativamente menor y tu evaluación reflejará incumplimiento de compromisos.",
+      "pragmatic_distractor": "Le dedicas tiempo limitado pero estructurado mediante sesiones breves y le proporcionas recursos documentales y contactos clave para que avance autónomamente mientras cumples tus entregas.",
+      "evasive_distractor": "Aceptas el rol de mentor pero delegas parte del trabajo práctico a otros colegas senior que tienen actualmente más disponibilidad horaria.",
+      "rationalized_distractor": "Planteas a tu supervisor que necesitas ajuste en tus metas individuales si vas a dedicar tiempo significativo al mentoreo del nuevo empleado."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 61,
-    "char_count": 410,
-    "length_status": "ok",
-    "length_note": "61w, 410c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q009",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Tu supervisor presenta una iniciativa que ves claramente destinada al fracaso. Después, compañeros expresan en privado su acuerdo contigo. Tienes ideas para mejorarla pero tu supervisor es conocido por no tolerar que lo contradigan. Quedarte callado significa ver fallar algo que podrías evitar. Tu próxima promoción depende de su recomendación. ¿Hablas y arriesgas su apoyo o guardas silencio?",
+    "scenario": "Tu supervisor presenta en reunión ejecutiva una iniciativa estratégica que ves claramente destinada al fracaso por problemas de diseño. Varios compañeros te expresan en privado que están de acuerdo con tu análisis. Tienes ideas para mejorarla pero tu supervisor es conocido por no tolerar que lo contradigan. Quedarte callado significa ver fallar algo que podrías evitar. Tu próxima promoción depende de su recomendación. ¿Hablas y arriesgas su apoyo o guardas silencio?",
     "options_structured": {
-      "integrity_correct": "Expresas tus preocupaciones en privado con propuestas concretas, sabiendo que tu supervisor probablemente lo tome como desafío y esto afecte la recomendación que necesitas para tu promoción.",
-      "pragmatic_distractor": "Apoyas la iniciativa públicamente mientras documentas tus observaciones por si necesitas mostrarlas después.",
-      "evasive_distractor": "Esperas a ver cómo evoluciona antes de opinar, preparando alternativas por si las piden.",
-      "rationalized_distractor": "Compartes tus ideas como sugerencias complementarias, enmarcándolas como mejoras a su propuesta original."
+      "integrity_correct": "Expresas tus preocupaciones en privado con propuestas concretas, sabiendo que probablemente lo tomará como desafío a su autoridad, esto afectará la recomendación que necesitas para tu promoción y tu relación laboral con él se deteriorará.",
+      "pragmatic_distractor": "Apoyas la iniciativa públicamente en reuniones mientras documentas tus observaciones en privado por si necesitas mostrarlas como evidencia de que identificaste riesgos tempranamente.",
+      "evasive_distractor": "Esperas semanas a observar cómo evoluciona la implementación inicial antes de expresar opinión crítica, mientras preparas propuestas alternativas por si las solicitan.",
+      "rationalized_distractor": "Compartes tus ideas enmarcadas como sugerencias complementarias de optimización, presentándolas como mejoras incrementales a su propuesta sin cuestionar sus fundamentos."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 58,
-    "char_count": 394,
-    "length_status": "ok",
-    "length_note": "58w, 394c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q010",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Tu equipo depende de otro departamento para datos cruciales en proyecto urgente. El otro equipo no cumple plazos y no responde tus mensajes. El procedimiento es escalar a tu supervisor pero el líder del otro equipo es amigo cercano de tu jefe. Presionar formalmente crearía tensión entre ellos. Tu jefe espera resultados sin excusas. Buscar alternativas consume tiempo que no tienes. ¿Cómo procedes?",
+    "scenario": "Tu equipo depende de otro departamento para datos cruciales en proyecto urgente con plazo inflexible. El otro equipo no cumple plazos y no responde tus mensajes. El procedimiento es escalar a tu supervisor pero el líder del otro equipo es amigo cercano de tu jefe. Presionar formalmente crearía tensión entre ellos. Tu jefe espera resultados sin excusas. Buscar alternativas consume tiempo que no tienes. ¿Cómo procedes en esta situación políticamente compleja?",
     "options_structured": {
-      "integrity_correct": "Escalas formalmente el incumplimiento aunque esto genere conflicto entre tu jefe y su amigo, y tu jefe después te culpe por crear una situación incómoda para él.",
-      "pragmatic_distractor": "Buscas un contacto informal en el otro equipo para agilizar sin pasar por canales oficiales.",
-      "evasive_distractor": "Desarrollas una solución alternativa con datos aproximados para no depender de ellos.",
-      "rationalized_distractor": "Informas a tu jefe la situación y dejas que él decida cómo manejar la relación con el otro equipo."
+      "integrity_correct": "Escalas formalmente el incumplimiento a través de los canales oficiales, aceptando que esto genere conflicto entre tu jefe y su amigo, tu jefe te culpe por crear una situación incómoda y tu relación laboral se vea afectada.",
+      "pragmatic_distractor": "Buscas un contacto informal dentro del otro equipo para agilizar la entrega de datos sin pasar por canales oficiales de escalación entre líderes.",
+      "evasive_distractor": "Desarrollas una solución técnica alternativa con datos aproximados de otras fuentes para no depender del otro equipo bloqueante.",
+      "rationalized_distractor": "Informas objetivamente a tu jefe la situación de bloqueo con evidencia de seguimiento, y dejas que él decida cómo manejar la relación con el líder del otro equipo."
     },
-    "notes": "Converted from pilot",
-    "sot_checksum": "converted_from_pilot",
-    "refactored_text": "",
-    "word_count": 63,
-    "char_count": 399,
-    "length_status": "ok",
-    "length_note": "63w, 399c",
-    "audit_status": "ok",
-    "audit_notes": "User approved manual review."
+    "notes": "Converted from pilot - REFACTORED to SOT standard",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   }
 ]

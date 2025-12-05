@@ -1,192 +1,152 @@
 [
-    {
-        "id": "block-B10-q11",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "La empresa lanza jornadas de ideas los sábados sin pago extra. Tu jefe dice que espera ver a los más comprometidos ahí. Varios van solo una hora por cumplir y se van. Ir en serio te cuesta el fin de semana pero no ir te deja mal visto por los jefes cuando toque hablar de ascensos o de quién va a los proyectos clave del año. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Asistes en serio aunque pierdas tu fin de semana y algunos te vean como exagerado, porque crees que aportar a la empresa vale la pena.",
-            "pragmatic_distractor": "Vas las primeras dos horas con buena cara y te retiras discreto, confiando en que con eso basta para que te noten.",
-            "evasive_distractor": "Preguntas a otros qué tan estricta es la cosa antes de comprometerte, esperando que alguien diga que no ir está bien.",
-            "rationalized_distractor": "Decides no ir diciendo que tu trabajo diario ya demuestra tu compromiso, y que el descanso te hace rendir mejor después."
-        },
-        "word_count": 68,
-        "char_count": 337,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: pertenencia vs tiempo personal",
-        "sot_checksum": "M5_OPT_SOT_v1"
+  {
+    "id": "block-B10-q011",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "La empresa lanza jornadas de ideas los sábados sin pago extra. Tu jefe mencionó explícitamente que espera ver presentes a los miembros más comprometidos del equipo. Varios compañeros asisten solo una hora por cumplir el expediente y se retiran. Participar genuinamente te cuesta tu único día de descanso familiar semanal. No asistir podría afectar cómo te consideran los ejecutivos cuando definan ascensos o asignaciones a proyectos estratégicos del próximo año. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Comunicas a tu jefe que no asistirás porque priorizas tu tiempo familiar de descanso, aceptando que esto afecte tu consideración para ascensos, los ejecutivos te vean como menos comprometido y compañeros que sí asisten te superen en visibilidad.",
+      "pragmatic_distractor": "Asistes las primeras dos horas mostrando presencia visible ante los líderes clave y te retiras discretamente, confiando en que eso basta para cumplir las expectativas.",
+      "evasive_distractor": "Preguntas a compañeros de confianza qué tan importante consideran la asistencia antes de comprometerte, esperando validar que no ir es aceptable.",
+      "rationalized_distractor": "Decides no asistir argumentando que tu trabajo diario ya demuestra suficiente compromiso y que el descanso te hace más productivo durante la semana."
     },
-    {
-        "id": "block-B10-q12",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "La empresa cambia a trabajo mixto con menos días en oficina cada semana. Los empleados más antiguos lo critican en voz alta y dicen que daña la unión del grupo y la forma de colaborar. A ti te gusta el cambio pero si lo dices te pueden aislar del grupo de siempre. Tu jefe te pide que hables claro de tu postura en la junta de área. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Dices lo que piensas aunque algunos colegas veteranos se molesten contigo, porque crees que el cambio ayuda al equipo a largo plazo.",
-            "pragmatic_distractor": "Dices que ves cosas buenas y malas en ambos lados, quedándote neutral para no enemistarte con nadie del grupo.",
-            "evasive_distractor": "Pides más tiempo para ver el impacto antes de opinar, esperando que otros hablen primero y así reduces tu exposición.",
-            "rationalized_distractor": "Mencionas que respetas la decisión de arriba pero sugieres revisar en seis meses, evitando tomar postura clara hoy."
-        },
-        "word_count": 69,
-        "char_count": 344,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: adaptacion a cambios vs presion social",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: pertenencia vs tiempo personal - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q012",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "La empresa implementa modelo de trabajo híbrido con menos días presenciales semanales. Los empleados más antiguos y senior lo critican abiertamente en reuniones diciendo que daña la cohesión del equipo y la calidad de la colaboración. A ti te beneficia el cambio significativamente pero manifestarlo podría aislarte del grupo de veteranos influyentes. Tu jefe te pidió explícitamente que expreses tu postura honesta en la próxima junta de área. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Expresas que apoyas el modelo híbrido explicando tus razones, aceptando que los colegas veteranos se molesten contigo, te excluyan de conversaciones informales importantes y tu relación con ellos se enfríe visiblemente.",
+      "pragmatic_distractor": "Mencionas que ves ventajas y desventajas en ambos modelos, manteniéndote neutral para no enemistarte con ningún grupo del equipo.",
+      "evasive_distractor": "Pides más tiempo para evaluar el impacto real del cambio antes de opinar, esperando que otros expresen sus posturas primero y reduces tu exposición.",
+      "rationalized_distractor": "Dices que respetas la decisión de la dirección pero sugieres revisar resultados en seis meses, evitando tomar postura personal clara ahora."
     },
-    {
-        "id": "block-B10-q13",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Tu área se fusiona con otra cuyo jefe es difícil de tratar según todos dicen. Varios de tus colegas van a irse ya para evitar el problema. Quedarte implica meses duros de prueba sin garantía de nada y reconstruir tu imagen desde cero con gente nueva. Si te vas ahora te dan liquidación completa pero pierdes todo lo que has construido aquí en años de esfuerzo. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Te quedas y trabajas para adaptarte al nuevo jefe aunque implique meses de incertidumbre y reconstruir tu reputación desde cero.",
-            "pragmatic_distractor": "Te quedas pero empiezas a buscar opciones afuera en paralelo, manteniendo alternativas abiertas sin comprometerte del todo.",
-            "evasive_distractor": "Hablas con colegas para ver qué deciden ellos primero, esperando seguir la tendencia mayoritaria antes de actuar.",
-            "rationalized_distractor": "Decides esperar los primeros tres meses para evaluar si el cambio funciona antes de invertir energía extra."
-        },
-        "word_count": 68,
-        "char_count": 372,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: permanencia ante reestructuracion",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: adaptacion a cambios vs presion social - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q013",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "Tu área se fusiona con otra cuyo líder tiene reputación comprobada de ser exigente y difícil de satisfacer. Varios colegas cercanos ya decidieron renunciar antes de la fusión para evitar trabajar bajo ese liderazgo. Quedarte implica meses de incertidumbre, reconstruir tu reputación profesional desde cero y adaptarte a estándares más exigentes sin garantías. Irte ahora te da liquidación completa pero pierdes años de construcción de relaciones y conocimiento específico. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Te quedas y te comprometes a adaptarte al nuevo liderazgo, aceptando que enfrentarás meses difíciles de incertidumbre, tendrás que reconstruir tu reputación completamente y otros que se fueron evitarán ese desgaste.",
+      "pragmatic_distractor": "Te quedas pero inicias búsqueda externa discreta en paralelo, manteniendo opciones abiertas sin comprometerte totalmente con el nuevo escenario.",
+      "evasive_distractor": "Hablas con colegas para ver cuántos planean quedarse, esperando seguir la decisión mayoritaria antes de definir tu propio camino.",
+      "rationalized_distractor": "Decides esperar los primeros tres meses para evaluar si el cambio es manejable antes de invertir esfuerzo extra en adaptación."
     },
-    {
-        "id": "block-B10-q14",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "El equipo adopta un nuevo método de trabajo que no te convence nada después de verlo en acción. El director lo promueve con ganas y espera que todos lo apoyen en público sin cuestionarlo. Si criticas te van a ver como el que frena todo y no se adapta. Varios piensan igual que tú pero nadie dice nada en las juntas porque temen las represalias del jefe. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Expresas tus dudas de forma constructiva en la junta aunque el director se moleste, porque crees que el feedback honesto ayuda al equipo.",
-            "pragmatic_distractor": "Apoyas el método en público mientras haces ajustes silenciosos en tu área, evitando pelear de frente con la dirección.",
-            "evasive_distractor": "Esperas a ver cómo reaccionan otros líderes antes de dar tu opinión, dejando que otros prueben las aguas primero.",
-            "rationalized_distractor": "Decides dar al método un trimestre completo antes de juzgar, diciendo que es muy pronto para criticar sin datos."
-        },
-        "word_count": 69,
-        "char_count": 365,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: adaptacion a cambios metodologicos",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: permanencia ante reestructuracion - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q014",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "El equipo adoptó una nueva metodología de trabajo que después de tres semanas de implementación consideras claramente contraproducente. El director la promueve con entusiasmo público y espera que todos la respalden sin cuestionamientos. Criticarla te haría ver como resistente al cambio y obstáculo para la innovación. Varios compañeros comparten tus reservas en privado pero nadie se atreve a plantearlas en reuniones por temor a represalias del director. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Expresas tus observaciones críticas constructivamente en la próxima reunión con datos específicos, aceptando que el director se moleste, te etiquete como resistente al cambio y esto afecte futuras asignaciones a proyectos innovadores.",
+      "pragmatic_distractor": "Apoyas la metodología públicamente mientras haces ajustes silenciosos en tu área de trabajo, evitando confrontación directa con la dirección.",
+      "evasive_distractor": "Esperas a observar cómo reaccionan otros líderes antes de expresar tu opinión, dejando que otros prueben primero el terreno político.",
+      "rationalized_distractor": "Propones dar al método un trimestre completo de prueba antes de evaluarlo, argumentando que es demasiado pronto para criticar sin datos suficientes."
     },
-    {
-        "id": "block-B10-q15",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Hay un evento de la empresa un sábado con actividades de equipo y charlas importantes de los directores generales. Es voluntario pero tu jefe dice que arriba van a notar quién va y quién no participa. Ese día tienes planes con tu familia que deberías cancelar si decides ir. No ir puede afectar tu visibilidad cuando haya puestos nuevos o proyectos especiales. ¿Qué decides?",
-        "options_structured": {
-            "integrity_correct": "Vas al evento completo cancelando lo de tu familia, porque valoras genuinamente construir lazos con el equipo y la dirección.",
-            "pragmatic_distractor": "Vas las primeras horas para las charlas clave y te retiras discreto para cumplir parcialmente con ambos compromisos.",
-            "evasive_distractor": "Preguntas a colegas cercanos qué van a hacer antes de decidir, esperando que la mayoría tenga excusas para no ir.",
-            "rationalized_distractor": "Envías un mensaje explicando tu situación familiar y propones compensar con más presencia en el próximo evento."
-        },
-        "word_count": 65,
-        "char_count": 374,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: balance vida-trabajo vs pertenencia",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: adaptacion a cambios metodologicos - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q015",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "La empresa organiza un evento corporativo importante todo el sábado con actividades de integración y presentaciones de los directores ejecutivos. Formalmente es voluntario pero tu jefe dijo explícitamente que la dirección tomará nota de quién participa. Ese día tienes compromisos familiares importantes ya confirmados que tendrías que cancelar. No asistir podría afectar tu visibilidad para nuevos puestos o proyectos estratégicos. Varios compañeros esperan ver qué decides tú antes de confirmar. ¿Qué eliges?",
+    "options_structured": {
+      "integrity_correct": "Comunicas a tu jefe que tienes compromisos familiares ineludibles y no asistirás, aceptando que esto afecte tu visibilidad ante ejecutivos, varios compañeros interpreten que priorizas vida personal sobre carrera y tu jefe lo registre como bajo compromiso organizacional.",
+      "pragmatic_distractor": "Asistes las primeras tres horas para las presentaciones ejecutivas clave y luego te retiras discretamente para cumplir parcialmente con ambos compromisos.",
+      "evasive_distractor": "Preguntas a colegas cercanos qué planean hacer antes de decidir, esperando que varios tengan excusas válidas para no asistir.",
+      "rationalized_distractor": "Envías mensaje explicando tu situación familiar y propones compensar con participación activa en el próximo evento corporativo."
     },
-    {
-        "id": "block-B10-q16",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Te piden unirte a un proyecto clave con un equipo de otra sede con el que has tenido roces fuertes en el pasado. Si sale bien te ven los de arriba pero es casi seguro que habrá tensiones serias que pueden dañar tu evaluación anual. Tu jefe te da la opción de decir que no pero eso te puede hacer ver poco flexible ante la dirección. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Aceptas el proyecto y trabajas para superar los roces pasados, aunque implique esfuerzo emocional extra y riesgo de conflictos visibles.",
-            "pragmatic_distractor": "Aceptas pero pones límites claros desde el inicio para minimizar la interacción directa con las personas conflictivas.",
-            "evasive_distractor": "Pides tiempo para consultar con tu equipo actual si pueden prescindir de ti antes de dar respuesta, retrasando tu decisión.",
-            "rationalized_distractor": "Sugieres participar en un rol de apoyo menor, diciendo que tu experiencia es más útil en tu proyecto actual."
-        },
-        "word_count": 68,
-        "char_count": 344,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: colaboracion interdepartamental",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: balance vida-trabajo vs pertenencia - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q016",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "Te invitan a unirte a un proyecto estratégico altamente visible que requiere colaborar con un equipo de otra sede con el cual tuviste conflictos profesionales serios hace un año. El proyecto exitoso te daría exposición directa ante la alta dirección. Es casi seguro que surgirán tensiones que podrían escalar y afectar tu evaluación anual. Tu jefe te da opción de declinar pero hacerlo podría hacerte ver como poco flexible ante los ejecutivos. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Aceptas el proyecto y te comprometes a manejar profesionalmente los conflictos pasados, aceptando que enfrentarás tensiones emocionales significativas, riesgo de que los conflictos escalen visiblemente y posible impacto negativo en tu evaluación si la colaboración falla.",
+      "pragmatic_distractor": "Aceptas pero estableces límites claros desde el inicio sobre canales de comunicación para minimizar interacciones directas con las personas conflictivas.",
+      "evasive_distractor": "Pides tiempo para consultar con tu equipo actual si pueden prescindir de ti temporalmente, retrasando tu decisión final.",
+      "rationalized_distractor": "Propones participar en un rol de consultor de apoyo menor, argumentando que tu experiencia sería más valiosa en tu proyecto actual."
     },
-    {
-        "id": "block-B10-q17",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Lanzan un plan donde los empleados más experimentados guían a los nuevos fuera del horario laboral sin pago adicional por el tiempo extra. Tu jefe valora mucho que la gente se sume pero no te puede obligar a hacerlo. Si dices que no puede afectar cómo te ven los de arriba. Si aceptas pierdes tiempo personal valioso y avance en tus propios proyectos pendientes. ¿Qué decides?",
-        "options_structured": {
-            "integrity_correct": "Te inscribes como mentor dedicando tiempo real aunque afecte tus proyectos y horarios personales, porque crees en desarrollar talento nuevo.",
-            "pragmatic_distractor": "Aceptas pero limitas las sesiones a una hora semanal estricta, priorizando tus entregas sobre la profundidad de la mentoría.",
-            "evasive_distractor": "Preguntas cuántos mentores se han inscrito antes de decidir, esperando que haya suficientes para que tu ausencia pase desapercibida.",
-            "rationalized_distractor": "Sugieres que podrías participar el próximo ciclo cuando tu carga sea menor, evitando comprometerte ahora."
-        },
-        "word_count": 66,
-        "char_count": 376,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: compromiso voluntario vs tiempo personal",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: colaboracion interdepartamental - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q017",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "La empresa lanza programa de mentoría donde empleados experimentados guían a nuevos fuera del horario laboral sin compensación económica adicional. Tu jefe valoraría mucho que participes pero no puede obligarte formalmente. Negarte podría afectar cómo te perciben los ejecutivos para futuras oportunidades. Aceptar significa sacrificar tiempo personal valioso y retrasar avance en tus proyectos individuales pendientes. El programa requiere compromiso semanal de al menos tres horas. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Te inscribes como mentor comprometiéndote a dedicar el tiempo necesario efectivamente, aceptando que esto retrase tus proyectos personales, afecte tu tiempo familiar semanal y no recibas compensación económica por las horas extra invertidas.",
+      "pragmatic_distractor": "Aceptas participar pero limitas estrictamente las sesiones a una hora semanal, priorizando tus entregas individuales sobre la profundidad de la mentoría.",
+      "evasive_distractor": "Preguntas cuántos mentores se han inscrito ya antes de decidir, esperando que haya suficientes voluntarios para que tu ausencia pase desapercibida.",
+      "rationalized_distractor": "Propones que podrías participar en el próximo ciclo cuando tu carga de trabajo sea menor, evitando comprometerte inmediatamente."
     },
-    {
-        "id": "block-B10-q18",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Tu área tendrá una auditoría externa importante el próximo mes. Hay que documentar procesos que hoy están en la cabeza de la gente nada más y no hay registro escrito. Hacerlo bien toma horas extra sin pago adicional. Hacerlo rápido y mal pasa la revisión pero deja problemas serios a futuro. Tu jefe confía en que el equipo hará lo correcto por el área. ¿Cómo procedes?",
-        "options_structured": {
-            "integrity_correct": "Dedicas las horas extra necesarias para documentar todo bien aunque no haya compensación, porque quieres que el área realmente mejore.",
-            "pragmatic_distractor": "Documentas lo esencial para pasar la auditoría y dejas notas sobre qué completar después, balanceando esfuerzo con resultado mínimo aceptable.",
-            "evasive_distractor": "Consultas con otros equipos que ya pasaron auditorías similares para entender el nivel mínimo requerido antes de invertir tiempo.",
-            "rationalized_distractor": "Propones que el equipo divida la carga equitativamente, asegurándote de que tu parte sea proporcional y no excesiva."
-        },
-        "word_count": 66,
-        "char_count": 369,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: esfuerzo extra vs requisitos minimos",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: compromiso voluntario vs tiempo personal - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q018",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "Tu área enfrentará auditoría externa importante el próximo mes. Deben documentarse procesos críticos que actualmente solo existen como conocimiento tácito en la memoria de las personas. Documentar todo correctamente requiere invertir horas extra significativas sin pago adicional. Hacerlo rápido y superficialmente pasaría la auditoría inmediata pero dejaría vacíos que causarán problemas serios a futuro. Tu jefe confía en que el equipo hará lo necesario. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Dedicas las horas extra necesarias para documentar todos los procesos correctamente sin compensación adicional, aceptando sacrificar tiempo personal, que otros que documentaron superficialmente terminen antes y no haya reconocimiento visible de tu esfuerzo extra.",
+      "pragmatic_distractor": "Documentas lo esencial para pasar la auditoría inmediata y dejas notas sobre qué debería completarse después, balanceando esfuerzo con resultado mínimo aceptable.",
+      "evasive_distractor": "Consultas con equipos que ya enfrentaron auditorías similares para entender exactamente el nivel mínimo requerido antes de invertir tiempo extra.",
+      "rationalized_distractor": "Propones que el equipo divida la carga equitativamente, asegurándote de que tu parte sea estrictamente proporcional y no excesiva comparada con otros."
     },
-    {
-        "id": "block-B10-q19",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "La empresa cambia sus valores y pide que todos actúen de forma diferente a partir de ahora. Te toca liderar eso en tu equipo aunque dudas de algunas de esas ideas nuevas que proponen. Si dices tus dudas en voz alta te pueden ver como el que no se adapta. Si promueves algo que no crees te sientes falso y eso te pesa. Tu equipo espera que les guíes. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Lideras la adopción activamente aunque tengas reservas personales, buscando espacios privados para dar feedback constructivo a la dirección.",
-            "pragmatic_distractor": "Comunicas los nuevos valores al equipo sin enfatizar tu opinión personal, cumpliendo el rol formalmente sin invertir emocionalmente.",
-            "evasive_distractor": "Esperas a ver cómo otros líderes manejan la situación antes de definir tu enfoque, observando qué nivel de entusiasmo es esperado.",
-            "rationalized_distractor": "Sugieres que el equipo necesita tiempo para asimilar los cambios gradualmente, evitando presionar una adopción rápida que no crees genuina."
-        },
-        "word_count": 71,
-        "char_count": 361,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: liderazgo de cambio cultural",
-        "sot_checksum": "M5_OPT_SOT_v1"
+    "notes": "Tema: esfuerzo extra vs requisitos minimos - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q019",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "La empresa redefinió sus valores corporativos y pide que todos los líderes los promuevan activamente en sus equipos a partir de ahora. Te asignaron liderar esta adopción en tu área aunque tienes reservas significativas sobre algunos de los nuevos valores propuestos. Expresar tus dudas públicamente te haría ver como resistente al cambio organizacional. Promover activamente algo en lo que no crees completamente te genera conflicto interno. Tu equipo espera tu guía clara. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Comunicas honestamente al equipo los nuevos valores incluyendo tus reservas personales constructivas, aceptando que la dirección pueda cuestionar tu alineamiento, algunos miembros del equipo se confundan con mensajes mixtos y tu credibilidad como líder se vea afectada.",
+      "pragmatic_distractor": "Comunicas formalmente los nuevos valores al equipo sin enfatizar tu opinión personal, cumpliendo el rol asignado sin invertir emocionalmente en la promoción.",
+      "evasive_distractor": "Esperas a observar cómo otros líderes de área manejan la comunicación antes de definir tu enfoque, viendo qué nivel de entusiasmo es esperado.",
+      "rationalized_distractor": "Explicas al equipo que necesitan tiempo para asimilar los cambios gradualmente, evitando presionar adopción rápida que no consideras genuina o sostenible."
     },
-    {
-        "id": "block-B10-q20",
-        "module_id": 5,
-        "block_id": "B10",
-        "type": "options",
-        "scenario": "Tu equipo propone una mejora que toma tiempo al inicio pero ahorra mucho esfuerzo a largo plazo. Los jefes de arriba no están convencidos y prefieren dejarlo como está. Si insistes gastas capital político y puedes fallar en público frente al área. Si lo dejas tiras meses de análisis del equipo a la basura. Tu jefe te pide que decidas el rumbo a tomar hoy. ¿Qué haces?",
-        "options_structured": {
-            "integrity_correct": "Defiendes la propuesta ante la dirección aunque gastes capital político y arriesgues fracasar visiblemente, porque crees que beneficia a la empresa.",
-            "pragmatic_distractor": "Implementas una versión reducida de la mejora en tu área sin escalar a dirección, probando resultados antes de exponerte.",
-            "evasive_distractor": "Propones formar un comité que evalúe la propuesta más a fondo, ganando tiempo mientras otros validan o descartan la idea.",
-            "rationalized_distractor": "Decides posponer la iniciativa hasta que las condiciones sean más favorables, diciendo que el momento actual no es ideal."
-        },
-        "word_count": 67,
-        "char_count": 369,
-        "length_status": "ok",
-        "audit_status": "ok",
-        "notes": "Tema: impulsar cambios vs riesgo politico",
-        "sot_checksum": "M5_OPT_SOT_v1"
-    }
+    "notes": "Tema: liderazgo de cambio cultural - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  },
+  {
+    "id": "block-B10-q020",
+    "module_id": 5,
+    "block_id": "B10",
+    "type": "options",
+    "scenario": "Tu equipo desarrolló una propuesta de mejora de proceso que requiere inversión inicial de tiempo pero generaría ahorros significativos a largo plazo. Los ejecutivos no están convencidos y prefieren mantener el status quo. Insistir en defender la propuesta consumiría tu capital político acumulado y podrías fracasar públicamente frente a toda el área. Abandonarla significa desperdiciar meses de análisis y trabajo del equipo. Tu jefe te pidió que decidas el rumbo definitivo hoy. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Defiendes la propuesta formalmente ante la dirección con datos de soporte, aceptando que esto consuma tu capital político acumulado, arriesgues fracasar visiblemente si te rechazan y tu capacidad de influencia futura se vea reducida.",
+      "pragmatic_distractor": "Implementas una versión piloto reducida en tu área sin escalar a dirección ejecutiva, probando resultados tangibles antes de exponerte políticamente.",
+      "evasive_distractor": "Propones formar un comité técnico que evalúe la propuesta más profundamente, ganando tiempo mientras otros validan o descartan la idea.",
+      "rationalized_distractor": "Decides posponer la iniciativa argumentando que las condiciones organizacionales actuales no son favorables y que el momento estratégico no es ideal."
+    },
+    "notes": "Tema: impulsar cambios vs riesgo politico - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
+  }
 ]

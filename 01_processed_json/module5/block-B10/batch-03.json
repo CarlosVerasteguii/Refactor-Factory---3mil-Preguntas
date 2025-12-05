@@ -4,399 +4,299 @@
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Tu empresa lanza un proyecto de transformación digital y te asignan a un equipo nuevo. Descubres que el enfoque propuesto tiene fallas técnicas serias. Señalarlas públicamente podría hacerte ver como alguien difícil de trabajar y afectar tu próxima evaluación. Ignorarlo significa avanzar con un plan que probablemente fracasará. ¿Qué haces?",
+    "scenario": "La empresa lanza un proyecto de transformación digital crítico y te asignan a un equipo interdepartamental nuevo. Durante las primeras sesiones descubres que el enfoque técnico propuesto tiene fallas estructurales serias que probablemente causarán problemas significativos. Señalarlas públicamente en esta etapa inicial podría hacerte ver como difícil de trabajar y negativo ante el nuevo equipo. Ignorar los problemas significa avanzar con un plan que probablemente fracasará costosamente en meses. Tu primera evaluación con este equipo ocurre en seis semanas. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Documento las fallas técnicas y las presento al equipo completo, aunque esto genere tensión y pueda afectar cómo me perciben en mi primera evaluación con este grupo.",
-      "pragmatic_distractor": "Implemento correcciones menores por mi cuenta mientras avanzo con el plan original, asumiendo que podré arreglar los problemas más adelante.",
-      "evasive_distractor": "Consulto con colegas de otros equipos sobre su experiencia con proyectos similares antes de decidir si mencionar algo.",
-      "rationalized_distractor": "Confío en que el equipo detectará los problemas durante la implementación y los corregirá naturalmente sin necesidad de señalarlos yo."
+      "integrity_correct": "Documento las fallas técnicas con evidencia y las presento formalmente al equipo completo, aceptando que esto genere tensión con el líder técnico del proyecto, afecte negativamente tu primera evaluación con este grupo y algunos te etiqueten como obstáculo.",
+      "pragmatic_distractor": "Implementas correcciones menores por tu cuenta en tu parte del trabajo mientras sigues el plan general, asumiendo que podrás mitigar problemas mayores más adelante.",
+      "evasive_distractor": "Consultas en privado con colegas de otros equipos sobre su experiencia con proyectos similares antes de decidir si mencionar tus observaciones.",
+      "rationalized_distractor": "Confías en que el equipo tiene más experiencia colectiva y detectará los problemas durante la implementación sin necesidad de que tú los señales ahora."
     },
-    "notes": "Transformación digital - integridad técnica vs reputación",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 50,
-    "char_count": 341,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=50 out of 65-80 range"
+    "notes": "Transformación digital - integridad técnica vs reputación - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q022",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa organiza eventos para fortalecer la cultura organizacional los fines de semana. Tu supervisor espera ver a todos los miembros comprometidos allí, aunque la participación es voluntaria. Tienes compromisos familiares importantes ese día. No asistir podría afectar tu imagen de compromiso en el equipo. ¿Qué decides?",
+    "scenario": "La empresa organiza eventos para fortalecer la cultura organizacional varios fines de semana al año. Tu supervisor mencionó explícitamente que espera ver presentes a todos los miembros comprometidos del equipo aunque formalmente la participación es voluntaria. Tienes compromisos familiares importantes ya confirmados para ese fin de semana específico. No asistir podría afectar directamente tu imagen de compromiso ante tu supervisor y los ejecutivos que participan. Varios compañeros esperan ver tu decisión antes de confirmar. ¿Qué decides?",
     "options_structured": {
-      "integrity_correct": "Comunico honestamente que tengo compromisos familiares previos y no podré asistir, aunque sé que esto podría afectar cómo se percibe mi nivel de compromiso.",
-      "pragmatic_distractor": "Asisto solo una hora para hacer acto de presencia y luego me retiro discretamente para atender mis compromisos familiares.",
-      "evasive_distractor": "Pregunto a otros compañeros qué piensan hacer para decidir según lo que haga la mayoría del equipo.",
-      "rationalized_distractor": "Asumo que mi buen desempeño laboral habla por sí solo y que no necesito demostrar compromiso en actividades extralaborales."
+      "integrity_correct": "Comunicas honestamente a tu supervisor que tienes compromisos familiares ineludibles previos y no podrás asistir al evento, aceptando que esto afecte cómo se percibe tu nivel de compromiso organizacional, tu supervisor lo registre negativamente y varios compañeros interpreten que priorizas vida personal.",
+      "pragmatic_distractor": "Asistes únicamente las primeras dos horas para hacer presencia visible ante los líderes clave y luego te retiras discretamente para atender tus compromisos familiares.",
+      "evasive_distractor": "Preguntas a varios compañeros de confianza qué piensan hacer para tomar tu decisión según lo que decida la mayoría del equipo.",
+      "rationalized_distractor": "Asumes que tu buen desempeño laboral consistente habla por sí solo y que no necesitas demostrar compromiso adicional en actividades extralaborales voluntarias."
     },
-    "notes": "Cultura organizacional vs límites personales",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 47,
-    "char_count": 324,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=47 out of 65-80 range"
+    "notes": "Cultura organizacional vs límites personales - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q023",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Un proyecto estratégico importante requiere que sigas un proceso de aprobación largo mientras el plazo se acerca. Conoces a alguien que podría acelerar las cosas saltando algunos pasos. Usar ese atajo molestaría a otros equipos que siempre respetan el proceso. Seguir el protocolo formal podría retrasar el proyecto significativamente. ¿Cómo actúas?",
+    "scenario": "Un proyecto estratégico crítico con alta visibilidad ejecutiva requiere que sigas un proceso formal de aprobación que normalmente toma tres semanas mientras el plazo de entrega se acerca rápidamente. Conoces personalmente a alguien en el comité que podría acelerar informalmente las aprobaciones saltando algunos pasos de revisión. Usar ese atajo molestaría seriamente a otros equipos que siempre han respetado escrupulosamente el proceso completo. Seguir el protocolo formal podría retrasar el proyecto significativamente y afectar tu evaluación. ¿Cómo actúas?",
     "options_structured": {
-      "integrity_correct": "Sigo el procedimiento formal completo y comunico el posible retraso a todos los involucrados, aunque esto genere frustración y presión sobre mí.",
-      "pragmatic_distractor": "Uso el contacto para acelerar solo las aprobaciones más críticas, asumiendo que el resultado final justificará el método.",
-      "evasive_distractor": "Consulto con mi supervisor si otros equipos han usado atajos similares antes de tomar cualquier decisión.",
-      "rationalized_distractor": "Acelero los pasos internos de mi parte del proceso y reduzco consultas, pensando que cumplir el plazo beneficia a todos."
+      "integrity_correct": "Sigues el procedimiento formal completo y comunicas proactivamente el posible retraso a todos los involucrados, aceptando que esto genere frustración visible de tu jefe, presión directa de los ejecutivos y que tu evaluación refleje el incumplimiento de plazo.",
+      "pragmatic_distractor": "Usas tu contacto personal para acelerar únicamente las aprobaciones más críticas del proceso, documentando todo cuidadosamente y asumiendo que el resultado justificará el método.",
+      "evasive_distractor": "Consultas explícitamente con tu supervisor si otros equipos han usado atajos similares en el pasado antes de tomar cualquier decisión sobre el proceso.",
+      "rationalized_distractor": "Aceleras todos los pasos internos que están bajo tu control directo y reduces consultas opcionales, pensando que optimizar tu parte cumple suficientemente el espíritu del proceso."
     },
-    "notes": "Procesos formales vs eficiencia",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 51,
-    "char_count": 349,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=51 out of 65-80 range"
+    "notes": "Procesos formales vs eficiencia - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q024",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Participas en programas de desarrollo profesional que la empresa valora mucho. Descubres que un colega está falsificando sus reportes de participación. Denunciarlo podría dañar tu relación con él y con su círculo de amigos en la oficina. Callarlo significa ser cómplice de algo que va contra los valores que la empresa promueve. ¿Qué haces?",
+    "scenario": "Participas activamente en programas de desarrollo profesional que la empresa valora mucho y promueve públicamente como parte de su cultura. Descubres que un colega cercano está falsificando sistemáticamente sus reportes de participación en sesiones de capacitación para cumplir requisitos sin asistir realmente. Denunciarlo formalmente podría dañar seriamente tu relación con él y con su círculo de amigos influyentes en la oficina. Callarlo significa ser cómplice de algo que contradice directamente los valores que la empresa promueve. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reporto la situación al área correspondiente con evidencia, aunque sé que esto dañará mi relación con este colega y posiblemente con otros.",
-      "pragmatic_distractor": "Hablo con el colega en privado y le doy la oportunidad de corregir la situación antes de que alguien más se dé cuenta.",
-      "evasive_distractor": "Espero a ver si alguien más nota la irregularidad y decide reportarla primero.",
-      "rationalized_distractor": "Asumo que los responsables del programa eventualmente detectarán las inconsistencias sin mi intervención."
+      "integrity_correct": "Reportas la situación documentada al área de recursos humanos con evidencia específica, aceptando que esto dañará permanentemente tu relación con este colega, posiblemente con su grupo de amigos cercanos y algunos te verán como delator.",
+      "pragmatic_distractor": "Hablas directamente con el colega en privado y le das oportunidad de corregir voluntariamente la situación antes de que alguien más la descubra y escale.",
+      "evasive_distractor": "Esperas a observar si alguien más del equipo o de recursos humanos nota independientemente la irregularidad y decide reportarla primero.",
+      "rationalized_distractor": "Asumes que los responsables del programa de capacitación eventualmente detectarán las inconsistencias en asistencia mediante sus propios controles sin tu intervención directa."
     },
-    "notes": "Valores organizacionales vs lealtad personal",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 54,
-    "char_count": 340,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=54 out of 65-80 range"
+    "notes": "Valores organizacionales vs lealtad personal - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q025",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La comunicación interna de la empresa solicita voluntarios para un comité de innovación. Tu supervisor espera que participes, pero tienes una carga de trabajo alta. Aceptar significaría trabajar horas extra sin compensación adicional. Rechazar podría afectar tu imagen de compromiso con la empresa. ¿Cuál es tu decisión?",
+    "scenario": "La comunicación interna de la empresa solicita voluntarios para participar en un comité estratégico de innovación que se reunirá semanalmente. Tu supervisor expresó claramente que espera que participes activamente. Tienes actualmente una carga de trabajo muy alta con múltiples proyectos urgentes. Aceptar la participación significaría inevitablemente trabajar horas extra significativas sin compensación económica adicional. Rechazar la invitación podría afectar cómo tu supervisor percibe tu compromiso con iniciativas organizacionales. ¿Cuál es tu decisión?",
     "options_structured": {
-      "integrity_correct": "Acepto participar en el comité aunque implique sacrificar tiempo personal, comunicando claramente el impacto en mis otras responsabilidades.",
-      "pragmatic_distractor": "Me inscribo pero planeo contribuir solo lo mínimo necesario para mantener las apariencias sin afectar demasiado mi tiempo.",
-      "evasive_distractor": "Pregunto a colegas que ya participaron cómo manejaron la carga adicional antes de comprometerme.",
-      "rationalized_distractor": "Declino argumentando que mi contribución en mi rol actual ya es significativa para los objetivos de innovación."
+      "integrity_correct": "Comunicas a tu supervisor que declinas participar en el comité debido a tu carga actual y propones involucrarte cuando tu situación mejore, aceptando que esto afecte su percepción de tu compromiso, te excluyan de futuras oportunidades similares y otros más flexibles te superen en visibilidad.",
+      "pragmatic_distractor": "Te inscribes formalmente en el comité pero planeas contribuir únicamente lo mínimo necesario para mantener apariencias sin afectar significativamente tu tiempo disponible.",
+      "evasive_distractor": "Preguntas a colegas que ya participaron en comités similares cómo manejaron exitosamente la carga adicional antes de comprometerte con una respuesta.",
+      "rationalized_distractor": "Declinas participar argumentando que tu contribución máxima a los objetivos de innovación de la empresa está en tu rol actual de alta responsabilidad."
     },
-    "notes": "Compromiso organizacional vs balance personal",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 47,
-    "char_count": 320,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=47 out of 65-80 range"
+    "notes": "Compromiso organizacional vs balance personal - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q026",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "En una transformación digital importante, identificas que el enfoque del líder del proyecto tiene riesgos que nadie más parece ver. Expresar tus preocupaciones podría hacerte parecer negativo o poco colaborativo. Sin embargo, callar podría llevar a problemas serios más adelante que afectarían a todo el equipo. ¿Cómo procedes?",
+    "scenario": "En una transformación digital estratégica importante identificas que el enfoque técnico propuesto por el líder senior del proyecto tiene riesgos de seguridad y escalabilidad que nadie más en las reuniones parece estar considerando. Expresar públicamente tus preocupaciones técnicas podría hacerte parecer negativo, poco colaborativo o crítico del líder. Sin embargo, mantener silencio podría llevar a problemas técnicos serios que afectarían a todo el equipo y la credibilidad del proyecto en meses. ¿Cómo procedes?",
     "options_structured": {
-      "integrity_correct": "Documento mis preocupaciones y las presento formalmente al equipo, aunque esto pueda afectar mi relación con el líder del proyecto.",
-      "pragmatic_distractor": "Implemento controles adicionales en mi parte del trabajo para mitigar los riesgos sin confrontar directamente al líder.",
-      "evasive_distractor": "Menciono mis dudas casualmente a algunos colegas para ver si alguien más comparte mis preocupaciones.",
-      "rationalized_distractor": "Confío en que el equipo tiene más experiencia que yo y que probablemente ya consideraron esos riesgos."
+      "integrity_correct": "Documentas formalmente tus preocupaciones técnicas con datos específicos y las presentas al equipo completo en la próxima reunión, aceptando que esto afecte tu relación con el líder del proyecto, algunos te vean como obstáculo y tu colaboración futura sea más difícil.",
+      "pragmatic_distractor": "Implementas controles de seguridad adicionales y mejoras de escalabilidad específicamente en tu parte del trabajo para mitigar los riesgos sin confrontar directamente al líder.",
+      "evasive_distractor": "Mencionas tus dudas técnicas casualmente en conversaciones informales con algunos colegas para validar si alguien más comparte tus preocupaciones antes de escalar.",
+      "rationalized_distractor": "Confías en que el equipo colectivamente tiene más experiencia técnica acumulada que tú y que probablemente ya consideraron esos riesgos en su análisis previo."
     },
-    "notes": "Comunicación de riesgos vs armonía del equipo",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 48,
-    "char_count": 327,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=48 out of 65-80 range"
+    "notes": "Comunicación de riesgos vs armonía del equipo - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q027",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Tu equipo participa en procesos de mejora continua que requieren reportar problemas operativos. Identificas un problema causado por una decisión de tu supervisor directo. Reportarlo podría incomodarlo y afectar tu relación laboral. No reportarlo significa que el problema seguirá afectando la productividad del equipo. ¿Qué eliges?",
+    "scenario": "Tu equipo participa activamente en procesos formales de mejora continua que requieren reportar honestamente todos los problemas operativos identificados. Identificas un problema recurrente de productividad causado directamente por una decisión de proceso implementada por tu supervisor hace seis meses. Reportarlo formalmente en el sistema podría incomodarlo significativamente y afectar tu relación laboral cotidiana. No reportarlo significa que el problema continuará afectando la productividad del equipo completo y los objetivos del área. ¿Qué eliges hacer?",
     "options_structured": {
-      "integrity_correct": "Documento el problema y lo reporto en el canal oficial de mejora continua, aunque esto pueda generar tensión con mi supervisor.",
-      "pragmatic_distractor": "Corrijo el problema yo mismo sin reportarlo formalmente, evitando así cualquier incomodidad con mi supervisor.",
-      "evasive_distractor": "Espero a que otros miembros del equipo también noten el problema y decidan reportarlo primero.",
-      "rationalized_distractor": "Asumo que mi supervisor eventualmente identificará el problema y lo corregirá por su cuenta."
+      "integrity_correct": "Documentas el problema operativo con datos de impacto y lo reportas en el canal oficial de mejora continua, aceptando que esto genere tensión directa con tu supervisor, él lo tome como crítica personal y tu relación laboral se vea afectada.",
+      "pragmatic_distractor": "Corriges el problema directamente con ajustes en tu área de trabajo sin reportarlo formalmente en el sistema, evitando así cualquier incomodidad con tu supervisor.",
+      "evasive_distractor": "Esperas a observar si otros miembros del equipo también notan el mismo problema y deciden reportarlo primero en el sistema oficial.",
+      "rationalized_distractor": "Asumes que tu supervisor como responsable del proceso eventualmente identificará por sí mismo el problema y lo corregirá sin necesidad de señalamiento externo."
     },
-    "notes": "Mejora continua vs lealtad al supervisor",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 46,
-    "char_count": 331,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=46 out of 65-80 range"
+    "notes": "Mejora continua vs lealtad al supervisor - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q028",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa organiza reuniones de planificación para alinear equipos en proyectos estratégicos. Notas que las metas propuestas son poco realistas dado los recursos disponibles. Señalarlo podría hacerte ver como pesimista ante la dirección. Sin embargo, aceptar metas inalcanzables llevará a frustración y resultados pobres. ¿Qué postura tomas?",
+    "scenario": "La empresa organiza reuniones trimestrales de planificación estratégica para alinear todos los equipos en proyectos prioritarios del siguiente periodo. Después de analizar los recursos humanos y técnicos disponibles notas que las metas numéricas propuestas por la dirección son claramente poco realistas. Señalarlo públicamente en la reunión podría hacerte ver como pesimista, poco ambicioso o negativo ante los ejecutivos. Sin embargo, aceptar metas inalcanzables llevará inevitablemente a frustración del equipo, burnout y resultados pobres. ¿Qué postura tomas?",
     "options_structured": {
-      "integrity_correct": "Expreso mis preocupaciones sobre las metas en la reunión con datos concretos, aunque esto pueda afectar cómo me percibe la dirección.",
-      "pragmatic_distractor": "Acepto las metas públicamente pero ajusto mis propios objetivos internamente a niveles más realistas.",
-      "evasive_distractor": "Consulto con colegas después de la reunión para ver si alguien más piensa plantear objeciones.",
-      "rationalized_distractor": "Confío en que la dirección tiene información que yo desconozco y que las metas son alcanzables de alguna manera."
+      "integrity_correct": "Expresas tus preocupaciones sobre la viabilidad de las metas en la reunión con análisis de recursos concretos, aceptando que la dirección te perciba como pesimista, algunos ejecutivos cuestionen tu ambición y esto afecte futuras oportunidades de liderazgo.",
+      "pragmatic_distractor": "Aceptas públicamente las metas propuestas en la reunión pero ajustas internamente tus propios objetivos y los del equipo a niveles más realistas alcanzables.",
+      "evasive_distractor": "Consultas en privado con colegas después de la reunión para ver si alguien más está dispuesto a plantear objeciones formales a la dirección.",
+      "rationalized_distractor": "Confías en que la dirección ejecutiva tiene acceso a información estratégica que tú desconoces y que de alguna manera las metas son alcanzables con recursos ocultos."
     },
-    "notes": "Realismo vs alineamiento organizacional",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 47,
-    "char_count": 342,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=47 out of 65-80 range"
+    "notes": "Realismo vs alineamiento organizacional - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q029",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Te piden contribuir a procesos de mejora aportando ideas innovadoras en reuniones semanales. Tienes una propuesta que podría mejorar significativamente la eficiencia, pero implica cambiar el método favorito de un colega senior. Presentarla podría generar conflicto con alguien influyente. No presentarla significa perder una oportunidad de mejora real. ¿Qué decides?",
+    "scenario": "La empresa solicita que contribuyas activamente a procesos de mejora aportando ideas innovadoras en reuniones semanales del área. Tienes una propuesta técnica sólida que podría mejorar significativamente la eficiencia operativa, pero requiere cambiar completamente el método de trabajo favorito de un colega senior muy influyente en la organización. Presentar tu propuesta abiertamente podría generar conflicto directo con alguien que tiene capital político importante. No presentarla significa perder una oportunidad genuina de mejora medible. ¿Qué decides?",
     "options_structured": {
-      "integrity_correct": "Presento mi propuesta completa en la reunión con datos que la respalden, aunque esto pueda incomodar al colega senior.",
-      "pragmatic_distractor": "Adapto mi propuesta para que parezca una extensión del método actual en lugar de un reemplazo.",
-      "evasive_distractor": "Consulto primero con el colega senior en privado para ver su reacción antes de presentar algo en público.",
-      "rationalized_distractor": "Guardo mi propuesta para un momento más oportuno cuando haya menos resistencia al cambio."
+      "integrity_correct": "Presentas tu propuesta completa en la próxima reunión con datos y métricas que la respalden sólidamente, aceptando que esto incomode al colega senior influyente, genere fricción política y él potencialmente use su influencia contra ti después.",
+      "pragmatic_distractor": "Adaptas tu propuesta para presentarla como una extensión o evolución del método actual del colega en lugar de un reemplazo completo, suavizando la confrontación.",
+      "evasive_distractor": "Consultas primero directamente con el colega senior en conversación privada para evaluar su apertura a cambios antes de presentar algo públicamente en la reunión.",
+      "rationalized_distractor": "Guardas tu propuesta para un momento organizacional más oportuno en el futuro cuando haya menos resistencia política al cambio de métodos establecidos."
     },
-    "notes": "Innovación vs relaciones con colegas",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 50,
-    "char_count": 366,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=50 out of 65-80 range"
+    "notes": "Innovación vs relaciones con colegas - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q030",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa te invita a participar activamente en decisiones estratégicas de tu área. Descubres que una decisión ya tomada tiene implicaciones negativas que los demás no han considerado. Señalarlo podría cuestionar el juicio de quienes la tomaron y afectar tu posición. Callarlo significa permitir que se ejecute una decisión problemática. ¿Cómo actúas?",
+    "scenario": "La empresa te invita formalmente a participar activamente en decisiones estratégicas de alto nivel de tu área como parte de tu desarrollo profesional. Durante las discusiones descubres que una decisión importante ya tomada colectivamente tiene implicaciones negativas significativas para clientes que los demás ejecutivos claramente no han considerado en su análisis. Señalar estos problemas podría cuestionar públicamente el juicio de quienes tomaron la decisión y afectar tu posición en este grupo. Callarte significa permitir que se ejecute una decisión con consecuencias problemáticas. ¿Cómo actúas?",
     "options_structured": {
-      "integrity_correct": "Presento mi análisis de las implicaciones negativas con evidencia, aunque esto pueda generar tensión con quienes tomaron la decisión original.",
-      "pragmatic_distractor": "Preparo un plan de contingencia para cuando surjan los problemas, evitando confrontar la decisión directamente.",
-      "evasive_distractor": "Pregunto casualmente a otros participantes si han considerado ciertos escenarios, esperando que alguien más levante la voz.",
-      "rationalized_distractor": "Asumo que los líderes tienen más contexto que yo y que debo confiar en su criterio aunque tenga dudas."
+      "integrity_correct": "Presentas tu análisis detallado de las implicaciones negativas con evidencia específica, aceptando que esto genere tensión con los ejecutivos que tomaron la decisión original, algunos cuestionen tu juicio y tu posición en el grupo estratégico se vea comprometida.",
+      "pragmatic_distractor": "Preparas silenciosamente un plan de contingencia robusto para cuando surjan los problemas inevitables, evitando confrontar directamente la decisión ya tomada colectivamente.",
+      "evasive_distractor": "Preguntas casualmente a otros participantes del grupo si han considerado ciertos escenarios específicos, esperando que alguien más con más antigüedad levante formalmente la voz.",
+      "rationalized_distractor": "Asumes que los líderes senior tienen acceso a más contexto estratégico que tú y que debes confiar en su criterio colectivo aunque tengas dudas analíticas."
     },
-    "notes": "Participación estratégica vs prudencia política",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 52,
-    "char_count": 352,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=52 out of 65-80 range"
+    "notes": "Participación estratégica vs prudencia política - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q031",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Te involucras en la estrategia organizacional a través de un proyecto prioritario. Durante la ejecución notas que los resultados proyectados son inflados en los reportes. Señalarlo podría afectar la percepción de éxito del proyecto y tu rol en él. No decir nada significa que la empresa tomará decisiones basadas en datos inexactos. ¿Qué haces?",
+    "scenario": "Te involucras activamente en la estrategia organizacional a través de tu participación en un proyecto altamente prioritario y visible para la alta dirección. Durante la fase de ejecución notas que los resultados proyectados están siendo consistentemente inflados en los reportes ejecutivos mensuales. Señalar públicamente estas discrepancias podría afectar la percepción de éxito del proyecto estratégico y cuestionar tu propio rol en él. No decir nada significa que la empresa tomará decisiones de inversión basadas en datos significativamente inexactos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Documento las discrepancias y las presento al equipo directivo, aunque esto pueda afectar la imagen del proyecto y mi posición.",
-      "pragmatic_distractor": "Ajusto solo los números de mis propios reportes y dejo que otros manejen los suyos.",
-      "evasive_distractor": "Menciono las inconsistencias a un colega de confianza para ver si él considera que vale la pena escalarlas.",
-      "rationalized_distractor": "Asumo que los números se corregirán naturalmente cuando llegue la auditoría de fin de año."
+      "integrity_correct": "Documentas las discrepancias específicas entre resultados reales y reportados y las presentas al equipo directivo, aceptando que esto afecte la imagen pública del proyecto, tu posición en él y algunos ejecutivos cuestionen tus motivos.",
+      "pragmatic_distractor": "Ajustas únicamente los números de tus propios reportes individuales a datos reales y dejas que otros líderes del proyecto manejen los suyos como consideren.",
+      "evasive_distractor": "Mencionas las inconsistencias numéricas a un colega senior de confianza fuera del proyecto para ver si él considera que vale la pena escalarlas formalmente.",
+      "rationalized_distractor": "Asumes que los números inflados se corregirán naturalmente cuando llegue la auditoría financiera formal de fin de año sin necesidad de intervención ahora."
     },
-    "notes": "Integridad de datos vs imagen del proyecto",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 54,
-    "char_count": 344,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=54 out of 65-80 range"
+    "notes": "Integridad de datos vs imagen del proyecto - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q032",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Participas en eventos que fortalecen la cultura organizacional y notas prácticas que contradicen los valores que la empresa dice promover. Mencionarlo públicamente podría hacerte ver como problemático o crítico. Sin embargo, ignorarlo significa tolerar una incongruencia que afecta la credibilidad de la cultura que la empresa quiere construir. ¿Cuál es tu posición?",
+    "scenario": "Participas activamente en eventos corporativos que tienen como objetivo fortalecer la cultura organizacional y alinear valores. Durante varios de estos eventos notas prácticas y comportamientos de algunos líderes que contradicen directamente los valores fundamentales que la empresa dice promover públicamente. Mencionar estas incongruencias públicamente podría hacerte ver como problemático, crítico o poco alineado culturalmente. Sin embargo, ignorar estas contradicciones significa tolerar una brecha que afecta la credibilidad de toda la cultura organizacional que la empresa está intentando construir. ¿Cuál es tu posición?",
     "options_structured": {
-      "integrity_correct": "Expreso mis observaciones en el canal apropiado con ejemplos concretos, aunque esto pueda afectar cómo me perciben los organizadores.",
-      "pragmatic_distractor": "Participo activamente en los eventos y modelo el comportamiento que creo correcto sin confrontar directamente.",
-      "evasive_distractor": "Comento mis inquietudes con compañeros cercanos para ver si otros comparten mi percepción.",
-      "rationalized_distractor": "Acepto que toda organización tiene brechas entre sus valores declarados y sus prácticas reales."
+      "integrity_correct": "Expresas tus observaciones específicas sobre las incongruencias en el canal apropiado con ejemplos concretos documentados, aceptando que los organizadores de eventos cuestionen tu alineamiento cultural, algunos líderes se molesten directamente contigo y tu participación futura sea limitada.",
+      "pragmatic_distractor": "Participas visiblemente en todos los eventos y modelas personalmente el comportamiento que consideras correcto sin confrontar directamente las contradicciones que observas.",
+      "evasive_distractor": "Comentas tus inquietudes sobre coherencia cultural únicamente con compañeros cercanos de confianza para validar si otros comparten tu percepción de las contradicciones.",
+      "rationalized_distractor": "Aceptas pragmáticamente que toda organización grande tiene brechas inevitables entre sus valores declarados públicamente y sus prácticas reales cotidianas."
     },
-    "notes": "Coherencia cultural vs aceptación organizacional",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 52,
-    "char_count": 366,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=52 out of 65-80 range"
+    "notes": "Coherencia cultural vs aceptación organizacional - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q033",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa promueve procesos de mejora continua y te piden liderar una iniciativa en tu área. Identificas que la mejora más importante requeriría cambiar un sistema que tu director implementó personalmente. Proponerlo podría verse como una crítica a su trabajo. Evitarlo significa enfocarte en mejoras menores con menor impacto. ¿Qué camino tomas?",
+    "scenario": "La empresa promueve activamente procesos de mejora continua y te asignan liderar una iniciativa importante de optimización en tu área. Después de analizar en profundidad identificas que la mejora de mayor impacto posible requeriría cambiar fundamentalmente un sistema de trabajo que tu director implementó personalmente hace dos años con gran orgullo. Proponer este cambio podría interpretarse como una crítica directa a su trabajo y juicio profesional. Evitarlo significa enfocarte únicamente en mejoras menores periféricas con impacto significativamente menor. ¿Qué camino tomas?",
     "options_structured": {
-      "integrity_correct": "Presento la propuesta de cambio al sistema con datos que demuestren el impacto potencial, aunque esto pueda incomodar a mi director.",
-      "pragmatic_distractor": "Implemento mejoras parciales que no toquen el sistema del director pero que muestren algunos resultados.",
-      "evasive_distractor": "Consulto con otros gerentes sobre qué tan viable sería proponer cambios a sistemas existentes antes de actuar.",
-      "rationalized_distractor": "Me enfoco en optimizar procesos periféricos donde puedo demostrar valor sin generar conflictos."
+      "integrity_correct": "Presentas la propuesta completa de cambio al sistema con análisis detallado que demuestre el impacto potencial medible, aceptando que esto incomode a tu director, él lo tome como cuestionamiento de su criterio y tu relación profesional se enfríe visiblemente.",
+      "pragmatic_distractor": "Implementas mejoras parciales específicas que optimicen componentes del sistema sin tocar su estructura central diseñada por el director pero que muestren algunos resultados tangibles.",
+      "evasive_distractor": "Consultas informalmente con otros gerentes sobre qué tan viable políticamente sería proponer cambios significativos a sistemas establecidos por directores antes de actuar.",
+      "rationalized_distractor": "Te enfocas estratégicamente en optimizar procesos periféricos alrededor del sistema donde puedes demostrar valor medible sin generar conflictos políticos innecesarios."
     },
-    "notes": "Mejora real vs consideraciones políticas",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 52,
-    "char_count": 347,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=52 out of 65-80 range"
+    "notes": "Mejora real vs consideraciones políticas - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q034",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La estrategia organizacional requiere que todos los equipos reporten métricas de desempeño mensualmente. Descubres que tu equipo está usando una metodología diferente a la estándar, lo que hace que sus números parezcan mejores. Corregirlo haría que tu equipo se vea peor comparado con otros. Mantenerlo significa contribuir a reportes inconsistentes. ¿Qué decides?",
+    "scenario": "La estrategia organizacional requiere que todos los equipos reporten métricas estandarizadas de desempeño mensualmente para comparación ejecutiva. Descubres que tu equipo lleva meses usando una metodología de cálculo diferente a la estándar establecida, lo que hace que sus números parezcan consistentemente mejores comparados con otros equipos. Corregir la metodología haría que tu equipo se vea significativamente peor en los reportes ejecutivos. Mantener la metodología actual significa contribuir conscientemente a reportes inconsistentes y comparaciones injustas. ¿Qué decides?",
     "options_structured": {
-      "integrity_correct": "Corrijo la metodología y explico la diferencia en los números a mi supervisor, aunque esto afecte la comparación con otros equipos.",
-      "pragmatic_distractor": "Mantengo la metodología actual pero documento internamente las diferencias por si alguien pregunta.",
-      "evasive_distractor": "Consulto con otros líderes de equipo cómo calculan sus métricas antes de hacer cambios.",
-      "rationalized_distractor": "Asumo que si nadie ha cuestionado la metodología hasta ahora, debe ser aceptable continuar así."
+      "integrity_correct": "Corriges inmediatamente la metodología a la estándar y explicas transparentemente la diferencia resultante en los números a tu supervisor, aceptando que esto afecte negativamente la comparación con otros equipos, tu evaluación de liderazgo y la percepción del desempeño de tu área.",
+      "pragmatic_distractor": "Mantienes la metodología actual en uso pero documentas meticulosamente las diferencias metodológicas en archivos internos por si alguien cuestiona los números eventualmente.",
+      "evasive_distractor": "Consultas discretamente con otros líderes de equipo sobre cómo exactamente calculan sus propias métricas antes de hacer cualquier cambio en tu metodología.",
+      "rationalized_distractor": "Asumes que si ningún ejecutivo o auditor ha cuestionado formalmente la metodología hasta ahora después de meses, debe ser aceptable continuar usándola así."
     },
-    "notes": "Consistencia en reportes vs imagen del equipo",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 52,
-    "char_count": 364,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=52 out of 65-80 range"
+    "notes": "Consistencia en reportes vs imagen del equipo - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q035",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La comunicación interna solicita que contribuyas con ideas para una campaña de innovación. Tu mejor idea ya fue propuesta y rechazada por otro departamento meses atrás. Presentarla ahora podría generar conflicto con ese equipo. Sin embargo, crees genuinamente que la idea tiene mérito y que las circunstancias han cambiado. ¿Cómo procedes?",
+    "scenario": "La comunicación interna solicita activamente que contribuyas con ideas innovadoras para una campaña estratégica de transformación organizacional. Tu mejor idea técnica ya fue propuesta formalmente y rechazada por otro departamento senior hace ocho meses por razones que ahora consideras obsoletas. Presentar la misma idea nuevamente podría generar conflicto territorial con ese equipo influyente. Sin embargo, crees genuinamente que la idea tiene mérito técnico sólido y que las circunstancias organizacionales han cambiado significativamente desde el rechazo inicial. ¿Cómo procedes?",
     "options_structured": {
-      "integrity_correct": "Presento la idea nuevamente con análisis actualizado, reconociendo la propuesta anterior y explicando por qué ahora podría funcionar.",
-      "pragmatic_distractor": "Modifico la idea superficialmente para que parezca diferente a la propuesta original rechazada.",
-      "evasive_distractor": "Pregunto primero al equipo que la rechazó si estarían abiertos a reconsiderarla en el contexto actual.",
-      "rationalized_distractor": "Guardo la idea para un momento donde haya menos sensibilidad sobre propuestas previas."
+      "integrity_correct": "Presentas la idea nuevamente con análisis técnico actualizado al contexto actual, reconociendo explícitamente la propuesta anterior rechazada y explicando por qué ahora podría funcionar, aceptando que el otro departamento se moleste, lo vean como invasión territorial y se genere fricción interdepartamental.",
+      "pragmatic_distractor": "Modificas superficialmente la presentación y el nombre de la idea para que parezca suficientemente diferente a la propuesta original rechazada sin serlo fundamentalmente.",
+      "evasive_distractor": "Preguntas informalmente primero al equipo que la rechazó si estarían abiertos a reconsiderar propuestas similares en el nuevo contexto organizacional actual.",
+      "rationalized_distractor": "Guardas la idea para esperar un momento futuro donde haya menos sensibilidad política sobre propuestas previas rechazadas y territorios departamentales."
     },
-    "notes": "Persistencia de ideas vs relaciones interdepartamentales",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 51,
-    "char_count": 339,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=51 out of 65-80 range"
+    "notes": "Persistencia de ideas vs relaciones interdepartamentales - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q036",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Te involucras en programas de desarrollo profesional que incluyen mentoría entre departamentos. Tu mentor asignado tiene una visión muy diferente a la tuya sobre cómo progresar en la empresa. Seguir sus consejos te alejaría de tus metas reales. Rechazar su guía podría verse como falta de apertura al desarrollo. ¿Qué postura adoptas?",
+    "scenario": "Te involucras activamente en programas formales de desarrollo profesional que incluyen mentoría estructurada entre departamentos. Tu mentor asignado oficialmente tiene una visión de carrera profesional muy diferente a la tuya sobre cómo progresar exitosamente en la empresa y está presionando activamente para que sigas su modelo. Seguir consistentemente sus consejos y recomendaciones te alejaría significativamente de tus metas profesionales reales y auténticas. Rechazar abiertamente su guía podría verse como falta de apertura al desarrollo y afectar tu evaluación en el programa. ¿Qué postura adoptas?",
     "options_structured": {
-      "integrity_correct": "Comunico honestamente mis metas y las diferencias con su visión, aunque esto pueda generar una conversación incómoda.",
-      "pragmatic_distractor": "Acepto sus consejos verbalmente pero sigo mi propio plan de desarrollo en la práctica.",
-      "evasive_distractor": "Busco opiniones de otros mentores informales antes de decidir si seguir o ignorar sus consejos.",
-      "rationalized_distractor": "Asumo que con el tiempo encontraré la forma de integrar ambas visiones sin confrontar directamente."
+      "integrity_correct": "Comunicas honesta y directamente tus propias metas profesionales y las diferencias fundamentales con su visión en una conversación formal, aceptando que esto genere una conversación incómoda, tu mentor se sienta rechazado y tu evaluación en el programa de mentoría sea afectada.",
+      "pragmatic_distractor": "Aceptas verbalmente y agradeces todos sus consejos en las sesiones formales pero sigues discretamente tu propio plan de desarrollo diferente en la práctica cotidiana.",
+      "evasive_distractor": "Buscas activamente opiniones de otros mentores informales fuera del programa antes de decidir si seguir o ignorar los consejos de tu mentor asignado oficial.",
+      "rationalized_distractor": "Asumes que con suficiente tiempo y paciencia encontrarás naturalmente la forma de integrar ambas visiones de carrera sin necesidad de confrontar directamente las diferencias ahora."
     },
-    "notes": "Desarrollo auténtico vs expectativas del mentor",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 52,
-    "char_count": 334,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=52 out of 65-80 range"
+    "notes": "Desarrollo auténtico vs expectativas del mentor - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q037",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Participas en decisiones estratégicas donde se evalúa un proveedor recomendado por un director influyente. Tu análisis muestra que hay mejores opciones disponibles. Contradecir su recomendación podría afectar tu relación con él. Aceptar su propuesta significa que la empresa pagará más por un servicio inferior. ¿Cuál es tu decisión?",
+    "scenario": "Participas en decisiones estratégicas de alto nivel donde se está evaluando formalmente un proveedor tecnológico específico recomendado personalmente por un director ejecutivo muy influyente. Tu análisis técnico y financiero comparativo muestra claramente que hay mejores opciones disponibles en el mercado con mejor relación costo-beneficio. Contradecir públicamente su recomendación personal podría afectar seriamente tu relación política con ese ejecutivo influyente. Aceptar su propuesta sin cuestionamiento significa que la empresa pagará significativamente más por un servicio técnicamente inferior. ¿Cuál es tu decisión?",
     "options_structured": {
-      "integrity_correct": "Presento mi análisis comparativo completo en la reunión de decisión, aunque esto contradiga directamente la recomendación del director.",
-      "pragmatic_distractor": "Sugiero que se incluyan los otros proveedores como opciones secundarias sin criticar directamente la recomendación principal.",
-      "evasive_distractor": "Comparto mi análisis primero con colegas para ver si alguien más estaría dispuesto a presentar una alternativa.",
-      "rationalized_distractor": "Confío en que el director tiene razones estratégicas que van más allá del análisis de costos."
+      "integrity_correct": "Presentas tu análisis comparativo técnico y financiero completo en la reunión de decisión, aceptando que esto contradiga directamente la recomendación personal del director ejecutivo, afecte tu relación política con él y potencialmente limite tus oportunidades futuras de participar en decisiones estratégicas.",
+      "pragmatic_distractor": "Sugieres diplomáticamente que se incluyan los otros proveedores analizados como opciones secundarias de respaldo sin criticar directamente la recomendación principal del ejecutivo.",
+      "evasive_distractor": "Compartes tu análisis técnico primero en privado con colegas de tu nivel para ver si alguien más con más antigüedad estaría dispuesto a presentar formalmente una alternativa.",
+      "rationalized_distractor": "Confías en que el director ejecutivo tiene acceso a razones estratégicas o relacionales importantes que van más allá del simple análisis comparativo de costos y beneficios técnicos."
     },
-    "notes": "Análisis objetivo vs influencia política",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 48,
-    "char_count": 333,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=48 out of 65-80 range"
+    "notes": "Análisis objetivo vs influencia política - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q038",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa promueve iniciativas organizacionales que buscan mayor colaboración entre áreas. Tu participación activa es visible y reconocida. Notas que algunas de estas iniciativas duplican esfuerzos y desperdician recursos. Mencionarlo podría verse como falta de espíritu colaborativo. No hacerlo significa contribuir a ineficiencias costosas. ¿Qué haces?",
+    "scenario": "La empresa promueve intensamente iniciativas organizacionales que buscan fomentar mayor colaboración estructurada entre áreas diferentes. Tu participación activa es altamente visible y ha sido reconocida públicamente por los ejecutivos. Sin embargo, notas que varias de estas iniciativas duplican esfuerzos significativamente y desperdician recursos valiosos que podrían usarse mejor. Mencionar estas ineficiencias podría verse como falta de espíritu colaborativo genuino o crítica a los líderes que diseñaron las iniciativas. No hacerlo significa contribuir activamente a ineficiencias organizacionales costosas. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Documento las duplicaciones y propongo una consolidación de esfuerzos, aunque esto pueda verse como crítica a los líderes de las iniciativas.",
-      "pragmatic_distractor": "Reduzco silenciosamente mi participación en las iniciativas redundantes sin hacer comentarios públicos.",
-      "evasive_distractor": "Pregunto a otros participantes si han notado las mismas duplicaciones antes de expresar mis observaciones.",
-      "rationalized_distractor": "Acepto que cierta redundancia es inevitable en organizaciones grandes y que el valor está en la colaboración misma."
+      "integrity_correct": "Documentas las duplicaciones específicas de esfuerzos y propones formalmente una consolidación optimizada de iniciativas, aceptando que esto se vea como crítica a los líderes diseñadores, afecte tu reputación de colaborador entusiasta y reduzcas tu participación en futuras iniciativas.",
+      "pragmatic_distractor": "Reduces silenciosa y gradualmente tu participación personal en las iniciativas que identificas como redundantes sin hacer comentarios públicos sobre las duplicaciones observadas.",
+      "evasive_distractor": "Preguntas casualmente a otros participantes activos si han notado las mismas duplicaciones de esfuerzos antes de expresar formalmente tus observaciones a los organizadores.",
+      "rationalized_distractor": "Aceptas que cierta redundancia estructural es inevitable y hasta saludable en organizaciones grandes y que el valor principal está en la colaboración misma independientemente de eficiencia."
     },
-    "notes": "Eficiencia vs espíritu colaborativo",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 46,
-    "char_count": 355,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=46 out of 65-80 range"
+    "notes": "Eficiencia vs espíritu colaborativo - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q039",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Participas en eventos corporativos donde se reconocen logros del año. Sabes que un reconocimiento otorgado a un compañero incluye trabajo que en realidad hiciste tú. Corregirlo públicamente sería incómodo y dañaría tu relación con él. No decir nada significa que tu contribución quede invisible para la organización. ¿Cómo manejas la situación?",
+    "scenario": "Participas en eventos corporativos anuales donde se reconocen públicamente logros importantes del año ante toda la organización. Sabes con certeza que un reconocimiento significativo otorgado a un compañero cercano incluye trabajo técnico importante que en realidad hiciste tú pero que quedó invisibilizado en los reportes finales. Corregir esto públicamente durante o después del evento sería extremadamente incómodo y dañaría seriamente tu relación personal con él. No decir nada significa que tu contribución técnica real quede completamente invisible para la organización y los ejecutivos. ¿Cómo manejas esta situación?",
     "options_structured": {
-      "integrity_correct": "Hablo con mi supervisor después del evento para aclarar mi contribución, aunque esto pueda generar tensión con mi compañero.",
-      "pragmatic_distractor": "Acepto la situación esta vez pero me aseguro de documentar mejor mis contribuciones en el futuro.",
-      "evasive_distractor": "Comento la situación a colegas cercanos para ver qué harían ellos en mi lugar.",
-      "rationalized_distractor": "Asumo que el reconocimiento al equipo eventualmente beneficia a todos sus miembros de alguna manera."
+      "integrity_correct": "Hablas directamente con tu supervisor en privado después del evento para aclarar documentadamente tu contribución técnica específica, aceptando que esto genere tensión seria con tu compañero reconocido, él se entere eventualmente y tu relación laboral se deteriore.",
+      "pragmatic_distractor": "Aceptas la situación actual esta vez pero te aseguras de documentar mucho mejor y más visiblemente tus contribuciones específicas en todos los proyectos futuros.",
+      "evasive_distractor": "Comentas la situación incómoda a colegas cercanos de confianza para obtener perspectivas sobre qué harían ellos en tu lugar antes de actuar.",
+      "rationalized_distractor": "Asumes que el reconocimiento público al proyecto eventualmente beneficia indirectamente a todos sus miembros contributores de alguna manera a largo plazo."
     },
-    "notes": "Reconocimiento individual vs armonía del equipo",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 51,
-    "char_count": 344,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=51 out of 65-80 range"
+    "notes": "Reconocimiento individual vs armonía del equipo - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   },
   {
     "id": "block-B10-q040",
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "Las reuniones de planificación de tu área requieren que contribuyas con proyecciones para el próximo año. Tu análisis honesto muestra perspectivas menos optimistas que las que la dirección espera escuchar. Presentar números conservadores podría afectar cómo se percibe tu área. Inflar las proyecciones significaría comprometer tu integridad profesional. ¿Qué presentas?",
+    "scenario": "Las reuniones de planificación estratégica de tu área requieren que contribuyas con proyecciones financieras y operativas realistas para el próximo año fiscal. Tu análisis honesto y detallado basado en datos históricos muestra perspectivas significativamente menos optimistas que las cifras que la dirección ejecutiva claramente espera escuchar en estas sesiones. Presentar números conservadores realistas podría afectar negativamente cómo se percibe el potencial de tu área y tu capacidad de liderazgo. Inflar artificialmente las proyecciones para cumplir expectativas significaría comprometer directamente tu integridad profesional. ¿Qué presentas finalmente?",
     "options_structured": {
-      "integrity_correct": "Presento mis proyecciones conservadoras con el análisis que las respalda, aunque esto pueda generar preguntas incómodas de la dirección.",
-      "pragmatic_distractor": "Presento un rango que incluya tanto escenarios conservadores como optimistas, dejando que la dirección elija.",
-      "evasive_distractor": "Consulto con otros líderes de área qué enfoque están usando antes de finalizar mis números.",
-      "rationalized_distractor": "Ajusto ligeramente mis proyecciones asumiendo que factores positivos imprevistos podrían materializarse."
+      "integrity_correct": "Presentas tus proyecciones conservadoras realistas con todo el análisis de datos históricos que las respalda sólidamente, aceptando que esto genere preguntas incómodas de la dirección, afecte la percepción de potencial de tu área y tu evaluación como líder optimista.",
+      "pragmatic_distractor": "Presentas un rango amplio de escenarios que incluya tanto proyecciones conservadoras como optimistas claramente diferenciadas, dejando que la dirección seleccione finalmente.",
+      "evasive_distractor": "Consultas discretamente con otros líderes de área qué enfoque metodológico están usando para sus proyecciones antes de finalizar definitivamente tus propios números.",
+      "rationalized_distractor": "Ajustas moderadamente tus proyecciones hacia arriba asumiendo razonablemente que factores positivos externos imprevistos podrían materializarse favorablemente durante el año."
     },
-    "notes": "Proyecciones honestas vs expectativas organizacionales",
-    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA",
-    "word_count": 50,
-    "char_count": 369,
-    "audit_status": "ok",
-    "length_status": "frozen",
-    "length_note": "word_count=50 out of 65-80 range"
+    "notes": "Proyecciones honestas vs expectativas organizacionales - REFACTORED",
+    "sot_checksum": "2DC7A5027EF49B45274FD609028260CA"
   }
 ]
