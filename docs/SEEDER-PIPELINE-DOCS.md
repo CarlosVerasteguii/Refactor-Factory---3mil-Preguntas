@@ -815,12 +815,16 @@ cat 02_final_artifacts/logs/execution_summary.json
     'modulo' => 1,
     'tipo' => 'options',
     'texto' => 'Un colega te confiesa que ha estado registrando...',
-    'opciones' => '{"integrity_correct":"Reporto la situación a mi supervisor inmediato.","pragmatic_distractor":"Lo dejo pasar porque no me afecta directamente.","evasive_distractor":"Espero a ver si alguien más lo reporta primero.","rationalized_distractor":"Le digo que lo deje de hacer pero no reporto."}',
+    'opciones' => '{"opciones":["Reporto la situación a mi supervisor inmediato.","Lo dejo pasar porque no me afecta directamente.","Espero a ver si alguien más lo reporta primero.","Le digo que lo deje de hacer pero no reporto."]}',
     'idioma' => 'es',
     'created_at' => now(),
     'updated_at' => now(),
 ],
 ```
+
+> **Nota:** La columna `opciones` almacena un JSON con una lista de 4 strings en orden fijo:
+> `[integrity_correct, pragmatic_distractor, evasive_distractor, rationalized_distractor]`.
+> Las claves psicométricas originales se preservan en los JSON consolidados pero no en el seeder.
 
 ---
 
@@ -834,7 +838,7 @@ CREATE TABLE mira_preguntas (
     modulo INT NOT NULL,              -- 1-5
     tipo VARCHAR(20) NOT NULL,        -- 'video' | 'options'
     texto TEXT NOT NULL,              -- Escenario/pregunta
-    opciones JSON,                    -- {} para videos, JSON object para options
+    opciones JSON,                    -- {} para videos, {"opciones": [...]} para options
     idioma VARCHAR(10) DEFAULT 'es',  -- Código de idioma
     created_at TIMESTAMP NULL,
     updated_at TIMESTAMP NULL,
@@ -843,6 +847,10 @@ CREATE TABLE mira_preguntas (
     INDEX idx_tipo (tipo)
 );
 ```
+
+> **Formato de `opciones`:**
+> - Para tipo `video`: `{}`
+> - Para tipo `options`: `{"opciones": ["opcion1", "opcion2", "opcion3", "opcion4"]}`
 
 ### Requisitos del Sistema
 

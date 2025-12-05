@@ -50,8 +50,26 @@ def transform_item(item: Dict[str, Any], row_num: int) -> Dict[str, Any]:
     else:  # options
         texto = item.get('scenario', '')
         options_structured = item.get('options_structured', {})
-        # Serializar como JSON string
-        opciones = json.dumps(options_structured, ensure_ascii=False)
+        
+        # Orden fijo de las claves psicométricas para convertir a lista
+        ordered_keys = [
+            "integrity_correct",
+            "pragmatic_distractor",
+            "evasive_distractor",
+            "rationalized_distractor"
+        ]
+        
+        # Extraer textos en orden, validando que existan las claves
+        texts = []
+        for key in ordered_keys:
+            if key in options_structured:
+                texts.append(options_structured[key])
+            else:
+                print(f"    [WARNING] {item_id} falta clave '{key}' en options_structured")
+                texts.append("")  # Agregar vacío para mantener la estructura
+        
+        # Serializar como JSON con formato {"opciones": [...]}
+        opciones = json.dumps({"opciones": texts}, ensure_ascii=False)
     
     # Escapar texto para PHP
     texto_escaped = escape_php_string(texto)
@@ -150,11 +168,11 @@ def main():
     consolidated_files = sorted(INPUT_ROOT.glob("module*_all.json"))
     
     if not consolidated_files:
-        print(f"\n❌ ERROR: No se encontraron archivos consolidados en {INPUT_ROOT}")
+        print(f"\n[ERROR] No se encontraron archivos consolidados en {INPUT_ROOT}")
         print("   Ejecuta primero: python scripts/consolidate_batches.py")
         sys.exit(1)
     
-    print(f"\n📄 Encontrados {len(consolidated_files)} archivos consolidados")
+    print(f"\n[INFO] Encontrados {len(consolidated_files)} archivos consolidados")
     
     all_transformed_items = []
     trace_file = LOGS_ROOT / "seeder_trace.jsonl"
@@ -165,17 +183,17 @@ def main():
     
     # Procesar cada archivo consolidado
     for consolidated_file in consolidated_files:
-        print(f"\n  📄 Procesando {consolidated_file.name}...")
+        print(f"\n  [FILE] Procesando {consolidated_file.name}...")
         
         try:
             with open(consolidated_file, 'r', encoding='utf-8') as f:
                 module_items = json.load(f)
             
             if not isinstance(module_items, list):
-                print(f"    ❌ ERROR: {consolidated_file.name} no es un array JSON")
+                print(f"    [ERROR] {consolidated_file.name} no es un array JSON")
                 sys.exit(1)
             
-            print(f"    ✓ {len(module_items)} items cargados")
+            print(f"    [OK] {len(module_items)} items cargados")
             
             # Transformar cada item
             for item in module_items:
@@ -194,20 +212,20 @@ def main():
                     'timestamp': datetime.now().isoformat()
                 })
             
-            print(f"    ✓ {len(module_items)} items transformados")
+            print(f"    [OK] {len(module_items)} items transformados")
             
         except json.JSONDecodeError as e:
-            print(f"    ❌ ERROR: {consolidated_file.name} tiene JSON malformado")
+            print(f"    [ERROR] {consolidated_file.name} tiene JSON malformado")
             print(f"    Error: {e}")
             sys.exit(1)
         except Exception as e:
-            print(f"    ❌ ERROR: Error procesando {consolidated_file.name}")
+            print(f"    [ERROR] Error procesando {consolidated_file.name}")
             print(f"    Tipo: {type(e).__name__}")
             print(f"    Mensaje: {str(e)}")
             sys.exit(1)
     
     # Generar seeder PHP
-    print(f"\n🔨 Generando seeder PHP...")
+    print(f"\n[BUILD] Generando seeder PHP...")
     print(f"   Total items: {len(all_transformed_items)}")
     print(f"   Chunks: {(len(all_transformed_items) + args.chunk_size - 1) // args.chunk_size}")
     
@@ -218,7 +236,7 @@ def main():
     with open(seeder_file, 'w', encoding='utf-8') as f:
         f.write(seeder_php)
     
-    print(f"   ✓ Seeder generado: {seeder_file}")
+    print(f"   [OK] Seeder generado: {seeder_file}")
     
     # Generar resumen de ejecución
     summary = {
@@ -249,7 +267,7 @@ def main():
     with open(summary_file, 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     
-    print(f"   ✓ Resumen guardado: {summary_file}")
+    print(f"   [OK] Resumen guardado: {summary_file}")
     
     # Resumen final
     print("\n" + "=" * 70)
@@ -262,8 +280,8 @@ def main():
     print(f"\nPor tipo:")
     for tipo in sorted(summary['by_type'].keys()):
         print(f"  {tipo}: {summary['by_type'][tipo]} items")
-    print(f"\n✓ Trazabilidad guardada en: {trace_file}")
-    print(f"✓ Seeder listo en: {seeder_file}")
+    print(f"\n[OK] Trazabilidad guardada en: {trace_file}")
+    print(f"[OK] Seeder listo en: {seeder_file}")
     print("=" * 70)
 
 if __name__ == "__main__":
