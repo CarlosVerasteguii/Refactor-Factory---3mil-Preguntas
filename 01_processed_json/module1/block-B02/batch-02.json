@@ -6,7 +6,7 @@
     "type": "options",
     "scenario": "Tras semanas de horas extra en un proyecto, tu equipo aún espera que alguien les dé las gracias. Tu supervisor propone usar el presupuesto de formación para una cena y te pide registrarla como \"capacitación\", aunque la política prohíbe usar ese fondo para eventos sociales. Si te niegas, puedes arruinar la sorpresa y quedar como poco leal ante el equipo y tu jefe. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te niegas a registrar la cena como capacitación y propones usar el fondo solo para actividades de formación reales, explicando el riesgo de falsear el concepto aunque eso enfríe el ambiente y decepcione a tu supervisor y al equipo.",
+      "integrity_correct": "Te niegas a registrar la cena como capacitación y propones usar el fondo sólo para actividades de formación reales, explicando el riesgo de falsear el concepto aunque eso enfríe el ambiente y decepcione a tu supervisor y al equipo.",
       "pragmatic_distractor": "Aceptas la cena pero sugieres un lugar más sencillo y tratas de imputarla a otra partida más flexible, confiando en que ese ajuste contable pasará desapercibido.",
       "evasive_distractor": "Sugieres que sea el supervisor quien gestione el gasto y firme el reporte, manteniéndote al margen de cómo se registre para no discutir ni arruinar el gesto.",
       "rationalized_distractor": "Organizas la cena y la registras como capacitación, convenciéndote de que el esfuerzo extra del equipo merece ese beneficio y que el detalle contable no hace daño real."
@@ -28,7 +28,7 @@
     "scenario": "Participas en el equipo de una fusión y tu supervisor te da acceso a archivos con datos personales y salarios de empleados de otra empresa. Te pide usar esa información para armar una lista de despidos, aunque la política de la fusión prohíbe revisar datos individuales de esa forma. Sabe que el plazo es mínimo y que cuestionarlo puede hacerte ver poco comprometido. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Rechazas usar los datos personales para elegir despidos y pides otra tarea, explicando que violar la política de privacidad puede exponer a la empresa y a ti a un problema serio, aunque quedes como poco colaborador en un momento crítico.",
-      "pragmatic_distractor": "Haces el análisis pero te centras solo en funciones y duplicidades de puesto, intentando ignorar los datos personales para sentir que reduces la falta.",
+      "pragmatic_distractor": "Haces el análisis pero te centras sólo en funciones y duplicidades de puesto, intentando ignorar los datos personales para sentir que reduces la falta.",
       "evasive_distractor": "Sugieres que el análisis lo haga el área de personal u otro equipo autorizado y entregas los archivos sin opinar, evitando implicarte directamente en la lista.",
       "rationalized_distractor": "Aceptas usar todos los datos disponibles para priorizar despidos, convenciéndote de que la fusión debe salir bien para salvar la mayoría de los empleos aunque se fuerce un poco el acuerdo de privacidad."
     },
@@ -49,7 +49,7 @@
     "scenario": "En tu área hay una suscripción a un sistema profesional costoso pensada exclusivamente para proyectos laborales, pero descubres que podrías usarla para un proyecto personal que te ilusiona mucho. Varios colegas ya lo hacen sin consecuencias y tu supervisor la llama una “zona gris” tolerada. Si pides una regla clara, pueden quitar ese acceso para todos y tus compañeros te verán como el culpable de perder el beneficio. ¿Cómo actúas ante esto?",
     "options_structured": {
       "integrity_correct": "Decides no usar el sistema y solicitas formalmente aclarar la política de uso, asumiendo que esto provocará que cancelen el acceso libre y que tus compañeros te culparán y aislarán por haberles quitado ese beneficio.",
-      "pragmatic_distractor": "Lo usas solo fuera del horario laboral, cuidando que no afecte tu desempeño y diciéndote que mientras cumplas con tus tareas el uso extra es aceptable.",
+      "pragmatic_distractor": "Lo usas sólo fuera del horario laboral, cuidando que no afecte tu desempeño y diciéndote que mientras cumplas con tus tareas el uso extra es aceptable.",
       "evasive_distractor": "Optas por no usar la suscripción pero tampoco preguntas nada, evitando exponerte y dejando que otros sigan aprovechando la zona gris sin involucrarte.",
       "rationalized_distractor": "Utilizas la suscripción para tu proyecto personal, pensando que al mejorar tus habilidades técnicas beneficias indirectamente a la empresa y que el recurso ya está pagado."
     },
@@ -70,7 +70,7 @@
     "scenario": "En pleno cierre del plan del próximo año, un fallo del sistema te da acceso a salarios y bonos de varios jefes. Tu supervisor te pide usar esos datos no oficiales para ajustar las cifras y entregar mañana, diciendo que así el cálculo de personal será aún más realista. Sabes que esa información no te corresponde y que negarte puede detener el calendario financiero. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Reportas de inmediato el fallo al equipo de sistemas y te niegas a usar los datos, entregando un presupuesto incompleto que retrasará todo el proceso, sabiendo que tu supervisor te evaluará mal por no resolver el problema a tiempo.",
-      "pragmatic_distractor": "Usas los datos para ajustar el presupuesto de este año y a la vez reportas el fallo técnico, convenciéndote de que solo aprovecharás esa información una vez mientras se corrige.",
+      "pragmatic_distractor": "Usas los datos para ajustar el presupuesto de este año y a la vez reportas el fallo técnico, convenciéndote de que sólo aprovecharás esa información una vez mientras se corrige.",
       "evasive_distractor": "Planteas que otro colega lleve el ajuste argumentando carga de trabajo, y dejas en sus manos decidir si usa o no la información sensible para no enfrentarte al conflicto.",
       "rationalized_distractor": "Utilizas los salarios completos para afinar el presupuesto, pensando que proteger la salud financiera de la empresa justifica aprovechar datos que llegaron por error mientras nadie resulte afectado en lo personal."
     },
@@ -111,7 +111,7 @@
     "type": "options",
     "scenario": "Tu área prepara un informe para accionistas y tu supervisor te pide sumar cifras muy optimistas de un producto sin pruebas sólidas. Afirma que esos números ayudan a mantener la confianza del mercado y el valor de las acciones, de los que dependen los bonos del equipo. Si usas datos reales y más bajos, podrían culparte si el precio cae después del anuncio. ¿Qué decides mostrar?",
     "options_structured": {
-      "integrity_correct": "Incluyes solo proyecciones respaldadas por datos y dejas constancia escrita de por qué descartas los escenarios inflados, asumiendo que si el mercado reacciona mal tu supervisor puede culpar tu prudencia y afectar tu evaluación.",
+      "integrity_correct": "Incluyes sólo proyecciones respaldadas por datos y dejas constancia escrita de por qué descartas los escenarios inflados, asumiendo que si el mercado reacciona mal tu supervisor puede culpar tu prudencia y afectar tu evaluación.",
       "pragmatic_distractor": "Añades las cifras optimistas pero con una nota discreta sobre que son estimaciones preliminares, confiando en que técnicamente quedará registrado aunque casi nadie lea el detalle.",
       "evasive_distractor": "Pides que tu supervisor te envíe por correo las proyecciones y la instrucción de incluirlas, para agregarlas sin discutir más y tener un respaldo de que seguiste una orden directa.",
       "rationalized_distractor": "Aceptas sin matices las cifras más altas, pensando que mantener el valor de las acciones y los bonos del equipo es más importante que ser estricto con las validaciones técnicas."
@@ -132,9 +132,9 @@
     "type": "options",
     "scenario": "Al preparar los aumentos del año, descubres un archivo donde ves que un gerente de otra área, con menos carga que tú, recibió un bono mayor. Tu supervisor te dice que “así son las cosas” y te pide seguir con el reparto usando un presupuesto corto. Sabes que si cuestionas la diferencia puedes quedar como conflictivo, mientras tu equipo espera que lo defiendas. ¿Cómo respondes?",
     "options_structured": {
-      "integrity_correct": "Escalas la situación por los canales formales y solicitas revisar la equidad de los bonos, aun sabiendo que enfrentarás a la gerencia y podrías perjudicar tu propia evaluación y futuras oportunidades de aumento.",
+      "integrity_correct": "Escalas la situación por los canales formales y solicitas revisar la equidad de los bonos, aún sabiendo que enfrentarás a la gerencia y podrías perjudicar tu propia evaluación y futuras oportunidades de aumento.",
       "pragmatic_distractor": "Usas lo que viste para negociar un poco más para tu equipo, insinuando que hay discrepancias sin dar detalles, buscando mejorar algo sin abrir un conflicto abierto sobre el bono del otro gerente.",
-      "evasive_distractor": "Ignoras el archivo y sigues con el reparto tal como estaba previsto, diciéndote que no es tu batalla y que intervenir solo complicaría la política interna.",
+      "evasive_distractor": "Ignoras el archivo y sigues con el reparto tal como estaba previsto, diciéndote que no es tu batalla y que intervenir sólo complicaría la política interna.",
       "rationalized_distractor": "Compartes de forma anónima la información con colegas para que presionen en grupo, evitando dar la cara pero esperando que alguien más enfrente a la dirección por ti."
     },
     "notes": "SOT M1 Opciones; escenario en rango 65-80 palabras y 300-380 caracteres.",
