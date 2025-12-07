@@ -6,9 +6,9 @@
     "type": "options",
     "scenario": "El puesto de tu antiguo jefe queda vacante y un nuevo supervisor llega con metodologías de trabajo muy distintas a las que conoces. Cambia prioridades, cuestiona prácticas que defendías y critica en público a quienes no siguen su esquema. El equipo se divide entre quienes se adaptan rápido y quienes resisten, mientras tu permanencia y reputación dependen de cómo respondas a este liderazgo tan distinto.",
     "options_structured": {
-      "integrity_correct": "Solicitas una reunión individual para explicar qué prácticas han funcionado en el equipo, proponer una transición gradual y pedir criterios claros de evaluación, aún sabiendo que cuestionar sus cambios tan pronto puede molestarlo y cerrar puertas a futuras oportunidades.",
+      "integrity_correct": "Solicitas una reunión individual para explicar qué prácticas han funcionado en el equipo, proponer una transición gradual y pedir criterios claros de evaluación, aun sabiendo que cuestionar sus cambios tan pronto puede molestarlo y cerrar puertas a futuras oportunidades.",
       "pragmatic_distractor": "Te adaptas por completo a sus indicaciones sin discutir, replicando su método aunque veas que algunos resultados empeoran, confiando en que la obediencia te mantendrá en una posición segura.",
-      "evasive_distractor": "Aplicas sólo los cambios imprescindibles y comentas tu incomodidad únicamente con colegas de confianza, esperando que alguien con más influencia plantee el tema por ti.",
+      "evasive_distractor": "Aplicas solo los cambios imprescindibles y comentas tu incomodidad únicamente con colegas de confianza, esperando que alguien con más influencia plantee el tema por ti.",
       "rationalized_distractor": "Mantienes tu desempeño dentro de lo aceptable mientras dedicas energía a buscar otro puesto interno o externo, argumentando que lo más sensato es irte antes de que el estilo del nuevo jefe te desgaste más."
     },
     "notes": "Costo explícito: riesgo de que el nuevo supervisor lo vea como resistente y limite oportunidades.",
@@ -42,12 +42,12 @@
     "module_id": 2,
     "block_id": "B04",
     "type": "options",
-    "scenario": "Tu empresa anuncia una reestructuración de departamentos que cambia jefaturas, funciones y líneas de reporte. En tu equipo algunos compañeros se niegan abiertamente a seguir las nuevas indicaciones y otros sólo cumplen lo mínimo, lo que ralentiza proyectos clave. Te preocupa que la dirección interprete la resistencia como falta de compromiso colectiva y que tu permanencia se vea afectada según la postura que asumas frente al cambio.",
+    "scenario": "Tu empresa anuncia una reestructuración de departamentos que cambia jefaturas, funciones y líneas de reporte. En tu equipo algunos compañeros se niegan abiertamente a seguir las nuevas indicaciones y otros solo cumplen lo mínimo, lo que ralentiza proyectos clave. Te preocupa que la dirección interprete la resistencia como falta de compromiso colectiva y que tu permanencia se vea afectada según la postura que asumas frente al cambio.",
     "options_structured": {
       "integrity_correct": "Participas activamente en las reuniones para proponer cómo aplicar los cambios sin romper la dinámica del equipo y, si es necesario, expresas abiertamente la resistencia que ves, aunque eso pueda exponerte como la persona que lleva problemas a la dirección.",
       "pragmatic_distractor": "Te adaptas a la nueva estructura y ayudas a tus compañeros más cercanos a entender los procedimientos, aunque para lograrlo aceptas asumir tareas extra sin que esto quede claramente reconocido.",
       "evasive_distractor": "Cumples con lo que te piden pero evitas dar tu opinión en público; escuchas quejas en pasillos y esperas a ver hacia dónde se inclina la mayoría antes de tomar una postura clara.",
-      "rationalized_distractor": "Decides concentrarte únicamente en tu propio desempeño y dejar que cada quien gestione su resistencia, argumentando que involucrarte en lo colectivo sólo te resta energía para cuidar tu puesto."
+      "rationalized_distractor": "Decides concentrarte únicamente en tu propio desempeño y dejar que cada quien gestione su resistencia, argumentando que involucrarte en lo colectivo solo te resta energía para cuidar tu puesto."
     },
     "notes": "Costo explícito: exponerse ante la dirección como quien visibiliza la resistencia del equipo.",
     "word_count": 67,
@@ -63,9 +63,9 @@
     "type": "options",
     "scenario": "Desde hace meses tu organización acumula anuncios de cambios estructurales mientras se mantienen metas de entrega cada vez más exigentes. Trabajas con presión constante, atiendes varias tareas urgentes a la vez y notas que el estrés empieza a afectar tu sueño y tu salud. Al mismo tiempo, sientes que si levantas la mano para pedir un ajuste podrías quedar etiquetado como poco resistente y perder oportunidades futuras.",
     "options_structured": {
-      "integrity_correct": "Solicitas una conversación directa para revisar carga, plazos y prioridades, proponiendo concretar qué puede posponerse para cuidar la calidad, aún sabiendo que podrías ser visto como alguien que no soporta la presión y quedar fuera de proyectos visibles.",
+      "integrity_correct": "Solicitas una conversación directa para revisar carga, plazos y prioridades, proponiendo concretar qué puede posponerse para cuidar la calidad, aun sabiendo que podrías ser visto como alguien que no soporta la presión y quedar fuera de proyectos visibles.",
       "pragmatic_distractor": "Extiendes tus jornadas y ajustas tu vida personal para cumplir con todo, asumiendo que el cansancio es temporal y que demostrar aguante mejorará tu posición en la próxima evaluación.",
-      "evasive_distractor": "Te concentras en apagar los incendios del día y sólo comentas tu agotamiento con colegas cercanos, esperando que la empresa note por sí sola que el ritmo es insostenible.",
+      "evasive_distractor": "Te concentras en apagar los incendios del día y solo comentas tu agotamiento con colegas cercanos, esperando que la empresa note por sí sola que el ritmo es insostenible.",
       "rationalized_distractor": "Decides bajar ligeramente tu nivel de detalle en algunas tareas para proteger tu salud, justificando ante ti mismo que es preferible entregar algo aceptable a poner en riesgo tu bienestar."
     },
     "notes": "Costo explícito: pedir ajustes puede interpretarse como incapacidad para sostener la presión.",
@@ -85,7 +85,7 @@
       "integrity_correct": "Documentas los problemas que generan los cambios tan frecuentes y pides una reunión para proponer un calendario de implementación más ordenado, aunque eso pueda hacerte ver como quien retrasa la modernización y genere incomodidad en la jefatura.",
       "pragmatic_distractor": "Aceptas cada nuevo proceso como viene y compensas trabajando más horas para que nada se atrase, confiando en que tu flexibilidad visible te dará ventaja cuando se estabilice la situación.",
       "evasive_distractor": "Aplicas las instrucciones tal como llegan sin hacer preguntas, compartes tus dudas en conversaciones informales y esperas a que otros, con más antigüedad, definan cómo se trabajará al final.",
-      "rationalized_distractor": "Te enfocas en cumplir sólo con los procedimientos que consideras realmente importantes y relativizas el resto, argumentando que en un entorno tan cambiante nadie puede exigir que todo esté perfecto."
+      "rationalized_distractor": "Te enfocas en cumplir solo con los procedimientos que consideras realmente importantes y relativizas el resto, argumentando que en un entorno tan cambiante nadie puede exigir que todo esté perfecto."
     },
     "notes": "Costo explícito: proponer frenar el ritmo puede verse como obstáculo a la modernización.",
     "word_count": 67,
@@ -99,9 +99,9 @@
     "module_id": 2,
     "block_id": "B04",
     "type": "options",
-    "scenario": "En plena temporada alta, la empresa anuncia una reestructuración que cambia jefes, procesos y prioridades mientras tu carga de trabajo ya era muy alta. Cada día recibes indicaciones nuevas que chocan con lo que venías haciendo y apenas tienes tiempo para reorganizarte. Algunos compañeros bajan el ritmo por desánimo y otros hacen sólo lo indispensable, mientras tú intentas decidir hasta qué punto exponerte para pedir orden sin parecer problemático.",
+    "scenario": "En plena temporada alta, la empresa anuncia una reestructuración que cambia jefes, procesos y prioridades mientras tu carga de trabajo ya era muy alta. Cada día recibes indicaciones nuevas que chocan con lo que venías haciendo y apenas tienes tiempo para reorganizarte. Algunos compañeros bajan el ritmo por desánimo y otros hacen solo lo indispensable, mientras tú intentas decidir hasta qué punto exponerte para pedir orden sin parecer problemático.",
     "options_structured": {
-      "integrity_correct": "Solicitas formalmente revisar tus responsabilidades, llevas ejemplos concretos de conflictos entre instrucciones y propones priorizar tareas, aún sabiendo que podrían etiquetarte como poco dispuesto a hacer el esfuerzo extra que otros aceptan.",
+      "integrity_correct": "Solicitas formalmente revisar tus responsabilidades, llevas ejemplos concretos de conflictos entre instrucciones y propones priorizar tareas, aun sabiendo que podrían etiquetarte como poco dispuesto a hacer el esfuerzo extra que otros aceptan.",
       "pragmatic_distractor": "Aceptas la sobrecarga sin discutir y reorganizas tu tiempo personal para responder a todos los frentes, confiando en que el buen resultado te posicionará bien si hay nuevos movimientos.",
       "evasive_distractor": "Haces lo posible con las horas disponibles, dejas que algunos pendientes se acumulen y esperas que tu supervisor note por sí mismo que la carga es excesiva sin que tú lo digas.",
       "rationalized_distractor": "Decides concentrarte en quedar bien con quien crees que tendrá más influencia en la nueva estructura, dejando que otras solicitudes pierdan prioridad, argumentando que es una forma realista de proteger tu puesto."
@@ -120,7 +120,7 @@
     "type": "options",
     "scenario": "Tras varios cambios de organigrama, tu área vuelve a ser reorganizada y ahora reportas a un supervisor que trae metodologías totalmente distintas. Las prioridades se redefinen casi cada semana y el equipo recibe mensajes contradictorios sobre qué es urgente. Algunos compañeros ya hablan de irse y otros se limitan a obedecer sin cuestionar, mientras tú consideras si arriesgar tu comodidad para pedir claridad o simplemente adaptarte en silencio.",
     "options_structured": {
-      "integrity_correct": "Propones a tu nuevo supervisor una reunión para ordenar prioridades, aclarar qué criterios usará para evaluar al equipo y plantear la necesidad de mensajes coherentes, aún cuando eso pueda exponer las contradicciones actuales y generarte tensión con él.",
+      "integrity_correct": "Propones a tu nuevo supervisor una reunión para ordenar prioridades, aclarar qué criterios usará para evaluar al equipo y plantear la necesidad de mensajes coherentes, aun cuando eso pueda exponer las contradicciones actuales y generarte tensión con él.",
       "pragmatic_distractor": "Te adaptas rápidamente a sus pedidos y ayudas a traducirlos al resto del equipo, asumiendo tareas adicionales para que todo funcione, aunque eso suponga más carga invisible para ti.",
       "evasive_distractor": "Sigues las últimas instrucciones recibidas y evitas preguntar por los cambios anteriores, esperando que con el tiempo se estabilice la dinámica sin necesidad de conversaciones difíciles.",
       "rationalized_distractor": "Optas por centrarte en cumplir con tus entregas individuales y evitas involucrarte en aclarar el rumbo del área, convencido de que no vale la pena invertir energía en algo que la dirección decide sola."
@@ -142,7 +142,7 @@
       "integrity_correct": "Solicitas una reunión de seguimiento para revisar ejemplos concretos de la retroalimentación y explicar cómo las nuevas políticas han afectado tu trabajo, asumiendo el riesgo de que interpreten tu explicación como excusa y te miren con más lupa.",
       "pragmatic_distractor": "Aceptas los comentarios sin discutir, te enfocas en corregir los detalles señalados y redoblas esfuerzos para cumplir con las reglas nuevas, aunque eso suponga sacrificar descanso y tiempo personal.",
       "evasive_distractor": "Comienzas a evitar tareas visibles donde puedan notar errores, pides a compañeros que revisen tu trabajo y confías en que, con menos exposición, disminuirán las críticas sin hablar del fondo.",
-      "rationalized_distractor": "Concluyes que las expectativas son poco realistas y decides mantener sólo el nivel mínimo necesario para conservar el puesto, argumentando que no tiene sentido invertir más en un entorno que no reconoce el esfuerzo."
+      "rationalized_distractor": "Concluyes que las expectativas son poco realistas y decides mantener solo el nivel mínimo necesario para conservar el puesto, argumentando que no tiene sentido invertir más en un entorno que no reconoce el esfuerzo."
     },
     "notes": "Costo explícito: pedir contexto puede ser percibido como excusa y aumentar el escrutinio.",
     "word_count": 71,
@@ -158,10 +158,10 @@
     "type": "options",
     "scenario": "Tu empresa reemplaza los procesos habituales por un esquema nuevo que exige aprender herramientas y formas de trabajo que no dominas. A la vez, te mantienen los mismos plazos estrictos y tus resultados serán evaluados con los nuevos criterios desde el primer mes. Sabes que pedir más tiempo podría interpretarse como poca capacidad de adaptación, pero seguir el ritmo sin entender bien el método podría producir errores visibles en proyectos clave.",
     "options_structured": {
-      "integrity_correct": "Hablas con tu supervisor para mostrarle ejemplos de errores potenciales y propones ajustar plazos o escalonar la adopción del nuevo esquema, aún sabiendo que eso puede ser visto como señal de poca agilidad frente al resto del equipo.",
-      "pragmatic_distractor": "Te concentras en aprender sólo las partes del nuevo proceso que impactan tus entregas inmediatas y compensas trabajando más rápido, asumiendo el riesgo de que algunos detalles se escapen.",
+      "integrity_correct": "Hablas con tu supervisor para mostrarle ejemplos de errores potenciales y propones ajustar plazos o escalonar la adopción del nuevo esquema, aun sabiendo que eso puede ser visto como señal de poca agilidad frente al resto del equipo.",
+      "pragmatic_distractor": "Te concentras en aprender solo las partes del nuevo proceso que impactan tus entregas inmediatas y compensas trabajando más rápido, asumiendo el riesgo de que algunos detalles se escapen.",
       "evasive_distractor": "Sigues las instrucciones al pie de la letra sin pedir aclaraciones, confías en que las dudas se irán resolviendo solas y esperas que, si algo sale mal, se entienda que el cambio fue brusco para todos.",
-      "rationalized_distractor": "Decides mantener el antiguo modo de trabajar en tareas internas mientras adoptas la nueva forma sólo en lo visible, convenciéndote de que así proteges la calidad sin generar discusiones innecesarias."
+      "rationalized_distractor": "Decides mantener el antiguo modo de trabajar en tareas internas mientras adoptas la nueva forma solo en lo visible, convenciéndote de que así proteges la calidad sin generar discusiones innecesarias."
     },
     "notes": "Costo explícito: pedir ajustes de plazos puede verse como falta de agilidad frente al equipo.",
     "word_count": 71,
@@ -177,10 +177,10 @@
     "type": "options",
     "scenario": "En medio de una reorganización de áreas te asignan tareas de distintos proyectos que compiten por tu tiempo y atención, sin reducción de responsabilidades anteriores. Cada jefe parece considerar su pedido como prioridad máxima y recibes recordatorios constantes de que los retrasos pueden influir en futuras evaluaciones. Empiezas a sentir que hagas lo que hagas alguien quedará insatisfecho, mientras decides si poner límites claros o seguir absorbiendo más trabajo.",
     "options_structured": {
-      "integrity_correct": "Pides una conversación para ordenar la lista de proyectos, solicitas que se definan prioridades oficiales y aceptas que algunos plazos deban extenderse, aún cuando eso pueda incomodar a uno de los jefes y afectar cómo te perciben en futuras oportunidades.",
+      "integrity_correct": "Pides una conversación para ordenar la lista de proyectos, solicitas que se definan prioridades oficiales y aceptas que algunos plazos deban extenderse, aun cuando eso pueda incomodar a uno de los jefes y afectar cómo te perciben en futuras oportunidades.",
       "pragmatic_distractor": "Intentas cumplir con todas las solicitudes ajustando tus horarios y trabajando en paralelo en varios proyectos, confiando en que demostrar capacidad de respuesta te blindará ante posibles críticas.",
       "evasive_distractor": "Respondes primero a quien presiona más en el momento y dejas que los demás reclamos se acumulen, esperando que los jefes negocien entre sí sin que tú intervengas.",
-      "rationalized_distractor": "Decides concentrarte en el proyecto que consideras más visible para tu currículum, aún sabiendo que otros frentes sufrirán retrasos, argumentando que cuidar tu trayectoria es la mejor forma de asegurar tu futuro."
+      "rationalized_distractor": "Decides concentrarte en el proyecto que consideras más visible para tu currículum, aun sabiendo que otros frentes sufrirán retrasos, argumentando que cuidar tu trayectoria es la mejor forma de asegurar tu futuro."
     },
     "notes": "Costo explícito: exigir prioridades oficiales puede molestar a algún jefe influyente.",
     "word_count": 69,
@@ -198,7 +198,7 @@
     "options_structured": {
       "integrity_correct": "Reúnes ejemplos de cómo los cambios de horario y de proceso afectan tu rendimiento y planteas a tu supervisor la necesidad de un plan más estable, aunque eso pueda hacerte ver como poco flexible frente a compañeros que guardan silencio.",
       "pragmatic_distractor": "Ajustas tus rutinas personales cada vez que hay un cambio y dedicas parte de tus noches o fines de semana a repasar los nuevos procedimientos, confiando en que la organización se estabilizará más adelante.",
-      "evasive_distractor": "Cumples con lo que se te pide, pero evitas asumir tareas adicionales y comentas tu frustración sólo en espacios informales, esperando que la dirección note el malestar general sin que tengas que exponerte.",
+      "evasive_distractor": "Cumples con lo que se te pide, pero evitas asumir tareas adicionales y comentas tu frustración solo en espacios informales, esperando que la dirección note el malestar general sin que tengas que exponerte.",
       "rationalized_distractor": "Concluyes que no tiene sentido planificar en detalle y decides vivir al día, cambiando tus planes según las órdenes del momento, justificando que la mejor forma de sobrevivir es dejar de cuestionar."
     },
     "notes": "Costo explícito: pedir estabilidad puede ser visto como falta de flexibilidad.",
@@ -215,10 +215,10 @@
     "type": "options",
     "scenario": "Tu empresa implanta una nueva plataforma tecnológica y, mientras el sistema todavía falla, se van ajustando procesos casi cada semana. Al mismo tiempo, tu supervisor te señala errores menores en los reportes y te recuerda que tu desempeño está bajo observación. Sientes que aprendes sobre la marcha con poco margen para equivocarte y temes que pedir ayuda adicional haga pensar que no estás a la altura del nuevo entorno.",
     "options_structured": {
-      "integrity_correct": "Solicitas una sesión específica para revisar tus errores en la nueva plataforma, pides entrenamiento adicional y propones registrar las fallas del sistema, aún sabiendo que expones tus dificultades y podrías ser visto como menos competente que tus pares.",
+      "integrity_correct": "Solicitas una sesión específica para revisar tus errores en la nueva plataforma, pides entrenamiento adicional y propones registrar las fallas del sistema, aun sabiendo que expones tus dificultades y podrías ser visto como menos competente que tus pares.",
       "pragmatic_distractor": "Te quedas más tiempo después de la jornada para practicar por tu cuenta en la herramienta y compensar cualquier error, aceptando el desgaste extra como parte del aprendizaje.",
       "evasive_distractor": "Delegas las partes más complejas de los reportes en compañeros que dominan mejor el sistema y te enfocas en tareas conocidas, evitando admitir abiertamente que aún no lo manejas bien.",
-      "rationalized_distractor": "Decides cumplir sólo con el nivel mínimo de detalle que exige la plataforma y asumir que algunos errores son inevitables, argumentando que mientras el sistema no se estabilice nadie puede esperar precisión total."
+      "rationalized_distractor": "Decides cumplir solo con el nivel mínimo de detalle que exige la plataforma y asumir que algunos errores son inevitables, argumentando que mientras el sistema no se estabilice nadie puede esperar precisión total."
     },
     "notes": "Costo explícito: exponer dificultades puede afectar la percepción de competencia frente a pares.",
     "word_count": 69,
@@ -232,11 +232,11 @@
     "module_id": 2,
     "block_id": "B04",
     "type": "options",
-    "scenario": "Desde que se implementó una nueva plataforma, los procedimientos se actualizan casi cada semana y muchas instrucciones anteriores quedan obsoletas de un día para otro. A pesar de los cambios, nadie aclara cómo se verá el área en unos meses ni qué perfiles serán prioritarios. Varios compañeros comentan que podrían venir recortes y evalúan planes alternativos, mientras tú decides cuánto apostar por adaptarte aquí o empezar a buscar estabilidad fuera.",
+    "scenario": "Desde que se implementó una nueva plataforma, los procedimientos se actualizan casi cada semana y muchas instrucciones anteriores quedan obsoletas de un día para otro. A pesar de los cambios, nadie aclara cómo se verá el área en unos meses ni qué perfiles serán prioritarios. Varios compañeros comentan que se podrían venir recortes y evalúan planes alternativos, mientras tú decides cuánto apostar por adaptarte aquí o empezar a buscar estabilidad fuera.",
     "options_structured": {
-      "integrity_correct": "Planteas en una reunión formal la necesidad de un plan claro sobre perfiles y funciones futuras, y preguntas abiertamente qué se espera de tu rol, aún a riesgo de quedar identificado como quien pone sobre la mesa el tema de posibles recortes.",
+      "integrity_correct": "Planteas en una reunión formal la necesidad de un plan claro sobre perfiles y funciones futuras, y preguntas abiertamente qué se espera de tu rol, aun a riesgo de quedar identificado como quien pone sobre la mesa el tema de posibles recortes.",
       "pragmatic_distractor": "Te enfocas en dominar la plataforma y mostrar resultados visibles en el corto plazo, esperando que tu productividad sea el mejor argumento para que te consideren imprescindible.",
-      "evasive_distractor": "Evitas hacer preguntas directas sobre el futuro y sigues las instrucciones del día, tomando decisiones sólo a corto plazo mientras observas cómo reaccionan tus superiores.",
+      "evasive_distractor": "Evitas hacer preguntas directas sobre el futuro y sigues las instrucciones del día, tomando decisiones solo a corto plazo mientras observas cómo reaccionan tus superiores.",
       "rationalized_distractor": "Decides preparar tu currículum y comenzar a explorar opciones externas, convenciéndote de que es más prudente moverte a tiempo que invertir energía en una estructura que tal vez cambie por completo."
     },
     "notes": "Costo explícito: hablar de recortes en reunión formal puede marcarlo como foco de inquietud.",
@@ -251,9 +251,9 @@
     "module_id": 2,
     "block_id": "B04",
     "type": "options",
-    "scenario": "Te informan que la empresa atraviesa dificultades financieras y circulan rumores sobre posibles recortes en tu área. Al mismo tiempo, tu supervisor impulsa metodologías nuevas que cambian cómo se mide el desempeño y exige resultados rápidos bajo el argumento de que hay que demostrar valor. El equipo está inquieto y algunos se enfocan sólo en protegerse individualmente, mientras tú valoras si arriesgarte a pedir claridad o conservar un perfil bajo.",
+    "scenario": "Te informan que la empresa atraviesa dificultades financieras y circulan rumores sobre posibles recortes en tu área. Al mismo tiempo, tu supervisor impulsa metodologías nuevas que cambian cómo se mide el desempeño y exige resultados rápidos bajo el argumento de que hay que demostrar valor. El equipo está inquieto y algunos se enfocan solo en protegerse individualmente, mientras tú valoras si arriesgarte a pedir claridad o conservar un perfil bajo.",
     "options_structured": {
-      "integrity_correct": "Reúnes datos sobre cargas y resultados y propones a tu supervisor una conversación franca sobre cómo priorizar sin sacrificar la salud del equipo, aún sabiendo que, en un contexto de recortes, podrías ser visto como poco alineado con el mensaje de hacer más con menos.",
+      "integrity_correct": "Reúnes datos sobre cargas y resultados y propones a tu supervisor una conversación franca sobre cómo priorizar sin sacrificar la salud del equipo, aun sabiendo que, en un contexto de recortes, podrías ser visto como poco alineado con el mensaje de hacer más con menos.",
       "pragmatic_distractor": "Te adaptas rápidamente a las nuevas metodologías y te ofreces para asumir tareas visibles, esperando que quedar como pieza clave te proteja si hay decisiones difíciles.",
       "evasive_distractor": "Cumples con tus funciones sin involucrarte en discusiones de fondo y respondes con frases neutras cuando colegas te comentan sus miedos, esperando que la situación se defina antes de posicionarte.",
       "rationalized_distractor": "Concluyes que en una etapa de crisis cada uno debe cuidar principalmente su lugar y decides concentrarte en quedar bien con tu jefe directo, dejando en segundo plano las preocupaciones colectivas."
@@ -272,7 +272,7 @@
     "type": "options",
     "scenario": "Tu empresa adopta metodologías de trabajo que exigen planear y documentar todo de forma muy diferente a lo que conocías. A la vez, conservas proyectos antiguos y te asignan nuevas tareas, por lo que tienes varias prioridades compitiendo por tu tiempo y energía cada día. Empiezas a cometer pequeños descuidos y sientes que el margen para equivocarte es mínimo, mientras decides si negociar límites claros o seguir estirando tus jornadas.",
     "options_structured": {
-      "integrity_correct": "Planteas a tu supervisor la necesidad de redefinir prioridades y pedir que algunas tareas se reasignen o pospongan, aún sabiendo que puede interpretarlo como falta de ambición o de disposición para asumir más responsabilidades.",
+      "integrity_correct": "Planteas a tu supervisor la necesidad de redefinir prioridades y pedir que algunas tareas se reasignen o pospongan, aun sabiendo que puede interpretarlo como falta de ambición o de disposición para asumir más responsabilidades.",
       "pragmatic_distractor": "Aceptas la nueva forma de trabajar y reorganizas tus tiempos para cumplir con todo, incluso si eso implica trabajar con menos pausas y revisar menos a fondo cada entrega.",
       "evasive_distractor": "Te concentras en avanzar en lo que te piden sin pedir aclaraciones sobre prioridades, y dejas que sean los jefes quienes reaccionen si algo importante se retrasa.",
       "rationalized_distractor": "Decides dar más atención a las tareas que consideras estratégicas para tu desarrollo y cumples apenas con lo mínimo en el resto, justificando que necesitas proteger tu energía para lo que verdaderamente te suma."
@@ -294,7 +294,7 @@
       "integrity_correct": "Solicitas una reunión para mostrar con ejemplos cómo la sucesión de cambios afecta tiempos y calidad, y propones congelar ciertos procesos hasta que se consoliden, asumiendo que podrían verlo como una resistencia a la modernización y cuestionar tu capacidad de adaptarte.",
       "pragmatic_distractor": "Te esfuerzas por ser la persona que siempre dice sí a los nuevos procesos y cubres a compañeros que se atrasan, confiando en que esa imagen de flexibilidad te dará ventaja si hay reacomodos.",
       "evasive_distractor": "Aceptas las instrucciones pero evitas comprometerte con plazos específicos, dejando que las fechas se ajusten solas según lo que alcances a hacer y esperando que nadie pida explicaciones detalladas.",
-      "rationalized_distractor": "Decides que mientras la dirección no dé señales claras, lo mejor es no invertir demasiado en entender cada cambio, y aplicas sólo lo suficiente para que el flujo diario no se detenga."
+      "rationalized_distractor": "Decides que mientras la dirección no dé señales claras, lo mejor es no invertir demasiado en entender cada cambio, y aplicas solo lo suficiente para que el flujo diario no se detenga."
     },
     "notes": "Costo explícito: proponer congelar procesos puede percibirse como resistencia a la modernización.",
     "word_count": 73,
@@ -310,7 +310,7 @@
     "type": "options",
     "scenario": "Con la nueva plataforma en producción, los procesos se actualizan constantemente y muchas tareas que antes eran simples ahora requieren pasos adicionales. Además, sigues atendiendo solicitudes urgentes de distintas áreas y sientes que cada día trabajas al límite para llegar a todo. Tus supervisores insisten en que el nivel de servicio no puede bajar, mientras evalúas si transparentar la sobrecarga y pedir priorización o continuar esforzándote sin mostrar ninguna queja.",
     "options_structured": {
-      "integrity_correct": "Planteas a tus supervisores un esquema de priorización y propones pausar ciertas tareas menos críticas hasta que el equipo domine la plataforma, aún cuando eso pueda interpretarse como incapacidad para cumplir con todo lo que se pide.",
+      "integrity_correct": "Planteas a tus supervisores un esquema de priorización y propones pausar ciertas tareas menos críticas hasta que el equipo domine la plataforma, aun cuando eso pueda interpretarse como incapacidad para cumplir con todo lo que se pide.",
       "pragmatic_distractor": "Sigues aceptando solicitudes de todas las áreas y extiendes tu jornada para completar los nuevos pasos de la herramienta, confiando que mostrar disponibilidad total compensará cualquier error puntual.",
       "evasive_distractor": "Empiezas a derivar parte de las peticiones hacia compañeros con más experiencia en la plataforma y te ofreces para tareas más rutinarias, evitando discutir abiertamente la sobrecarga general.",
       "rationalized_distractor": "Decides bajar tus estándares de revisión para poder entregar a tiempo y te dices que, dada la cantidad de cambios, un margen de error mayor es inevitable y aceptable."
@@ -329,7 +329,7 @@
     "type": "options",
     "scenario": "Durante una reestructuración importante tu supervisor comienza a señalar fallas en tu trabajo con mucha más frecuencia que antes, a veces frente al equipo. No sabes si la empresa mantendrá tu puesto ni qué criterios usarán para decidir quién se queda. Algunos compañeros comentan que lo mejor es pasar desapercibidos hasta que haya noticias, mientras tú decides si enfrentar estas críticas y pedir criterios claros o protegerte guardando silencio.",
     "options_structured": {
-      "integrity_correct": "Solicitas una reunión privada para pedir ejemplos concretos de las críticas y aclarar cómo se evaluará al equipo durante la reestructuración, aún sabiendo que podrías incomodar a tu supervisor y quedar marcado como quien cuestiona su forma de dar retroalimentación.",
+      "integrity_correct": "Solicitas una reunión privada para pedir ejemplos concretos de las críticas y aclarar cómo se evaluará al equipo durante la reestructuración, aun sabiendo que podrías incomodar a tu supervisor y quedar marcado como quien cuestiona su forma de dar retroalimentación.",
       "pragmatic_distractor": "Te limitas a aceptar las observaciones y trabajas horas extra para asegurarte de que no puedan señalarte nada, confiando en que un buen desempeño hará que las críticas se reduzcan.",
       "evasive_distractor": "Intentas pasar desapercibido, evitas proyectos visibles y haces tu trabajo en silencio sin pedir aclaraciones, esperando que la tormenta pase sin que tu nombre aparezca en las decisiones.",
       "rationalized_distractor": "Concluyes que la reestructuración es una decisión ajena a tu control y decides invertir tu energía en explorar otras oportunidades, manteniendo un desempeño básico mientras tanto para no llamar la atención."
@@ -350,8 +350,8 @@
     "options_structured": {
       "integrity_correct": "Preparas un resumen de los cambios recientes y sus efectos y propones en una reunión ajustar metas y estabilizar algunos procedimientos, aunque eso pueda ser visto como resistencia a la flexibilidad que la dirección dice necesitar.",
       "pragmatic_distractor": "Te enfocas en cumplir con lo que piden cada semana, aunque tengas que rehacer trabajo seguido, asumiendo que quien se muestre más adaptable tendrá más probabilidades de quedarse.",
-      "evasive_distractor": "Adoptas una actitud de espera, haces sólo lo que te ordenan sin sugerir mejoras y confías en que otros plantearán la necesidad de estabilidad cuando la situación sea insostenible.",
-      "rationalized_distractor": "Decides que lo más práctico es pensar sólo a corto plazo y ajustar tu esfuerzo según lo urgente del día, argumentando que planear más allá no tiene sentido mientras todo cambie tan rápido."
+      "evasive_distractor": "Adoptas una actitud de espera, haces solo lo que te ordenan sin sugerir mejoras y confías en que otros plantearán la necesidad de estabilidad cuando la situación sea insostenible.",
+      "rationalized_distractor": "Decides que lo más práctico es pensar solo a corto plazo y ajustar tu esfuerzo según lo urgente del día, argumentando que planear más allá no tiene sentido mientras todo cambie tan rápido."
     },
     "notes": "Costo explícito: pedir estabilidad puede verse como falta de flexibilidad en un entorno cambiante.",
     "word_count": 75,
@@ -368,9 +368,9 @@
     "scenario": "La nueva plataforma central se ha ido configurando sobre la marcha y cada actualización introduce cambios inesperados en la forma de registrar y reportar la información. Con frecuencia debes rehacer tareas porque los formatos cambian y apenas hay guías claras. Varios compañeros comentan que se sienten al borde del colapso, pero temen ser vistos como poco flexibles, mientras tú decides si exigir un plan de transición ordenado o seguir improvisando.",
     "options_structured": {
       "integrity_correct": "Planteas a tu jefe directo y al responsable de la plataforma la necesidad de un plan de transición con tiempos reales de capacitación, aunque eso pueda retrasar entregas y generar la impresión de que pones obstáculos al avance del proyecto.",
-      "pragmatic_distractor": "Aceptas el ritmo impuesto y priorizas aprender sólo lo necesario para cumplir plazos, trabajando más rápido y asumiendo que algún nivel de error será inevitable durante la adopción.",
+      "pragmatic_distractor": "Aceptas el ritmo impuesto y priorizas aprender solo lo necesario para cumplir plazos, trabajando más rápido y asumiendo que algún nivel de error será inevitable durante la adopción.",
       "evasive_distractor": "Te apoyas cada vez más en colegas que dominan mejor la herramienta, pides que revisen tus tareas críticas y evitas asumir responsabilidades nuevas hasta que el sistema esté más estable.",
-      "rationalized_distractor": "Concluyes que la empresa ya decidió seguir adelante así y decides concentrarte en no involucrarte demasiado, cumpliendo sólo con lo requerido y dejando en manos de otros la tarea de exigir mejoras."
+      "rationalized_distractor": "Concluyes que la empresa ya decidió seguir adelante así y decides concentrarte en no involucrarte demasiado, cumpliendo solo con lo requerido y dejando en manos de otros la tarea de exigir mejoras."
     },
     "notes": "Costo explícito: exigir transición ordenada puede verse como obstáculo al avance del proyecto.",
     "word_count": 70,

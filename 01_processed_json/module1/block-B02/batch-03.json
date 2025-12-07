@@ -76,9 +76,9 @@
     "scenario": "Un cliente impone un plazo muy ajustado y tu supervisor te pide procesar la base de datos usando un sistema de terceros no aprobado que es mucho más rápido. La política prohíbe subir datos a plataformas no autorizadas por riesgo de fugas. Si no cumples el plazo, el cliente puede cancelar. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a usar el sistema no aprobado y explicas que prefieres comunicar al cliente que habrá un retraso para seguir los protocolos de seguridad, asumiendo el descontento del cliente y el riesgo de que tu supervisor te evalúe mal por no resolver.",
-      "pragmatic_distractor": "Usas el sistema no aprobado sólo con una muestra de datos anonimizados para la fase inicial, planeando completar el resto con herramientas lentas y aprobadas, intentando equilibrar rapidez y seguridad sin que nadie se dé cuenta.",
+      "pragmatic_distractor": "Usas el sistema no aprobado solo con una muestra de datos anonimizados para la fase inicial, planeando completar el resto con herramientas lentas y aprobadas, intentando equilibrar rapidez y seguridad sin que nadie se dé cuenta.",
       "evasive_distractor": "Documentas los riesgos de seguridad en un correo a tu supervisor y le pides confirmación por escrito para proceder, creando un registro de que seguías órdenes directas sin tomar tú la decisión final.",
-      "rationalized_distractor": "Usas el sistema no aprobado para cumplir el plazo, convenciéndote de que la satisfacción del cliente es la prioridad máxima y que el riesgo de fuga de datos es sólo teórico si nadie se entera."
+      "rationalized_distractor": "Usas el sistema no aprobado para cumplir el plazo, convenciéndote de que la satisfacción del cliente es la prioridad máxima y que el riesgo de fuga de datos es solo teórico si nadie se entera."
     },
     "notes": "SOT M1 Opciones; costo de integridad: evaluación mal + descontento cliente.",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
@@ -129,7 +129,7 @@
       "integrity_correct": "Redactas el correo ofreciendo el reembolso completo que dicta la política y se lo envías a tu supervisor para aprobación, aceptando que te cuestionará por no seguir sus instrucciones y que tu evaluación puede verse afectada por desafiar su decisión.",
       "pragmatic_distractor": "Ofreces al cliente un descuento significativamente mayor al que sugirió tu supervisor pero menor que el reembolso completo, esperando que sea suficiente para calmarlo sin incurrir en el costo total que tu supervisor quiere evitar.",
       "evasive_distractor": "Le pides a un colega del área de servicio que se encargue de la comunicación argumentando que ellos tienen más experiencia en el trato con clientes molestos, transfiriendo así la responsabilidad de la decisión.",
-      "rationalized_distractor": "Sigues las instrucciones de tu supervisor y ofreces sólo el pequeño descuento, convenciéndote de que proteger los márgenes de ganancia de la empresa es crucial en un mercado competitivo y que el cliente lo aceptará."
+      "rationalized_distractor": "Sigues las instrucciones de tu supervisor y ofreces solo el pequeño descuento, convenciéndote de que proteger los márgenes de ganancia de la empresa es crucial en un mercado competitivo y que el cliente lo aceptará."
     },
     "notes": "SOT M1 Opciones; costo de integridad: cuestionamiento + evaluación afectada.",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184",
@@ -178,7 +178,7 @@
     "scenario": "Estás negociando un contrato millonario y descubres que uno de los finalistas es una empresa donde tu cónyuge tiene participación accionaria significativa. Varios compañeros manejan situaciones similares sin declararlas y tu supervisor lo sabe. Declarar el conflicto retrasará el proyecto semanas y afectará tu carrera. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Declaras el conflicto formalmente y te recusas de la negociación, aceptando que esto retrasará el proyecto semanas, perderás la oportunidad de trabajar en este proyecto importante, afectará negativamente tu carrera y dañará tu relación con el equipo.",
-      "pragmatic_distractor": "Declaras el conflicto pero propones permanecer sólo para asesoramiento técnico absteniéndote de la decisión final, esperando que esto cumpla con la transparencia sin perder completamente tu participación en el proyecto.",
+      "pragmatic_distractor": "Declaras el conflicto pero propones permanecer solo para asesoramiento técnico absteniéndote de la decisión final, esperando que esto cumpla con la transparencia sin perder completamente tu participación en el proyecto.",
       "evasive_distractor": "Minimizas la conexión describiéndola como lejana y sigues en la negociación, confiando en tu capacidad para ser objetivo y en que el proveedor es realmente el mejor independientemente de la conexión familiar.",
       "rationalized_distractor": "Sigues en la negociación sin declarar el conflicto, convenciéndote de que varios compañeros lo hacen, que tu cónyuge no tiene influencia directa en la empresa y que lo importante es elegir al mejor proveedor."
     },
@@ -195,7 +195,7 @@
     "scenario": "Un proyecto crítico tiene un plazo extremadamente ajustado y tu supervisor insiste en que omitas ciertos controles de seguridad que considera burocráticos. Si no cumples el plazo, el cliente se irá con la competencia resultando en pérdida de ingresos y posiblemente despidos. Varios compañeros ya siguen este enfoque. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a omitir los controles de seguridad explicando que la protección de los activos y del equipo no es negociable, aceptando que esto retrasará el proyecto, puede perder al cliente, resultar en pérdida de ingresos, despidos e incluir el tuyo.",
-      "pragmatic_distractor": "Relajas los controles sólo en aspectos de menor riesgo e implementas un sistema de seguimiento rápido para corregir problemas que surjan, esperando cumplir el plazo sin comprometer completamente la seguridad.",
+      "pragmatic_distractor": "Relajas los controles solo en aspectos de menor riesgo e implementas un sistema de seguimiento rápido para corregir problemas que surjan, esperando cumplir el plazo sin comprometer completamente la seguridad.",
       "evasive_distractor": "Pides a tu supervisor que te envíe la instrucción por escrito y la reenvías al área de seguridad para que ellos aprueben, transfiriendo la responsabilidad y evitando que sea tu decisión directa.",
       "rationalized_distractor": "Omites los controles como te piden, convenciéndote de que cumplir el plazo es esencial para retener al cliente y evitar despidos, y que varios compañeros lo hacen sin problemas por lo que el riesgo es mínimo."
     },
@@ -212,7 +212,7 @@
     "scenario": "Evalúas propuestas para un proyecto importante y una de las empresas finalistas es propiedad parcial de un familiar cercano. Tu supervisor insiste en que manejes la situación argumentando que tu conocimiento técnico es indispensable. Si te recusas, el proyecto se retrasa y perderás la oportunidad de liderarlo, afectando tu carrera. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te recusas formalmente del proceso de evaluación citando el conflicto de interés, aceptando que esto retrasará el proyecto significativamente, perderás la oportunidad de liderarlo y afectará negativamente tu carrera y tu relación con tu supervisor.",
-      "pragmatic_distractor": "Permaneces en el proceso pero te abstienes de votar en la decisión final, participando sólo en discusiones técnicas para que tu conocimiento se aproveche sin tomar la decisión final sobre tu familiar.",
+      "pragmatic_distractor": "Permaneces en el proceso pero te abstienes de votar en la decisión final, participando solo en discusiones técnicas para que tu conocimiento se aproveche sin tomar la decisión final sobre tu familiar.",
       "evasive_distractor": "Minimizas la conexión familiar describiéndola como lejana y sigues en el proceso, confiando en tu capacidad para ser objetivo y en que puedes separar tus intereses personales de los de la empresa.",
       "rationalized_distractor": "Sigues en el proceso y participas plenamente, convenciéndote de que tu experiencia es crucial para elegir al mejor proveedor, lo que beneficia a la empresa por encima de todo y que tu familiar no influye en tu decisión."
     },
@@ -230,7 +230,7 @@
     "options_structured": {
       "integrity_correct": "Buscas el canal apropiado en la empresa para reportar el desequilibrio de poder, aceptando que esto generará un conflicto directo con tu supervisor, afectará negativamente tu relación con él, tu carrera y posiblemente te etiquete como alguien desleal.",
       "pragmatic_distractor": "Solicitas una reunión con tu supervisor para pedir más transparencia en la toma de decisiones, esperando que esto resuelva el problema sin escalar la situación y crear conflictos mayores que te perjudiquen.",
-      "evasive_distractor": "Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, pensando que un enfoque grupal podría ser más efectivo y menos riesgoso que actuar sólo.",
+      "evasive_distractor": "Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, pensando que un enfoque grupal podría ser más efectivo y menos riesgoso que actuar solo ante el supervisor.",
       "rationalized_distractor": "No haces nada para no arriesgar tu relación con el supervisor, convenciéndote de que aunque el sistema es injusto, confrontarlo podría generar represalias que afectarían aún más tu posición en el equipo."
     },
     "notes": "SOT M1 Opciones; costo de integridad: carrera afectada + etiqueta desleal.",
@@ -248,7 +248,7 @@
     "options_structured": {
       "integrity_correct": "Insistes en corregir los errores antes de entregar el reporte, aceptando que esto retrasará la entrega, afectará la planificación del trimestre, generará desconfianza en la dirección y afectará negativamente tu evaluación de desempeño y tu posición.",
       "pragmatic_distractor": "Entregas el reporte con los errores pero adjuntas una nota privada para el supervisor señalando las discrepancias, esperando que él decida cómo manejarlo sin que la dirección se entere y sin que tu nombre quede asociado.",
-      "evasive_distractor": "Intentas corregir sólo los errores más críticos tú mismo antes de la entrega, asumiendo el riesgo de cometer errores pero cumpliendo con el plazo para no retrasar las decisiones de la empresa.",
+      "evasive_distractor": "Intentas corregir solo los errores más críticos tú mismo antes de la entrega, asumiendo el riesgo de cometer errores pero cumpliendo con el plazo para no retrasar las decisiones de la empresa.",
       "rationalized_distractor": "Ignoras los errores como te piden, convenciéndote de que el supervisor tiene más experiencia y sabe qué es importante, y que si él dice que se pueden ignorar probablemente tiene razón."
     },
     "notes": "SOT M1 Opciones; costo de integridad: evaluación afectada + desconfianza dirección.",
@@ -281,8 +281,8 @@
     "scenario": "Un proyecto urgente tiene un plazo extremadamente ajustado y tu supervisor insiste en que uses recursos empresariales omitiendo ciertos protocolos de uso que considera innecesarios. Si no cumples el plazo, el proyecto fallará y el cliente se irá con la competencia resultando en pérdida de ingresos y posiblemente despidos. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a omitir los protocolos de uso explicando que la protección de los recursos y la calidad del trabajo no son negociables, aceptando que esto retrasará el proyecto, puede perder al cliente, resultar en pérdida de ingresos y despidos incluido el tuyo.",
-      "pragmatic_distractor": "Diseñas un plan escalonado que minimice riesgos mientras logras los objetivos, relajando sólo los protocolos de menor riesgo e implementando controles alternativos para proteger los recursos sin retrasar demasiado el proyecto.",
-      "evasive_distractor": "Consultas con colegas y superiores para obtener diferentes perspectivas, esperando que ellos puedan ayudarte a encontrar una solución que cumpla con los protocolos sin retrasar demasiado el proyecto y sin tener que decidir sólo.",
+      "pragmatic_distractor": "Diseñas un plan escalonado que minimice riesgos mientras logras los objetivos, relajando solo los protocolos de menor riesgo e implementando controles alternativos para proteger los recursos sin retrasar demasiado el proyecto.",
+      "evasive_distractor": "Consultas con colegas y superiores para obtener diferentes perspectivas, esperando que ellos puedan ayudarte a encontrar una solución que cumpla con los protocolos sin retrasar demasiado el proyecto y sin tener que decidir solo.",
       "rationalized_distractor": "Omites los protocolos como te piden, convenciéndote de que varios compañeros lo hacen sin problemas por lo que el riesgo es mínimo, y que lo importante es cumplir el plazo para retener al cliente y evitar despidos."
     },
     "notes": "SOT M1 Opciones; costo de integridad: despido propio incluido.",
@@ -315,7 +315,7 @@
     "scenario": "Al preparar un reporte de gastos, notas que tu supervisor tiene acceso a información sobre presupuestos que otros no ven y usa esta ventaja para asignar más recursos a ciertos proyectos y dejar a otros con presupuestos insuficientes. Esto ha creado un desequilibrio de poder. Confrontarlo podría afectar tu relación y carrera. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Solicitas una reunión con tu supervisor para pedir más transparencia en la toma de decisiones, aceptando que esto generará un conflicto directo con él, afectará negativamente tu relación, tu carrera y posiblemente te etiquete como alguien problemático.",
-      "pragmatic_distractor": "Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, esperando que un enfoque grupal sea más efectivo y menos riesgoso que actuar sólo ante el supervisor.",
+      "pragmatic_distractor": "Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, esperando que un enfoque grupal sea más efectivo y menos riesgoso que actuar solo ante el supervisor.",
       "evasive_distractor": "Trabajas dentro del sistema actual mientras buscas mejoras estructurales de manera discreta, esperando que esto sea suficiente para resolver el problema sin crear conflictos directos que puedan perjudicarte profesionalmente.",
       "rationalized_distractor": "No confrontas directamente pero documentas tus observaciones esperando que el supervisor eventualmente comparta más información, evitando crear conflictos innecesarios que podrían afectar tu posición en la empresa."
     },
@@ -333,8 +333,8 @@
     "scenario": "Al asignar tareas para un proyecto crítico, encuentras información sensible sobre empleados que no deberías ver como datos personales, salarios y evaluaciones. Tu supervisor te pide usar esta información para tomar decisiones de asignación urgentes. Si no la usas, podrías hacer asignaciones subóptimas que afecten el éxito del proyecto. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a usar la información sensible explicando que no tienes autorización para acceder a esos datos, aceptando que esto podría resultar en asignaciones subóptimas que afecten el éxito del proyecto, pérdida de ingresos y despidos incluido el tuyo.",
-      "pragmatic_distractor": "Buscas optimizar las asignaciones sin usar directamente la información sensible, trabajando con tu supervisor para obtener sólo la información mínima necesaria de manera autorizada sin violar la privacidad de los empleados.",
-      "evasive_distractor": "Usas sólo la información absolutamente necesaria y documentas que seguiste las instrucciones de tu supervisor, implementando cambios graduales y esperando que esto te proteja si hay problemas más adelante.",
+      "pragmatic_distractor": "Buscas optimizar las asignaciones sin usar directamente la información sensible, trabajando con tu supervisor para obtener solo la información mínima necesaria de manera autorizada sin violar la privacidad de los empleados.",
+      "evasive_distractor": "Usas solo la información absolutamente necesaria y documentas que seguiste las instrucciones de tu supervisor, implementando cambios graduales y esperando que esto te proteja si hay problemas más adelante.",
       "rationalized_distractor": "Usas la información como te piden, convenciéndote de que tu supervisor tiene autoridad para darte acceso y se hace responsable, y que lo importante es hacer las mejores asignaciones para proteger el éxito del proyecto."
     },
     "notes": "SOT M1 Opciones; costo de integridad: despido propio incluido.",

@@ -6,7 +6,7 @@
     "type": "options",
     "scenario": "Recibes por correo un informe confidencial sobre una empresa rival que revela fallas y precios internos. Si lo usas podrías ajustar tu estrategia y obtener una ventaja competitiva inmediata, pero no sabes si se obtuvo de forma lícita. La dirección exige resultados rápidos y tu equipo celebra tener esa información. Tú dudas entre reportarlo y renunciar a la ventaja o aprovecharla en silencio. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Informas de inmediato a tu jefe y a los abogados de la empresa que recibieron información competitiva dudosa y propones no usarla, aunque eso signifique perder la ventaja, retrasar ajustes de estrategia y que tu equipo te vea como quien frenó una oportunidad.",
+      "integrity_correct": "Informas de inmediato a tu jefe y a los abogados de la empresa que has recibido información competitiva dudosa y propones no usarla, aunque eso signifique perder la ventaja, retrasar ajustes de estrategia y que tu equipo te vea como quien frenó una oportunidad.",
       "pragmatic_distractor": "Usas la información para ajustar discretamente precios y mensajes, evitando documentar su origen y confiando en que los buenos resultados compensarán el riesgo si alguien pregunta.",
       "evasive_distractor": "Trasladas el informe a tu jefe pidiéndole que decida y te limitas a seguir sus indicaciones, sin sugerir postura propia para no quedar expuesto.",
       "rationalized_distractor": "Decides aprovechar la información porque asumes que la competencia también usaría algo parecido y que tu prioridad es proteger los resultados de tu empresa, no discutir el origen de los datos."
@@ -180,7 +180,7 @@
       "integrity_correct": "Cuestionas abiertamente el diseño del acuerdo y propones límites estrictos al intercambio de información para proteger a consumidores y pequeños negocios, aun sabiendo que podrías frenar el proyecto estrella y quedar etiquetado como poco alineado.",
       "pragmatic_distractor": "Sugieres aprobar la colaboración con salvaguardas mínimas y monitoreo básico, pensando que los beneficios iniciales justifican probar y ajustar después si aparecen efectos negativos.",
       "evasive_distractor": "Envías el borrador a varias áreas para que emitan opinión y retrasas tu recomendación hasta que exista un consenso claro, evitando asumir una posición firme.",
-      "rationalized_distractor": "Apoyas el acuerdo tal como está, argumentando que si es legal y otros sectores ya se concentran en pocos jugadores, tu empresa perdería competitividad si no participa."
+      "rationalized_distractor": "Apoyas el acuerdo tal como está, argumentando que si es legal y otros sectores ya se concentran en pocos jugadores, tu empresa perderá competitividad si no participa."
     },
     "word_count": 65,
     "char_count": 344,
@@ -190,4 +190,3 @@
     "sot_checksum": "D739B398"
   }
 ]
-

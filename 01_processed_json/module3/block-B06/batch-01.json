@@ -4,7 +4,7 @@
     "module_id": 3,
     "block_id": "B06",
     "type": "options",
-    "scenario": "Tu empresa lanzará un producto en días. Detectas un fallo de seguridad poco frecuente que podría exponer datos de usuarios en situaciones específicas. Corregirlo atrasaría el lanzamiento varias semanas y la política no obliga a reportar fallos de este nivel. Tu jefe espera que cumplas el calendario. ¿Qué haces?",
+    "scenario": "Tu empresa lanzará un producto en días. Detectas un fallo de seguridad poco frecuente que podría exponer datos de usuarios en situaciones específicas. Corregirlo retrasaría el lanzamiento varias semanas y la política no obliga a reportar fallos de este nivel. Tu jefe espera que cumplas el calendario. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Escalas el problema y pausas el lanzamiento, argumentando que proteger datos es prioritario aunque generes enojo en tu equipo, afectes tu evaluación y retrases ingresos.",
       "pragmatic_distractor": "Propones lanzar con un plan de parche inmediato documentado, asumiendo el riesgo de reclamos si el parche falla o la vulnerabilidad se explota antes.",
@@ -15,7 +15,7 @@
     "char_count": 356,
     "length_status": "ok",
     "audit_status": "ok",
-    "notes": "Refactorizado desde item SQL original. Costo explícito: enojo equipo, evaluación afectada, retraso ingresos.",
+    "notes": "Refactorizado. Costo explícito: enojo equipo, evaluación afectada, retraso ingresos.",
     "sot_checksum": "D739B398"
   },
   {
@@ -80,7 +80,7 @@
     "module_id": 3,
     "block_id": "B06",
     "type": "options",
-    "scenario": "Te piden implementar un sistema que automatizará tareas y resultará en despidos de la mitad de tu equipo. La regla es notificarles con dos semanas de antelación. Sientes que esto es injusto para empleados leales. Tu jefe espera que ejecutes el plan sin demoras. ¿Qué haces?",
+    "scenario": "Te piden implementar un sistema que automatizará tareas y resultará en despidos de la mitad de tu equipo. La política es notificarles con dos semanas de antelación. Sientes que esto es injusto para empleados leales. Tu jefe espera que ejecutes el plan sin demoras. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Luchas por un paquete de indemnización más generoso y programas de recolocación, aunque la política no lo exija y esto genere fricción con finanzas y retrase el proyecto.",
       "pragmatic_distractor": "Ejecutas los despidos según procedimiento, pero ofreces personalmente ayudar a cada afectado con referencias y conexiones para suavizar el impacto.",
@@ -99,7 +99,7 @@
     "module_id": 3,
     "block_id": "B06",
     "type": "options",
-    "scenario": "Sabes que tu empresa descontinuará un producto que muchos clientes pequeños usan para operar. La política es no anunciarlo hasta el último momento para no perder ventas. Esto no les dará tiempo de encontrar alternativa, causándoles graves problemas. Tu bonus depende de esas ventas. ¿Qué haces?",
+    "scenario": "Sabes que tu empresa descontinuará un producto que muchos clientes pequeños usan para operar. La política es no anunciarlo hasta el último momento para no perder ventas. Esto no les dará tiempo de encontrar alternativa, causándoles graves problemas. Tu bono depende de esas ventas. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Filtras la información de forma anónima a un medio de la industria para que los clientes se enteren con tiempo, aunque arriesgas tu posición si te descubren.",
       "pragmatic_distractor": "Adviertes discretamente a tus clientes más importantes con los que tienes buena relación, protegiendo al menos a algunos sin exponer a la empresa públicamente.",

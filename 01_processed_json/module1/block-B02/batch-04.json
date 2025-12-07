@@ -9,7 +9,7 @@
       "integrity_correct": "Le dices con claridad que no registrarás horas falsas y que no estás dispuesto a justificar datos que no son reales, aceptando que se enfadará, puede dejar de confiar en ti, te excluirá de proyectos valorados y dañará tu relación cotidiana con el equipo.",
       "pragmatic_distractor": "Aceptas registrar una parte moderada de horas extra, pero no todas las que pide, convenciéndote de que así lo ayudas sin exagerar el riesgo y de que la empresa difícilmente revisará a detalle ese desajuste.",
       "evasive_distractor": "Le dices que primero quieres revisar el procedimiento oficial de registro de horas y lo vas postergando, esperando que encuentre otra forma de alcanzar el bono sin que tengas que negarte de frente.",
-      "rationalized_distractor": "Registras las horas que te pide porque consideras que trabajan mucho y la empresa no siempre lo reconoce, convenciéndote de que sólo estás equilibrando una situación injusta y que nadie saldrá realmente perjudicado."
+      "rationalized_distractor": "Registras las horas que te pide porque consideras que trabajan mucho y la empresa no siempre lo reconoce, convenciéndote de que solo estás equilibrando una situación injusta y que nadie saldrá realmente perjudicado."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 1",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -49,10 +49,10 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Te contacta un antiguo colega que ahora trabaja en un competidor directo y te pide información detallada sobre los costos internos de un proyecto en curso. Argumenta que sólo quiere comparar prácticas y que nadie se enterará. Compartir esos datos violaría políticas de confidencialidad, pero negarte podría dañar una relación profesional valiosa que podría ayudarte en el futuro si cambias de empresa. ¿Cómo respondes?",
+    "scenario": "Te contacta un antiguo colega que ahora trabaja en un competidor directo y te pide información detallada sobre los costos internos de un proyecto en curso. Argumenta que solo quiere comparar prácticas y que nadie se enterará. Compartir esos datos violaría políticas de confidencialidad, pero negarte podría dañar una relación profesional valiosa que podría ayudarte en el futuro si cambias de empresa. ¿Cómo respondes?",
     "options_structured": {
       "integrity_correct": "Le explicas que no puedes compartir información confidencial de tu empresa y cortas la conversación en ese tema, aceptando que se moleste, pierdas una relación profesional importante y cierres una posible puerta laboral para el futuro.",
-      "pragmatic_distractor": "Le compartes sólo datos generales y estimados, evitando cifras exactas, convenciéndote de que así lo ayudas sin revelar información que pueda perjudicar directamente a tu empresa.",
+      "pragmatic_distractor": "Le compartes solo datos generales y estimados, evitando cifras exactas, convenciéndote de que así lo ayudas sin revelar información que pueda perjudicar directamente a tu empresa.",
       "evasive_distractor": "Respondes que en ese momento estás saturado y que más adelante revisarás qué puedes compartir, posponiendo indefinidamente la conversación para no decirle abiertamente que no.",
       "rationalized_distractor": "Le envías la información completa pensando que también has aportado mucho a la empresa y que mereces mantener buenas relaciones externas por si en algún momento necesitas cambiar de trabajo."
     },
@@ -68,7 +68,7 @@
     "options_structured": {
       "integrity_correct": "Envías el informe completo con todos los hallazgos documentados, aceptando que tu supervisor se sienta traicionado, que tu relación con él se deteriore seriamente y que puedas quedar etiquetado como alguien que expone a su propio jefe.",
       "pragmatic_distractor": "Aceptas ajustar el lenguaje para hacerlo menos directo pero mantienes el fondo de las observaciones, confiando en que así cumples con tu responsabilidad sin generar un conflicto frontal.",
-      "evasive_distractor": "Propones enviar primero un borrador a una instancia superior para recibir comentarios, buscando que otros definan qué debe incluirse y evitando asumir tú sólo la decisión final.",
+      "evasive_distractor": "Propones enviar primero un borrador a una instancia superior para recibir comentarios, buscando que otros definan qué debe incluirse y evitando asumir tú solo la decisión final.",
       "rationalized_distractor": "Editas el informe omitiendo varios ejemplos, convenciéndote de que proteger a tu supervisor evita un escándalo mayor y mantiene la estabilidad del área en beneficio de todos."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 5",
@@ -83,7 +83,7 @@
     "options_structured": {
       "integrity_correct": "Devuelves el sobrante y registras los gastos reales, explicando que no participarás en reportes inflados, aceptando que tu compañero te vea como alguien poco confiable para sus acuerdos, que te excluya de invitaciones y que te etiqueten como rígido.",
       "pragmatic_distractor": "Aceptas usar una parte pequeña de comprobantes inflados para no perder del todo la oportunidad, convenciéndote de que el monto es mínimo y que nadie saldrá realmente afectado.",
-      "evasive_distractor": "Propones dejar el reporte en manos de tu compañero y sólo firmas donde te indique, confiando en que él se hará responsable si hay observaciones posteriores.",
+      "evasive_distractor": "Propones dejar el reporte en manos de tu compañero y solo firmas donde te indique, confiando en que él se hará responsable si hay observaciones posteriores.",
       "rationalized_distractor": "Decides inflar el reporte porque consideras que los viáticos siempre se quedan cortos y que recuperar algo adicional compensa otras ocasiones en las que has gastado de tu bolsillo."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 6",
@@ -96,7 +96,7 @@
     "type": "options",
     "scenario": "Tienes acceso a un sistema interno que registra actividad de correos y mensajes para fines de seguridad. Tu supervisor te pide revisar conversaciones de un compañero con el que tuvo un conflicto reciente para buscar elementos que justifiquen una sanción. No hay sospechas formales ni reporte previo. Negarte puede hacer que tu supervisor dude de tu lealtad y te retire responsabilidades de confianza. ¿Cómo procedes?",
     "options_structured": {
-      "integrity_correct": "Te niegas a usar el sistema para fines personales y explicas que sólo debe emplearse ante sospechas documentadas, aceptando que tu supervisor cuestione tu lealtad, te retire acceso a información sensible y limite tu participación en decisiones importantes.",
+      "integrity_correct": "Te niegas a usar el sistema para fines personales y explicas que solo debe emplearse ante sospechas documentadas, aceptando que tu supervisor cuestione tu lealtad, te retire acceso a información sensible y limite tu participación en decisiones importantes.",
       "pragmatic_distractor": "Revisas únicamente algunos registros generales sin entrar al detalle de los mensajes, esperando encontrar algo que tranquilice a tu supervisor sin exponer totalmente la privacidad del compañero.",
       "evasive_distractor": "Sugieres que cualquier revisión la solicite por los canales formales correspondientes y no actúas hasta recibir una instrucción oficial, intentando que otro asuma la decisión.",
       "rationalized_distractor": "Accedes al sistema y compartes lo que encuentras, convenciéndote de que, si el compañero no hizo nada indebido, no tendrá nada que temer y que ayudar a tu supervisor protege al equipo."
@@ -109,11 +109,11 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Participas en un comité que debe elegir entre varios proveedores. La propuesta técnicamente más sólida es también la más costosa. Tu supervisor insiste en favorecer a un proveedor con el que tiene una relación cercana, aunque su oferta es menos robusta. Te pide que enfoques tu análisis sólo en puntos que lo beneficien. Ser la única voz en desacuerdo podría costarte futuras invitaciones a comités. ¿Qué priorizas en tu participación?",
+    "scenario": "Participas en un comité que debe elegir entre varios proveedores. La propuesta técnicamente más sólida es también la más costosa. Tu supervisor insiste en favorecer a un proveedor con el que tiene una relación cercana, aunque su oferta es menos robusta. Te pide que enfoques tu análisis solo en puntos que lo beneficien. Ser la única voz en desacuerdo podría costarte futuras invitaciones a comités. ¿Qué priorizas en tu participación?",
     "options_structured": {
       "integrity_correct": "Presentas tu evaluación completa destacando los riesgos de elegir al proveedor menos sólido, aceptando que tu supervisor se moleste, deje de invitarte a comités clave y te vea como alguien que obstaculiza acuerdos convenientes para él.",
       "pragmatic_distractor": "Ajustas tu análisis para resaltar algunos aspectos positivos del proveedor recomendado por tu supervisor, pero incluyes discretamente notas sobre los riesgos, esperando que el comité los detecte sin que parezca que lo contradices.",
-      "evasive_distractor": "Te limitas a compartir sólo criterios técnicos generales y evitas tomar una postura clara, confiando en que otros miembros del comité definan la elección final.",
+      "evasive_distractor": "Te limitas a compartir solo criterios técnicos generales y evitas tomar una postura clara, confiando en que otros miembros del comité definan la elección final.",
       "rationalized_distractor": "Respaldas abiertamente al proveedor cercano al supervisor, convenciéndote de que mantener esa relación facilitará futuras negociaciones y que, aunque la oferta sea menos robusta, los problemas se podrán resolver sobre la marcha."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 8",
@@ -142,7 +142,7 @@
     "scenario": "Encabezas un proyecto que requiere una revisión de seguridad antes de su lanzamiento. Por retrasos previos, la fecha de entrega está al límite y la dirección presiona para avanzar sin completar todas las pruebas. Tu supervisor te pide firmar la liberación de riesgo con base en pruebas parciales. Negarte puede significar perder al cliente y que te responsabilicen del fracaso del proyecto. ¿Qué decides firmar o no firmar?",
     "options_structured": {
       "integrity_correct": "Te rehúsas a firmar la liberación hasta completar las pruebas necesarias, aceptando que el proyecto se retrase, que puedas perder al cliente, que te culpen por el fracaso y que tu reputación como líder se vea dañada a corto plazo.",
-      "pragmatic_distractor": "Propones ejecutar sólo las pruebas críticas y documentar los riesgos restantes, buscando un punto intermedio que permita avanzar sin cumplir totalmente el protocolo.",
+      "pragmatic_distractor": "Propones ejecutar solo las pruebas críticas y documentar los riesgos restantes, buscando un punto intermedio que permita avanzar sin cumplir totalmente el protocolo.",
       "evasive_distractor": "Sugieres que la firma de liberación la haga un nivel superior o un comité especializado y retrasas tu respuesta, intentando transferir la responsabilidad de la decisión final.",
       "rationalized_distractor": "Firmas la liberación con base en las pruebas parciales, convenciéndote de que el riesgo es manejable y que proteger la relación con el cliente y los ingresos del proyecto también es una forma de cuidar al equipo."
     },
@@ -169,10 +169,10 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Coordinarás la presentación de indicadores ante la dirección y al revisar los datos ves que el desempeño real del área es inferior a la meta. Tu jefe te pide ajustar algunos criterios de cálculo para que el reporte salga en verde, argumentando que es sólo \"una forma distinta de ver los números\". Si te niegas, puedes ser señalado como poco alineado con la estrategia. ¿Cómo respondes a la petición?",
+    "scenario": "Coordinarás la presentación de indicadores ante la dirección y al revisar los datos ves que el desempeño real del área es inferior a la meta. Tu jefe te pide ajustar algunos criterios de cálculo para que el reporte salga en verde, argumentando que es solo \"una forma distinta de ver los números\". Si te niegas, puedes ser señalado como poco alineado con la estrategia. ¿Cómo respondes a la petición?",
     "options_structured": {
       "integrity_correct": "Mantienes los criterios originales y propones explicar con transparencia las desviaciones, aceptando que tu jefe se incomode, te considere poco leal y limite tu participación en futuras presentaciones clave.",
-      "pragmatic_distractor": "Modificas sólo ciertos parámetros para mejorar ligeramente los indicadores, diciéndote que la tendencia general se mantiene y que así evitas un conflicto abierto con la dirección.",
+      "pragmatic_distractor": "Modificas solo ciertos parámetros para mejorar ligeramente los indicadores, diciéndote que la tendencia general se mantiene y que así evitas un conflicto abierto con la dirección.",
       "evasive_distractor": "Aplazas la entrega argumentando que faltan validar datos adicionales, sin aclarar de inmediato que te preocupa la solicitud de cambiar criterios.",
       "rationalized_distractor": "Ajustas los cálculos como te piden porque piensas que mostrar resultados positivos ayudará a motivar al equipo y que más adelante podrán corregir el detalle técnico."
     },
@@ -247,7 +247,7 @@
     "scenario": "Supervisas una planta donde, por un pico de demanda, la jefatura propone reducir los tiempos de descanso sin registrarlo formalmente para cumplir con un pedido urgente. Sabes que esa práctica va contra los lineamientos de seguridad y bienestar, pero negarte puede implicar perder al cliente y ser señalado como poco comprometido con los resultados. ¿Cómo reaccionas ante la propuesta?",
     "options_structured": {
       "integrity_correct": "Te niegas a recortar descansos fuera de norma y propones alternativas para reorganizar el trabajo, aceptando que la entrega pueda retrasarse, que te culpen por la pérdida de negocio y que cuestionen tu compromiso.",
-      "pragmatic_distractor": "Accedes a reducir temporalmente los descansos sólo durante algunos días, convenciéndote de que el esfuerzo extra será limitado y que después se compensará.",
+      "pragmatic_distractor": "Accedes a reducir temporalmente los descansos solo durante algunos días, convenciéndote de que el esfuerzo extra será limitado y que después se compensará.",
       "evasive_distractor": "Derivas la decisión a un nivel superior y sigues las indicaciones que resulten, intentando mantenerte al margen de la responsabilidad principal.",
       "rationalized_distractor": "Aceptas recortar los descansos porque piensas que la urgencia del cliente justifica un esfuerzo excepcional y que el impacto en el equipo será pasajero."
     },
@@ -263,8 +263,8 @@
     "options_structured": {
       "integrity_correct": "Documentas el hallazgo y propones un plan de corrección con plazos claros, aceptando que algunos mandos se molesten, que te vean como quien destapa fallas y que tu relación con ellos se enfríe.",
       "pragmatic_distractor": "Sugieres ajustes mínimos en el registro para que parezca que se cumplen más pasos, sin modificar del todo la práctica actual, creyendo que así mejoras algo sin generar conflicto amplio.",
-      "evasive_distractor": "Mencionas el tema sólo de forma general en la auditoría, sin dejarlo claramente asentado, esperando que el tiempo diluya la preocupación.",
-      "rationalized_distractor": "Decides no reportar el hallazgo porque consideras que el procedimiento ha funcionado hasta ahora y que removerlo sólo crearía problemas innecesarios."
+      "evasive_distractor": "Mencionas el tema solo de forma general en la auditoría, sin dejarlo claramente asentado, esperando que el tiempo diluya la preocupación.",
+      "rationalized_distractor": "Decides no reportar el hallazgo porque consideras que el procedimiento ha funcionado hasta ahora y que removerlo solo crearía problemas innecesarios."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 18",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -279,7 +279,7 @@
       "integrity_correct": "Mantienes los criterios establecidos y comunicas el resultado con base en las evaluaciones, aceptando que el gerente se incomode, reduzca su apoyo hacia ti y deje de considerarte para iniciativas visibles.",
       "pragmatic_distractor": "Introduces pequeños ajustes en las ponderaciones para que el colaborador sugerido quede mejor posicionado, diciéndote que el reconocimiento también puede motivar al equipo.",
       "evasive_distractor": "Propones que la decisión final la tome un comité más amplio y evitas dar una recomendación clara sobre el colaborador sugerido.",
-      "rationalized_distractor": "Respalda al colaborador propuesto porque piensas que el premio es simbólico y que mantener una buena relación con el gerente beneficia al área en general."
+      "rationalized_distractor": "Respaldas al colaborador propuesto porque piensas que el premio es simbólico y que mantener una buena relación con el gerente beneficia al área en general."
     },
     "notes": "Modulo 1 Options B02 batch 04 item 19",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -289,10 +289,10 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Te piden liderar una presentación a un cliente donde sabes que hubo fallas relevantes en el servicio reciente. Antes de la reunión, tu supervisor te sugiere omitir esos problemas y enfocarte sólo en logros, prometiendo abordar los temas delicados \"más adelante\". Si decides transparentarlos ahora, podrías generar tensión en la reunión y ser señalado como quien puso en riesgo la renovación del contrato. ¿Cómo conduces la conversación?",
+    "scenario": "Te piden liderar una presentación a un cliente donde sabes que hubo fallas relevantes en el servicio reciente. Antes de la reunión, tu supervisor te sugiere omitir esos problemas y enfocarte solo en logros, prometiendo abordar los temas delicados \"más adelante\". Si decides transparentarlos ahora, podrías generar tensión en la reunión y ser señalado como quien puso en riesgo la renovación del contrato. ¿Cómo conduces la conversación?",
     "options_structured": {
       "integrity_correct": "Reconoces las fallas de forma clara y propones acciones concretas de mejora, aceptando que el ambiente en la reunión se tensará, que tu supervisor se incomode y que puedas ser asociado a un posible cuestionamiento del contrato.",
-      "pragmatic_distractor": "Mencionas sólo aspectos positivos y dejas los problemas para tratarse en un espacio posterior más reducido, esperando minimizar el impacto inmediato en la decisión del cliente.",
+      "pragmatic_distractor": "Mencionas solo aspectos positivos y dejas los problemas para tratarse en un espacio posterior más reducido, esperando minimizar el impacto inmediato en la decisión del cliente.",
       "evasive_distractor": "Hablas en términos generales de oportunidades de mejora sin detallar las fallas específicas, confiando en que el tema no se profundice durante la reunión.",
       "rationalized_distractor": "Decides no abordar los problemas porque consideras que proteger la relación comercial es prioritario y que, si el contrato se renueva, luego habrá tiempo de corregir internamente."
     },

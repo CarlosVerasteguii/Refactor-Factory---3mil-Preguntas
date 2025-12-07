@@ -22,7 +22,7 @@
     "scenario": "Recibes una llamada de un reclutador externo ofreciéndote una posición atractiva en otra empresa. Te pide referencias sobre colegas clave de tu área actual. Compartir esa información podría debilitar tu equipo y violar la confidencialidad interna, pero negarte puede cerrar oportunidades futuras con esa firma de reclutamiento. ¿Qué respondes?",
     "options_structured": {
       "integrity_correct": "Explicas que no puedes compartir información de colegas sin su consentimiento ni comprometer datos internos, aceptando que el reclutador te considere poco colaborador y descarte futuras recomendaciones tuyas.",
-      "pragmatic_distractor": "Das sólo impresiones generales del ambiente laboral sin nombrar personas específicas, confiando en que así mantienes la relación con el reclutador sin exponer directamente a nadie.",
+      "pragmatic_distractor": "Das solo impresiones generales del ambiente laboral sin nombrar personas específicas, confiando en que así mantienes la relación con el reclutador sin exponer directamente a nadie.",
       "evasive_distractor": "Dices que primero necesitas pensarlo y alargas la respuesta indefinidamente, esperando que el tema se diluya sin tener que negarte formalmente.",
       "rationalized_distractor": "Compartes nombres y perfiles porque piensas que ayudar al reclutador también beneficia a tus colegas si buscan nuevas oportunidades y que la información no es tan sensible."
     },
@@ -38,7 +38,7 @@
     "options_structured": {
       "integrity_correct": "Asignas los cupos con base en las evaluaciones de desempeño y necesidades documentadas, aceptando que tu supervisor se moleste, te aparte de la gestión del presupuesto y cuestione tu criterio.",
       "pragmatic_distractor": "Reservas algunos cupos para el grupo cercano al supervisor pero incluyes también a otros con alto desempeño, buscando equilibrar ambas demandas sin generar conflicto total.",
-      "evasive_distractor": "Propones que la selección final la valide un comité más amplio y evitas asumir tú sólo la responsabilidad de la distribución.",
+      "evasive_distractor": "Propones que la selección final la valide un comité más amplio y evitas asumir tú solo la responsabilidad de la distribución.",
       "rationalized_distractor": "Asignas todos los cupos al grupo sugerido porque piensas que mantener contento al supervisor asegura continuidad del programa y que después habrá más oportunidades para otros."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 3",
@@ -54,7 +54,7 @@
       "integrity_correct": "Reportas la situación formalmente al área de cumplimiento y documentas las diferencias de precios, aceptando que tu supervisor se sienta traicionado, que tu relación se deteriore y que te aparten de proyectos futuros.",
       "pragmatic_distractor": "Comentas el tema de forma general con tu supervisor sugiriendo revisar proveedores para próximos proyectos, esperando que corrija la situación sin formalizar una denuncia.",
       "evasive_distractor": "Archivas la observación en tus registros personales sin escalarla, esperando que en una auditoría futura alguien más la detecte.",
-      "rationalized_distractor": "Decides no reportar porque piensas que el proyecto ya terminó, que los precios pueden tener justificación técnica y que señalar al supervisor sólo generaría problemas innecesarios."
+      "rationalized_distractor": "Decides no reportar porque piensas que el proyecto ya terminó, que los precios pueden tener justificación técnica y que señalar al supervisor solo generaría problemas innecesarios."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 4",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -124,12 +124,12 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Un colega te pide firmar como testigo en un acta de entrega de equipos que no presenciaste. Argumenta que sólo es un trámite administrativo y que revisar todo formalmente retrasaría un proyecto urgente. Si te niegas, podrías ser visto como alguien que complica procedimientos sencillos y perder su colaboración en tareas futuras. ¿Qué decides firmar?",
+    "scenario": "Un colega te pide firmar como testigo en un acta de entrega de equipos que no presenciaste. Argumenta que solo es un trámite administrativo y que revisar todo formalmente retrasaría un proyecto urgente. Si te niegas, podrías ser visto como alguien que complica procedimientos sencillos y perder su colaboración en tareas futuras. ¿Qué decides firmar?",
     "options_structured": {
       "integrity_correct": "Te niegas a firmar como testigo de algo que no presenciaste y explicas que debe seguirse el procedimiento, aceptando que tu colega se frustre, deje de pedirte apoyo y te vea como inflexible.",
       "pragmatic_distractor": "Firmas el acta pero registras en tus notas personales que no estuviste presente, esperando que eso te proteja si surge algún problema posterior.",
       "evasive_distractor": "Sugieres que otro compañero firme en tu lugar o que se documente de otra forma, evitando decir directamente que no lo harás.",
-      "rationalized_distractor": "Firmas el acta convenciéndote de que es sólo un formalismo, que confías en que tu colega hizo la entrega correctamente y que no pasará nada si no estuviste físicamente presente."
+      "rationalized_distractor": "Firmas el acta convenciéndote de que es solo un formalismo, que confías en que tu colega hizo la entrega correctamente y que no pasará nada si no estuviste físicamente presente."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 9",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -143,8 +143,8 @@
     "options_structured": {
       "integrity_correct": "Rechazas la oferta y reportas formalmente el intento de soborno, aceptando perder el ingreso adicional, que el consultor se retire del proceso y que debas justificar tu decisión ante otros.",
       "pragmatic_distractor": "Rechazas el porcentaje pero aceptas que el consultor te invite a una comida o evento menor, convenciéndote de que eso no compromete tu imparcialidad.",
-      "evasive_distractor": "Ignoras la oferta y simplemente evalúas la propuesta técnica sin responder directamente al tema económico, esperando que el consultor no insista.",
-      "rationalized_distractor": "Aceptas el porcentaje pensando que tu recomendación se basa en mérito técnico real, que nadie saldrá perjudicado y que el pago es sólo un reconocimiento legítimo de tu gestión."
+      "evasive_distractor": "Ignoras la oferta y simplemente evalúas la propuesta técnica sin responder al tema económico, esperando que el consultor no insista.",
+      "rationalized_distractor": "Aceptas el porcentaje pensando que tu recomendación se basa en mérito técnico real, que nadie saldrá perjudicado y que el pago es solo un reconocimiento legítimo de tu gestión."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 10",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -174,7 +174,7 @@
       "integrity_correct": "Reportas formalmente las alteraciones al auditor y al área de cumplimiento, aceptando que se abra una investigación interna, que afectes a colegas del área contable y que tu ambiente laboral se tense.",
       "pragmatic_distractor": "Comentas el hallazgo de forma general al responsable del área contable para que lo corrija antes de que el auditor lo vea, esperando resolver el problema sin formalizar una denuncia.",
       "evasive_distractor": "Dejas el tema en manos del auditor externo sin señalarlo explícitamente, confiando en que, si es relevante, ellos lo detectarán por su cuenta.",
-      "rationalized_distractor": "Decides no reportar porque piensas que las alteraciones pueden tener justificación contable técnica y que abrir una investigación sólo generaría desgaste innecesario."
+      "rationalized_distractor": "Decides no reportar porque piensas que las alteraciones pueden tener justificación contable técnica y que abrir una investigación solo generaría desgaste innecesario."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 12",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -201,7 +201,7 @@
     "type": "options",
     "scenario": "Administras contratos de servicios tercerizados y un proveedor te pide firmar entregas de trabajos que aún no fueron completados para que pueda cobrar a tiempo y evitar problemas con su flujo de caja. Te asegura que terminará todo en pocos días. Negarte puede dañar la relación comercial y complicar futuras colaboraciones. ¿Cómo respondes?",
     "options_structured": {
-      "integrity_correct": "Te niegas a firmar entregas que no fueron completadas y explicas que sólo certificarás trabajos finalizados, aceptando que el proveedor se moleste, busque otros contactos y dificulte la relación futura.",
+      "integrity_correct": "Te niegas a firmar entregas que no fueron completadas y explicas que solo certificarás trabajos finalizados, aceptando que el proveedor se moleste, busque otros contactos y dificulte la relación futura.",
       "pragmatic_distractor": "Firmas una entrega parcial por el porcentaje completado y dejas pendiente el resto, convenciéndote de que así lo ayudas sin comprometer del todo la veracidad del documento.",
       "evasive_distractor": "Sugieres que el proveedor gestione un anticipo formal con finanzas y evitas firmar hasta que el trabajo esté completo, intentando no asumir directamente la negativa.",
       "rationalized_distractor": "Firmas la entrega completa confiando en que el proveedor cumplirá en días, pensando que mantener la relación comercial beneficia a ambas partes y que el riesgo es mínimo."
@@ -248,7 +248,7 @@
     "options_structured": {
       "integrity_correct": "Rechazas la entrega hasta que se completen las funcionalidades pactadas y ajustas el pago al avance real, aceptando que el lanzamiento se retrase, que tu gerente se moleste y que tu reputación se vea afectada.",
       "pragmatic_distractor": "Aceptas la entrega parcial pero negocias con el proveedor un plan de entregas pendientes sin pago adicional, esperando resolver el problema sin retrasar demasiado el lanzamiento.",
-      "evasive_distractor": "Propones que el área legal revise el contrato antes de autorizar el pago y evitas tomar tú sólo la decisión de aceptar o rechazar.",
+      "evasive_distractor": "Propones que el área legal revise el contrato antes de autorizar el pago y evitas tomar tú solo la decisión de aceptar o rechazar.",
       "rationalized_distractor": "Autorizas el pago completo convenciéndote de que las funcionalidades faltantes se pueden agregar después y que cumplir con el lanzamiento público es más importante que el detalle técnico."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 17",
@@ -259,7 +259,7 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Lideras una campaña interna de comunicación y el área ejecutiva te pide presentar resultados inflados en el reporte final para justificar la inversión ante la junta directiva. Te aseguran que sólo es una presentación y que nadie revisará los datos de fondo. Negarte puede costarte liderazgo en futuras campañas. ¿Cómo armas el reporte?",
+    "scenario": "Lideras una campaña interna de comunicación y el área ejecutiva te pide presentar resultados inflados en el reporte final para justificar la inversión ante la junta directiva. Te aseguran que solo es una presentación y que nadie revisará los datos de fondo. Negarte puede costarte liderazgo en futuras campañas. ¿Cómo armas el reporte?",
     "options_structured": {
       "integrity_correct": "Presentas los resultados reales sin inflar cifras y sustentas el aprendizaje obtenido, aceptando que el área ejecutiva se moleste, te vea como poco estratégico y te retire de campañas visibles.",
       "pragmatic_distractor": "Ajustas la forma de presentar los datos resaltando aspectos positivos sin cambiar números directos, esperando que la percepción mejore sin falsear cifras explícitas.",
@@ -278,7 +278,7 @@
     "options_structured": {
       "integrity_correct": "Mantienes los requisitos establecidos y rechazas incluir al candidato, aceptando que el donante retire apoyo, que el financiamiento se reduzca y que el consejo cuestione tu permanencia en el programa.",
       "pragmatic_distractor": "Creas una categoría especial de beca con criterios más flexibles y evalúas al candidato bajo esa modalidad, esperando incluirlo sin romper del todo las reglas originales.",
-      "evasive_distractor": "Propones que el consejo completo vote sobre excepciones a los requisitos y evitas asumir tú sólo la decisión de incluir o rechazar.",
+      "evasive_distractor": "Propones que el consejo completo vote sobre excepciones a los requisitos y evitas asumir tú solo la decisión de incluir o rechazar.",
       "rationalized_distractor": "Incluyes al candidato convenciéndote de que mantener al donante asegura la continuidad del programa y beneficia a más estudiantes en el largo plazo, aunque este caso sea irregular."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 19",
@@ -294,7 +294,7 @@
       "integrity_correct": "Reportas formalmente la irregularidad al área de auditoría interna y documentas las diferencias detectadas, aceptando que el supervisor se sienta traicionado, que otros te vean como delator y que tu ambiente laboral se complique.",
       "pragmatic_distractor": "Comentas el hallazgo directamente con el supervisor sugiriendo que regularice la situación antes de que se formalice una auditoría, esperando resolver el problema sin escalar.",
       "evasive_distractor": "Documentas la diferencia en tus registros personales sin reportarla formalmente, confiando en que una auditoría futura lo detecte sin que tú quedes involucrado.",
-      "rationalized_distractor": "Decides no reportar convenciéndote de que los equipos eran obsoletos, que probablemente había autorización verbal y que abrir un caso sólo generaría problemas innecesarios."
+      "rationalized_distractor": "Decides no reportar convenciéndote de que los equipos eran obsoletos, que probablemente había autorización verbal y que abrir un caso solo generaría problemas innecesarios."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 20",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -309,7 +309,7 @@
       "integrity_correct": "Evalúas con base en criterios objetivos documentados y propones un proceso de desempate transparente, aceptando que tu jefe se incomode, cuestione tu alineación y reduzca tu participación en decisiones clave.",
       "pragmatic_distractor": "Das un ligero peso adicional a la capacidad de coordinación con la jefatura sin cambiar radicalmente los criterios, esperando que eso incline sutilmente la decisión.",
       "evasive_distractor": "Propones agregar una entrevista adicional o una prueba técnica para que el resultado sea más claro, intentando transferir la decisión final a otro momento.",
-      "rationalized_distractor": "Respalda al candidato cercano al jefe convenciéndote de que la relación previa facilitará la gestión del equipo y que ambos candidatos son igualmente capaces."
+      "rationalized_distractor": "Respaldas al candidato cercano al jefe convenciéndote de que la relación previa facilitará la gestión del equipo y que ambos candidatos son igualmente capaces."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 21",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -319,7 +319,7 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Gestionas un contrato de mantenimiento y el responsable técnico te pide firmar conformidad sobre trabajos que sólo fueron completados parcialmente para que el proveedor pueda cobrar antes de fin de mes. Argumenta que lo pendiente se hará la siguiente semana. Negarte puede retrasar pagos y afectar la relación con el proveedor clave. ¿Qué firmas?",
+    "scenario": "Gestionas un contrato de mantenimiento y el responsable técnico te pide firmar conformidad sobre trabajos que solo fueron completados parcialmente para que el proveedor pueda cobrar antes de fin de mes. Argumenta que lo pendiente se hará la siguiente semana. Negarte puede retrasar pagos y afectar la relación con el proveedor clave. ¿Qué firmas?",
     "options_structured": {
       "integrity_correct": "Te niegas a firmar conformidad hasta que los trabajos estén completos y documentas el avance real, aceptando que el proveedor se moleste, que el responsable técnico te vea como inflexible y que se retrase el pago.",
       "pragmatic_distractor": "Firmas conformidad parcial por el porcentaje completado y condicionas el pago final al cierre total, esperando mantener la relación sin falsear documentos.",
@@ -339,7 +339,7 @@
       "integrity_correct": "Reportas los excesos detectados al área de finanzas y propones reforzar controles, aceptando que varios mandos se molesten, te vean como fiscalizador excesivo y limiten tu colaboración en otros temas.",
       "pragmatic_distractor": "Envías un recordatorio general sobre límites de reembolso sin nombrar casos específicos, esperando que los mandos corrijan por su cuenta sin formalizar denuncias.",
       "evasive_distractor": "Comentas el tema de manera informal con un superior y esperas que otro asuma la decisión de escalar o no el hallazgo.",
-      "rationalized_distractor": "Decides no reportar convenciéndote de que los montos son pequeños frente al presupuesto total, que las comidas tienen justificación de relaciones laborales y que señalarlo sólo crearía roces innecesarios."
+      "rationalized_distractor": "Decides no reportar convenciéndote de que los montos son pequeños frente al presupuesto total, que las comidas tienen justificación de relaciones laborales y que señalarlo solo crearía roces innecesarios."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 23",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -353,7 +353,7 @@
     "options_structured": {
       "integrity_correct": "Asignas recursos según prioridades documentadas y justificas técnicamente la distribución, aceptando que tu supervisor se moleste, te vea como poco colaborador y te retire de la gestión del presupuesto.",
       "pragmatic_distractor": "Asignas una parte adicional al proyecto del supervisor pero mantienes apoyo a otras áreas críticas, buscando un equilibrio que no genere conflicto total.",
-      "evasive_distractor": "Propones que un comité más amplio revise las prioridades presupuestales y evitas asumir tú sólo la decisión de distribución.",
+      "evasive_distractor": "Propones que un comité más amplio revise las prioridades presupuestales y evitas asumir tú solo la decisión de distribución.",
       "rationalized_distractor": "Canalizas los recursos al proyecto del supervisor convenciéndote de que su éxito beneficiará al área en general y que las otras necesidades pueden esperar al siguiente ciclo."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 24",
@@ -384,7 +384,7 @@
       "integrity_correct": "Desactivas el usuario según política y ofreces alternativas formales para consultar la información, aceptando que el colega se frustre, te vea como inflexible y evite coordinaciones futuras contigo.",
       "pragmatic_distractor": "Mantienes el usuario activo por un día bajo tu supervisión directa mientras se consigue autorización formal, esperando resolver la urgencia sin violar del todo la política.",
       "evasive_distractor": "Derivas la solicitud al área de seguridad informática para que ellos autoricen o rechacen, evitando asumir tú la responsabilidad de la decisión.",
-      "rationalized_distractor": "Mantienes el usuario activo convenciéndote de que la urgencia justifica una excepción temporal y que el riesgo es mínimo si se usa sólo para consulta."
+      "rationalized_distractor": "Mantienes el usuario activo convenciéndote de que la urgencia justifica una excepción temporal y que el riesgo es mínimo si se usa solo para consulta."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 26",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
@@ -444,7 +444,7 @@
       "integrity_correct": "Insistes en verificar las cifras con el área responsable y retrasas la presentación hasta tener datos validados, aceptando que tu supervisor se moleste, que te vean como obstáculo y que tu liderazgo sea cuestionado.",
       "pragmatic_distractor": "Presentas los datos con una nota técnica señalando que ciertas cifras están pendientes de validación cruzada, esperando cumplir el plazo sin avalar del todo números no verificados.",
       "evasive_distractor": "Sugieres que el área responsable presente directamente su sección de resultados y evitas consolidar cifras que no puedes validar, intentando transferir la responsabilidad.",
-      "rationalized_distractor": "Presentas los datos sin cuestionar convenciéndote de que el área responsable sabe lo que reporta y que generar conflicto interdepartamental sólo retrasaría procesos sin aportar valor real."
+      "rationalized_distractor": "Presentas los datos sin cuestionar convenciéndote de que el área responsable sabe lo que reporta y que generar conflicto interdepartamental solo retrasaría procesos sin aportar valor real."
     },
     "notes": "Modulo 1 Options B02 batch 06 item 30",
     "sot_checksum": "2a4932b4b285f5288a0e022991b87184"

@@ -6,7 +6,7 @@
     "type": "options",
     "scenario": "Estás en reunión final con un cliente que aporta el 40% de los ingresos del trimestre. Tu supervisor presenta proyecciones que notas infladas y demasiado optimistas. El cliente está impresionado y listo para firmar. Si no se cierra el trato, habrá recortes serios en tu equipo que probablemente incluyen despidos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Interrumpes con calma para aclarar que las proyecciones reales son más conservadoras, asumiendo enojo del supervisor, enfriar al cliente y poner en riesgo el contrato y tu lugar.",
+      "integrity_correct": "Interrumpes con calma para aclarar que las proyecciones reales son más conservadoras, asumiendo el enojo del supervisor, enfriar al cliente y poner en riesgo el contrato y tu lugar.",
       "pragmatic_distractor": "Dejas terminar y luego propones un correo con cifras más realistas, buscando corregir sin frenar el cierre inmediato.",
       "evasive_distractor": "Guardas silencio y piensas que luego podrás alegar que no tenías todos los datos y la responsabilidad era del supervisor.",
       "rationalized_distractor": "Respaldas el discurso optimista porque crees que asegurar el contrato protege al equipo y ya habrá tiempo de ajustar números."
@@ -52,7 +52,7 @@
     "scenario": "Tu supervisor pide compartir información confidencial de clientes con un tercero sin verificar autorizaciones, argumentando urgencia porque un cliente espera para cerrar un trato millonario. Si no compartes ya, el cliente podría irse con la competencia, resultando en pérdida de ingresos y posibles despidos. Esto violaría políticas de privacidad. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a compartir la información hasta tener autorización por escrito, explicando los riesgos, sabiendo que el cliente puede irse con la competencia, causar pérdidas y posibles despidos, incluyendo el tuyo.",
-      "pragmatic_distractor": "Propones compartir sólo la información estrictamente necesaria, minimizando exposición de datos pero cumpliendo la urgencia, esperando satisfacer al cliente sin violar completamente las políticas.",
+      "pragmatic_distractor": "Propones compartir solo la información estrictamente necesaria, minimizando exposición de datos pero cumpliendo la urgencia, esperando satisfacer al cliente sin violar completamente las políticas.",
       "evasive_distractor": "Consultas rápido con el departamento legal o cumplimiento para validar la solicitud, esperando respuesta rápida que te permita proceder sin asumir toda la responsabilidad.",
       "rationalized_distractor": "Compartes la información para cumplir la urgencia, confiando en la palabra del supervisor y que él se hará responsable, priorizando retención del cliente y estabilidad financiera."
     },
@@ -113,7 +113,7 @@
     "options_structured": {
       "integrity_correct": "Le pides directamente que comparta la información relevante con el equipo para alinear a todos, sabiendo que podría verse como cuestionar su autoridad, solicitud inapropiada de datos sensibles, y generar fricción.",
       "pragmatic_distractor": "Documentas tus objeciones y las decisiones tomadas sin información completa como respaldo, protegiéndote en caso de problemas más adelante, sin confrontar directamente al supervisor.",
-      "evasive_distractor": "Hablas con otros colegas para saber si sienten misma falta de contexto y considerar acción conjunta, pensando que enfoque grupal sería más efectivo y menos riesgoso.",
+      "evasive_distractor": "Hablas con otros colegas para saber si sienten la misma falta de contexto y considerar acción conjunta, pensando que enfoque grupal sería más efectivo y menos riesgoso.",
       "rationalized_distractor": "Sigues las instrucciones del supervisor, confiando en que tiene visión completa y toma decisiones correctas con información que, por confidencialidad u operación, no puede compartir con todos."
     },
     "notes": "63 words, 349 chars",
