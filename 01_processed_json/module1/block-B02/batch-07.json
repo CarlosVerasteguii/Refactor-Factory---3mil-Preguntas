@@ -1,0 +1,752 @@
+[
+  {
+    "id": "block-B02-q141",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te asignan coordinar la selección de becas académicas para hijos de empleados y uno de los postulantes es familiar directo de un directivo que forma parte del comité evaluador. El directivo no ha declarado el conflicto de interés. Los criterios de selección son académicos objetivos pero señalar el conflicto puede generar tensión con la dirección. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Señalas formalmente el conflicto de interés ante el comité y solicitas que el directivo se aparte de la evaluación de ese postulante, aceptando que se moleste, que la relación se deteriore y que limite tu participación futura en programas de beneficios.",
+      "pragmatic_distractor": "Permites que el directivo participe pero solicitas que su evaluación no cuente para ese postulante específico, esperando reducir el sesgo sin generar confrontación directa.",
+      "evasive_distractor": "Propones que un evaluador externo independiente revise específicamente ese caso sin mencionar explícitamente el conflicto de interés que detectaste.",
+      "rationalized_distractor": "No señalas el conflicto argumentando que los criterios académicos son objetivos, que el directivo puede ser imparcial y que el postulante tiene méritos propios."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 1",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q142",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas el inventario de activos tecnológicos y descubres que varios equipos nuevos fueron asignados a familiares de gerentes sin seguir el proceso formal de aprobación. Tu supervisor te pide regularizar las asignaciones retroactivamente sin cuestionar cómo se realizaron. Reportar el procedimiento irregular puede exponerte a represalias. ¿Qué documentas?",
+    "options_structured": {
+      "integrity_correct": "Reportas las asignaciones irregulares y solicitas que se siga el proceso formal para futuras asignaciones, aceptando que los gerentes se molesten, te vean como obstáculo administrativo y busquen limitar tu autoridad en gestión de activos.",
+      "pragmatic_distractor": "Regularizas las asignaciones actuales pero implementas controles más estrictos para futuras solicitudes, esperando corregir el proceso sin señalar irregularidades pasadas.",
+      "evasive_distractor": "Solicitas que el área de auditoría interna valide el procedimiento de asignación antes de regularizar, transfiriendo la responsabilidad de certificar.",
+      "rationalized_distractor": "Regularizas las asignaciones sin cuestionar asumiendo que los gerentes tienen autoridad implícita para asignar recursos, que formalizar cada decisión solo burocratiza y que los equipos se están usando."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 2",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q143",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la renovación de contratos de consultoría y un consultor te ofrece compartir su comisión contigo si extiendes su contrato, aunque hay otros candidatos con mejores calificaciones técnicas. Rechazar significa perder un ingreso adicional significativo y el consultor podría presentar una propuesta menos competitiva. ¿Qué respondes?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la oferta y reportas el intento de soborno al área de ética, aceptando perder el ingreso adicional, que el consultor retire su propuesta y que debas justificar formalmente por qué escalaste el tema.",
+      "pragmatic_distractor": "Rechazas el pago personal pero negocias un descuento en su tarifa que beneficie directamente a la organización, esperando obtener valor sin compromiso personal.",
+      "evasive_distractor": "No respondes a la oferta de compartir comisión y simplemente evalúas todas las propuestas según criterios técnicos objetivos sin abordar el tema.",
+      "rationalized_distractor": "Aceptas compartir la comisión considerando que el consultor tiene experiencia comprobada, que su propuesta sigue siendo competitiva y que ambas partes se benefician legítimamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 3",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q144",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la auditoría de gastos de representación y detectas que un directivo aprobó repetidamente gastos personales clasificándolos como comidas de negocios sin justificación adecuada. Tu supervisor te sugiere no formalizar el hallazgo porque el directivo está liderando una negociación comercial crítica. Insistir puede afectar esa negociación y tu relación con la dirección. ¿Qué incluyes en el reporte?",
+    "options_structured": {
+      "integrity_correct": "Incluyes el hallazgo completo con todas las irregularidades detectadas y recomiendas aplicar las sanciones correspondientes, aceptando que el directivo se moleste, que la negociación se vea afectada y que te vean como amenaza para objetivos comerciales.",
+      "pragmatic_distractor": "Documentas el hallazgo pero recomiendas solo exigir devolución de los montos sin justificación sin aplicar sanciones disciplinarias, esperando corregir sin afectar la negociación comercial.",
+      "evasive_distractor": "Mencionas la necesidad de mejorar procesos de aprobación de gastos sin señalar específicamente al directivo, dejando que el área decida cómo actuar.",
+      "rationalized_distractor": "Omites el hallazgo bajo la premisa de que el directivo genera valor comercial significativo, que los montos son menores frente a los contratos que gestiona y que reportarlo en este momento es contraproducente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 4",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q145",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras el proceso de certificación de calidad de productos y el equipo de producción te pide aprobar un lote que tiene defectos menores no detectables por clientes finales pero que violan los estándares internos. Argumentan que rechazar el lote causaría pérdidas económicas importantes. Si insistes en rechazarlo, podrías ser responsabilizado por afectar la rentabilidad. ¿Qué autorizas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas aprobar el lote defectuoso y exiges que se sigan los estándares de calidad establecidos, aceptando que te responsabilicen por pérdidas económicas, que el equipo de producción se moleste y que cuestionen tu criterio técnico.",
+      "pragmatic_distractor": "Apruebas el lote actual con una nota técnica de advertencia pero refuerzas controles para futuros lotes, esperando evitar pérdidas inmediatas sin comprometer completamente los estándares.",
+      "evasive_distractor": "Solicitas que el área de aseguramiento de calidad o un auditor externo valide si los defectos ameritan rechazo, transfiriendo la decisión técnica.",
+      "rationalized_distractor": "Apruebas el lote evaluando que los defectos son realmente menores, que los clientes no los detectarán y que rechazar causaría daño económico desproporcionado frente al riesgo."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 5",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q146",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el sistema de evaluación de proveedores y tu supervisor te pide calificar favorablemente a un proveedor con quien mantiene amistad personal, aunque sus indicadores de desempeño están por debajo de otros proveedores según métricas objetivas. Negarte puede hacer que te vean como poco colaborador y limitar tu participación en decisiones estratégicas de compras. ¿Cómo calificas?",
+    "options_structured": {
+      "integrity_correct": "Calificas según métricas objetivas de desempeño sin favorecer al proveedor por relación personal, aceptando que tu supervisor se moleste, te vea como poco colaborador y limite tu participación en decisiones de compras.",
+      "pragmatic_distractor": "Calificas al proveedor con puntaje intermedio destacando tanto fortalezas como áreas de mejora, evitando calificarlo como el mejor pero tampoco descalificarlo completamente.",
+      "evasive_distractor": "Propones que múltiples evaluadores califiquen a todos los proveedores y se promedien resultados, diluyendo tu responsabilidad individual en la calificación.",
+      "rationalized_distractor": "Calificas favorablemente al proveedor confiando en que la relación personal de tu supervisor garantiza mejor atención, que los indicadores no capturan todo el valor y que mantenerlo satisfecho beneficia al área."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 6",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q147",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te encargan revisar el cumplimiento de protocolos de seguridad en laboratorio y descubres que varios investigadores omiten pasos obligatorios de registro para acelerar experimentos urgentes. Reportarlo implicaría suspender investigaciones en curso y generar retrasos en proyectos con plazos comprometidos. Si callas, evitas conflicto pero el riesgo persiste. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente los incumplimientos de protocolos y recomiendas suspender investigaciones hasta garantizar cumplimiento completo, aceptando generar retrasos, que los investigadores se molesten y que te vean como obstáculo para la investigación.",
+      "pragmatic_distractor": "Documentas los incumplimientos como observación menor y das un plazo breve para regularizar sin suspender investigaciones inmediatamente, esperando corregir sin afectar proyectos urgentes.",
+      "evasive_distractor": "Consultas con el comité de ética de investigación si los incumplimientos ameritan suspensión o pueden tolerarse temporalmente, transfiriendo la decisión sobre acciones correctivas.",
+      "rationalized_distractor": "No reportas los incumplimientos justificando que los investigadores son expertos que conocen los riesgos, que los proyectos son importantes y que aplicar protocolos estrictos solo burocratiza el trabajo científico."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 7",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q148",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas la distribución de bonos de fin de año y detectas que un gerente inflado artificialmente las evaluaciones de su equipo para que reciban mayores bonificaciones. Tu supervisor te pide validar las evaluaciones tal como están porque corregirlas generaría descontento en ese equipo. Insistir en ajustar puede responsabilizarte de afectar el clima laboral. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Corriges las evaluaciones infladas y ajustas los bonos según desempeño real, aceptando generar descontento en ese equipo, que el gerente se moleste y que te responsabilicen por afectar el clima laboral del área.",
+      "pragmatic_distractor": "Validas las evaluaciones actuales pero recomiendas implementar controles más estrictos y calibración entre evaluadores para próximos períodos, esperando corregir sin generar conflicto inmediato.",
+      "evasive_distractor": "Solicitas que el área de gestión humana o un comité de compensaciones revise las evaluaciones antes de aprobar bonos, transfiriendo la responsabilidad de validar.",
+      "rationalized_distractor": "Validas las evaluaciones infladas sosteniendo que el gerente conoce mejor a su equipo, que mantener la moral es importante y que cuestionar ahora solo generaría desmotivación sin beneficio real."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 8",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q149",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas el proceso de licitación para servicios de mantenimiento y uno de los proveedores participantes te contacta para ofrecerte información sobre las propuestas de sus competidores a cambio de que consideres favorablemente su oferta. Aceptar esa información violaría la confidencialidad del proceso. Rechazarla puede significar perder ventaja competitiva para obtener mejores condiciones. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Rechazas recibir cualquier información confidencial y reportas el contacto inapropiado al área de compras, aceptando perder ventaja negociadora, que el proveedor se moleste y que debas justificar formalmente el reporte.",
+      "pragmatic_distractor": "Rechazas la información sobre competidores pero aceptas que el proveedor mejore su propia propuesta dentro de los plazos establecidos, esperando obtener mejor oferta sin violar confidencialidad.",
+      "evasive_distractor": "No respondes directamente al ofrecimiento y simplemente recuerdas al proveedor que debe seguir los términos públicos de la licitación sin confirmar o negar interés.",
+      "rationalized_distractor": "Aceptas la información pensando que conocer las propuestas competidoras te permite negociar mejores condiciones para la organización, que es tu responsabilidad optimizar costos y que el proveedor la ofrece voluntariamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 9",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q150",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la revisión de cumplimiento de normas laborales y descubres que varios empleados temporales trabajan más horas de las permitidas sin registro adecuado para cumplir plazos de producción. Tu gerente te pide no formalizar el hallazgo porque corregirlo implicaría contratar más personal y aumentar costos. Insistir puede responsabilizarte de incrementos presupuestales no autorizados. ¿Qué documentas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente el incumplimiento de normas laborales y recomiendas ajustar dotación de personal, aceptando que te responsabilicen por incrementos de costos, que el gerente se moleste y que cuestionen tu enfoque práctico.",
+      "pragmatic_distractor": "Documentas el hallazgo pero propones optimizar procesos productivos antes de contratar personal adicional, esperando corregir gradualmente sin impacto presupuestal inmediato.",
+      "evasive_distractor": "Mencionas la necesidad de revisar carga laboral sin cuantificar específicamente el incumplimiento de horas, dejando que el área operativa decida acciones correctivas.",
+      "rationalized_distractor": "No reportas el incumplimiento al considerar que los empleados aceptan voluntariamente las horas extras, que los plazos de producción son críticos y que formalizar solo burocratizaría una práctica operativa necesaria."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 10",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q151",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te asignan coordinar la investigación de una queja de acoso laboral presentada contra un gerente de alto desempeño comercial. Tu supervisor te sugiere minimizar el alcance de la investigación porque una sanción afectaría resultados de ventas del trimestre. Si insistes en investigar completamente, podrías ser visto como amenaza para objetivos comerciales. ¿Cómo procedes con la investigación?",
+    "options_structured": {
+      "integrity_correct": "Realizas una investigación completa e imparcial de la queja sin limitar alcance, aceptando que afecte resultados comerciales, que tu supervisor se moleste y que te vean como amenaza para objetivos del área.",
+      "pragmatic_distractor": "Investigas la queja específica presentada pero sin expandir a otros posibles casos, esperando resolver el asunto puntual sin ampliar innecesariamente el impacto.",
+      "evasive_distractor": "Propones que una firma externa especializada en investigaciones laborales maneje el caso, transfiriendo la responsabilidad de definir alcance y conclusiones.",
+      "rationalized_distractor": "Minimizas la investigación suponiendo que la queja puede ser exagerada, que el gerente genera resultados importantes y que una investigación exhaustiva causaría daño desproporcionado frente a evidencia limitada."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 11",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q152",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el fondo de emergencia para empleados y un directivo te pide aprobar un préstamo para un familiar cercano argumentando que técnicamente califica como empleado aunque trabaja solo medio tiempo desde hace pocas semanas. Otros empleados con mayor antigüedad y necesidad están en lista de espera. Negarte puede afectar tu relación con la dirección. ¿Qué autorizas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas el préstamo explicando que según criterios de antigüedad y necesidad corresponde a otros empleados, aceptando que el directivo se moleste, te vea como inflexible y limite tu autoridad en programas de beneficios.",
+      "pragmatic_distractor": "Apruebas el préstamo pero en un monto menor que el solicitado, esperando mantener la relación con el directivo sin desplazar completamente a empleados con mayor prioridad.",
+      "evasive_distractor": "Propones que un comité de beneficios revise todos los casos pendientes y defina prioridades, transfiriendo la decisión sobre ese préstamo específico.",
+      "rationalized_distractor": "Apruebas el préstamo ponderando que el directivo conoce personalmente la situación de su familiar, que técnicamente califica y que mantener buena relación con la dirección asegura continuidad del fondo."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 12",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q153",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras la auditoría de uso de vehículos corporativos y detectas que varios gerentes los usan regularmente para asuntos personales sin autorización ni registro. Tu supervisor te pide validar los reportes de uso tal como están porque formalizar el hallazgo generaría tensión con gerentes clave. Insistir puede afectar tu credibilidad como auditor interno. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente el uso no autorizado de vehículos y recomiendas implementar controles estrictos, aceptando generar tensión con gerentes, que tu supervisor se moleste y que cuestionen tu criterio como auditor.",
+      "pragmatic_distractor": "Documentas el hallazgo pero recomiendas crear una política de uso personal limitado con registro, esperando formalizar la práctica sin sancionar usos pasados.",
+      "evasive_distractor": "Mencionas la necesidad de actualizar políticas de uso de vehículos sin señalar específicamente los usos no autorizados detectados, dejando que el área decida acciones.",
+      "rationalized_distractor": "Validas los reportes sin modificar interpretando que los gerentes trabajan fuera de horario, que el uso personal es razonable como compensación implícita y que formalizar solo complicaría operaciones."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 13",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q154",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas el proceso de contratación de servicios legales externos y uno de los bufetes finalistas es donde trabaja un familiar cercano de tu supervisor. El bufete tiene propuesta competitiva pero no necesariamente la mejor. Tu supervisor no ha declarado la relación. Señalarla puede generar confrontación directa y afectar tu evaluación de desempeño. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Señalas formalmente el conflicto de interés no declarado y solicitas que tu supervisor se aparte de la decisión, aceptando que se moleste, que la relación se deteriore y que tu evaluación de desempeño se vea afectada.",
+      "pragmatic_distractor": "Incluyes evaluadores adicionales en el proceso de selección sin mencionar específicamente el conflicto, esperando que múltiples opiniones diluyan cualquier sesgo.",
+      "evasive_distractor": "Propones que el área de compras o un comité corporativo tome la decisión final sobre el bufete, transfiriendo la responsabilidad fuera de tu supervisor.",
+      "rationalized_distractor": "No señalas el conflicto creyendo que el bufete tiene méritos propios, que la relación familiar no afecta la calidad técnica y que señalarlo solo complicaría innecesariamente el proceso."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 14",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q155",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la implementación de un nuevo sistema de control de asistencia y varios supervisores te piden configurarlo para que ignore llegadas tardías ocasionales de sus equipos. Argumentan que sus colaboradores compensan trabajando fuera de horario. Aceptar esa configuración violaría las políticas de asistencia establecidas. Negarte puede generar resistencia a la implementación del sistema. ¿Qué configuras?",
+    "options_structured": {
+      "integrity_correct": "Configuras el sistema según políticas de asistencia establecidas sin excepciones, aceptando que los supervisores resistan la implementación, te vean como inflexible y compliquen la adopción del sistema.",
+      "pragmatic_distractor": "Configuras el sistema según políticas pero implementas alertas en lugar de sanciones automáticas, dando a supervisores información para gestionar sin eliminar la flexibilidad operativa.",
+      "evasive_distractor": "Solicitas que el área de gestión humana defina parámetros de tolerancia antes de configurar, transfiriendo la decisión sobre flexibilidad del sistema.",
+      "rationalized_distractor": "Configuras excepciones según solicitado entendiendo que la flexibilidad reconoce realidades operativas, que aplicar políticas rígidas desmotiva y que los supervisores conocen mejor a sus equipos."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 15",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q156",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la evaluación de propuestas para un proyecto de infraestructura pública financiado con fondos comunitarios. Una de las empresas postulantes tiene excelente propuesta técnica pero investigaciones periodísticas sugieren vínculos con casos de corrupción en otros proyectos. Tu gerente te pide enfocarte solo en criterios técnicos. Señalar el tema reputacional puede complicar la adjudicación. ¿Qué consideras?",
+    "options_structured": {
+      "integrity_correct": "Incluyes formalmente los antecedentes reputacionales como criterio de evaluación y recomiendas investigar antes de adjudicar, aceptando que tu gerente se moleste, que compliques la adjudicación y que te vean como obstáculo para el proyecto.",
+      "pragmatic_distractor": "Mantienes a la empresa en evaluación pero solicitas que presente certificaciones de integridad actualizadas y referencias verificables antes de adjudicar, esperando que se descalifique si no cumple.",
+      "evasive_distractor": "Propones que un comité de ética o el área de cumplimiento valide el tema reputacional mientras tú te enfocas en la evaluación técnica, dividiendo responsabilidades.",
+      "rationalized_distractor": "Seleccionas según criterios técnicos bajo la lógica de que las investigaciones periodísticas pueden ser inexactas, que tu responsabilidad es la evaluación técnica y que antecedentes no comprobados no deben descalificar."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 16",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q157",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te encargan revisar el cumplimiento de políticas de privacidad de datos y descubres que el equipo de marketing usa bases de datos de clientes para campañas sin consentimiento explícito actualizado. Tu gerente te pide no reportarlo formalmente porque cambiar las prácticas reduciría significativamente efectividad de campañas. Insistir puede responsabilizarte de caída en resultados comerciales. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente el incumplimiento de políticas de privacidad y recomiendas suspender campañas hasta obtener consentimientos, aceptando que caigan resultados comerciales, que el gerente se moleste y que te responsabilicen por pérdidas.",
+      "pragmatic_distractor": "Documentas el hallazgo pero das un plazo breve para regularizar consentimientos sin suspender campañas inmediatamente, esperando corregir sin impacto comercial abrupto.",
+      "evasive_distractor": "Consultas con el área legal si el uso de datos sin consentimiento actualizado constituye infracción crítica y esperas dictamen antes de reportar formalmente.",
+      "rationalized_distractor": "No reportas el incumplimiento asumiendo que los clientes dieron consentimiento original, que el uso es para beneficio comercial legítimo y que aplicar políticas estrictas solo perjudicaría ventas innecesariamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 17",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q158",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el programa de compensaciones variables y tu supervisor te pide modificar retroactivamente los indicadores de desempeño para que su equipo califique para bonos del trimestre anterior, aunque según métricas originales no los obtuvieron. Argumenta que las metas fueron injustamente altas. Negarte puede afectar tu autoridad en gestión de compensaciones. ¿Qué modificas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas modificar retroactivamente indicadores y mantienes las métricas originales, aceptando que tu supervisor se moleste, te vea como inflexible y busque limitar tu autoridad en compensaciones.",
+      "pragmatic_distractor": "Mantienes los indicadores del trimestre pasado pero propones ajustar metas para el próximo período, esperando reconocer la preocupación sin violar integridad de métricas históricas.",
+      "evasive_distractor": "Solicitas que el área de gestión humana o un comité de compensaciones valide si corresponde ajustar indicadores retroactivamente, transfiriendo la decisión.",
+      "rationalized_distractor": "Modificas retroactivamente los indicadores aceptando que las metas realmente fueron muy altas, que el supervisor conoce mejor las condiciones de su equipo y que la flexibilidad motiva esfuerzos futuros."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 18",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q159",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas la selección de proveedor de servicios de ciberseguridad y uno de los finalistas te ofrece acceso gratuito a sus herramientas para uso personal si tu recomendación técnica les favorece. Su propuesta es competitiva. Rechazar significa perder herramientas profesionales valiosas que mejorarían tus capacidades técnicas. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas el acceso gratuito personal y reportas el ofrecimiento inapropiado al área de compras, aceptando perder las herramientas, que el proveedor retire su propuesta y que debas justificar por qué escalaste.",
+      "pragmatic_distractor": "Rechazas el acceso personal pero solicitas que el proveedor incluya capacitación corporativa en su propuesta, esperando obtener beneficio para la organización sin compromiso personal.",
+      "evasive_distractor": "No respondes al ofrecimiento de herramientas personales y simplemente evalúas todas las propuestas según criterios técnicos sin abordar el tema.",
+      "rationalized_distractor": "Aceptas el acceso gratuito valorando que mejorar tus capacidades técnicas beneficia indirectamente a la organización, que el proveedor tiene propuesta sólida y que ambas partes ganan legítimamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 19",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q160",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la auditoría de cumplimiento ambiental y detectas que se están vertiendo residuos industriales sin tratamiento adecuado para reducir costos operativos. Tu gerente te pide validar los reportes ambientales tal como están porque corregir implicaría inversiones significativas no presupuestadas. Insistir puede responsabilizarte de generar costos inesperados y sanciones regulatorias. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Corriges los reportes ambientales incluyendo vertidos no tratados y reportas el incumplimiento a autoridades, aceptando que te responsabilicen por costos y sanciones, que el gerente se moleste y que tu credibilidad interna se vea afectada.",
+      "pragmatic_distractor": "Documentas el hallazgo pero propones un plan de corrección gradual escalonado antes de reportar a autoridades, esperando regularizar sin generar crisis inmediata.",
+      "evasive_distractor": "Solicitas que un consultor ambiental externo valide los reportes y determine acciones necesarias, transfiriendo la responsabilidad de certificar y reportar.",
+      "rationalized_distractor": "Validas los reportes sin modificar calculando que el impacto ambiental real es mínimo, que la inversión requerida es desproporcionada y que reportar causaría sanciones innecesarias."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 20",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q161",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en un comité que revisa ascensos a posiciones de liderazgo y uno de los candidatos tiene evaluaciones técnicas sobresalientes pero múltiples quejas informales de favoritismo hacia subordinados cercanos. Tu supervisor te pide no mencionar las quejas informales porque el candidato es clave para retener talento técnico. Señalarlas puede afectar estrategias de retención. ¿Qué comunicas al comité?",
+    "options_structured": {
+      "integrity_correct": "Presentas las quejas informales de favoritismo y recomiendas investigarlas antes de aprobar el ascenso, aceptando que tu supervisor se moleste, que afectes estrategias de retención y que te vean como obstáculo para reconocer talento.",
+      "pragmatic_distractor": "Mencionas las quejas pero también destacas las fortalezas técnicas del candidato, dejando que el comité pondere ambos aspectos sin tomar tú posición definitiva.",
+      "evasive_distractor": "Propones que antes del ascenso se implemente una evaluación de liderazgo 360 grados formal sin mencionar específicamente las quejas informales existentes.",
+      "rationalized_distractor": "No mencionas las quejas sosteniendo que son informales y pueden ser subjetivas, que las habilidades técnicas son prioritarias y que el candidato es necesario para retener al equipo."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 21",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q162",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras la revisión de contratos de arrendamiento de espacios comerciales y descubres que se está pagando renta por locales que llevan meses cerrados sin uso. Tu gerente te pide regularizar hacia adelante sin reclamar reembolsos para no evidenciar el error administrativo ante arrendadores. Reclamar puede exponerte a asumir responsabilidad del error de supervisión. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Documentas los pagos indebidos y reclamas formalmente reembolso a arrendadores, aceptando evidenciar el error administrativo, que te responsabilicen parcialmente y que el gerente se moleste.",
+      "pragmatic_distractor": "Negocias con arrendadores aplicar pagos indebidos como crédito para futuras rentas o mejoras en locales activos, esperando recuperar valor sin formalizar reclamo.",
+      "evasive_distractor": "Solicitas que el área legal o auditoría interna determine si corresponde reclamar reembolsos, transfiriendo la decisión sobre gestionar pagos indebidos.",
+      "rationalized_distractor": "Regularizas hacia adelante sin reclamar pensando que reclamar generaría conflicto con arrendadores clave, que los montos son menores y que el error administrativo ya pasó."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 22",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q163",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te asignan coordinar la compra de equipamiento médico y un distribuidor con quien tu área tiene relación comercial histórica te ofrece un paquete de viaje familiar si garantizas que su propuesta sea seleccionada. Sus precios son competitivos pero hay opciones técnicamente superiores. Rechazar significa perder un beneficio personal valuado en miles de dólares. ¿Qué respondes?",
+    "options_structured": {
+      "integrity_correct": "Rechazas el paquete de viaje y reportas el ofrecimiento al área de compras, aceptando perder el beneficio personal, que el distribuidor retire su propuesta y que debas justificar formalmente por qué escalaste.",
+      "pragmatic_distractor": "Rechazas el paquete personal pero permites que el distribuidor continúe en evaluación técnica objetiva, esperando separar el ofrecimiento de la valoración profesional.",
+      "evasive_distractor": "No respondes al ofrecimiento del viaje y simplemente evalúas todas las propuestas según criterios técnicos sin abordar el tema del beneficio.",
+      "rationalized_distractor": "Aceptas el paquete considerando que la propuesta del distribuidor es competitiva, que la relación histórica garantiza buen servicio y que tu beneficio personal no afecta la decisión técnica."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 23",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q164",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el sistema de permisos especiales y un directivo te solicita aprobar permisos remunerados extendidos para un colaborador cercano que no cumplen con los criterios establecidos. Argumenta que conoce circunstancias personales que justifican la excepción. Otros empleados con situaciones similares documentadas fueron rechazados. Negarte puede afectar tu relación con la dirección. ¿Qué autorizas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas el permiso explicando que según criterios establecidos no corresponde y que otros casos similares fueron tratados igual, aceptando que el directivo se moleste y limite tu autoridad en gestión de permisos.",
+      "pragmatic_distractor": "Solicitas que el colaborador documente formalmente las circunstancias excepcionales para evaluarlas según el mismo proceso que otros casos, esperando mantener equidad sin rechazar directamente al directivo.",
+      "evasive_distractor": "Propones que un comité de excepciones revise el caso, transfiriendo la decisión sobre aprobar permisos fuera de criterios establecidos.",
+      "rationalized_distractor": "Apruebas el permiso bajo la lógica de que el directivo tiene información privilegiada sobre la situación, que la discreción gerencial es válida y que aplicar criterios rígidos ignora circunstancias humanas."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 24",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q165",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas la auditoría de gastos de capacitación y detectas que varios gerentes aprobaron cursos de desarrollo personal sin relación directa con funciones laborales, clasificándolos como capacitación profesional. Tu supervisor te pide validar los gastos tal como están porque cuestionar beneficiaría al clima y desarrollo del equipo. Insistir en corregir puede afectar tu imagen como promotor de desarrollo. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Corriges la clasificación de gastos y solicitas reintegro de cursos no relacionados con funciones laborales, aceptando que gerentes se molesten, te vean como obstáculo para desarrollo y que tu imagen se vea afectada.",
+      "pragmatic_distractor": "Validas los gastos actuales pero implementas criterios más claros para futuras aprobaciones de capacitación, esperando corregir sin cuestionar decisiones pasadas.",
+      "evasive_distractor": "Solicitas que el área de gestión humana defina política formal sobre qué capacitaciones califican antes de validar gastos, transfiriendo la responsabilidad de establecer límites.",
+      "rationalized_distractor": "Validas los gastos sin modificar creyendo que el desarrollo personal también beneficia el desempeño laboral, que la inversión en personas es estratégica y que cuestionar solo desmotivaría."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 25",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q166",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la evaluación de desempeño de proveedores de transporte y detectas que uno de ellos incumple sistemáticamente estándares de seguridad vehicular pero tiene tarifas muy competitivas. Tu gerente te pide mantenerlo como proveedor preferente porque cambiar aumentaría costos logísticos. Insistir en descalificarlo puede responsabilizarte de incrementos presupuestales. ¿Cómo evalúas?",
+    "options_structured": {
+      "integrity_correct": "Descalificas al proveedor por incumplimientos de seguridad y recomiendas contratar alternativas que cumplan estándares, aceptando incrementos de costos, que el gerente se moleste y que te responsabilicen por el impacto presupuestal.",
+      "pragmatic_distractor": "Mantienes al proveedor pero exiges plan de corrección de seguridad con plazos estrictos y penalidades por incumplimiento, esperando mejorar sin cambiar inmediatamente.",
+      "evasive_distractor": "Solicitas que el área de seguridad industrial o auditoría externa valide el nivel de riesgo antes de decidir descalificación, transfiriendo la decisión técnica.",
+      "rationalized_distractor": "Mantienes al proveedor como preferente evaluando que los incumplimientos son menores, que no ha habido accidentes graves y que el ahorro de costos justifica tolerar deficiencias operativas."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 26",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q167",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la selección de consultor para un proyecto estratégico y uno de los finalistas es una firma donde trabaja un excolega con quien tienes relación personal cercana. La propuesta de esa firma es competitiva. No has declarado la relación. Hacerlo ahora puede generar cuestionamientos sobre tu imparcialidad en el proceso. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Declaras la relación personal con el excolega y te apartas de la evaluación de esa firma específica, aceptando que cuestionen tu imparcialidad previa, que el proceso se retrase y que tu credibilidad como evaluador se vea afectada.",
+      "pragmatic_distractor": "Declaras la relación pero continúas participando en la evaluación asegurando objetividad basada en criterios técnicos, esperando que la transparencia sea suficiente sin apartarte completamente.",
+      "evasive_distractor": "Propones que se agreguen evaluadores adicionales al proceso sin mencionar específicamente tu relación personal, esperando que múltiples opiniones diluyan cualquier sesgo.",
+      "rationalized_distractor": "No declaras la relación confiando en que eres profesional capaz de evaluar objetivamente, que la firma tiene méritos propios y que mencionarlo solo complicaría innecesariamente el proceso."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 27",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q168",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te encargan revisar el cumplimiento de protocolos de bioseguridad en instalaciones de producción de alimentos y descubres que varios operadores omiten controles obligatorios para acelerar líneas de producción. Tu gerente te pide no reportarlo formalmente porque aplicar protocolos completos reduciría volúmenes de producción y afectaría entregas comprometidas. Insistir puede responsabilizarte de incumplimientos comerciales. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente los incumplimientos de bioseguridad y recomiendas suspender líneas hasta garantizar cumplimiento completo, aceptando afectar entregas, que el gerente se moleste y que te responsabilicen por incumplimientos comerciales.",
+      "pragmatic_distractor": "Documentas los incumplimientos pero das plazo breve para regularizar sin suspender producción inmediatamente, esperando corregir sin impacto comercial abrupto.",
+      "evasive_distractor": "Consultas con el área de calidad o auditoría sanitaria externa si los incumplimientos ameritan suspensión o pueden tolerarse temporalmente, transfiriendo la decisión sobre acciones.",
+      "rationalized_distractor": "No reportas los incumplimientos justificando que los operadores son expertos que conocen riesgos, que no ha habido incidentes y que aplicar protocolos estrictos solo afectaría compromisos comerciales."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 28",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q169",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el proceso de reembolsos por gastos de home office y detectas que varios empleados presentan facturas por equipamiento que parece ser de uso personal no relacionado con trabajo. Las políticas exigen verificar uso laboral. Cuestionar los reembolsos puede generar conflictos y afectar el clima de trabajo remoto. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Rechazas reembolsos de equipamiento no relacionado con trabajo y solicitas justificación de uso laboral, aceptando generar conflictos con empleados, que te vean como desconfiado y que el clima de trabajo remoto se vea afectado.",
+      "pragmatic_distractor": "Solicitas a empleados que aclaren el uso laboral del equipamiento antes de aprobar, dándoles oportunidad de justificar o corregir sin rechazar directamente.",
+      "evasive_distractor": "Propones que supervisores directos validen que el equipamiento solicitado es necesario para funciones laborales, transfiriendo la responsabilidad de verificar.",
+      "rationalized_distractor": "Apruebas los reembolsos entendiendo que los empleados trabajan desde casa, que merecen apoyo para acondicionar espacios y que cuestionar genera desconfianza innecesaria."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 29",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q170",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras un comité que distribuye fondos para proyectos de innovación tecnológica y tu supervisor lidera uno de los proyectos postulantes. Su propuesta tiene justificación razonable pero hay otras con mayor potencial de impacto según evaluaciones técnicas. Antes de la sesión te sugiere apoyar su proyecto para asegurar recursos del área. Oponerte puede afectar tu relación y participación en decisiones estratégicas. ¿Cómo votas?",
+    "options_structured": {
+      "integrity_correct": "Votas con base en evaluaciones técnicas de impacto apoyando proyectos mejor calificados, aceptando que tu supervisor se moleste, cuestione tu lealtad y limite tu participación en decisiones estratégicas.",
+      "pragmatic_distractor": "Apoyas el proyecto de tu supervisor para una primera fase piloto menor mientras proyectos con mayor impacto reciben financiamiento principal, buscando equilibrar expectativas.",
+      "evasive_distractor": "Te abstienes de votar en ese proyecto específico argumentando conflicto de interés por ser su subordinado, evitando asumir posición clara.",
+      "rationalized_distractor": "Votas a favor del proyecto de tu supervisor asumiendo que su experiencia garantiza ejecución exitosa, que asegurar recursos del área beneficia a todos y que las diferencias técnicas son mínimas."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 30",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q171",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas la implementación de políticas de trabajo flexible y varios gerentes te piden excepciones para exigir presencialidad completa a sus equipos, argumentando que su operación lo requiere aunque las políticas aplican transversalmente. Aceptar excepciones violaría equidad del sistema. Negarte puede generar resistencia y afectar la adopción de políticas. ¿Qué autorizas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la aplicación transversal de políticas sin excepciones por área, aceptando que gerentes resistan la implementación, te vean como inflexible y compliquen la adopción del sistema.",
+      "pragmatic_distractor": "Permites flexibilidad temporal mientras se evalúan necesidades operativas específicas de cada área, esperando adaptar sin eliminar completamente el esquema flexible.",
+      "evasive_distractor": "Solicitas que el área de gestión humana o un comité valide qué operaciones justifican excepciones, transfiriendo la decisión sobre flexibilidad de aplicación.",
+      "rationalized_distractor": "Autorizas excepciones reconociendo que cada área tiene necesidades operativas únicas, que los gerentes conocen mejor sus procesos y que la rigidez en la aplicación perjudica resultados."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 31",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q172",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas contratos de mantenimiento preventivo y detectas que un proveedor ha estado cobrando servicios no realizados durante meses. Tu gerente te pide renegociar hacia adelante sin reclamar formalmente para mantener la relación comercial. Reclamar puede generar conflicto legal y exponerte a responsabilidad por supervisión deficiente. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Documentas los servicios no realizados y reclamas formalmente reintegro al proveedor, aceptando generar conflicto legal, evidenciar supervisión deficiente y que el gerente se moleste.",
+      "pragmatic_distractor": "Negocias que el proveedor compense con servicios adicionales futuros sin costo en lugar de reintegro directo, esperando recuperar valor sin formalizar reclamo.",
+      "evasive_distractor": "Solicitas que el área legal determine si corresponde reclamar reintegro o negociar compensación, transfiriendo la decisión sobre gestionar el incumplimiento.",
+      "rationalized_distractor": "Renegociar hacia adelante sin reclamar valorando que mantener la relación comercial es prioritario, que litigios son costosos y que el proveedor probablemente mejorará el servicio."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 32",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q173",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la revisión de cumplimiento de estándares de accesibilidad digital y descubres que varios sistemas no cumplen requisitos legales para personas con discapacidad. Tu supervisor te pide minimizar el hallazgo en el reporte porque las correcciones requerirían rediseñar plataformas con inversión significativa. Insistir puede responsabilizarte de generar costos no presupuestados. ¿Qué incluyes en el reporte?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente todos los incumplimientos de accesibilidad y recomiendas plan de corrección completo, aceptando que te responsabilicen por generar costos, que tu supervisor se moleste y que cuestionen tu criterio práctico.",
+      "pragmatic_distractor": "Documentas los incumplimientos pero propones plan de corrección gradual priorizado por criticidad, esperando cumplir sin generar impacto presupuestal inmediato.",
+      "evasive_distractor": "Mencionas la necesidad de revisar accesibilidad sin cuantificar específicamente incumplimientos, dejando que el área técnica determine alcance y urgencia de correcciones.",
+      "rationalized_distractor": "Minimizas el hallazgo estimando que los sistemas tienen uso limitado por personas con discapacidad, que no hay quejas formales y que invertir ahora es desproporcionado."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 33",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q174",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te asignan coordinar la distribución de equipos de protección personal y un supervisor te pide priorizar a su equipo antes que otros aunque el inventario es limitado y hay áreas con mayor exposición a riesgos según evaluaciones de seguridad. Argumenta que su equipo es más productivo. Negarte puede generar tensión operativa. ¿Cómo distribuyes el inventario?",
+    "options_structured": {
+      "integrity_correct": "Distribuyes según evaluaciones de riesgo priorizando áreas con mayor exposición, rechazando favorecer por productividad, aceptando que el supervisor se moleste y genere tensión operativa.",
+      "pragmatic_distractor": "Distribuyes prioritariamente a áreas de mayor riesgo pero garantizas que todos reciban equipamiento básico proporcionalmente, buscando equilibrar seguridad con expectativas.",
+      "evasive_distractor": "Solicitas que el área de seguridad industrial determine la priorización basada en matriz de riesgos actualizada, transfiriendo la decisión de distribución.",
+      "rationalized_distractor": "Priorizas al equipo del supervisor considerando que la productividad también es criterio válido, que su supervisor conoce mejor las necesidades y que mantener operaciones es importante."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 34",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q175",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el presupuesto de un departamento y tu supervisor te pide reclasificar gastos operativos como inversión en activos para mejorar indicadores financieros del área. Esa reclasificación no refleja la naturaleza real de los gastos. Negarte puede hacer que te vean como obstáculo para presentar resultados favorables. ¿Qué clasificas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la clasificación correcta de gastos operativos y rechazas reclasificar artificialmente, aceptando que tu supervisor se moleste, te vea como obstáculo para resultados y limite tu autoridad presupuestal.",
+      "pragmatic_distractor": "Revisas los gastos para identificar cuáles tienen componente de inversión legítimo que pueda clasificarse como activo, esperando mejorar indicadores sin falsear completamente.",
+      "evasive_distractor": "Solicitas que el área de contabilidad o auditoría interna valide criterios de clasificación antes de presentar indicadores, transfiriendo la responsabilidad técnica.",
+      "rationalized_distractor": "Reclasificas según solicitado bajo la interpretación de que la distinción entre gasto e inversión es subjetiva, que mejorar indicadores beneficia al área y que aplicar criterios estrictos solo perjudica presentación de resultados."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 35",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q176",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas la evaluación de clima organizacional y tu supervisor te pide excluir del análisis las respuestas de empleados que recientemente presentaron quejas formales, argumentando que están sesgados negativamente. Las metodologías establecidas requieren incluir todas las respuestas válidas. Excluirlas distorsionaría resultados. ¿Qué datos incluyes?",
+    "options_structured": {
+      "integrity_correct": "Incluyes todas las respuestas válidas sin exclusiones y reportas resultados completos, aceptando que tu supervisor se moleste, cuestione tu criterio metodológico y limite tu participación en procesos de clima.",
+      "pragmatic_distractor": "Incluyes todas las respuestas pero realizas análisis segmentado identificando patrones entre diferentes grupos, esperando presentar datos completos con contexto sin excluir.",
+      "evasive_distractor": "Solicitas que un consultor externo de clima organizacional valide la metodología de inclusión de respuestas, transfiriendo la decisión técnica.",
+      "rationalized_distractor": "Excluyes las respuestas de quienes presentaron quejas asumiendo que efectivamente están sesgados, que distorsionarían el panorama real y que un análisis limpio es más representativo."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 36",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q177",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la selección de proveedor para outsourcing de servicios de TI y uno de los finalistas tiene propuesta económica muy atractiva pero investigación revela antecedentes de incumplimientos contractuales graves con otros clientes. Tu gerente te pide enfocarte solo en criterios económicos y técnicos actuales. Señalar antecedentes puede complicar la contratación. ¿Qué consideras?",
+    "options_structured": {
+      "integrity_correct": "Incluyes formalmente los antecedentes de incumplimientos contractuales y recomiendas descalificar al proveedor, aceptando que tu gerente se moleste, que compliques la contratación y que te vean como obstáculo económico.",
+      "pragmatic_distractor": "Mantienes al proveedor en evaluación pero recomiendas incluir cláusulas contractuales estrictas de penalidades por incumplimiento, esperando mitigar riesgos sin descalificar.",
+      "evasive_distractor": "Solicitas que el área legal o de gestión de riesgos valide el impacto de antecedentes antes de decidir, transfiriendo la responsabilidad de evaluar.",
+      "rationalized_distractor": "Seleccionas según criterios económicos confiando en que los problemas fueron con otros clientes, que el proveedor pudo mejorar y que la propuesta económica beneficia significativamente a la organización."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 37",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q178",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en un comité que aprueba solicitudes de financiamiento para proyectos comunitarios. Uno de los proyectos propuestos beneficiaría a una zona donde tu supervisor tiene inversiones inmobiliarias que aumentarían de valor con la mejora comunitaria. No ha declarado ese interés económico. Señalarlo puede generar confrontación y afectar tu evaluación de desempeño. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Señalas formalmente el conflicto de interés económico no declarado y solicitas que tu supervisor se aparte de la evaluación, aceptando que se moleste, que la relación se deteriore y que tu evaluación se vea afectada.",
+      "pragmatic_distractor": "Mencionas de forma general la importancia de declarar intereses económicos en proyectos sin señalar directamente a tu supervisor, esperando que entienda y se aparte voluntariamente.",
+      "evasive_distractor": "Propones que todos los miembros del comité firmen declaración de conflictos económicos antes de evaluar, creando mecanismo que obligue a la declaración sin confrontar directamente.",
+      "rationalized_distractor": "No señalas el conflicto evaluando que el proyecto beneficia a la comunidad legítimamente, que el impacto en inversiones privadas es secundario y que señalarlo solo complicaría innecesariamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 38",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q179",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras la auditoría de uso de recursos tecnológicos y detectas que varios empleados usan software corporativo con licencias empresariales para proyectos personales freelance fuera de horario laboral. Las licencias prohíben uso comercial externo. Reportarlo puede generar tensión generalizada y afectar clima laboral. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente el uso indebido de licencias corporativas y recomiendas reforzar políticas de uso aceptable, aceptando generar tensión generalizada, que empleados se molesten y que el clima laboral se vea afectado.",
+      "pragmatic_distractor": "Envías recordatorio general sobre políticas de uso de licencias sin señalar casos específicos detectados, esperando que se autocorrijan sin generar confrontación.",
+      "evasive_distractor": "Consultas con el área legal o de cumplimiento si el uso externo constituye infracción crítica que amerite acción, transfiriendo la decisión sobre reportar.",
+      "rationalized_distractor": "No reportas el uso externo argumentando que empleados lo hacen fuera de horario, que no afecta operaciones corporativas y que aplicar políticas estrictas solo generaría descontento innecesario."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 39",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q180",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te encargan revisar el cumplimiento de políticas de donaciones corporativas y descubres que varios gerentes han dirigido donaciones a organizaciones donde tienen familiares en juntas directivas sin declarar los vínculos. Tu supervisor te pide validar las donaciones tal como están porque cuestionar afectaría reputación de responsabilidad social. Insistir puede responsabilizarte de generar escándalo reputacional. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente los vínculos no declarados y recomiendas revisar proceso de aprobación de donaciones, aceptando afectar reputación, que tu supervisor se moleste y que te responsabilicen por generar escándalo.",
+      "pragmatic_distractor": "Validas las donaciones actuales pero implementas requisito obligatorio de declaración de vínculos para futuras donaciones, esperando corregir sin cuestionar decisiones pasadas.",
+      "evasive_distractor": "Solicitas que el área de ética o auditoría externa valide si los vínculos no declarados constituyen conflicto crítico, transfiriendo la responsabilidad de decidir acciones.",
+      "rationalized_distractor": "Validas las donaciones sin modificar pensando que las organizaciones hacen trabajo social legítimo, que los vínculos no afectan el valor de las donaciones y que reportar solo dañaría reputación innecesariamente."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 40",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q181",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el sistema de compensaciones por horas extras y detectas que un supervisor está aprobando horas que no fueron realmente trabajadas para aumentar ingresos de empleados cercanos. Tu gerente te pide regularizar hacia adelante sin investigar porque generar sanciones afectaría moral del equipo. Insistir puede responsabilizarte de deteriorar clima laboral. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Reportas las aprobaciones irregulares de horas extras y recomiendas investigar y aplicar sanciones correspondientes, aceptando afectar moral del equipo, que el gerente se moleste y que te responsabilicen por deteriorar clima.",
+      "pragmatic_distractor": "Implementas controles más estrictos de validación de horas para adelante sin cuestionar aprobaciones pasadas, esperando corregir sin generar conflicto inmediato.",
+      "evasive_distractor": "Solicitas que el área de auditoría interna o gestión humana investigue las irregularidades, transfiriendo la responsabilidad de determinar acciones correctivas.",
+      "rationalized_distractor": "Regularizas hacia adelante sin investigar suponiendo que los empleados probablemente trabajaron horas no registradas en otros momentos, que el supervisor compensa inequidades y que investigar solo generaría problemas."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 41",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q182",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas el proceso de certificación de competencias profesionales y un instructor te pide aprobar certificaciones para participantes que no completaron todos los requisitos argumentando que la experiencia práctica compensa las deficiencias formales. Las normas exigen cumplimiento completo de requisitos. Negarte puede afectar reputación del programa de certificación. ¿Qué apruebas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas certificar a quienes no cumplieron requisitos completos y mantienes estándares establecidos, aceptando que el instructor se moleste, que afecte reputación del programa y que participantes reclamen.",
+      "pragmatic_distractor": "Ofreces a participantes deficientes completar módulos faltantes en período adicional antes de certificar, esperando mantener estándares sin rechazar definitivamente.",
+      "evasive_distractor": "Solicitas que el organismo certificador externo valide si la experiencia práctica puede sustituir requisitos formales, transfiriendo la decisión técnica.",
+      "rationalized_distractor": "Apruebas las certificaciones considerando que la experiencia práctica es igualmente valiosa, que aplicar requisitos formales rígidos ignora aprendizaje real y que el instructor conoce mejor las competencias."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 42",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q183",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas la renovación de pólizas de seguros corporativos y el corredor de seguros con quien trabajas habitualmente te ofrece una comisión personal si renuevas con las mismas aseguradoras. Has identificado opciones con mejores coberturas y menores primas en el mercado. Rechazar significa perder un ingreso adicional significativo. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la comisión personal y reportas el ofrecimiento al área de compras, aceptando perder el ingreso adicional, que el corredor termine la relación comercial y que debas justificar por qué escalaste.",
+      "pragmatic_distractor": "Rechazas la comisión personal pero permites que el corredor presente propuestas competitivas de otras aseguradoras, esperando obtener mejores condiciones sin comprometerte personalmente.",
+      "evasive_distractor": "No respondes al ofrecimiento de comisión y simplemente evalúas todas las opciones del mercado según criterios de cobertura y precio sin abordar el tema.",
+      "rationalized_distractor": "Aceptas la comisión calculando que las aseguradoras actuales tienen servicio comprobado, que las diferencias de precio son menores y que tu ingreso adicional no afecta la decisión técnica."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 43",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q184",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la auditoría de cumplimiento de normas de construcción en instalaciones y detectas que varias áreas no cumplen códigos de seguridad estructural. Tu supervisor te pide minimizar el hallazgo en el reporte porque las correcciones requerirían obras mayores con inversión significativa. Insistir puede responsabilizarte de generar costos no presupuestados y alarma innecesaria. ¿Cómo redactas el reporte?",
+    "options_structured": {
+      "integrity_correct": "Incluyes todos los incumplimientos estructurales detectados y recomiendas plan de obras de corrección, aceptando que te responsabilicen por generar costos, que tu supervisor se moleste y que generes alarma.",
+      "pragmatic_distractor": "Documentas los incumplimientos clasificándolos por criticidad y propones plan de corrección escalonado priorizando riesgos mayores, esperando cumplir sin generar crisis presupuestal inmediata.",
+      "evasive_distractor": "Redactas el hallazgo en términos técnicos generales sin clasificar criticidad, dejando que el área de ingeniería determine alcance y urgencia de correcciones.",
+      "rationalized_distractor": "Minimizas el hallazgo evaluando que las instalaciones llevan años funcionando sin incidentes, que los códigos pueden ser excesivos y que invertir ahora es desproporcionado frente al riesgo real."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 44",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q185",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Te asignan coordinar el programa de reconocimientos al desempeño y tu supervisor te pide garantizar que al menos la mitad de los reconocimientos vayan a su área aunque según métricas objetivas otras áreas tienen mejores resultados. Argumenta que su equipo trabaja en condiciones más difíciles. Negarte puede afectar tu relación y autoridad en programas de reconocimiento. ¿Cómo distribuyes los reconocimientos?",
+    "options_structured": {
+      "integrity_correct": "Distribuyes reconocimientos según métricas objetivas de desempeño sin cuotas por área, aceptando que tu supervisor se moleste, te vea como poco colaborador y limite tu autoridad en programas de reconocimiento.",
+      "pragmatic_distractor": "Creas categorías adicionales de reconocimiento por esfuerzo en condiciones difíciles que permitan incluir al área de tu supervisor sin quitar reconocimientos por resultados objetivos.",
+      "evasive_distractor": "Propones que un comité ampliado con representantes de todas las áreas valide los reconocimientos, transfiriendo la decisión de distribución.",
+      "rationalized_distractor": "Garantizas cuota para el área de tu supervisor asumiendo que las condiciones difíciles merecen reconocimiento, que mantenerlo satisfecho asegura continuidad del programa y que las métricas no capturan todo el esfuerzo."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 45",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q186",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Administras el acceso a información estratégica confidencial y un directivo te solicita permisos para revisar planes de reestructuración antes de su comunicación oficial. No presenta justificación formal de necesidad de acceso. Negarte puede hacerte parecer obstáculo ante la alta dirección y limitar tu participación en proyectos estratégicos. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Niegas el acceso hasta que presente justificación formal de necesidad documentada según políticas, aceptando que el directivo se moleste, te vea como obstáculo y te excluya de proyectos estratégicos.",
+      "pragmatic_distractor": "Otorgas acceso limitado temporal a resúmenes ejecutivos sin detalles completos de reestructuración, esperando satisfacer parcialmente sin exponer completamente información confidencial.",
+      "evasive_distractor": "Derivas la solicitud al área de gestión de información para que autoricen según políticas, evitando asumir tú la responsabilidad de negar al directivo.",
+      "rationalized_distractor": "Otorgas el acceso completo bajo la premisa de que un directivo de ese nivel tiene derecho implícito a información estratégica y que exigir justificación formal solo burocratiza consultas legítimas."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 46",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q187",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Lideras la evaluación de cumplimiento de protocolos de investigación clínica y detectas que varios investigadores omitieron registros obligatorios de efectos adversos en estudios con participantes humanos. Tu gerente te pide no reportarlo formalmente a comités de ética porque suspender estudios retrasaría publicaciones importantes. Insistir puede responsabilizarte de afectar reputación académica del centro. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas formalmente las omisiones de registro a comités de ética y recomiendas suspender estudios hasta regularizar, aceptando retrasar publicaciones, que el gerente se moleste y que afectes reputación del centro.",
+      "pragmatic_distractor": "Documentas las omisiones pero das plazo breve para completar registros retroactivamente antes de reportar a comités, esperando regularizar sin suspender estudios.",
+      "evasive_distractor": "Consultas con el comité de ética de investigación si las omisiones ameritan suspensión o pueden regularizarse, transfiriendo la decisión sobre acciones correctivas.",
+      "rationalized_distractor": "No reportas las omisiones confiando en que los efectos adversos fueron menores, que los investigadores son expertos confiables y que suspender estudios causaría daño desproporcionado a la investigación."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 47",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q188",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Coordinas el sistema de evaluación de instructores de capacitación y detectas que un instructor con excelentes conexiones en la industria recibe evaluaciones bajas consistentes de participantes por metodologías inadecuadas. Tu supervisor te pide mantenerlo porque sus contactos atraen patrocinios importantes al programa. Señalar las evaluaciones negativas puede afectar financiamiento del programa. ¿Qué reportas?",
+    "options_structured": {
+      "integrity_correct": "Reportas las evaluaciones bajas y recomiendas no renovar contrato del instructor o exigir mejoras metodológicas, aceptando que afecte patrocinios, que tu supervisor se moleste y que el financiamiento del programa se vea comprometido.",
+      "pragmatic_distractor": "Reportas las evaluaciones pero recomiendas que el instructor reciba apoyo pedagógico para mejorar metodología, esperando mantener sus contactos mientras se corrige el desempeño.",
+      "evasive_distractor": "Propones que un comité académico externo evalúe la calidad metodológica del instructor, transfiriendo la decisión sobre su continuidad.",
+      "rationalized_distractor": "No reportas las evaluaciones negativas ponderando que los contactos del instructor generan valor estratégico, que los participantes pueden ser críticos excesivos y que mantenerlo beneficia al programa."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 48",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q189",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Gestionas el proceso de asignación de proyectos de desarrollo profesional y un gerente te pide garantizar los proyectos más atractivos para colaboradores de su equipo, aunque según criterios de antigüedad y desempeño corresponden a empleados de otras áreas. Argumenta que necesita retener su talento. Negarte puede generar conflicto y afectar cooperación interdepartamental. ¿Cómo asignas los proyectos?",
+    "options_structured": {
+      "integrity_correct": "Asignas proyectos según criterios de antigüedad y desempeño establecidos sin favorecer un área, aceptando que el gerente se moleste, genere conflicto y limite cooperación interdepartamental futura.",
+      "pragmatic_distractor": "Asignas algunos proyectos atractivos al área del gerente pero garantizas que otras áreas también reciban oportunidades proporcionalmente, buscando equilibrar expectativas.",
+      "evasive_distractor": "Propones que un comité de desarrollo con representantes de todas las áreas defina asignaciones, transfiriendo la decisión colectivamente.",
+      "rationalized_distractor": "Garantizas proyectos para el área del gerente interpretando que retener talento técnico es estratégico, que su criterio de necesidad es válido y que mantener su cooperación beneficia a todos."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 49",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  },
+  {
+    "id": "block-B02-q190",
+    "module_id": 1,
+    "block_id": "B02",
+    "type": "options",
+    "scenario": "Participas en la auditoría de uso de fondos para eventos corporativos y detectas que varios gerentes han utilizado presupuestos de eventos institucionales para celebraciones personales de sus equipos sin autorización formal. Tu supervisor te pide validar los gastos tal como están porque cuestionar afectaría clima y moral de los equipos. Insistir puede responsabilizarte de deteriorar ambiente laboral. ¿Qué validas?",
+    "options_structured": {
+      "integrity_correct": "Reportas el uso no autorizado de fondos institucionales y recomiendas aplicar reintegros o sanciones correspondientes, aceptando afectar clima y moral, que tu supervisor se moleste y que te responsabilicen por deteriorar ambiente.",
+      "pragmatic_distractor": "Validas los gastos actuales pero implementas controles más estrictos y definiciones claras para futuros eventos, esperando corregir sin cuestionar usos pasados.",
+      "evasive_distractor": "Solicitas que el área de finanzas o auditoría interna determine si los usos constituyen irregularidad que amerita acción, transfiriendo la responsabilidad de validar.",
+      "rationalized_distractor": "Validas los gastos sin modificar pensando que celebraciones de equipo también fortalecen cultura institucional, que los montos son razonables y que cuestionar solo generaría resentimiento innecesario."
+    },
+    "notes": "Modulo 1 Options B02 batch 07 item 50",
+    "sot_checksum": "2a4932b4b285f5288a0e022991b87184"
+  }
+]
