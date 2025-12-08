@@ -1,0 +1,572 @@
+[
+  {
+    "id": "block-B06-q061",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Recibes un encargo de tu jefe para contratar servicios de un familiar suyo sin seguir el proceso de licitación habitual. El familiar ofrece precios competitivos pero saltarse el procedimiento viola las políticas de transparencia. Si te niegas, tu jefe podría marginar tu carrera. Si aceptas, comprometes la equidad del proceso. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a procesar la contratación sin seguir el proceso formal de licitación y lo documentas al área de cumplimiento, aunque eso deteriore gravemente tu relación con tu jefe y ponga en riesgo tu proyección profesional.",
+      "pragmatic_distractor": "Aceptas incluir al familiar en el proceso pero insistes en que compita formalmente con otros proveedores, buscando un equilibrio entre satisfacer a tu jefe y mantener cierta transparencia.",
+      "evasive_distractor": "Trasladas la solicitud al área de adquisiciones argumentando que no tienes autoridad para procesos de contratación, evitando responsabilidad directa en la decisión.",
+      "rationalized_distractor": "Procesas la contratación directa argumentando que los precios son competitivos, que el proceso formal es burocrático y que la relación familiar no invalida la calidad del servicio."
+    },
+    "word_count": 67,
+    "char_count": 358,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 1",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q062",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu equipo enfrenta una auditoría externa y descubres documentación incompleta que podría generar observaciones graves. Tu supervisor te sugiere completar retroactivamente los registros para evitar sanciones. Si te niegas, la auditoría revelará deficiencias y tu área será cuestionada. Si aceptas, falsificas documentos oficiales. ¿Cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a alterar documentos y presentas la situación real a los auditores asumiendo las consecuencias, aunque eso genere sanciones para tu área, cuestione la gestión de tu supervisor y afecte tu reputación.",
+      "pragmatic_distractor": "Propones documentar desde ahora procesos robustos para futuras auditorías sin alterar el pasado, aceptando observaciones pero mostrando compromiso de mejora, buscando mitigar el daño sin falsificar.",
+      "evasive_distractor": "Consultas al área legal de forma hipotética sobre las implicaciones de documentación retroactiva, trasladando la decisión a otros mientras postergas tu respuesta al supervisor.",
+      "rationalized_distractor": "Completas los registros retroactivamente argumentando que la información es verídica aunque la documentación fue negligente, y que proteger al equipo de sanciones burocráticas justifica el ajuste."
+    },
+    "word_count": 68,
+    "char_count": 374,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 2",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q063",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Lideras un proyecto crítico y uno de tus colaboradores más talentosos muestra señales de agotamiento extremo que podrían afectar su salud. El proyecto tiene plazos inamovibles y perderlo generaría pérdidas financieras importantes. Si lo sacas del proyecto, pones en riesgo los resultados. Si lo mantienes, su salud podría deteriorarse. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Retiras al colaborador del proyecto priorizando su salud y redistribuyes la carga aunque eso ponga en riesgo los plazos, genere tensión con la dirección y comprometa los resultados esperados.",
+      "pragmatic_distractor": "Reduces significativamente su carga de trabajo y buscas apoyo temporal externo para cubrir sus funciones, intentando proteger tanto al colaborador como los plazos del proyecto.",
+      "evasive_distractor": "Sugieres que el colaborador consulte con el área de salud ocupacional y esperas su recomendación formal antes de tomar decisiones, trasladando la responsabilidad a especialistas.",
+      "rationalized_distractor": "Mantienes al colaborador en el proyecto argumentando que es adulto responsable de sus límites, que falta poco para terminar y que los resultados beneficiarán a todo el equipo."
+    },
+    "word_count": 69,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 3",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q064",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Descubres que tu empresa usa proveedores que, aunque cumplen formalmente con regulaciones, operan en zonas de conflicto donde se benefician de condiciones laborales precarias. Cambiar de proveedor aumentaría costos significativamente y afectaría competitividad. Si exiges el cambio, serás visto como idealista. Si callas, eres cómplice indirecto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Exiges evaluar proveedores alternativos con mejores estándares éticos aunque eso incremente costos, afecte competitividad y seas visto como idealista que no entiende las realidades del mercado.",
+      "pragmatic_distractor": "Propones un plan gradual de transición hacia proveedores más éticos balanceando con metas financieras, buscando cambio sin impacto abrupto en costos ni competitividad.",
+      "evasive_distractor": "Sugieres que el área de sustentabilidad corporativa evalúe y decida sobre estándares de proveedores, trasladando la decisión a un área especializada sin comprometerte directamente.",
+      "rationalized_distractor": "No intervienes argumentando que las condiciones laborales en otras regiones son responsabilidad de sus gobiernos y que tu obligación es la competitividad de la empresa."
+    },
+    "word_count": 67,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 4",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q065",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Un colega te confía que está experimentando discriminación por parte de un supervisor influyente, pero te pide no involucrarte porque teme represalias. Tú eres testigo indirecto de algunos incidentes. Si intervienes sin su consentimiento, podrías empeorar su situación. Si no actúas, la discriminación continúa. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Persuades a tu colega para que juntos reporten formalmente la situación al área correspondiente, ofreciendo acompañamiento y testificación, aunque respetas su decisión final incluso si decide no proceder.",
+      "pragmatic_distractor": "Documentas discretamente los incidentes que presencias y los comunicas de forma anónima al área de cumplimiento, buscando activar una revisión sin exponer directamente a tu colega.",
+      "evasive_distractor": "Sugieres a tu colega buscar asesoría del área de bienestar del personal y te ofreces para apoyarlo desde la distancia, evitando involucrarte directamente en el proceso.",
+      "rationalized_distractor": "Respetas completamente su petición de no involucrarte porque consideras que forzar una denuncia sin su consentimiento sería violar su autonomía y podría perjudicarlo más."
+    },
+    "word_count": 67,
+    "char_count": 368,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 5",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q066",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Gestionas presupuestos de capacitación y notas que un gerente de otra área envía sistemáticamente a familiares y amigos a cursos costosos sin criterios claros de selección. No hay regla explícita que lo prohíba, pero es evidentemente inequitativo. Si lo señalas, generas conflicto interdepartamental. Si callas, la inequidad se normaliza. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Reportas la situación al área de cumplimiento solicitando establecer criterios objetivos de selección para capacitaciones, aunque eso genere conflicto interdepartamental y te haga parecer controlador ante otros gerentes.",
+      "pragmatic_distractor": "Propones colaborativamente a tu par establecer criterios transparentes de selección para futuras capacitaciones sin señalar directamente las decisiones pasadas, buscando corregir sin confrontar.",
+      "evasive_distractor": "Elevas la inquietud de forma general en reuniones de gestión sugiriendo políticas más claras sin mencionar casos específicos, esperando que otros tomen la iniciativa de investigar.",
+      "rationalized_distractor": "No intervienes argumentando que cada gerente tiene autonomía para gestionar su gente, que no hay regla formal violada y que cuestionar decisiones de otros causaría más problemas que beneficios."
+    },
+    "word_count": 69,
+    "char_count": 377,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 6",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q067",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa planea implementar un sistema de monitoreo de productividad que técnicamente es legal pero éticamente invasivo para la privacidad de los empleados. Te piden liderarlo como experto técnico. Si te niegas, otro lo hará y perderás influencia en cómo se implementa. Si lo lideras, facilitas una práctica que consideras incorrecta. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a liderar el proyecto y manifiestas formalmente tus objeciones éticas sobre la invasividad del sistema, aunque eso te haga perder influencia, otro lo implemente de todos modos y afecte tu relación con la dirección.",
+      "pragmatic_distractor": "Aceptas liderar el proyecto pero condicionas tu participación a incluir salvaguardas de privacidad y transparencia hacia los empleados, buscando mitigar el daño desde adentro.",
+      "evasive_distractor": "Argumentas que no tienes las competencias específicas necesarias y sugieres que un especialista externo lidere el proyecto, evitando responsabilidad directa en su implementación.",
+      "rationalized_distractor": "Lideras el proyecto argumentando que el monitoreo es legal, que mejorará la productividad y que es mejor que tú lo implementes con criterio que permitir que alguien menos cuidadoso lo haga."
+    },
+    "word_count": 70,
+    "char_count": 382,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 7",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q068",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Lideras una negociación sindical y la dirección te instruye mantener una posición inflexible que sabes llevará inevitablemente a un conflicto laboral perjudicial para todos. Tienes información sobre márgenes de maniobra real que la dirección no quiere revelar. Si cedes sin autorización, desobedeces órdenes. Si sigues la instrucción, el conflicto escalará. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Regresas a la dirección explicando los riesgos del enfoque inflexible y exiges autorización para negociar dentro de márgenes razonables, aunque eso te haga parecer débil, moleste a la dirección y ponga en duda tu capacidad negociadora.",
+      "pragmatic_distractor": "Mantienes la posición oficial pero buscas canales informales para señalar áreas de posible flexibilidad sin comprometer formalmente a la empresa, esperando facilitar un acuerdo sin desobedecer.",
+      "evasive_distractor": "Solicitas que un negociador externo o de nivel superior asuma la negociación argumentando la complejidad del caso, trasladando la responsabilidad de decisiones críticas a otros.",
+      "rationalized_distractor": "Sigues la instrucción de inflexibilidad argumentando que tu rol es ejecutar la estrategia de la dirección, que ceder sin autorización sería insubordinación y que la responsabilidad del conflicto es de quienes deciden."
+    },
+    "word_count": 70,
+    "char_count": 398,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 8",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q069",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Supervisas el área de calidad y descubres que un producto cumple técnicamente con estándares mínimos pero tiene deficiencias que podrían decepcionar seriamente a los clientes. La dirección argumenta que cumplir el estándar es suficiente y quiere lanzar. Si bloqueas el lanzamiento, afectas ingresos proyectados. Si lo autorizas, dañas la reputación de marca. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Bloqueas el lanzamiento hasta mejorar las deficiencias identificadas priorizando la satisfacción del cliente sobre el cumplimiento mínimo, aunque eso afecte ingresos proyectados y genere conflicto con la dirección que considera suficiente el estándar.",
+      "pragmatic_distractor": "Autorizas el lanzamiento limitado en mercados piloto con advertencias claras sobre limitaciones del producto, buscando balancear transparencia con oportunidad comercial mientras monitoras la reacción.",
+      "evasive_distractor": "Solicitas una evaluación independiente de satisfacción esperada del cliente antes de tu recomendación final, trasladando la responsabilidad de la decisión a especialistas externos en experiencia de usuario.",
+      "rationalized_distractor": "Autorizas el lanzamiento argumentando que el producto cumple estándares oficiales, que las expectativas de los clientes deben alinearse con lo que se promete y que postergar afectaría financieramente a la empresa."
+    },
+    "word_count": 69,
+    "char_count": 390,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 9",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q070",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Trabajas en compras y un proveedor actual te ofrece condiciones comerciales excepcionales a cambio de mantener exclusividad sin explorar otras opciones. Las condiciones son genuinamente buenas pero aceptar sin comparar viola las políticas de competencia. Si rechazas, pierdes la oferta. Si aceptas, evades el proceso de evaluación justo. ¿Cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la oferta condicionada a exclusividad y realizas el proceso completo de evaluación de proveedores como establece la política, aunque eso signifique perder condiciones excepcionales y genere cuestionamientos sobre tu gestión comercial.",
+      "pragmatic_distractor": "Aceptas tentativamente la oferta pero la usas como referencia para negociar con otros proveedores también, buscando aprovechar la oportunidad mientras mantienes cierta competencia.",
+      "evasive_distractor": "Trasladas la oferta al área de cumplimiento pidiendo autorización especial para proceder sin licitación, trasladando la responsabilidad de aprobar la excepción a niveles superiores.",
+      "rationalized_distractor": "Aceptas la oferta argumentando que las condiciones son objetivamente mejores que cualquier alternativa previsible y que hacer un proceso formal sería burocracia innecesaria que haría perder la oportunidad."
+    },
+    "word_count": 68,
+    "char_count": 378,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 10",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q071",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Eres responsable de seguridad de información y descubres que un ejecutivo senior accede regularmente a datos sensibles sin justificación clara para su rol. Confrontarlo podría generar un conflicto de poder donde probablemente salgas perjudicado. Si no actúas, permites un riesgo de seguridad y posible mal uso de información. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Confrontas formalmente al ejecutivo solicitando justificación y reportas los accesos irregulares al área de cumplimiento, aunque eso genere un conflicto de poder donde probablemente salgas perjudicado y tu carrera se vea afectada.",
+      "pragmatic_distractor": "Implementas controles adicionales que limiten técnicamente los accesos no justificados sin confrontar directamente al ejecutivo, buscando resolver el riesgo sin generar conflicto abierto.",
+      "evasive_distractor": "Documentas los accesos irregulares y los elevas de forma anónima al área de auditoría interna, esperando que ellos investiguen sin que tu nombre quede directamente asociado.",
+      "rationalized_distractor": "No intervienes argumentando que un ejecutivo senior debe tener su propio criterio sobre qué información necesita y que cuestionarlo sería microgestión que excede tus atribuciones."
+    },
+    "word_count": 68,
+    "char_count": 368,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 11",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q072",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Participas en un comité que evalúa proyectos de inversión y notas que las decisiones favorecen sistemáticamente iniciativas de áreas con mejores relaciones políticas internas, independientemente del mérito técnico. Si señalas el sesgo, te enfrentas a un grupo poderoso. Si callas, perpetúas decisiones subóptimas para la organización. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Señalas el sesgo en el comité y propones establecer criterios objetivos de evaluación documentados y transparentes, aunque eso te enfrente a un grupo poderoso, genere rechazo y te margine de futuras decisiones estratégicas.",
+      "pragmatic_distractor": "Fortaleces tus argumentos técnicos a favor de proyectos con mejor mérito objetivo sin señalar directamente el sesgo político, buscando influir desde la calidad de tu análisis.",
+      "evasive_distractor": "Propones contratar consultoría externa para evaluar proyectos con metodología objetiva, trasladando indirectamente la responsabilidad de exponer el sesgo a agentes externos.",
+      "rationalized_distractor": "No intervienes argumentando que las relaciones internas son parte legítima de las dinámicas organizacionales y que proyectos con mejor soporte político tienen más probabilidad de implementarse exitosamente."
+    },
+    "word_count": 67,
+    "char_count": 378,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 12",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q073",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa enfrenta crisis financiera y la dirección te pide renegociar contratos con proveedores pequeños imponiendo condiciones que sabes los perjudicarán gravemente. Si te niegas, otro lo hará más agresivamente. Si lo haces, contribuyes a dañar negocios vulnerables que dependen de tu empresa. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a imponer condiciones abusivas y propones esquemas de pago justos aunque menos ventajosos para la empresa, asumiendo el riesgo de ser reemplazado por alguien más agresivo y que te vean como ingenuo.",
+      "pragmatic_distractor": "Negocias buscando condiciones sostenibles para ambas partes que balanceen las necesidades de la empresa con la viabilidad de los proveedores, intentando protegerlos sin ignorar la crisis.",
+      "evasive_distractor": "Solicitas que el área legal lidere las renegociaciones para asegurar legalidad de los términos, trasladando la responsabilidad de las condiciones difíciles a otro departamento.",
+      "rationalized_distractor": "Impones las condiciones solicitadas argumentando que tu obligación es proteger la supervivencia de tu empresa y que los proveedores deben entender las realidades del mercado en contextos de crisis."
+    },
+    "word_count": 67,
+    "char_count": 366,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 13",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q074",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Lideras desarrollo de producto y marketing presiona por lanzar una versión que llaman completa pero que técnicamente está en estado beta con funcionalidades incompletas. Si exiges transparencia en la comunicación, retrasas el lanzamiento. Si aceptas la narrativa de marketing, los clientes recibirán un producto sobrevalorado. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Exiges que la comunicación refleje honestamente el estado beta del producto o que se postergue el lanzamiento hasta completar funcionalidades prometidas, aunque eso retrase ingresos, genere conflicto con marketing y afecte las proyecciones comerciales.",
+      "pragmatic_distractor": "Propones lanzar con precio reducido y comunicación clara de roadmap de mejoras próximas, buscando transparencia sin detener completamente el lanzamiento ni engañar sobre el estado actual.",
+      "evasive_distractor": "Solicitas que el área de gestión de producto tome la decisión final sobre timing y comunicación, documentando tus reservas técnicas sin bloquear directamente el proceso.",
+      "rationalized_distractor": "Aceptas el lanzamiento argumentando que todos los productos mejoran con el tiempo, que llamarlo completo es jerga de marketing aceptable y que los clientes entenderán que habrá actualizaciones."
+    },
+    "word_count": 68,
+    "char_count": 387,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 14",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q075",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Gestionas datos de clientes y tu jefe te pide compartir información sensible con un socio comercial que técnicamente no tiene autorización para recibirla según políticas de privacidad. Argumenta que es para beneficio mutuo y que las políticas son interpretables. Si te niegas, desafías a tu jefe. Si aceptas, violas privacidad de clientes. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a compartir la información sin autorización explícita de los clientes y reportas la solicitud al área de protección de datos, aunque eso desafíe a tu jefe, genere conflicto y ponga en riesgo tu relación laboral.",
+      "pragmatic_distractor": "Propones obtener consentimiento explícito de los clientes antes de compartir sus datos, buscando cumplir con privacidad sin rechazar frontalmente la solicitud de tu jefe.",
+      "evasive_distractor": "Trasladas la consulta al área legal pidiendo autorización formal para proceder, trasladando la decisión y evitando responsabilidad directa sobre la interpretación de políticas.",
+      "rationalized_distractor": "Compartes la información argumentando que las políticas permiten interpretación, que el uso es para beneficio del cliente también y que tu jefe conoce mejor el contexto del negocio."
+    },
+    "word_count": 67,
+    "char_count": 369,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 15",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q076",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu equipo completó un proyecto exitoso pero tu jefe presenta los resultados a la alta dirección atribuyéndose el mérito sin reconocer el trabajo del equipo. Confrontarlo podría hacerte parecer resentido y dañar tu relación. Si callas, tu equipo pierde reconocimiento merecido y se desmotiva. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Solicitas cortésmente a tu jefe corregir la presentación para reconocer al equipo o pides autorización para presentar tú mismo el trabajo realizado, aunque eso te haga parecer resentido y dañe tu relación con él.",
+      "pragmatic_distractor": "Agradeces a tu equipo directamente y documentas sus contribuciones en comunicaciones internas y evaluaciones de desempeño, asegurando reconocimiento sin confrontar públicamente a tu jefe.",
+      "evasive_distractor": "Sugieres a miembros del equipo que ellos mismos comuniquen sus logros en otros espacios organizacionales, evitando ser tú quien confronte directamente la apropiación del jefe.",
+      "rationalized_distractor": "No intervienes argumentando que el jefe representa al equipo ante la dirección, que es normal que presente resultados de su área y que cuestionar esto dañaría innecesariamente la relación."
+    },
+    "word_count": 67,
+    "char_count": 368,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 16",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q077",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Eres parte de un proceso de debido cuidado para adquirir otra empresa y descubres pasivos ambientales significativos que el vendedor no reveló. Tu dirección argumenta que ya están muy avanzados en la negociación y que revelar esto ahora cancelaría el acuerdo. Si insistes en transparencia, pierdes la adquisición. Si callas, heredan problemas graves. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Insistes en incorporar los pasivos ambientales en la negociación o reconsiderar la adquisición con información completa, aunque eso probablemente cancele el acuerdo, genere frustración en la dirección y cuestione tu criterio comercial.",
+      "pragmatic_distractor": "Propones renegociar el precio de adquisición incluyendo descuentos por los pasivos identificados y fondos para remediarlos, buscando continuar con información transparente y riesgos mitigados.",
+      "evasive_distractor": "Solicitas que auditores ambientales externos validen la magnitud del problema antes de tu recomendación final, trasladando la responsabilidad de cuantificar y decidir sobre el riesgo a especialistas.",
+      "rationalized_distractor": "Procedes con la adquisición argumentando que todos los activos tienen pasivos, que los problemas ambientales se pueden gestionar después y que cancelar por esto sería excesivamente conservador."
+    },
+    "word_count": 68,
+    "char_count": 391,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 17",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q078",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Supervisas un programa de becas internas y notas que los criterios de selección, aunque formalmente objetivos, sistemáticamente favorecen a candidatos de ciertos perfiles socioculturales excluyendo talento diverso. Si propones cambios, enfrentas resistencia de quienes diseñaron el sistema. Si mantienes el status quo, perpetúas inequidad. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Propones reformular los criterios de selección para promover equidad real incluyendo diversidad de perfiles, aunque eso genere resistencia de quienes diseñaron el sistema, te haga parecer divisivo y retrase el programa actual.",
+      "pragmatic_distractor": "Añades criterios complementarios que valoren diversidad de experiencias sin eliminar los existentes, buscando ampliar oportunidades gradualmente sin confrontar directamente el diseño original.",
+      "evasive_distractor": "Propones que un comité externo de diversidad e inclusión evalúe el programa y recomiende ajustes, trasladando la responsabilidad de cuestionar el sistema a especialistas.",
+      "rationalized_distractor": "Mantienes los criterios actuales argumentando que fueron diseñados con buena intención, que reflejan estándares académicos objetivos y que modificarlos podría interpretarse como favoritismo inverso."
+    },
+    "word_count": 67,
+    "char_count": 379,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 18",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q079",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Trabajas en finanzas y descubres que tu empresa utiliza una interpretación agresiva de normas tributarias que, aunque defendible legalmente, contradice claramente el espíritu de la ley y reduce significativamente la carga impositiva. Señalarlo podría afectar financieramente a la empresa. Si callas, eres cómplice de evasión ética. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas tu inquietud al área de cumplimiento y propones adoptar una interpretación conservadora que respete el espíritu de la ley, aunque eso incremente la carga tributaria, afecte resultados financieros y genere resistencia de la dirección.",
+      "pragmatic_distractor": "Solicitas opinión de asesores tributarios independientes sobre la interpretación utilizada, buscando respaldo profesional externo antes de tomar posición sin bloquear inmediatamente las operaciones.",
+      "evasive_distractor": "Documentas tus reservas en comunicaciones internas sin bloquear el proceso, esperando que quede registro de tu advertencia sin asumir responsabilidad directa de cambiar la estrategia fiscal.",
+      "rationalized_distractor": "No intervienes argumentando que la interpretación es defendible legalmente, que maximizar eficiencia fiscal es responsabilidad fiduciaria con accionistas y que el espíritu de la ley es subjetivo."
+    },
+    "word_count": 68,
+    "char_count": 384,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 19",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q080",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Lideras un equipo multicultural y dos miembros tienen un conflicto que identificas tiene componentes de choque cultural y posibles sesgos implícitos. Intervenir directamente podría ser visto como sobreactuación. No intervenir permite que el conflicto se agrave y afecte la dinámica del equipo. ¿Cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Intervienes directamente facilitando una conversación sobre diferencias culturales y expectativas mutuas aunque algunos miembros consideren que sobreactúas o politizas un conflicto simple, arriesgando incomodidad en el equipo.",
+      "pragmatic_distractor": "Organizas una sesión de equipo sobre colaboración intercultural sin señalar el conflicto específico, esperando que el aprendizaje general ayude a resolver la situación particular indirectamente.",
+      "evasive_distractor": "Sugieres a los involucrados buscar mediación del área de gestión de personas, trasladando la responsabilidad de facilitar el diálogo a especialistas en resolución de conflictos.",
+      "rationalized_distractor": "No intervienes argumentando que son adultos profesionales que deben resolver sus diferencias directamente y que involucrarte en conflictos interpersonales normales podría infantilizar al equipo."
+    },
+    "word_count": 67,
+    "char_count": 373,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 20",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q081",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa desarrolla tecnología que podría tener aplicaciones militares aunque el proyecto actual es civil. Un cliente con vínculos militares se interesa en adquirirla. Legalmente puedes vender, pero éticamente te genera conflicto por posibles usos futuros. Si rechazas, pierdes ingresos importantes. Si vendes, podrías contribuir indirectamente a usos que desapruebas. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Rechazas la venta al cliente con vínculos militares priorizando tu postura ética sobre posibles usos de la tecnología, aunque eso signifique perder ingresos importantes y que tu dirección cuestione tu criterio comercial.",
+      "pragmatic_distractor": "Condicionas la venta a cláusulas contractuales estrictas que limiten el uso de la tecnología a aplicaciones civiles, buscando control sobre uso futuro sin rechazar completamente el negocio.",
+      "evasive_distractor": "Trasladas la decisión al área de ética corporativa o consejo directivo pidiendo lineamientos formales, evitando responsabilidad personal sobre una decisión con implicaciones morales complejas.",
+      "rationalized_distractor": "Procedes con la venta argumentando que la tecnología es civil, que los usos futuros no son tu responsabilidad y que cualquier tecnología puede tener aplicaciones no previstas originalmente."
+    },
+    "word_count": 68,
+    "char_count": 384,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 21",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q082",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Administras contratos de consultoría y descubres que un consultor externo entrega trabajos de baja calidad pero mantiene relación personal con quien toma las decisiones de renovación. Si señalas la baja calidad, cuestionas el criterio de tu superior. Si renuevas el contrato, desperdicias recursos en servicios deficientes. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Documentas objetivamente las deficiencias del consultor y recomiendas no renovar el contrato basado en criterios de calidad, aunque eso cuestione el criterio de tu superior, genere tensión y afecte tu relación laboral.",
+      "pragmatic_distractor": "Propones mantener al consultor con alcance reducido mientras incorporas otro proveedor para las tareas más críticas, buscando mejorar resultados sin confrontar directamente la relación existente.",
+      "evasive_distractor": "Solicitas evaluaciones formales de desempeño del consultor por parte de usuarios finales, trasladando la responsabilidad de evidenciar problemas a otros stakeholders sin posicionarte directamente.",
+      "rationalized_distractor": "Renuevas el contrato argumentando que las relaciones laborales consolidadas tienen valor, que cambiar de proveedor tiene costos de transición y que tu superior conoce mejor el contexto completo."
+    },
+    "word_count": 67,
+    "char_count": 375,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 22",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q083",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Participas en evaluaciones de desempeño y notas que los criterios aplicados penalizan sistemáticamente a empleados con responsabilidades de cuidado familiar que necesitan flexibilidad horaria. Si señalas el sesgo, cuestionas el sistema establecido. Si callas, perpetúas discriminación indirecta contra quienes tienen cargas familiares. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Señalas el sesgo en las evaluaciones y propones criterios que valoren resultados sobre presencia física, aunque eso cuestione el sistema establecido, genere resistencia de líderes tradicionales y te haga parecer activista.",
+      "pragmatic_distractor": "Aplicas flexibilidad interpretativa en tus evaluaciones favoreciendo resultados sobre horarios sin cambiar formalmente el sistema, buscando mitigar el sesgo desde tu ámbito de decisión.",
+      "evasive_distractor": "Propones que el área de diversidad e inclusión revise los criterios de evaluación, trasladando la responsabilidad de identificar y corregir el sesgo a especialistas.",
+      "rationalized_distractor": "Mantienes los criterios actuales argumentando que fueron diseñados para medir compromiso y que todos los empleados deben cumplir los mismos estándares independientemente de circunstancias personales."
+    },
+    "word_count": 68,
+    "char_count": 381,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 23",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q084",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Tu empresa lanzará una campaña publicitaria que, aunque creativa y legal, perpetúa estereotipos de género que consideras problemáticos. Expresar tu objeción podría hacerte parecer excesivamente sensible. Si no dices nada, la empresa proyecta valores que no compartes. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Manifiestas formalmente tu objeción sobre los estereotipos de género en la campaña y propones alternativas inclusivas, aunque eso te haga parecer excesivamente sensible, retrase el lanzamiento y genere fricción con el equipo creativo.",
+      "pragmatic_distractor": "Sugieres ajustes específicos que mantengan la creatividad pero eliminen los elementos más estereotipados, buscando mejorar la campaña sin rechazarla completamente ni detener el proceso.",
+      "evasive_distractor": "Propones validar la campaña con grupos de enfoque diversos antes del lanzamiento, trasladando la responsabilidad de identificar problemas a la reacción de audiencias externas.",
+      "rationalized_distractor": "No intervienes argumentando que la campaña es creativa y legal, que interpretar estereotipos es subjetivo y que cuestionar decisiones de marketing por sensibilidades personales excede tu rol."
+    },
+    "word_count": 66,
+    "char_count": 371,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 24",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q085",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Eres auditor interno y descubres que tu hermano, que trabaja en otra área de la empresa, cometió un error administrativo significativo que debería reportarse. Reportarlo objetivamente podría afectar gravemente su carrera. Omitirlo compromete tu integridad profesional y viola estándares de auditoría. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Reportas el hallazgo de auditoría objetivamente siguiendo protocolos profesionales y te excusas de cualquier decisión sobre consecuencias, aunque eso afecte gravemente la carrera de tu hermano y genere conflicto familiar.",
+      "pragmatic_distractor": "Adviertes a tu hermano del hallazgo y le sugieres que él mismo reporte y corrija el error antes de que salga formalmente en tu auditoría, buscando que asuma responsabilidad sin que tú lo expongas directamente.",
+      "evasive_distractor": "Te excusas formalmente del caso completo por conflicto de interés familiar y solicitas que otro auditor lo revise, trasladando la responsabilidad de reportar a un colega sin sesgo.",
+      "rationalized_distractor": "Omites el hallazgo argumentando que fue un error no intencional, que reportarlo sería desproporcionado dado que es familia y que puedes asegurar que no se repita mediante supervisión informal."
+    },
+    "word_count": 69,
+    "char_count": 380,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 25",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q086",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Diriges comunicaciones corporativas y la alta dirección te instruye emitir un comunicado público que técnicamente es cierto pero omite información contextual importante que cambiaría la percepción de los hechos. Si publicas tal cual, engañas por omisión. Si exiges completar la información, desafías instrucciones directas de liderazgo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a emitir el comunicado incompleto y exiges incluir el contexto relevante para transparencia completa, aunque eso desafíe instrucciones directas de la alta dirección, genere conflicto y ponga en riesgo tu posición.",
+      "pragmatic_distractor": "Publicas el comunicado instruido pero propones añadir información contextual en canales complementarios o en preguntas frecuentes, buscando transparencia gradual sin desobedecer frontalmente.",
+      "evasive_distractor": "Solicitas asesoría legal sobre posibles implicaciones de la omisión antes de publicar, trasladando la responsabilidad de autorizar o cuestionar el comunicado al área jurídica.",
+      "rationalized_distractor": "Publicas el comunicado argumentando que toda comunicación corporativa es estratégica, que no hay obligación de revelar todo y que tu rol es ejecutar la estrategia definida por liderazgo."
+    },
+    "word_count": 69,
+    "char_count": 386,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 26",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q087",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Supervisas prácticas profesionales de estudiantes y uno de ellos es hijo de un cliente importante que presiona para que reciba evaluación favorable independientemente de su desempeño real. Si evalúas objetivamente y reprueba, perjudicas la relación comercial. Si lo favoreces, traicionas tu responsabilidad educativa y con otros estudiantes. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Evalúas objetivamente al estudiante según su desempeño real independientemente de la presión, aunque eso perjudique la relación comercial con el cliente, genere conflicto con la dirección y afecte tu reputación como gestor de cuentas.",
+      "pragmatic_distractor": "Ofreces al estudiante retroalimentación intensiva y oportunidades adicionales de mejora antes de la evaluación final, buscando que alcance el estándar requerido genuinamente sin favorecerlo injustamente.",
+      "evasive_distractor": "Solicitas que un comité de evaluación más amplio revise el caso del estudiante, diluyendo tu responsabilidad individual en la decisión final sobre su aprobación.",
+      "rationalized_distractor": "Otorgas evaluación favorable argumentando que el estudiante tiene potencial aunque su desempeño actual sea deficiente, que las relaciones comerciales son importantes y que todos merecen oportunidades."
+    },
+    "word_count": 68,
+    "char_count": 382,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 27",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q088",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Trabajas en innovación y desarrollaste una mejora significativa de proceso fuera de horario laboral usando recursos mínimos de la empresa. La compañía afirma propiedad total. Tu contrato es ambiguo al respecto. Si cedes, pierdes reconocimiento y potencial beneficio económico. Si disputas, enfrentas un conflicto legal desigual. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Disputas la propiedad de la innovación argumentando tu contribución personal fuera de horario y buscas acuerdo de reconocimiento compartido, aunque enfrentes un conflicto legal desigual, generes tensión y pongas en riesgo tu continuidad.",
+      "pragmatic_distractor": "Propones un acuerdo donde la empresa mantiene la propiedad pero tú recibes reconocimiento formal y participación en beneficios económicos derivados, buscando compensación sin conflicto legal.",
+      "evasive_distractor": "Consultas con un abogado especializado en propiedad intelectual antes de posicionarte formalmente, evaluando viabilidad de tus reclamos sin comprometerte prematuramente a un conflicto.",
+      "rationalized_distractor": "Cedes la propiedad a la empresa argumentando que usaste recursos corporativos aunque mínimos, que es la práctica estándar en la industria y que disputar sería ingrato y perjudicial para tu carrera."
+    },
+    "word_count": 69,
+    "char_count": 389,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 28",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q089",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Gestionas un programa de responsabilidad social corporativa y descubres que algunas iniciativas son principalmente ejercicios de relaciones públicas sin impacto real, consumiendo recursos que podrían usarse en acciones genuinas. Si denuncias la superficialidad, cuestionas el programa que tú administras. Si continúas, perpetúas prácticas inefectivas. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Propones reformular el programa priorizando impacto real sobre visibilidad mediática aunque eso implique cuestionar el enfoque actual que tú administras, genere resistencia del área de comunicaciones y reduzca cobertura pública.",
+      "pragmatic_distractor": "Balanceas iniciativas visibles con proyectos de impacto profundo menos mediáticos, buscando cumplir objetivos de comunicación mientras incrementas gradualmente la efectividad real del programa.",
+      "evasive_distractor": "Contratas evaluación independiente de impacto social de las iniciativas actuales, trasladando a expertos externos la responsabilidad de identificar y evidenciar la superficialidad del programa.",
+      "rationalized_distractor": "Mantienes el enfoque actual argumentando que la visibilidad genera apoyo interno para responsabilidad social, que algo de impacto hay y que programas perfectos son imposibles en contextos corporativos."
+    },
+    "word_count": 67,
+    "char_count": 389,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 29",
+    "sot_checksum": "D739B398"
+  },
+  {
+    "id": "block-B06-q090",
+    "module_id": 3,
+    "block_id": "B06",
+    "type": "options",
+    "scenario": "Supervisas contrataciones y un candidato excepcionalmente calificado revela en la entrevista que tiene antecedentes penales por un delito no violento cometido años atrás, por el cual ya cumplió condena. Las políticas no prohíben explícitamente contratarlo pero existe presión implícita por evitar riesgos reputacionales. Si lo contratas, enfrentas cuestionamientos. Si lo rechazas, niegas una segunda oportunidad. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Contratas al candidato basándote en sus calificaciones actuales y en el principio de reinserción social, aunque enfrentes cuestionamientos sobre riesgo reputacional, presión de colegas conservadores y debas defender la decisión ante la dirección.",
+      "pragmatic_distractor": "Contratas al candidato en período de prueba extendido con supervisión más cercana, buscando darle oportunidad mientras mitigas riesgos percibidos y generas evidencia de desempeño.",
+      "evasive_distractor": "Trasladas la decisión final al área de gestión de personas o comité de contratación, diluyendo tu responsabilidad individual en aprobar o rechazar a alguien con antecedentes.",
+      "rationalized_distractor": "Rechazas al candidato argumentando que aunque merece segunda oportunidad, los riesgos reputacionales para la empresa son reales y que hay otros candidatos calificados sin ese factor de complejidad."
+    },
+    "word_count": 70,
+    "char_count": 405,
+    "length_status": "ok",
+    "audit_status": "ok",
+    "notes": "Modulo 3 Options B06 batch 06 item 30",
+    "sot_checksum": "D739B398"
+  }
+]

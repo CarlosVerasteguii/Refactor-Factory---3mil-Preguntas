@@ -51,9 +51,9 @@
     "type": "options",
     "scenario": "Participas activamente en programas de desarrollo profesional que la empresa valora mucho y promueve públicamente como parte de su cultura. Descubres que un colega cercano está falsificando sistemáticamente sus reportes de participación en sesiones de capacitación para cumplir requisitos sin asistir realmente. Denunciarlo formalmente podría dañar seriamente tu relación con él y con su círculo de amigos influyentes en la oficina. Callarlo significa ser cómplice de algo que contradice directamente los valores que la empresa promueve. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reportas la situación documentada al área de recursos humanos con evidencia específica, aceptando que esto dañará permanentemente tu relación con este colega, posiblemente con su grupo de amigos cercanos y algunos te verán como delator.",
+      "integrity_correct": "Reportas la situación documentada al área de personal con evidencia específica, aceptando que esto dañará permanentemente tu relación con este colega, posiblemente con su grupo de amigos cercanos y algunos te verán como delator.",
       "pragmatic_distractor": "Hablas directamente con el colega en privado y le das oportunidad de corregir voluntariamente la situación antes de que alguien más la descubra y escale.",
-      "evasive_distractor": "Esperas a observar si alguien más del equipo o de recursos humanos nota independientemente la irregularidad y decide reportarla primero.",
+      "evasive_distractor": "Esperas a observar si alguien más del equipo o del área de personal nota independientemente la irregularidad y decide reportarla primero.",
       "rationalized_distractor": "Asumes que los responsables del programa de capacitación eventualmente detectarán las inconsistencias en asistencia mediante sus propios controles sin tu intervención directa."
     },
     "notes": "Valores organizacionales vs lealtad personal - REFACTORED",
@@ -109,7 +109,7 @@
     "module_id": 5,
     "block_id": "B10",
     "type": "options",
-    "scenario": "La empresa organiza reuniones trimestrales de planificación estratégica para alinear todos los equipos en proyectos prioritarios del siguiente periodo. Después de analizar los recursos humanos y técnicos disponibles notas que las metas numéricas propuestas por la dirección son claramente poco realistas. Señalarlo públicamente en la reunión podría hacerte ver como pesimista, poco ambicioso o negativo ante los ejecutivos. Sin embargo, aceptar metas inalcanzables llevará inevitablemente a frustración del equipo, burnout y resultados pobres. ¿Qué postura tomas?",
+    "scenario": "La empresa organiza reuniones trimestrales de planificación estratégica para alinear todos los equipos en proyectos prioritarios del siguiente periodo. Después de analizar los recursos disponibles de personal y técnicos notas que las metas numéricas propuestas por la dirección son claramente poco realistas. Señalarlo públicamente en la reunión podría hacerte ver como pesimista, poco ambicioso o negativo ante los ejecutivos. Sin embargo, aceptar metas inalcanzables llevará inevitablemente a frustración del equipo, agotamiento y resultados pobres. ¿Qué postura tomas?",
     "options_structured": {
       "integrity_correct": "Expresas tus preocupaciones sobre la viabilidad de las metas en la reunión con análisis de recursos concretos, aceptando que la dirección te perciba como pesimista, algunos ejecutivos cuestionen tu ambición y esto afecte futuras oportunidades de liderazgo.",
       "pragmatic_distractor": "Aceptas públicamente las metas propuestas en la reunión pero ajustas internamente tus propios objetivos y los del equipo a niveles más realistas alcanzables.",

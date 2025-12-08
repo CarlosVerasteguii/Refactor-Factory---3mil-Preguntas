@@ -229,9 +229,9 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Administras licencias de software y detectas que varios equipos usan programas sin licencias activas para completar proyectos urgentes. Un gerente de proyecto te pide regularizar la situación después de la entrega para no retrasar el cronograma. Reportarlo ahora implicaría detener el proyecto y exponer el incumplimiento. ¿Cómo actúas?",
+    "scenario": "Administras licencias de programas y detectas que varios equipos usan aplicaciones sin licencias activas para completar proyectos urgentes. Un gerente de proyecto te pide regularizar la situación después de la entrega para no retrasar el cronograma. Reportarlo ahora implicaría detener el proyecto y exponer el incumplimiento. ¿Cómo actúas?",
     "options_structured": {
-      "integrity_correct": "Reportas inmediatamente el uso de software sin licencia y recomiendas suspender el proyecto hasta regularizar, aceptando que se retrase la entrega, que el gerente te responsabilice y que otros vean tu gestión como obstáculo operativo.",
+      "integrity_correct": "Reportas inmediatamente el uso de programas sin licencia y recomiendas suspender el proyecto hasta regularizar, aceptando que se retrase la entrega, que el gerente te responsabilice y que otros vean tu gestión como obstáculo operativo.",
       "pragmatic_distractor": "Adquieres las licencias de inmediato pero permites que el proyecto continúe mientras se formalizan, esperando regularizar sin detener completamente las operaciones.",
       "evasive_distractor": "Solicitas que el área legal determine si el uso temporal constituye infracción crítica y evitas tomar tú la decisión de reportar o regularizar.",
       "rationalized_distractor": "Regularizas después de la entrega priorizando que el proyecto beneficia a la empresa, que el riesgo legal es mínimo si se corrige pronto y que detenerlo causaría más daño."
@@ -514,7 +514,7 @@
     "module_id": 1,
     "block_id": "B02",
     "type": "options",
-    "scenario": "Lideras la auditoría de un proyecto de tecnología y descubres que se adquirieron licencias de software más costosas de lo necesario porque el proveedor es amigo personal del gerente del proyecto. Tu supervisor te sugiere no formalizar el hallazgo para evitar afectar la reputación del gerente. Si insistes, podrías generar conflicto interdepartamental y afectar tu imagen. ¿Qué incluyes en el reporte?",
+    "scenario": "Lideras la auditoría de un proyecto de tecnología y descubres que se adquirieron licencias de programas más costosas de lo necesario porque el proveedor es amigo personal del gerente del proyecto. Tu supervisor te sugiere no formalizar el hallazgo para evitar afectar la reputación del gerente. Si insistes, podrías generar conflicto interdepartamental y afectar tu imagen. ¿Qué incluyes en el reporte?",
     "options_structured": {
       "integrity_correct": "Incluyes formalmente el hallazgo de sobrecosto por relación personal no declarada y recomiendas revisar futuras adquisiciones, aceptando generar conflicto, que el gerente se moleste y que tu imagen como auditor se vea afectada.",
       "pragmatic_distractor": "Documentas el sobrecosto como observación técnica de optimización de compras sin mencionar específicamente la relación personal, esperando corregir sin señalar directamente al gerente.",
