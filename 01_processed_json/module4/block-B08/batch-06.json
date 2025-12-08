@@ -508,5 +508,345 @@
     "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
     "audit_status": "ok",
     "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q121",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu equipo atraviesa un periodo de entregas muy ajustadas y notas que algunos compañeros reaccionan con comentarios más duros de lo habitual. Te proponen que, como forma de descargar, tengan un espacio informal para desahogarse hablando de usuarios y jefaturas con tono irónico. Te preocupa que ese espacio normalice la agresividad. ¿Qué postura tomas?",
+    "options_structured": {
+      "integrity_correct": "Señalas que es importante hablar del malestar, pero propones hacerlo en un espacio más estructurado y respetuoso, incluso escalando la necesidad de apoyo a instancias formales aunque eso pueda generar resistencia inicial.",
+      "pragmatic_distractor": "Aceptas participar en el espacio irónico para mantener la cohesión del grupo, aunque en el fondo te incomode el tono que se está instalando.",
+      "evasive_distractor": "Dices que estás muy ocupado para sumarte y esquivas la conversación, sin expresar abiertamente tus reparos.",
+      "rationalized_distractor": "Piensas que mientras se haga en privado no hay problema y que el desahogo sarcástico es necesario para seguir rindiendo, por lo que decides apoyarlo sin revisar sus efectos."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 31",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q122",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Recibes la noticia de que, por cambios presupuestarios, se congelarán nuevas contrataciones y el equipo deberá enfrentar el próximo trimestre con la misma cantidad de personas pese al aumento de demanda. Sabes que el nivel de presión emocional crecerá y que algunos ya están al límite. ¿Qué planteas en las primeras reuniones de planificación?",
+    "options_structured": {
+      "integrity_correct": "Insistes en que, además de distribuir tareas, se identifiquen señales tempranas de saturación y se acuerden mecanismos para pedir apoyo sin estigma, aunque eso signifique cuestionar metas muy ambiciosas o pedir priorizar algunas actividades sobre otras.",
+      "pragmatic_distractor": "Propones trabajar con metas igual de altas pero agregando algunas reuniones breves de coordinación, confiando en que con mejor organización bastará para contener el estrés.",
+      "evasive_distractor": "Te limitas a escuchar lo que se decida y no intervienes, aunque tengas dudas sobre la capacidad real del equipo para sostener el ritmo.",
+      "rationalized_distractor": "Argumentas que la situación externa no deja otra opción que redoblar esfuerzos y que hablar de límites emocionales solo debilitaría el compromiso del grupo."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 32",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q123",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Te piden sustituir a una persona que suele manejar bien las situaciones tensas con usuarios, pero que hoy se ausentó por un permiso. Sabes que esa función implica recibir quejas duras y que tu paciencia no está en el mejor nivel. Podrías aceptar por compromiso o expresar que necesitas apoyo para asumir esa tarea. ¿Cómo lo abordas?",
+    "options_structured": {
+      "integrity_correct": "Comentas con honestidad que estás dispuesto a apoyar, pero propones que se definan descansos adicionales o que otra persona comparta el turno, aun cuando eso implique reorganizar la planificación del día.",
+      "pragmatic_distractor": "Aceptas cubrir toda la jornada sin condiciones para demostrar flexibilidad, confiando en que, aunque acabes más agotado, valdrá la pena.",
+      "evasive_distractor": "Sugieres vagamente que tal vez haya otra persona más adecuada sin explicar tu estado emocional, esperando que se elija a alguien más.",
+      "rationalized_distractor": "Piensas que solo enfrentándote a muchas situaciones tensas aprenderás a controlar tus reacciones y te lanzas a cubrir todo, sin considerar los riesgos para ti y para los usuarios."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 33",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q124",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En plena preparación de un informe complejo, tu equipo enfrenta una falla técnica que retrasa todo. Varios compañeros levantan la voz y se impacientan con el área de soporte. Sientes ganas de sumarte al reclamo, pero también percibes que la conversación está perdiendo el control. ¿Cómo decides intervenir?",
+    "options_structured": {
+      "integrity_correct": "Intervienes para bajar el tono, propones ordenar los problemas en una lista concreta y coordinar con soporte un plan realista de solución, aceptando que eso puede retrasar la entrega pero evitando que la tensión estalle.",
+      "pragmatic_distractor": "Te sumas al reclamo colectivo con comentarios fuertes, esperando que la presión sirva para que soporte actúe más rápido.",
+      "evasive_distractor": "Te alejas del grupo y esperas a que otros resuelvan la conversación con soporte, manteniéndote al margen.",
+      "rationalized_distractor": "Piensas que la única forma de que soporte reaccione es aumentar la presión y decides dejar que el tono duro siga escalando sin intervenir."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 34",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q125",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Te piden que, además de tus responsabilidades habituales, apoyes en una mesa de ayuda que suele recibir consultas cargadas de frustración. Te preocupa que, si respondes varias de esas interacciones seguidas, termines contestando con dureza. Sabes que el apoyo es necesario para el equipo. ¿Qué condiciones planteas, si planteas alguna?",
+    "options_structured": {
+      "integrity_correct": "Aceptas apoyar siempre que se definan turnos rotativos y pausas cortas para quienes atienden esa mesa, explicando que así se cuida mejor el trato, aunque eso exija negociar con la jefatura la forma de organizarse.",
+      "pragmatic_distractor": "Aceptas atender todas las consultas que te asignen ese día sin cambiar tu planificación, confiando en que resistirás la presión sin mayor problema.",
+      "evasive_distractor": "Propones que primero se capacite a otros y postergas indefinidamente tu participación, sin reconocer abiertamente tu preocupación por el control emocional.",
+      "rationalized_distractor": "Consideras que exponerte intensamente al enojo de usuarios te hará más fuerte y decides tomar todas las consultas posibles sin pedir ningún ajuste."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 35",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q126",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "A poco de terminar tu jornada, un colega te escribe diciendo que tiene una crisis personal y que le cuesta concentrarse, pero que igual planea quedarse hasta tarde para no fallar con el trabajo. Percibes que está al borde del colapso emocional. Tienes también tus propios pendientes. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Le propones hablar unos minutos para escuchar lo que le ocurre y, si es necesario, sugieres redistribuir parte de sus tareas o escalar el tema con la jefatura para buscar alternativas, aunque eso implique alargar tu propio día o asumir algo más de carga.",
+      "pragmatic_distractor": "Le recomiendas que tome un café y haga una lista de pendientes para concentrarse, enfocándose en terminar la jornada sin modificar nada estructural.",
+      "evasive_distractor": "Le dices que esperas que se sienta mejor pronto y sigues con tus tareas, evitando involucrarte en profundidad.",
+      "rationalized_distractor": "Piensas que cada quien debe aprender a manejar su propio estrés y decides no intervenir más, convenciéndote de que, si lo ayudas demasiado, reforzarás dependencia."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 36",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q127",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu organización ofrece una sesión voluntaria sobre manejo del estrés en la que participan pocas personas. Sabes que te haría bien, pero coincide con una franja en que podrías adelantar trabajo y quedar muy bien ante tu jefatura. Te cuesta decidir entre priorizar tu equilibrio emocional o aprovechar ese tiempo para avanzar. ¿Qué eliges?",
+    "options_structured": {
+      "integrity_correct": "Decides asistir a la sesión, incluso si eso implica reorganizar tareas y explicar que estarás fuera un tiempo, considerando que fortalecer tu manejo emocional impactará positivamente en tu desempeño a mediano plazo.",
+      "pragmatic_distractor": "Optas por no asistir para aprovechar esa hora en adelantar entregas, diciéndote que más adelante buscarás información por tu cuenta.",
+      "evasive_distractor": "Te inscribes pero a último momento decides no conectarte ni avisar, quedándote en tu puesto como si nada.",
+      "rationalized_distractor": "Concluyes que las sesiones sobre estrés son más para quienes no están acostumbrados a la presión y decides que en tu caso no son necesarias."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 37",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q128",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Un día especialmente cargado, cometes un error menor que podría corregirse con algo de tiempo adicional. Tu primer impulso es culpar al sistema o a la falta de información para proteger tu imagen, pero sabes que también influyó tu cansancio y cierta prisa. La forma en que expliques lo ocurrido afectará cómo otros perciben tu control emocional. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reconoces el error asumiendo tu parte de responsabilidad, señalas cómo el ritmo de trabajo influyó y propones medidas para evitar que vuelva a ocurrir, aunque eso implique exponer que estabas trabajando al límite.",
+      "pragmatic_distractor": "Señalas solo problemas técnicos o de información en tu explicación, evitando mencionar tu estado emocional para no abrir ese tema.",
+      "evasive_distractor": "Das una explicación muy general y cambias rápido de tema, esperando que nadie profundice en lo que pasó.",
+      "rationalized_distractor": "Argumentas que, con tanta carga, es imposible no cometer errores y que por lo tanto no vale la pena analizar en detalle lo ocurrido."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 38",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q129",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Un compañero te comenta que se ha sentido herido por varias bromas que hiciste sobre su forma de reaccionar bajo presión. Dice que le cuesta confiar en ti cuando hay tensión porque teme ser ridiculizado. Te sorprende escucharlo así. Podrías defenderte argumentando que solo jugabas o escuchar el impacto que generaste. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Le escuchas sin interrumpir, reconoces que tus bromas pudieron cruzar un límite y ofreces cambiar tu forma de comentar, asumiendo el esfuerzo de cuidar más tu lenguaje aun si eso implica aceptar que te equivocaste.",
+      "pragmatic_distractor": "Le dices que no era tu intención y que está exagerando, intentando cerrar el tema rápido para evitar una conversación más profunda.",
+      "evasive_distractor": "Le respondes que hablarán luego porque ahora estás ocupado y nunca retomas la conversación.",
+      "rationalized_distractor": "Consideras que en contextos de alta exigencia todos deben acostumbrarse a bromas fuertes y decides seguir igual, pensando que quien se sienta mal debe fortalecer su carácter."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 39",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q130",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En una reunión con tu jefatura, se señala que la forma en que el equipo maneja las discusiones tensas influye en cómo otras áreas los perciben. Te preguntan directamente qué podría mejorarse y piensas en varios episodios en los que tú mismo has elevado la voz. Podrías mencionar solo problemas externos o incluir tu propio comportamiento. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Comentas que, además de factores externos, cada persona, incluida tú, necesita revisar cómo responde al estrés y propones incorporar pautas claras para las discusiones difíciles, aun cuando eso te exponga como parte de lo que debe cambiar.",
+      "pragmatic_distractor": "Mencionas solo presiones de otras áreas o tiempos ajustados como causa del clima tenso, evitando referirte a reacciones específicas del equipo.",
+      "evasive_distractor": "Dices que no ves mayores problemas y sugieres seguir como hasta ahora, señalando que solo han sido casos aislados.",
+      "rationalized_distractor": "Afirmas que en equipos de alto desempeño siempre habrá discusiones intensas y que tratar de regular demasiado el tono podría frenar la agilidad."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 40",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q131",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Un responsable de proyecto te pide que, a partir de ahora, informes con detalle cualquier situación en la que sientas que podrías perder el control emocional, para anticipar ajustes. Te parece una petición inusual y temes que compartir esas señales pueda jugar en tu contra en evaluaciones futuras. ¿Cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Aceptas la propuesta pero planteas condiciones claras de confidencialidad y uso de esa información, explicando que estás dispuesto a compartir señales tempranas siempre que se orienten a apoyos reales, aunque eso suponga conversaciones más profundas sobre tu estado.",
+      "pragmatic_distractor": "Asientes y dices que avisarás, pero en la práctica no compartes nada porque prefieres manejarlo solo, manteniendo la apariencia de que todo está bien.",
+      "evasive_distractor": "Respondes que ahora no puedes hablar del tema y dejas la solicitud sin retomarla, esperando que se olvide.",
+      "rationalized_distractor": "Consideras que revelar momentos de vulnerabilidad es incompatible con una imagen profesional fuerte y decides no compartir ninguna señal, convencido de que es mejor proteger tu reputación."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 41",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q132",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En una instancia de retroalimentación grupal, se comenta que algunos tienden a hablar sobre compañeros a sus espaldas cuando están irritados en lugar de plantear directamente los temas. Reconoces que tú también has hecho eso luego de días especialmente tensos. El facilitador pregunta si alguien quiere comentar algo sobre ese patrón. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Decides compartir que tú mismo has caído en ese comportamiento y propones acordar reglas para canalizar las quejas de forma directa y respetuosa, aun sabiendo que podrían recordarte tus palabras si vuelves a caer en lo mismo.",
+      "pragmatic_distractor": "Te mantienes en silencio y esperas que otros se hagan cargo de la conversación, para no exponerte.",
+      "evasive_distractor": "Dices que solo comentas cosas cuando son muy graves y que no te sientes identificado con el problema, aunque sepas que no es del todo cierto.",
+      "rationalized_distractor": "Piensas que hablar en privado sobre frustraciones es inevitable y que no vale la pena cambiarlo, así que decides no involucrarte en ninguna iniciativa al respecto."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 42",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q133",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tu jefatura te propone asumir la coordinación temporal de un equipo muy expuesto a situaciones críticas. El rol aumentará tu visibilidad, pero también te colocará frente a más conversaciones difíciles y personas al borde del colapso emocional. Sabes que has tenido reacciones más intensas de lo habitual en meses recientes. ¿Cómo decides?",
+    "options_structured": {
+      "integrity_correct": "Aceptas solo tras conversar abiertamente sobre tu situación emocional y pedir apoyo específico, como supervisión periódica o espacios de descarga, aun cuando eso pueda hacer que reconsideren ofrecerte el rol.",
+      "pragmatic_distractor": "Aceptas sin mencionar tus dudas para no perder la oportunidad, confiando en que podrás controlarte mejor una vez en el puesto.",
+      "evasive_distractor": "Pides tiempo para pensarlo y postergas la respuesta hasta que otra persona sea designada, evitando tomar una decisión clara.",
+      "rationalized_distractor": "Decides que la mejor forma de obligarte a controlar tus reacciones es ponerte en un rol muy exigente y aceptas sin pedir ningún apoyo."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 43",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q134",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Tras una semana particularmente dura, notas que te cuesta disfrutar actividades fuera del trabajo y que hablas casi exclusivamente de temas laborales con tu entorno cercano. Un familiar te dice que te ve más irritable y ausente. Puedes restar importancia a ese comentario o tomarlo como alerta sobre tu forma de gestionar el estrés. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Escuchas con atención la observación, reconoces que la situación laboral está ocupando demasiado espacio y te propones fijar límites claros entre trabajo y vida personal, incluso hablando con tu jefatura si necesitas ajustar horarios.",
+      "pragmatic_distractor": "Respondes que solo es una etapa intensa y que ya pasará, sin introducir cambios en cómo organizas tu tiempo y tu energía.",
+      "evasive_distractor": "Cambias de tema o haces un comentario ligero, evitando profundizar en cómo te está afectando el trabajo.",
+      "rationalized_distractor": "Consideras que, si quieres crecer profesionalmente, es normal que el trabajo sea lo central y decides mantener el mismo ritmo, convencido de que tu entorno debe entenderlo."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 44",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q135",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Durante una reunión virtual con varias personas conectadas, tienes un problema de conexión que retrasa tu presentación y escuchas suspiros y comentarios sobre el tiempo perdido. Te sientes avergonzado y con el impulso de apurar tu exposición, a riesgo de sonar cortante o confuso. ¿Cómo eliges manejar tus emociones y el ritmo de la reunión?",
+    "options_structured": {
+      "integrity_correct": "Reconoces brevemente el contratiempo, pides un minuto para ordenar el material y retomas con un ritmo claro aunque eso consuma algo más de tiempo, priorizando mantener un tono sereno en lugar de reaccionar desde la vergüenza.",
+      "pragmatic_distractor": "Aceleras la presentación para recuperar los minutos perdidos, hablando más rápido y respondiendo con poca paciencia a las preguntas.",
+      "evasive_distractor": "Propones enviar la información por correo y terminas la reunión cuanto antes, para evitar seguir expuesto.",
+      "rationalized_distractor": "Te dices que, dado el retraso, es comprensible mostrarse molesto y permites que esa irritación se note en tu tono con el grupo."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 45",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q136",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En una conversación con tu supervisor, te propone asumir un nuevo proyecto desafiante justo cuando estás cerrando otro muy demandante. Te entusiasma el reto, pero también sabes que has tenido señales de irritabilidad y cansancio. Aceptar sin condiciones podría llevarte a reaccionar con poca paciencia con otras personas. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Agradeces la confianza, explicas con honestidad tu carga actual y propones condiciones claras para asumir el nuevo proyecto, como ajustar plazos o redistribuir tareas, asumiendo que podría retrasarse tu participación o asignarse a otra persona.",
+      "pragmatic_distractor": "Aceptas de inmediato para no perder la oportunidad, dejando para más adelante cualquier conversación sobre carga y manejo emocional.",
+      "evasive_distractor": "Pides unos días para responder y los usas para intentar adelantar al máximo el proyecto actual, sin revisar de fondo si tienes la capacidad emocional para sumar otro reto.",
+      "rationalized_distractor": "Decides que, si quieres crecer, debes acostumbrarte a estar siempre al límite y aceptas sin plantear ningún ajuste, minimizando las señales que ya estás sintiendo."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 46",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q137",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En un correo de cierre de semana, tu jefatura destaca tu capacidad para responder en situaciones críticas, pero también menciona que a veces pareces poco disponible para escuchar cuando estás bajo presión. Te incomoda el comentario, pero reconoces algunos episodios. ¿Cómo eliges manejar esta devolución?",
+    "options_structured": {
+      "integrity_correct": "Respondes agradeciendo el reconocimiento y pidiendo ejemplos concretos sobre los momentos en que pareciste poco disponible, comprometiéndote a revisar cómo equilibrar la rapidez de respuesta con una escucha más abierta, incluso si eso implica recibir críticas detalladas.",
+      "pragmatic_distractor": "Te quedas solo con la parte positiva del mensaje y respondes agradeciendo el reconocimiento, sin mencionar la observación sobre tu escucha.",
+      "evasive_distractor": "No respondes el correo y dejas pasar la devolución, esperando que no vuelva a mencionarse.",
+      "rationalized_distractor": "Decides que, en momentos críticos, escuchar demasiado solo retrasa las decisiones y concluyes que esa característica tuya es una fortaleza, no algo a cambiar."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 47",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q138",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Al revisar tus últimas semanas, detectas que cada vez necesitas más tiempo después del trabajo para bajar la tensión, llegando a casa en silencio y sin ganas de interactuar. Tu entorno familiar comienza a comentarlo. Sabes que seguir así puede afectar esas relaciones. ¿Qué acción decides tomar respecto a tu forma de manejar el estrés laboral?",
+    "options_structured": {
+      "integrity_correct": "Decides hablar con tu jefatura sobre cómo te está impactando la carga y explorar ajustes o apoyos, al mismo tiempo que introduces rituales claros para cerrar el día antes de llegar a casa, aun cuando eso requiera renegociar hábitos que te hacían sentir eficiente.",
+      "pragmatic_distractor": "Buscas actividades rápidas de distracción al salir del trabajo sin revisar la carga ni hablar con nadie sobre lo que te ocurre.",
+      "evasive_distractor": "Intentas pasar más tiempo en la oficina o en trayectos para evitar llegar cuando tu familia esté despierta, esquivando la conversación.",
+      "rationalized_distractor": "Piensas que tu entorno debería entender que estás bajo mucha presión y que es natural llegar irritado, así que decides no cambiar nada por ahora."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 48",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q139",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "En tu equipo se propone implementar una breve instancia semanal para revisar cómo se está sintiendo cada persona ante la carga y el clima. Algunos comentan que eso puede ser una pérdida de tiempo. Sabes que en tu caso te cuesta hablar de emociones frente a colegas, pero también reconoces que podría ayudar a prevenir reacciones impulsivas. ¿Qué postura tomas?",
+    "options_structured": {
+      "integrity_correct": "Apoyas la iniciativa y te comprometes a participar de forma honesta, aunque te resulte incómodo, porque consideras que compartir señales tempranas puede evitar problemas mayores más adelante.",
+      "pragmatic_distractor": "Sugieres reemplazar la instancia por un correo anónimo donde cada uno marque su nivel de estrés, evitando tener que hablar directamente del tema.",
+      "evasive_distractor": "Aceptas la idea en la reunión pero luego llegas tarde o te ausentas seguido, para no exponerte.",
+      "rationalized_distractor": "Coincides en que la instancia no es necesaria porque cada adulto debería manejar sus emociones en privado, y votas por eliminarla."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 49",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
+  },
+  {
+    "id": "block-B08-q140",
+    "module_id": 4,
+    "block_id": "B08",
+    "type": "options",
+    "scenario": "Después de un periodo de alta exigencia, tu organización ofrece a algunas personas la posibilidad de tomar unos días libres para recuperar energías, pero advierte que eso implicará reasignar tareas a compañeros. Te sientes muy desgastado y temes tener una reacción impulsiva en cualquier momento, pero también te preocupa sobrecargar al resto del equipo. ¿Qué priorizas?",
+    "options_structured": {
+      "integrity_correct": "Solicitas los días de descanso explicando con honestidad tu nivel de desgaste y te comprometes a dejar ordenado tu trabajo y documentar lo necesario, aun sabiendo que algunos podrían molestarse por recibir tareas adicionales mientras te ausentas.",
+      "pragmatic_distractor": "Decides no tomar los días para evitar que otros se recarguen y continúas trabajando como hasta ahora, esperando aguantar hasta la próxima oportunidad de vacaciones.",
+      "evasive_distractor": "Dices que lo estás pensando, pero dejas pasar el plazo para pedir los días libres, sin tomar una decisión clara.",
+      "rationalized_distractor": "Concluyes que tomar descanso ahora sería una muestra de debilidad y prefieres seguir acumulando tensión, convenciéndote de que así demuestras compromiso incondicional."
+    },
+    "notes": "Modulo 4 Options B08 batch 06 item 50",
+    "sot_checksum": "10768ab6229f1d66cd25776d8818d9d0",
+    "audit_status": "ok",
+    "audit_notes": "All checks passed: length within qualitative range; banned words absent; options balanced."
   }
 ]
