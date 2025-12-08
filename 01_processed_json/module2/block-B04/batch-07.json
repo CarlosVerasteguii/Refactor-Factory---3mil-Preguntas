@@ -1,0 +1,752 @@
+[
+  {
+    "id": "block-B04-q141",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un competidor te ofrece mejor salario y condiciones, pero en tu empresa actual has construido relaciones sólidas y conoces bien los procesos. Tu jefe te pide una respuesta rápida sobre si seguirás, pero aún no tienes claridad sobre posibles mejoras internas.",
+    "options_structured": {
+      "integrity_correct": "Solicitas tiempo razonable para evaluar ambas opciones y conversas honestamente con tu jefe sobre que necesitarias para quedarte, aunque podrian percibirte como desleal por considerar irse.",
+      "pragmatic_distractor": "Usas la oferta externa para negociar un aumento, sin intencion real de irte, apostando a que cedeeran por no perderte.",
+      "evasive_distractor": "Das respuestas ambiguas sobre tu decision mientras ganas tiempo, evitando comprometerte con ninguna opcion hasta ultimo momento.",
+      "rationalized_distractor": "Optas por quedarte sin negociar, convenciéndote de que la lealtad al equipo vale más que pedir mejoras ahora."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 1",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q142",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa anuncia una reorganización que afectará tu área, pero no aclara quiénes conservarán su puesto ni bajo qué criterios se tomará esa decisión. Varios colegas empiezan a buscar empleo discretamente mientras mantienen apariencia de compromiso total.",
+    "options_structured": {
+      "integrity_correct": "Preguntas directamente a tu supervisor que se espera de ti durante el proceso y cual es tu situacion, aunque podrian interpretarlo como inseguridad.",
+      "pragmatic_distractor": "Refuerzas tu presencia en reuniones clave y proyectos visibles sin preguntar nada, confiando en que destacar te protegera.",
+      "evasive_distractor": "Te mantienes al margen de conversaciones sobre la reorganizacion y continuas tu trabajo normal, esperando que las decisiones no te afecten.",
+      "rationalized_distractor": "Exploras opciones externas en silencio, diciéndote que ante la falta de transparencia es prudente contar con un plan B."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 2",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q143",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Llevas tres años en el mismo rol sin ascensos ni aumentos significativos, aunque cumples bien tus funciones. Cuando preguntas por desarrollo, te dicen que 'todo a su tiempo'. Recibes una oferta externa con mejor proyección pero en un sector menos estable.",
+    "options_structured": {
+      "integrity_correct": "Planteas formalmente un plan de desarrollo con plazos concretos y, si no hay respuesta clara, evaluas objetivamente la oferta externa, aunque eso implique arriesgar la comodidad actual.",
+      "pragmatic_distractor": "Te quedas donde estas porque conoces el trabajo y es seguro, esperando que con el tiempo surjan oportunidades sin tener que presionar.",
+      "evasive_distractor": "Aceptas la oferta externa sin haber agotado la conversacion interna, para evitar la incomodidad de negociar con tu jefe actual.",
+      "rationalized_distractor": "Descartas la oferta externa y te repites que la estabilidad actual pesa más que arriesgarte, aunque pierdas proyección."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 3",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q144",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu equipo sufre alta rotación y cada vez asumes más tareas de quienes se van, sin ajuste en compensación ni contrataciones nuevas. Te sientes agotado pero temes que plantear límites pueda poner en riesgo tu permanencia.",
+    "options_structured": {
+      "integrity_correct": "Documentas la sobrecarga y propones redistribucion de trabajo o nuevas contrataciones, aunque podrian verte como poco colaborativo en momento de crisis.",
+      "pragmatic_distractor": "Sigues absorbiendo el trabajo extra, confiando en que eventualmente habra reconocimiento o compensacion.",
+      "evasive_distractor": "Haces solo lo imprescindible de las nuevas tareas y dejas que algunas cosas queden incompletas, sin comunicar formalmente la situacion.",
+      "rationalized_distractor": "Reduces tu ritmo a lo sostenible, convenciéndote de que sin respaldo ni reconocimiento no vale cargar más."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 4",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q145",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La dirección cambia frecuentemente de estrategia, haciendo que proyectos en los que invertiste esfuerzo queden archivados sin explicación. Te preguntas si tu trabajo realmente importa y si tiene sentido seguir comprometido con iniciativas que pueden cancelarse en cualquier momento.",
+    "options_structured": {
+      "integrity_correct": "Solicitas una reunion para entender los criterios de priorizacion de proyectos y como alinear tu trabajo con objetivos de largo plazo, aunque podrian verte como quien cuestiona decisiones estrategicas.",
+      "pragmatic_distractor": "Te adaptas a cada cambio sin preguntar y trabajas en lo que pidan, evitando involucrarte emocionalmente en ningun proyecto.",
+      "evasive_distractor": "Reduces tu nivel de compromiso con nuevas iniciativas, esperando ver cuales sobreviven antes de invertir esfuerzo real.",
+      "rationalized_distractor": "Te limitas a cumplir sin cuestionar, asumiendo que la volatilidad es ajena a ti y es mejor no involucrarte."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 5",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q146",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un nuevo líder llega al área y comienza a reemplazar personas de confianza del equipo anterior por gente de su círculo. Aunque tu desempeño es bueno, temes que la falta de conexión personal con la nueva jefatura afecte tu futuro en la organización.",
+    "options_structured": {
+      "integrity_correct": "Buscas conocer las expectativas del nuevo lider y demuestras tu valor profesional con resultados concretos, aunque la politica interna podria pesar mas que el desempeno.",
+      "pragmatic_distractor": "Te esfuerzas por caerle bien al nuevo jefe mediante gestos de alineamiento, aunque no compartas todas sus decisiones.",
+      "evasive_distractor": "Mantienes distancia y te concentras solo en tu trabajo, evitando exponerte hasta ver como se acomodan las cosas.",
+      "rationalized_distractor": "Exploras otras opciones en paralelo, diciéndote que sin sintonía política tu avance será limitado."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 6",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q147",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te enteras por rumores de pasillo que hay planes de cerrar tu sede y centralizar operaciones en otra ciudad. La dirección no ha comunicado nada oficial, y algunos colegas empiezan a actualizar perfiles profesionales discretamente.",
+    "options_structured": {
+      "integrity_correct": "Pides informacion oficial sobre los planes futuros de la sede y posibles alternativas para el equipo, aunque podrian confirmar malas noticias o verte como alarmista.",
+      "pragmatic_distractor": "Empiezas a explorar opciones externas discretamente, mientras te mantienes aparentemente comprometido en el trabajo actual.",
+      "evasive_distractor": "Ignoras los rumores y continuas como si nada, confiando en que si algo fuera cierto, ya te habrian avisado formalmente.",
+      "rationalized_distractor": "Evitas pedir aclaraciones y avanzas con alternativas, asumiendo que prepararte en silencio es más seguro que sonar alarmista."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 7",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q148",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu contrato temporal lleva un año renovándose cada tres meses sin explicación sobre posibilidad de permanencia definitiva. Esa incertidumbre afecta tus decisiones personales, pero cada vez que preguntas, recibes respuestas vagas sobre 'depende del presupuesto'.",
+    "options_structured": {
+      "integrity_correct": "Solicitas formalmente un plazo para definir tu situacion contractual y explicas como la incertidumbre afecta tu compromiso, aunque podrian verte como quien presiona.",
+      "pragmatic_distractor": "Sigues aceptando las renovaciones sin plantear nada, esperando que con el tiempo la situacion se regularice.",
+      "evasive_distractor": "Empiezas a buscar estabilidad en otro lado sin comunicar tu malestar, manteniendote disponible aqui mientras tanto.",
+      "rationalized_distractor": "Sigues a tu ritmo mientras buscas opciones, convenciéndote de que sin certeza contractual es sensato no comprometerse más."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 8",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q149",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa ofrece un programa de retiro voluntario con indemnización atractiva. Aunque no planeas irte, varios colegas lo están considerando y te preguntan tu opinión. Sabes que lo que digas puede influir en sus decisiones y en cómo te percibe la dirección.",
+    "options_structured": {
+      "integrity_correct": "Compartes honestamente tu perspectiva equilibrando pros y contras, dejando claro que cada uno debe decidir segun su situacion, aunque tu postura podria llegar a oidos de la jefatura.",
+      "pragmatic_distractor": "Les mencionas principalmente aspectos positivos de quedarse, para no influir en decisiones que puedan aumentar tu carga de trabajo.",
+      "evasive_distractor": "Evitas opinar sobre el tema, diciendo que es muy personal, para no comprometerte con ninguna postura.",
+      "rationalized_distractor": "Les compartes tu propia perspectiva sobre la empresa, aunque podrias estar proyectando inquietudes que no aplican a su situacion."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 9",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q150",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Llevas meses trabajando en horarios extendidos para sacar adelante un proyecto crítico. Cuando finalmente termina, no hay reconocimiento formal ni ajuste en compensación. Te debates entre plantear tu incomodidad o aceptar que así funciona la cultura organizacional.",
+    "options_structured": {
+      "integrity_correct": "Solicitas una reunion para conversar sobre reconocimiento al esfuerzo extra y condiciones futuras, aunque podrian decir que hiciste solo lo esperado.",
+      "pragmatic_distractor": "Sigues trabajando igual, esperando que en la proxima evaluacion o promocion se refleje tu dedicacion.",
+      "evasive_distractor": "No dices nada del tema, pero empiezas a trabajar en horario normal sin explicar por que cambio tu disponibilidad.",
+      "rationalized_distractor": "Ajustas tu esfuerzo al mínimo que consideras justo, diciéndote que sin reconocimiento extra no tiene sentido excederte."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 10",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q151",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un familiar cercano enferma y necesitas mayor flexibilidad horaria temporal. Tu jefe te ha dicho antes que valora la disponibilidad total, y temes que pedir ajustes pueda afectar cómo perciben tu compromiso con la organización.",
+    "options_structured": {
+      "integrity_correct": "Explicas tu situacion personal con honestidad y propones un plan de trabajo flexible que cumpla con tus responsabilidades, aunque podrian verte como menos disponible que otros.",
+      "pragmatic_distractor": "Te esfuerzas por mantener apariencia de disponibilidad, ajustando tiempo con tu familiar para no mostrar limitaciones.",
+      "evasive_distractor": "Pides los ajustes sin dar detalles de la razon, esperando que no pregunten demasiado sobre tus circunstancias personales.",
+      "rationalized_distractor": "Decides no negociar flexibilidad, convenciéndote de que si no valoran el contexto familiar cualquier pedido solo te expondrá."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 11",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q152",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa implementa una política de regreso obligatorio a oficina después de dos años de trabajo remoto exitoso. Vives lejos y el cambio afectaría seriamente tu calidad de vida. Algunos compañeros planean renunciar y otros negociar excepciones.",
+    "options_structured": {
+      "integrity_correct": "Presentas formalmente argumentos sobre tu productividad remota y solicitas consideracion especial por tu distancia, aunque podrian rechazarlo y verte como quien no se adapta.",
+      "pragmatic_distractor": "Aceptas regresar a oficina sin cuestionar, asumiendo costos de tiempo y dinero para no arriesgar tu puesto.",
+      "evasive_distractor": "Empiezas a buscar otro empleo remoto sin comunicar tu desacuerdo con la politica, mientras cumples temporalmente con la presencialidad.",
+      "rationalized_distractor": "Exploras alternativas remotas en silencio, diciéndote que antes de sacrificar calidad de vida es mejor tener otro destino."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 12",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q153",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Observas que personas con menos experiencia y resultados similares a los tuyos reciben promociones mientras tú sigues en el mismo nivel. Cuando preguntas por qué, te dicen que debes 'mostrar más liderazgo', sin ejemplos concretos de qué significa eso.",
+    "options_structured": {
+      "integrity_correct": "Solicitas criterios especificos y medibles para promocion, y feedback detallado sobre que te falta desarrollar, aunque podrian interpretarlo como reclamo o frustracion.",
+      "pragmatic_distractor": "Empiezas a copiar comportamientos de quienes fueron promovidos, sin entender si eso realmente suma valor a tu trabajo.",
+      "evasive_distractor": "Dejas de aspirar a promociones y te conformas con tu nivel actual, evitando conversaciones incomodas sobre desarrollo.",
+      "rationalized_distractor": "Bajas el esfuerzo en esos criterios difusos, asumiendo que las decisiones son políticas y no vale desgastarse."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 13",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q154",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te piden firmar un nuevo contrato con cláusula de no competencia muy restrictiva que limitaría tus opciones futuras si decides irte. Necesitas el empleo, pero la cláusula te parece excesiva para tu nivel y sector.",
+    "options_structured": {
+      "integrity_correct": "Solicitas revisar y negociar los terminos de la clausula con argumentos razonables, aunque podrian verte como poco comprometido o dificil.",
+      "pragmatic_distractor": "Firmas sin objecion pensando que en el futuro encontraras forma de manejar las restricciones si es necesario.",
+      "evasive_distractor": "Firmas pero con reservas mentales, sin intencion real de cumplir la clausula si decides cambiar de empleo.",
+      "rationalized_distractor": "Postergas la firma y tanteas opciones, convenciéndote de que una cláusula así no corresponde a tu rol y es mejor no atarte."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 14",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q155",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un colega cercano renuncia por trato injusto de la jefatura. Conoces los detalles y sabes que tiene razón, pero temes que apoyarlo públicamente pueda poner en riesgo tu propia permanencia. Otros guardan silencio para protegerse.",
+    "options_structured": {
+      "integrity_correct": "Expresas en la reunion de salida o con tu supervisor que ciertos comportamientos afectan la retencion de talento, aunque podrian asociarte con la critica y afectar tu relacion con la jefatura.",
+      "pragmatic_distractor": "Le das apoyo privado a tu colega pero publicamente te mantienes neutral, priorizando tu propia seguridad laboral.",
+      "evasive_distractor": "Evitas involucrarte, sin dar apoyo ni opinar, esperando que el tema pase sin afectarte.",
+      "rationalized_distractor": "Mantienes distancia, diciéndote que cada quien gestiona su conflicto y exponerte solo pondría en riesgo tu lugar."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 15",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q156",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa pasa por crisis financiera y anuncia congelamiento de salarios indefinido. Aunque entiendes la situación, tus gastos personales han aumentado y necesitas mejorar ingresos. Un reclutador te contacta con oportunidad mejor pagada pero en empresa menos conocida.",
+    "options_structured": {
+      "integrity_correct": "Evaluas objetivamente ambas opciones considerando estabilidad versus necesidad economica, y conversas honestamente con tu jefe sobre tu situacion antes de decidir, aunque podrian sentirse presionados.",
+      "pragmatic_distractor": "Te quedas por lealtad en momento dificil, confiando en que cuando mejore la situacion habra compensacion.",
+      "evasive_distractor": "Avanzas discretamente con la otra empresa sin mencionar nada internamente, para tener opcion segura antes de decidir.",
+      "rationalized_distractor": "Das prioridad a tus ingresos y avanzas con la oferta, diciéndote que la empresa también cuidaría sus intereses antes que los tuyos."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 16",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q157",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu área será absorbida por otra con cultura muy diferente. Te ofrecen mantener tu puesto pero bajo nuevas reglas que contradicen formas de trabajo que consideras profesionalmente correctas. No está claro qué pasa si no aceptas el cambio.",
+    "options_structured": {
+      "integrity_correct": "Preguntas que grado de flexibilidad hay en las nuevas reglas y planteas respetuosamente tus reservas profesionales, aunque podrian verte como resistente al cambio.",
+      "pragmatic_distractor": "Aceptas las nuevas reglas sin cuestionar, adaptandote para asegurar tu continuidad aunque no estes convencido.",
+      "evasive_distractor": "Finges aceptar pero en la practica mantienes tus formas de trabajo anteriores, esperando que no revisen demasiado tu cumplimiento.",
+      "rationalized_distractor": "Decides no ajustar tu estilo y empiezas a ver otros destinos, convenciéndote de que encajar forzado solo prolongaría el choque cultural."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 17",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q158",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Después de años de buen desempeño, tu nueva evaluación anual es inesperadamente baja sin explicación clara. Sospechas que hay cambio en criterios no comunicados o conflicto político. Tu antigüedad depende en parte de mantener evaluaciones positivas.",
+    "options_structured": {
+      "integrity_correct": "Solicitas formalmente revision de la evaluacion con evidencias de tu desempeno y preguntas por cambios en criterios, aunque podrian verlo como confrontacion.",
+      "pragmatic_distractor": "Aceptas la evaluacion sin discutir y te esfuerzas por mejorar en areas que imaginas son el problema, aunque no tengas claridad.",
+      "evasive_distractor": "Firmas la evaluacion pero comentas tu desacuerdo solo informalmente con colegas, sin llevar el tema a instancias formales.",
+      "rationalized_distractor": "Buscas opciones afuera, interpretando la evaluación como señal de que tu imagen interna ya cambió y es mejor moverte."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 18",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q159",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te seleccionan para un proyecto internacional de seis meses que podría abrirte puertas, pero implica estar fuera en momento personal complicado. Tu jefe insinúa que rechazarlo podría afectar futuras oportunidades de desarrollo en la empresa.",
+    "options_structured": {
+      "integrity_correct": "Evaluas honestamente si puedes asumir el proyecto sin descuidar tu situacion personal, y si no es posible, lo comunicas claramente explicando tus razones, aunque puede cerrar puertas.",
+      "pragmatic_distractor": "Aceptas el proyecto ajustando tus necesidades personales, priorizando el desarrollo profesional aunque te genere tension.",
+      "evasive_distractor": "Aceptas inicialmente para ganar tiempo pero vas buscando formas de salir del compromiso sin decir directamente que no puedes.",
+      "rationalized_distractor": "Declinas sin detallar el motivo personal, convenciéndote de que mantener la privacidad evita juicios sobre tu compromiso."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 19",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q160",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa implementa monitoreo digital intensivo de actividad laboral. Aunque no tienes nada que ocultar, sientes que la medida refleja desconfianza y afecta tu motivación para permanecer. Varios colegas expresan malestar similar en privado pero nadie dice nada formalmente.",
+    "options_structured": {
+      "integrity_correct": "Planteas formalmente tus inquietudes sobre como el monitoreo afecta la confianza y propones alternativas basadas en resultados, aunque podrian pensar que tienes algo que ocultar.",
+      "pragmatic_distractor": "Aceptas el monitoreo sin comentar y te enfocas en mostrar metricas solidas, aunque internamente te sientas incomodo.",
+      "evasive_distractor": "Buscas formas de cumplir formalmente con las metricas mientras mantienes tus formas de trabajo, sin abordar el tema de fondo.",
+      "rationalized_distractor": "Te alineas a lo que se mide y nada más, diciéndote que si lo que cuenta son métricas no vale aportar extra invisible."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 20",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q161",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un error tuyo afecta un proyecto importante. Tu jefe te ofrece 'arreglarlo entre ustedes' sin reportarlo, para proteger tu récord y evitar investigaciones. Sabes que la política de la empresa requiere reportar todos los incidentes significativos.",
+    "options_structured": {
+      "integrity_correct": "Insistes en reportar formalmente el error siguiendo el protocolo establecido, aunque afecte tu evaluacion y posiblemente tu permanencia.",
+      "pragmatic_distractor": "Aceptas el arreglo informal, agradeciendo la proteccion de tu jefe y comprometiendote a compensarlo con mejor desempeno futuro.",
+      "evasive_distractor": "Dejas que tu jefe decida como manejarlo sin involucrarte activamente en la decision de reportar o no.",
+      "rationalized_distractor": "Aceptas el arreglo y no reportas, convenciéndote de que evitar la investigación protege al equipo aunque deje el error fuera del registro."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 21",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q162",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te ofrecen liderar un equipo nuevo pero con presupuesto insuficiente y plazos poco realistas. Sabes que aceptar podría significar fracasar públicamente, pero rechazar podría cerrar tu camino a futuras posiciones de liderazgo en la organización.",
+    "options_structured": {
+      "integrity_correct": "Aceptas condicionado a negociar recursos y plazos realistas, explicando los riesgos con evidencias, aunque podrian verte como poco ambicioso o dificil.",
+      "pragmatic_distractor": "Aceptas sin condiciones confiando en que podras renegociar sobre la marcha una vez que estes en el rol.",
+      "evasive_distractor": "Das respuestas ambiguas sobre tu interes mientras exploras si otros candidatos aceptarian primero.",
+      "rationalized_distractor": "Declinas el rol hasta tener recursos claros, diciéndote que fracasar por falta de medios dañaría más tu futuro que esperar."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 22",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q163",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa fusiona con otra y debes repostular a tu propio puesto. El proceso incluye entrevistas donde compites con colegas actuales y candidatos externos. El ambiente se vuelve tenso y algunos empiezan a sabotear el trabajo de otros sutilmente.",
+    "options_structured": {
+      "integrity_correct": "Participas en el proceso mostrando tu mejor version sin perjudicar a nadie, y mantienes colaboracion profesional con tus colegas, aunque otros podrian tomar ventaja de tu etica.",
+      "pragmatic_distractor": "Te enfocas en destacar tus logros individuales, distanciandote de proyectos colaborativos para no compartir credito.",
+      "evasive_distractor": "Participas minimamente en el proceso mientras buscas opciones externas, sin comprometerte realmente con ninguna via.",
+      "rationalized_distractor": "Te concentras en tu candidatura por encima de la colaboración, convenciéndote de que en un concurso cada quien vela por sí mismo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 23",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q164",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Descubres que personas en tu mismo rol y con experiencia similar ganan significativamente más que tú. Cuando preguntas, te dicen que son estructuras salariales de diferentes épocas de contratación y que no pueden ajustar retroactivamente.",
+    "options_structured": {
+      "integrity_correct": "Presentas formalmente un caso para ajuste salarial basado en equidad interna y valor de mercado, aunque podrian verte como conflictivo o negarte el ajuste.",
+      "pragmatic_distractor": "Aceptas la explicacion y trabajas para demostrar que mereces futura compensacion, aunque la inequidad te moleste.",
+      "evasive_distractor": "No presionas internamente pero empiezas a buscar ofertas externas para usar como palanca de negociacion.",
+      "rationalized_distractor": "Bajas tu esfuerzo al nivel que crees acorde al sueldo, diciéndote que equilibrar aporte y pago es la única forma de que sea justo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 24",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q165",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te enteras de que la empresa está considerando externalizar tu área completa. Aún no hay decisión final y la dirección pide a todos mantener el desempeño normal mientras evalúan. Sabes que tu trabajo en estos meses podría usarse para facilitar tu propia sustitución.",
+    "options_structured": {
+      "integrity_correct": "Continuas trabajando profesionalmente mientras buscas claridad sobre los planes y exploras opciones paralelas, aunque estes facilitando una posible transicion que te perjudica.",
+      "pragmatic_distractor": "Mantienes el desempeno esperado sin preguntar nada, confiando en que si haces buen trabajo podrian reconsiderar la externalizacion.",
+      "evasive_distractor": "Empiezas a documentar menos y a hacer el trabajo menos transferible, para ser mas dificil de reemplazar.",
+      "rationalized_distractor": "Recortas tu inversión en el área mientras buscas alternativas, convenciéndote de que no vale entregar de más a algo que puede cerrar."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 25",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q166",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu jefe te pide que entrenes a un nuevo ingreso con perfil similar al tuyo pero con menor salario. Sospechas que están preparando tu eventual reemplazo, pero no tienes evidencia concreta. Te debatescómo actuar durante el entrenamiento.",
+    "options_structured": {
+      "integrity_correct": "Entrenas profesionalmente al nuevo ingreso mientras conversas directamente con tu jefe sobre tus inquietudes y futuro en la empresa, aunque podrias confirmar malas noticias.",
+      "pragmatic_distractor": "Entrenas al nuevo ingreso para demostrar que eres colaborativo y valioso, esperando que eso asegure tu puesto.",
+      "evasive_distractor": "Brindas entrenamiento basico, reteniendo conocimiento clave que te haga dificil de reemplazar, sin comunicar tus preocupaciones.",
+      "rationalized_distractor": "Das un entrenamiento justo pero incompleto, diciéndote que no tiene sentido allanar tu posible reemplazo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 26",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q167",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa anuncia plan de desarrollo profesional competitivo donde solo algunos podrán avanzar. El proceso incluye evaluación de pares donde debes calificar a tus colegas, sabiendo que bajar sus puntajes podría mejorar tu posición relativa.",
+    "options_structured": {
+      "integrity_correct": "Evaluas honestamente a tus colegas segun su desempeno real, aunque podria perjudicar tu propia posicion competitiva en el proceso.",
+      "pragmatic_distractor": "Calificas a todos neutralmente para no perjudicar a nadie pero tampoco ayudarlos a destacar, protegiendo tu posicion relativa.",
+      "evasive_distractor": "Evitas completar las evaluaciones o las haces superficialmente, para no involucrarte en el proceso competitivo.",
+      "rationalized_distractor": "Ajustas tus evaluaciones para no perder ventaja, convenciéndote de que en un proceso competitivo nadie regala puntos."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 27",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q168",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te diagnostican una condición de salud que requiere tratamiento prolongado y podría afectar temporalmente tu rendimiento. La empresa no tiene obligación legal de mantener tu puesto en estas circunstancias. Tu jefe ha mostrado poca tolerancia con ausencias en el pasado.",
+    "options_structured": {
+      "integrity_correct": "Comunicas honestamente tu situacion con plan de tratamiento y propones ajustes temporales de responsabilidades, aunque podrian decidir reemplazarte.",
+      "pragmatic_distractor": "Mantienes tu condicion en privado y te esfuerzas por mantener el desempeno normal, ajustando tu recuperacion para no arriesgar el empleo.",
+      "evasive_distractor": "Das explicaciones vagas sobre necesidad de flexibilidad sin revelar tu condicion medica, esperando que no pregunten detalles.",
+      "rationalized_distractor": "No planteas ajustes y priorizas cumplir, diciéndote que pedir apoyo solo evidenciaría vulnerabilidad en una empresa poco flexible."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 28",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q169",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu área implementa sistema de ranking mensual público donde los últimos lugares reciben advertencias. Observas que esto genera ambiente tóxico donde nadie colabora por miedo a perder posiciones. Te piden opinar sobre el sistema en una encuesta anónima.",
+    "options_structured": {
+      "integrity_correct": "Respondes honestamente en la encuesta sobre los efectos negativos del ranking y propones alternativas, aunque la encuesta podria no ser tan anonima como prometen.",
+      "pragmatic_distractor": "Respondes positivamente sobre el sistema para no ser identificado como resistente, aunque observes efectos en la colaboracion.",
+      "evasive_distractor": "No respondes la encuesta o lo haces de forma muy neutral, evitando comprometerte con cualquier postura.",
+      "rationalized_distractor": "Usas la encuesta para desahogarte sin ofrecer alternativas, convenciéndote de que nada cambiará y así al menos queda constancia."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 29",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q170",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un reclutador te contacta para rol similar en competidor directo. Tu contrato actual no tiene cláusula de no competencia, pero sabes que irte a ese competidor específico sería visto como traición y podría afectar tus referencias futuras.",
+    "options_structured": {
+      "integrity_correct": "Evaluas la oferta objetivamente y, si decides aceptar, comunicas tu salida profesionalmente ofreciendo transicion ordenada, aunque habra tension inevitable.",
+      "pragmatic_distractor": "Rechazas la oferta por miedo a afectar relaciones, aunque sea mejor oportunidad profesional.",
+      "evasive_distractor": "Avanzas discretamente en el proceso sin mencionar nada hasta tener oferta firmada, minimizando tiempo de tension.",
+      "rationalized_distractor": "Aceptas priorizando tu carrera, diciéndote que en el mercado cada quien vela por sí mismo aunque incomode a antiguos colegas."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 30",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q171",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu pareja recibe oferta laboral excelente en otra ciudad. Ambos tienen carreras establecidas y deben decidir quién prioriza su desarrollo. Tu empresa actual te valora pero difícilmente te permitiría trabajar remoto permanente desde otra ubicación.",
+    "options_structured": {
+      "integrity_correct": "Exploras honestamente con tu empresa posibilidades de trabajo remoto o traslado, mientras evaluas con tu pareja que decision es mejor para ambos a largo plazo, aunque puede resultar en dilema dificil.",
+      "pragmatic_distractor": "Pides a tu pareja que considere alternativas para mantener tu estabilidad laboral actual, priorizando tu carrera.",
+      "evasive_distractor": "Postergas la decision el maximo posible esperando que surjan mas opciones, sin enfrentar la conversacion de fondo.",
+      "rationalized_distractor": "Renuncias y te mudas sin negociar opciones, convenciéndote de que mover piezas rápido es más simple que abrir conversaciones complejas."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 31",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q172",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te ofrecen participar en comité de ética interno que investiga casos de acoso. Es trabajo voluntario no remunerado que implica revisar casos sensibles y posiblemente testimoniar contra colegas o superiores. Rechazar podría verse como falta de compromiso con valores corporativos.",
+    "options_structured": {
+      "integrity_correct": "Aceptas participar en el comite si puedes hacerlo con independencia y proteccion adecuada, aunque te expondra a conflictos dificiles y posible retaliacion.",
+      "pragmatic_distractor": "Aceptas pero con intencion de ser conciliador en casos complejos, evitando conflictos que puedan afectar tu posicion.",
+      "evasive_distractor": "Inventas excusas de tiempo o capacidad para declinar sin decir directamente que no quieres exponerte.",
+      "rationalized_distractor": "Declinas el comité y priorizas tus tareas, diciéndote que tu tiempo se aprovecha mejor lejos de conflictos sensibles."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 32",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q173",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa tiene prácticas ambientales cuestionables que te generan conflicto ético. El trabajo paga bien y necesitas los ingresos, pero cada vez te cuesta más justificar tu permanencia en organización cuyos valores no compartes.",
+    "options_structured": {
+      "integrity_correct": "Planteas formalmente tus preocupaciones ambientales con propuestas de mejora y estableces limite de tiempo personal para ver cambios reales antes de considerar irte, aunque podrian verte como problematico.",
+      "pragmatic_distractor": "Te enfocas solo en tu rol especifico intentando no pensar en el impacto general de la empresa, priorizando tu necesidad economica.",
+      "evasive_distractor": "Buscas discretamente otro empleo en empresa mas alineada con tus valores, sin plantear internamente tus preocupaciones.",
+      "rationalized_distractor": "Te mantienes en el rol ignorando el dilema, convenciéndote de que cualquier empleo tiene trade-offs éticos similares."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 33",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q174",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tras fusión, la nueva estructura elimina tu departamento pero te ofrecen rol lateral en área que no te interesa y con responsabilidades menores. Aceptar significa retroceso profesional, rechazar significa indemnización limitada sin garantía de encontrar algo equivalente pronto.",
+    "options_structured": {
+      "integrity_correct": "Negocias condiciones del nuevo rol o mejor paquete de salida mientras exploras activamente mercado laboral, aunque el proceso de negociacion puede ser incomodo y sin garantia de resultado.",
+      "pragmatic_distractor": "Aceptas el nuevo rol por seguridad economica, adaptandote al retroceso profesional sin intentar negociar mejores condiciones.",
+      "evasive_distractor": "Pides tiempo para decidir mientras buscas empleo, sin comprometerte realmente con ninguna opcion.",
+      "rationalized_distractor": "Aceptas la indemnización casi sin comparar alternativas, diciéndote que el cierre forzado es la señal para un cambio que postergabas."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 34",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q175",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Observas que la empresa favorece sistemáticamente cierto perfil demográfico en promociones. Eres parte del grupo favorecido y has recibido beneficios de ese sesgo. Hablar sobre el problema podría poner en riesgo tu posición privilegiada.",
+    "options_structured": {
+      "integrity_correct": "Senalas formalmente los patrones de sesgo y propones criterios mas equitativos, aunque podrian cuestionar tus propias promociones pasadas y verte como traidor a tu grupo.",
+      "pragmatic_distractor": "Aprovechas tu posicion favorable sin senalar el problema, pensando que no es tu responsabilidad corregir sesgos sistemicos.",
+      "evasive_distractor": "Evitas participar en decisiones de promocion para no ser complice, pero tampoco alzas la voz sobre el problema de fondo.",
+      "rationalized_distractor": "Evitas cuestionar el sesgo que te favorece, convenciéndote de que removerlo pondría en duda tus propios logros."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 35",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q176",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te piden firmar acuerdo de confidencialidad muy amplio como condición para renovación contractual. El acuerdo te impediría hablar sobre condiciones laborales incluso después de dejar la empresa. Sabes de situaciones problemáticas que podrían quedar ocultas.",
+    "options_structured": {
+      "integrity_correct": "Solicitas modificacion de clausulas excesivas y te niegas a firmar condiciones que comprometan tu capacidad de reportar situaciones problematicas, aunque podrian no renovar tu contrato.",
+      "pragmatic_distractor": "Firmas el acuerdo para mantener tu empleo, pensando que probablemente nunca necesitaras hablar de cosas confidenciales.",
+      "evasive_distractor": "Firmas pero con reservas mentales sobre que considerarias realmente confidencial, sin expresar objeciones formales.",
+      "rationalized_distractor": "Documentas y firmas igual, diciéndote que tener pruebas guardadas te da salida sin frenar la renovación."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 36",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q177",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un proyecto que lideraste fracasa por decisiones estratégicas incorrectas de niveles superiores, pero la narrativa oficial te señala como principal responsable. Defenderte públicamente podría salvar tu reputación pero implicaría criticar a directivos con poder sobre tu permanencia.",
+    "options_structured": {
+      "integrity_correct": "Presentas formalmente tu version documentada de los hechos incluyendo decisiones que escaparon a tu control, aunque contradecir la narrativa oficial puede costarte tu puesto.",
+      "pragmatic_distractor": "Aceptas la responsabilidad publica mientras buscas discretamente otro empleo, evitando confrontacion que no cambiara la narrativa oficial.",
+      "evasive_distractor": "Te mantienes ambiguo sobre tu responsabilidad sin defenderte ni aceptar completamente la culpa, esperando que el tema pierda relevancia con el tiempo.",
+      "rationalized_distractor": "Compartes tu versión solo en pasillos, convenciéndote de que formalizarla dañaría más tu posición que dejar que el tiempo diluya el tema."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 37",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q178",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa está siendo investigada por prácticas irregulares. Como parte del equipo, podrían llamarte a declarar. Tienes información que confirmaría las irregularidades pero también podría perjudicar a colegas cercanos y tu propia continuidad laboral.",
+    "options_structured": {
+      "integrity_correct": "Respondes honestamente si te llaman a declarar, proporcionando informacion factual sin proteger practicas irregulares, aunque afecte tu ambiente laboral y posiblemente tu empleo.",
+      "pragmatic_distractor": "Proporcionas informacion minima requerida legalmente pero omites detalles que no te pregunten especificamente, protegiendo a tus colegas.",
+      "evasive_distractor": "Intentas evitar ser llamado a declarar y si te llaman, respondes de forma lo mas general posible sin entrar en detalles.",
+      "rationalized_distractor": "Recortas lo que cuentas para proteger al equipo, diciéndote que la lealtad pesa más que la transparencia total."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 38",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q179",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te ofrecen ascenso a puesto donde deberás implementar recortes de personal. Sabes que tendrás que despedir a colegas con quienes trabajaste años. Rechazar el ascenso podría estancarte profesionalmente y no evitaría los despidos.",
+    "options_structured": {
+      "integrity_correct": "Aceptas el rol comprometiendote a hacer los recortes necesarios de forma justa y humana, con transparencia sobre criterios y apoyo real a afectados, aunque seras recordado por esas decisiones dificiles.",
+      "pragmatic_distractor": "Aceptas enfocandote en cumplir los objetivos de la forma mas eficiente posible, minimizando tu exposicion emocional al proceso.",
+      "evasive_distractor": "Rechazas el ascenso alegando otras razones sin admitir que es por no querer gestionar los despidos.",
+      "rationalized_distractor": "Declinas involucrarte, convenciéndote de que otro ejecutará los recortes y así evitas cargar con esa etiqueta."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 39",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q180",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Descubres que tu predecesor fue despedido injustamente por señalar problemas que ahora tú también observas. Nadie habla del tema abiertamente. Debes decidir si señalar esos mismos problemas arriesgando el mismo destino o mantener silencio.",
+    "options_structured": {
+      "integrity_correct": "Documentas los problemas y los senalas formalmente con evidencias, aprendiendo de la experiencia de tu predecesor para hacerlo de forma mas estrategica, aunque existe riesgo real de represalia.",
+      "pragmatic_distractor": "Te concentras solo en tu trabajo directo evitando involucrarte en problemas sistemicos, priorizando tu permanencia.",
+      "evasive_distractor": "Comentas los problemas solo informalmente con colegas de confianza, sin llevarlos a canales formales donde puedan generar consecuencias.",
+      "rationalized_distractor": "Decides no reabrir el tema, diciéndote que adaptarte es más prudente que repetir una denuncia que antes costó un puesto."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 40",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q181",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu jefe te pide que alteres datos de un reporte para que luzcan más favorables en presentación a inversores. Los datos reales no son malos, solo menos impresionantes. Te dice que 'todos hacen estos ajustes' y que es importante para mantener confianza inversora y tu empleo.",
+    "options_structured": {
+      "integrity_correct": "Te niegas a alterar los datos y presentas los numeros reales explicando que son suficientemente solidos, aunque tu jefe pueda verte como obstaculo y afectar tu permanencia.",
+      "pragmatic_distractor": "Haces ajustes minimos que tecnicamente pueden justificarse con redondeos o metodologia diferente, quedando en zona gris.",
+      "evasive_distractor": "Delegas la tarea a alguien mas o evitas participar directamente, sin confrontar la peticion.",
+      "rationalized_distractor": "Realizas los ajustes pedidos, convenciéndote de que maquillar los datos protege al equipo y la confianza inversora."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 41",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q182",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "La empresa implementa política que dificulta balance vida-trabajo. En reunión de equipo piden opiniones. Tus colegas callan o apoyan la política por miedo. Tú tienes responsabilidades personales que la nueva política afectará significativamente.",
+    "options_structured": {
+      "integrity_correct": "Expresas respetuosamente tus preocupaciones sobre el impacto de la politica y propones alternativas que balanceen necesidades de negocio y personales, aunque podrian etiquetarte como poco comprometido.",
+      "pragmatic_distractor": "Apoyas la politica publicamente mientras planeas ajustar tu vida personal para cumplirla, priorizando tu imagen corporativa.",
+      "evasive_distractor": "Te mantienes en silencio durante la reunion y luego buscas excepciones individuales sin defender el cambio para todos.",
+      "rationalized_distractor": "Criticas en privado sin plantear alternativas, diciéndote que proponer cambios sería inútil y solo te expondría."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 42",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q183",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un colega comete error grave que podría costarle el empleo. Nadie más lo vió y te pide que no lo menciones, prometiendo corregirlo sin que nadie lo note. El error no afecta seguridad pero sí resultados de proyecto importante.",
+    "options_structured": {
+      "integrity_correct": "Insistes en que debe reportarse siguiendo procedimientos establecidos y ofreces apoyar a tu colega en el proceso, aunque se sienta traicionado y su empleo este en riesgo.",
+      "pragmatic_distractor": "Le das tiempo para corregirlo pero estableces limite: si no lo soluciona en plazo razonable, tendras que reportarlo.",
+      "evasive_distractor": "Te alejas de la situacion diciendo que no viste nada, dejando la decision completamente a tu colega.",
+      "rationalized_distractor": "Decides callar para cuidar a tu colega, convenciéndote de que romper el protocolo es menor que arriesgar su empleo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 43",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q184",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te enteras de que la empresa planea cambios que harán inviable el balance trabajo-familia que negociaste al ingresar. Ese balance fue factor determinante para aceptar el empleo. Los cambios se anunciarán la próxima semana como definitivos.",
+    "options_structured": {
+      "integrity_correct": "Solicitas reunion urgente para recordar los terminos acordados y expresar que esos cambios rompen lo negociado, explorando si hay excepciones posibles, aunque podrian decir que las condiciones cambiaron para todos.",
+      "pragmatic_distractor": "Esperas el anuncio oficial antes de actuar, confiando en que tal vez haya excepciones automaticas para quienes tienen acuerdos previos.",
+      "evasive_distractor": "Empiezas discretamente a buscar otro empleo sin confrontar el tema, asumiendo que negociar no servira.",
+      "rationalized_distractor": "Mueves fichas antes del anuncio, convenciéndote de que anticiparte te deja en mejor posición aunque no negocies de frente."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 44",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q185",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa gana contrato con cliente cuyas prácticas éticas cuestionas fuertemente. Trabajar en ese proyecto sería visible y asociaría tu nombre profesional con ese cliente. Rechazar participar podría limitar tu crecimiento en la organización.",
+    "options_structured": {
+      "integrity_correct": "Expresas tus reservas eticas sobre el cliente y preguntas si puedes trabajar en otros proyectos, aunque podrian verte como inflexible y excluirte de asignaciones importantes.",
+      "pragmatic_distractor": "Trabajas en el proyecto separando tu etica personal de tus responsabilidades profesionales, pensando que solo sigues instrucciones.",
+      "evasive_distractor": "Inventas razones tecnicas o de capacidad para no ser asignado al proyecto, evitando mencionar tus objeciones eticas.",
+      "rationalized_distractor": "Aceptas el proyecto convenciéndote de que quizá influyas algo desde dentro, aunque sepas que tu margen es pequeño."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 45",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q186",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Después de años de trabajo remoto exitoso, nueva gerencia exige retorno presencial completo citando 'cultura corporativa'. Mudarte cerca sería inviable económicamente. Algunos colegas en tu situación organizan resistencia colectiva que podría verse como insubordinación.",
+    "options_structured": {
+      "integrity_correct": "Presentas individualmente tu caso con datos de productividad y propones compromiso hibrido razonable, sin unirte a resistencia colectiva pero tampoco saboteandola, aunque podrian rechazar tu propuesta.",
+      "pragmatic_distractor": "Aceptas regresar y asumes los costos, evitando cualquier apariencia de resistencia.",
+      "evasive_distractor": "No te unes formalmente a la resistencia pero tampoco cumples completamente con presencialidad, navegando en zona gris el maximo tiempo posible.",
+      "rationalized_distractor": "Te sumas a la resistencia confiando en la fuerza del grupo, convenciéndote de que el riesgo compartido es mejor que ceder solo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 46",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q187",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Tu empresa reduce beneficios significativamente alegando dificultades financieras, pero simultáneamente ves gastos suntuarios en eventos directivos. Varios colegas quieren confrontar esta inconsistencia colectivamente. Te piden unirte como portavoz por tu antigüedad.",
+    "options_structured": {
+      "integrity_correct": "Aceptas ser parte de grupo que solicita formalmente explicacion sobre prioridades de gasto y propone alternativas, aunque podrian verte como lider de resistencia y afectar tu carrera.",
+      "pragmatic_distractor": "Apoyas la causa privadamente pero te niegas a ser portavoz, protegiendote personalmente mientras otros se exponen.",
+      "evasive_distractor": "Expresas simpatia con la queja pero no participas activamente, manteniendote neutral para ver como resulta sin exponerte.",
+      "rationalized_distractor": "Optas por no involucrarte, diciéndote que quien enfrenta a la dirección pocas veces gana y es mejor preservar tu perfil bajo."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 47",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q188",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Te ofrecen larga licencia para proyecto personal importante (estudios, familiar, voluntariado). Es sin goce de sueldo pero con garantía de reintegro. Al regresar sabes que habrás perdido proyectos clave y posiblemente oportunidades de ascenso.",
+    "options_structured": {
+      "integrity_correct": "Evaluas objetivamente el impacto en tu carrera versus el valor personal del proyecto, y si decides tomarlo, lo haces aceptando las consecuencias profesionales como costo razonable de una decision balanceada.",
+      "pragmatic_distractor": "Rechazas la oportunidad priorizando tu carrera, aunque el proyecto personal sea muy importante para ti.",
+      "evasive_distractor": "Postergas la decision o tomas la licencia pero manteniendote conectado laboralmente, sin realmente aprovechar el tiempo libre.",
+      "rationalized_distractor": "Tomas la licencia confiando en que al volver todo seguirá igual, convenciéndote de que las oportunidades no se esfumarán pese a la pausa."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 48",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q189",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Un familiar necesita que asumas responsabilidades de cuidado significativas que afectarían tu disponibilidad laboral. Tu jefe anteriormente comentó que 'problemas personales deben quedarse en casa'. Sabes de colegas que ocultaron situaciones similares con alto costo personal.",
+    "options_structured": {
+      "integrity_correct": "Comunicas tu situacion familiar honestamente y propones plan de trabajo que equilibre ambas responsabilidades, aunque podrian cuestionar tu compromiso y afectar tu trayectoria.",
+      "pragmatic_distractor": "Mantienes la situacion en privado y te exiges intentando cumplir con todo, ajustando el tiempo para tu familiar.",
+      "evasive_distractor": "Das explicaciones parciales que minimicen la situacion y vas ajustando sobre la marcha sin comprometerte con un plan claro.",
+      "rationalized_distractor": "No negocias cambios y asumes la carga, diciéndote que pocas empresas entenderían tu situación y es mejor no levantar el tema."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 49",
+    "sot_checksum": "m2opt_v1_20251130"
+  },
+  {
+    "id": "block-B04-q190",
+    "module_id": 2,
+    "block_id": "B04",
+    "type": "options",
+    "scenario": "Descubres que la empresa usa tu trabajo de forma que no habías autorizado y que te genera incomodidad ética, aunque técnicamente no viola tu contrato. Confrontarlo podría etiquetar te como problemático, pero permitirlo contradice tus valores profesionales.",
+    "options_structured": {
+      "integrity_correct": "Solicitas reunion para expresar tu incomodidad y estableces limites claros sobre usos futuros de tu trabajo, aunque podrian verte como poco flexible y buscar reemplazarte.",
+      "pragmatic_distractor": "Aceptas el uso actual pensando que es parte del trabajo corporativo, pero negocias discretamente que no se repita sin consultarte.",
+      "evasive_distractor": "No dices nada pero empiezas a limitar la calidad o profundidad de tu trabajo futuro para evitar que pueda usarse de formas que no apruebes.",
+      "rationalized_distractor": "Eludes confrontar y dejas correr el uso, diciéndote que pelearlo complicaría más de lo que resuelve al no violar el contrato."
+    },
+    "notes": "Modulo 2 Options B04 batch 07 item 50",
+    "sot_checksum": "m2opt_v1_20251130"
+  }
+]
