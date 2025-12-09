@@ -23,9 +23,9 @@
     "module_id": 3,
     "block_id": "B06",
     "type": "options",
-    "scenario": "Tu empresa implementará un software que automatiza procesos y eliminará varios puestos de trabajo. Conoces a los afectados personalmente y la dirección te pide gestionar la transición sin revelar detalles hasta el último momento. Si adviertes con anticipación, podrías perder la confianza de la dirección. Si esperas, los afectados no podrán prepararse. ¿Qué haces?",
+    "scenario": "Tu empresa implementará un sistema que automatiza procesos y eliminará varios puestos de trabajo. Conoces a los afectados personalmente y la dirección te pide gestionar la transición sin revelar detalles hasta el último momento. Si adviertes con anticipación, podrías perder la confianza de la dirección. Si esperas, los afectados no podrán prepararse. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Propones a la dirección comunicar con mayor anticipación y ofrecer apoyo en la transición, aunque eso genere tensión, te haga parecer poco leal y retrase la implementación del software.",
+      "integrity_correct": "Propones a la dirección comunicar con mayor anticipación y ofrecer apoyo en la transición, aunque eso genere tensión, te haga parecer poco leal y retrase la implementación del sistema.",
       "pragmatic_distractor": "Das señales indirectas a los más cercanos sin revelar información oficial, confiando en que así les das tiempo para prepararse sin romper explícitamente el protocolo.",
       "evasive_distractor": "Sugieres que el área de gestión del talento lidere la comunicación y te limitas a ejecutar lo técnico, evitando responsabilidad directa sobre el impacto en las personas.",
       "rationalized_distractor": "Sigues el protocolo establecido por la dirección argumentando que revelar información prematura causaría pánico innecesario y que es mejor comunicar todo de una vez."
