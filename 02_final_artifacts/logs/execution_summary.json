@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-05T12:11:22.465409",
-  "total_items": 400,
+  "timestamp": "2025-12-16T17:21:56.618629",
+  "total_items": 3000,
   "chunk_size": 50,
-  "chunks_count": 8,
+  "chunks_count": 60,
   "by_module": {
-    "1": 80,
-    "2": 80,
-    "3": 80,
-    "4": 80,
-    "5": 80
+    "1": 600,
+    "2": 600,
+    "3": 600,
+    "4": 600,
+    "5": 600
   },
   "by_type": {
-    "video": 200,
-    "options": 200
+    "video": 2000,
+    "options": 1000
   },
   "files_processed": [
     "module1_all.json",
