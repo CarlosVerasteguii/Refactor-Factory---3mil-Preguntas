@@ -8,11 +8,20 @@ Incluye validaciones pre-seeder y trazabilidad completa.
 
 import json
 import sys
+import os
 from pathlib import Path
 from datetime import datetime
 from glob import glob
 from typing import List, Dict, Any
 import hashlib
+
+# Configurar encoding UTF-8 para Windows
+if sys.platform == 'win32':
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(encoding='utf-8')
+    if hasattr(sys.stderr, 'reconfigure'):
+        sys.stderr.reconfigure(encoding='utf-8')
+    os.environ['PYTHONIOENCODING'] = 'utf-8'
 
 # Configuración
 INPUT_ROOT = Path("01_processed_json")
