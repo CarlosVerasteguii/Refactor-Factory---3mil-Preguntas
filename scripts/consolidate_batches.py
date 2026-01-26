@@ -9,6 +9,7 @@ Incluye validaciones pre-seeder y trazabilidad completa.
 import json
 import sys
 import os
+import argparse
 from pathlib import Path
 from datetime import datetime
 from glob import glob
@@ -220,9 +221,26 @@ def consolidate_module(module_num: int) -> Dict[str, Any]:
 
 def main():
     """Función principal."""
+    global INPUT_ROOT, OUTPUT_ROOT, LOGS_ROOT
+
+    parser = argparse.ArgumentParser(description='Consolida batch-*.json en module*_all.json')
+    parser.add_argument('--input-root', default=str(INPUT_ROOT),
+                        help='Directorio de entrada con modules/bloques (default: 01_processed_json)')
+    parser.add_argument('--output-root', default=str(OUTPUT_ROOT),
+                        help='Directorio de salida para module*_all.json (default: 02_final_artifacts/consolidated)')
+    parser.add_argument('--logs-root', default=str(LOGS_ROOT),
+                        help='Directorio de salida para logs (default: 02_final_artifacts/logs)')
+    args = parser.parse_args()
+    INPUT_ROOT = Path(args.input_root)
+    OUTPUT_ROOT = Path(args.output_root)
+    LOGS_ROOT = Path(args.logs_root)
+
     print("=" * 70)
     print("CONSOLIDADOR DE BATCHES - SEEDER PIPELINE")
     print("=" * 70)
+    print(f"Input:  {INPUT_ROOT}")
+    print(f"Output: {OUTPUT_ROOT}")
+    print(f"Logs:   {LOGS_ROOT}")
     
     # Crear directorios de salida
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)

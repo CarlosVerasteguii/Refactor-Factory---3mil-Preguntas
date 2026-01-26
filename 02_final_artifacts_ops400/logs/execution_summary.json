@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-01-22T12:56:36.775973",
+  "total_items": 400,
+  "chunk_size": 50,
+  "chunks_count": 8,
+  "by_module": {
+    "1": 80,
+    "2": 80,
+    "3": 80,
+    "4": 80,
+    "5": 80
+  },
+  "by_type": {
+    "options": 400
+  },
+  "files_processed": [
+    "module1_all.json",
+    "module2_all.json",
+    "module3_all.json",
+    "module4_all.json",
+    "module5_all.json"
+  ]
+}

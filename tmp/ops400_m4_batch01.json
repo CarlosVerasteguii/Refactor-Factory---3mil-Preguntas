@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M4-q001",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En tu turno de apertura, el tráfico te retrasó y llegas con una fila larga de clientes molestos porque el sistema estuvo lento. Tu supervisor exige recuperar el atraso y te pide atender con rapidez aunque notes que algunos datos podrían quedar incompletos, y recuerda las quejas del día anterior. Con la presión de la fila y el tono de los clientes, ¿cómo decides actuar?",
+    "options_structured": {
+      "integrity_correct": "Respiras, ordenas prioridades y explicas a los clientes el proceso, aunque eso alargue la fila y recibas quejas directas por ir más lento.",
+      "pragmatic_distractor": "Aceleras el registro y omites verificaciones menores para avanzar rápido, confiando en que podrás corregir después si aparece algún error.",
+      "evasive_distractor": "Pides a tu supervisor que te confirme cada caso complejo antes de seguir, esperando que así él asuma la decisión mientras la fila sigue creciendo.",
+      "rationalized_distractor": "Propones cerrar temporalmente una ventanilla para reorganizarte y volver con más orden, justificando que es mejor atender bien aunque se enfríe el ritmo."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 01",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q002",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Estás cubriendo un turno extra y, al llegar, encuentras una fila de clientes molestos por una caída del sistema y el ambiente está tenso desde temprano en la entrada. El jefe te pide mantener el control porque la sala está llena y hay gente grabando, mientras varios exigen atención ya. Además, sabes que tu descanso se acortará si intentas resolverlo tú mismo hoy, ¿qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la calma, informas con transparencia y atiendes uno por uno, aunque eso signifique perder tu descanso y recibir reproches por la demora.",
+      "pragmatic_distractor": "Priorizas a los clientes más molestos para bajar la tensión, aun si eso deja a otros esperando sin explicación clara.",
+      "evasive_distractor": "Sales a buscar al coordinador para que hable con la fila y mientras tanto detienes la atención, esperando que él tome el control.",
+      "rationalized_distractor": "Sugieres suspender la atención hasta que el sistema se estabilice, argumentando que es mejor evitar errores que trabajar a medias."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 02",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q003",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Durante el cambio de turno, el tráfico retrasa a tu relevo y debes quedarte con una fila de clientes molestos que llevan más de 30 minutos esperando. Un cliente levanta la voz y otros comienzan a exigir atención urgente, mientras tú cierras registros ya. Te sientes irritado y sabes que si elevas el tono podrías ganar tiempo, pero eso puede escalar el conflicto, ¿cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Controlas tu impulso, bajas el ritmo para escuchar y explicar el orden de atención, aunque recibas críticas y termines saliendo más tarde del turno.",
+      "pragmatic_distractor": "Apuras el proceso y respondes de forma corta para reducir la fila, aun si eso aumenta el riesgo de malentendidos con algunos clientes.",
+      "evasive_distractor": "Les dices que esperen a tu relevo para resolver y te limitas a tareas simples, evitando decidir en los casos conflictivos.",
+      "rationalized_distractor": "Planteas que es mejor cerrar la fila temporalmente para evitar discusiones, justificando que la calma es más importante que avanzar ahora."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 03",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q004",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En un turno nocturno, la fila se disparó porque hubo cortes de tráfico y muchos clientes llegaron tarde y molestos. Un compañero te pide que aceleres y omitas pasos para que no se quejen más, y además estás solo en ventanilla por un momento. Tú notas que estás cansado y la tensión sube, y todavía falta cerrar caja y la fila avanza poco, ¿qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento completo y hablas con calma con cada cliente, aunque termines agotado y recibas reclamos por la lentitud.",
+      "pragmatic_distractor": "Reduces pasos y priorizas velocidad para bajar la fila, aceptando el riesgo de tener que corregir errores después.",
+      "evasive_distractor": "Dejas los casos más difíciles para el siguiente turno y solo atiendes lo rápido, esperando que el problema se diluya.",
+      "rationalized_distractor": "Propones concentrarte en ordenar papeles primero y reabrir luego, argumentando que el control interno es más importante que la fila ahora."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 04",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q005",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al inicio del turno, te informan que debes cubrir dos puestos por una falta hoy y ya hay una fila de clientes inquietos en la puerta. Un cliente golpea el mostrador y otros te presionan para que los atiendas antes del cierre, mientras el supervisor observa el ritmo cerca. Sientes la tensión subir y sabes que cualquier reacción impulsiva puede empeorar el ambiente, ¿cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el control, explicas el tiempo estimado y atiendes de forma ordenada aunque recibas insultos y termines saliendo tarde.",
+      "pragmatic_distractor": "Das prioridad a quienes se quejan más para calmar el ambiente, aun si eso crea molestias en el resto de la fila.",
+      "evasive_distractor": "Pides a seguridad que maneje la fila y te concentras en tareas internas, evitando el contacto directo hasta que baje la tensión.",
+      "rationalized_distractor": "Sugieres reprogramar la atención de varios clientes, argumentando que es mejor atender menos pero sin errores."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 05",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q006",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Sales de tu casa con tiempo, pero un choque provoca tráfico y llegas con la fila ya molesta y comentarios duros, y escuchas que varios perdieron su turno anterior. Tu jefe te pide recuperar el tiempo perdido y evitar reclamos, aunque eso implique trabajar sin pausa y con menos apoyo. Notas que estás al límite y te irrita la forma en que te hablan, ¿qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te centras, mantienes un trato respetuoso y sigues el proceso completo, aunque pierdas tu pausa y recibas comentarios negativos por demorar más.",
+      "pragmatic_distractor": "Aceleras la atención y simplificas validaciones para avanzar rápido, confiando en que los ajustes se puedan resolver después.",
+      "evasive_distractor": "Solicitas que otro compañero atienda a los clientes más exigentes y tú te quedas con tareas simples, evitando el conflicto directo.",
+      "rationalized_distractor": "Planteas cerrar momentáneamente la atención para reorganizarte, diciendo que es mejor hacerlo bien que seguir bajo presión."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 06",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q007",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En la tarde, una falla breve provoca que la fila avance lento y los clientes se impacienten. Un cliente te acusa de no querer ayudar y levanta la voz frente a todos, mientras otros lo respaldan con gestos y miradas. Estás cansado por el turno extendido y sientes que puedes responder igual de fuerte en ese momento, pero sabes que eso empeoraría la escena, ¿cómo reaccionas?",
+    "options_structured": {
+      "integrity_correct": "Bajas el tono, escuchas su reclamo y explicas el proceso con calma, aunque pierdas tiempo y te lleves la peor parte de las quejas.",
+      "pragmatic_distractor": "Respondes con firmeza para que la fila se ordene, priorizando control inmediato aunque el cliente se vaya molesto.",
+      "evasive_distractor": "Buscas a un supervisor para que hable con él y mientras tanto detienes la atención, esperando que la situación se resuelva sola.",
+      "rationalized_distractor": "Sugieres limitar la atención solo a casos rápidos para evitar conflictos, argumentando que es mejor avanzar en volumen que discutir."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 07",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q008",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Tu turno coincide con una jornada de alto flujo y el tráfico en la zona provoca retrasos en la apertura hoy. La fila crece, los clientes se molestan y tu compañero te sugiere saltar algunos pasos para avanzar, recordando que ayer hubo reclamos por retraso. Sientes que el ambiente puede estallar en cualquier momento y que un error quedaría expuesto ante todos, ¿qué haces ahora?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el procedimiento completo y explicas cada paso, aunque eso genere más reclamos y te obligue a quedarte después del turno.",
+      "pragmatic_distractor": "Ajustas el proceso para ganar tiempo, dejando para más tarde verificaciones que consideras menores.",
+      "evasive_distractor": "Dices que necesitas validación del área responsable y retrasas los casos, esperando que el flujo se reduzca.",
+      "rationalized_distractor": "Propone atender solo a quienes tienen trámites simples, justificando que así se evita un colapso general."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 08",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q009",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Faltan diez minutos para el cierre y aún hay una fila de clientes molestos que no quieren volver mañana. Tu jefe insiste en no dejar pendientes, pero el turno siguiente viene con retraso por tráfico y no hay refuerzos disponibles, ni tiempo para ordenar y la sala ya está llena. Te sientes frustrado y temes que cualquier error se note mañana y te señalen, ¿cómo decides proceder?",
+    "options_structured": {
+      "integrity_correct": "Atiendes con calma hasta el final y registras todo correctamente, aunque te quedes fuera de horario y recibas reclamos por la espera.",
+      "pragmatic_distractor": "Cierras la fila y atiendes solo a los últimos más rápidos, confiando en resolver el resto al día siguiente.",
+      "evasive_distractor": "Dices que necesitas autorización para extender el cierre y esperas la respuesta, mientras el tiempo sigue corriendo.",
+      "rationalized_distractor": "Propones reprogramar a varios clientes para garantizar calidad, justificando que es mejor hacerlo bien que apurado."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 09",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q010",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Llegas a un turno de mañana y te informan que el equipo está corto, mientras afuera ya hay fila y clientes irritados por la espera. Un cliente te acusa de favoritismo y amenaza con hacer un reclamo formal, y otros empiezan a murmurar mientras la fila crece hacia la puerta. Te das cuenta de que tu respuesta puede encender aún más la situación, ¿qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes un tono sereno, explicas el orden y atiendes conforme llega cada uno, aunque te ganes críticas y pierdas tu pausa.",
+      "pragmatic_distractor": "Atiendes primero al cliente más insistente para bajar la presión, aun si otros perciben trato desigual.",
+      "evasive_distractor": "Pides que el cliente espere a que llegue el jefe y reduces la interacción directa, dejando que la fila se mantenga.",
+      "rationalized_distractor": "Sugieres reorganizar la fila por prioridad interna, argumentando que así se mejora el flujo aunque no sea evidente para ellos."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 10",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q011",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En un día lluvioso, el tráfico retrasa entregas internas y los clientes esperan más de lo usual. La fila se vuelve tensa y te reclaman con sarcasmo, mientras el área de atención queda sin apoyo por un cambio de turno y la sala se llena. Sientes que estás a punto de perder la paciencia, pero sabes que una reacción impulsiva puede afectar tu evaluación del turno, ¿cómo respondes?",
+    "options_structured": {
+      "integrity_correct": "Te contienes, ofreces información clara y atiendes con cuidado, aunque eso te exponga a más quejas y alargue tu jornada.",
+      "pragmatic_distractor": "Aceleras la atención y minimizas explicaciones para avanzar rápido, aunque algunos clientes queden sin claridad.",
+      "evasive_distractor": "Pides apoyo a otra área para responder reclamos y esperas su llegada, dejando la fila en pausa.",
+      "rationalized_distractor": "Planteas cerrar la atención para reorganizar el flujo, justificando que es mejor evitar errores con el equipo corto."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 11",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q012",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Te asignan un turno de fin de semana con menos personal y la fila comienza a crecer rápido desde la apertura. Un cliente insiste en que su trámite es urgente y sube el tono delante de todos, mientras otros piden explicaciones y miran el reloj. Estás cansado por varios días seguidos y sientes que puedes reaccionar con ironía, y notas la presión del reloj, ¿cómo decides actuar?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la calma, explicas límites y atiendes por orden, aunque el cliente se moleste más y tu jornada se alargue.",
+      "pragmatic_distractor": "Atiende al cliente urgente primero para bajar la tensión, aun si eso genera reclamos por el orden.",
+      "evasive_distractor": "Le indicas que debe esperar a que llegue alguien con más autoridad y así evitas decidir en el momento.",
+      "rationalized_distractor": "Propone cerrar la admisión de nuevos casos hasta estabilizarte, argumentando que es lo más responsable."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 12",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q013",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El turno de la tarde se extendió desde temprano porque el tráfico retrasó a varios compañeros y la fila no deja de crecer. Un cliente te acusa de falta de respeto y otros comienzan a grabar, mientras el ruido en la sala sube y se acercan más. Te invade la molestia y sabes que contestar con dureza podría liberar tensión, pero traería consecuencias, ¿qué haces?",
+    "options_structured": {
+      "integrity_correct": "Respiras, bajas el tono y explicas el proceso, aunque eso implique soportar miradas y terminar más tarde tu turno.",
+      "pragmatic_distractor": "Buscas resolver lo más rápido posible y cortas explicaciones para avanzar, aceptando que algunos queden insatisfechos.",
+      "evasive_distractor": "Pides a un supervisor que intervenga y te apartas del mostrador, esperando que él asuma el conflicto.",
+      "rationalized_distractor": "Sugieres suspender la atención por unos minutos para recuperar el control, argumentando que la calma es prioritaria."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 13",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q014",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En pleno turno, te informan que habrá inspección interna y debes mantener todo en orden mientras la fila de clientes aumenta. Un cliente molesto intenta saltarse el turno y presiona para que lo atiendas ya, alegando que tiene poco tiempo y que se quejará hoy frente a la fila. Sientes tensión y sabes que si reaccionas mal, te puede afectar en la evaluación, ¿cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la regla de turnos y explicas con calma, aunque el cliente se enoje más y tu jornada se alargue.",
+      "pragmatic_distractor": "Atiendes al cliente para bajar la tensión inmediata, aun si eso deja un mal precedente para el resto.",
+      "evasive_distractor": "Le dices que esperará la revisión interna antes de atenderlo y te refugias en tareas administrativas.",
+      "rationalized_distractor": "Propones posponer varios casos para cuando pase la inspección, justificando que es mejor evitar fallas visibles."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 14",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q015",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Un error en la caja obliga a repetir varios trámites y la fila se vuelve impaciente mientras el reloj avanza y las preguntas se acumulan rápido. Los clientes te culpan aunque no hayas causado el problema y el turno ya va largo, con poca ayuda disponible y varias miradas encima. Sientes frustración y ganas de responder de forma seca para poner límites, ¿cómo decides manejarlo?",
+    "options_structured": {
+      "integrity_correct": "Mantienes un tono respetuoso, informas el motivo y corriges uno por uno, aunque recibas quejas y termines muy tarde.",
+      "pragmatic_distractor": "Haces una corrección rápida y sigues atendiendo para bajar la fila, confiando en que los detalles se ajusten luego.",
+      "evasive_distractor": "Dices que el error debe revisarlo otra área y detienes esos trámites, evitando asumir la resolución directa.",
+      "rationalized_distractor": "Propone reprogramar a quienes deben repetir, argumentando que es mejor asegurar la calidad que apresurar."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 15",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q016",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Te toca cubrir un turno de tarde y apenas llegas ves una fila extensa por un corte de tráfico en la zona. Un cliente furioso te exige que lo atiendas ya y amenaza con quejarse, mientras otros lo apoyan con comentarios y golpes en la mesa y el supervisor no aparece. Estás agotado por jornadas seguidas y notas que tu paciencia se agota, ¿qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te controlas, explicas el orden y atiendes con cuidado, aunque eso te gane reclamos y alargue tu salida del turno.",
+      "pragmatic_distractor": "Atiendes primero al cliente más alterado para calmar el ambiente, aun si otros sienten injusticia.",
+      "evasive_distractor": "Buscas a un compañero para que lo atienda y te quedas con tareas internas, evitando el enfrentamiento.",
+      "rationalized_distractor": "Sugieres detener la admisión temporalmente para recuperar el orden, argumentando que es más seguro seguir así."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 16",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q017",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Una fila de clientes se mantiene desde la mañana porque hubo fallas y varios se quejan con enojo. El coordinador te pide que resuelvas rápido para evitar más reclamos, mientras tu turno ya se extendió y no hay relevo disponible. Sientes cansancio y te cuesta controlar la reacción cuando te hablan mal y cuando el ruido sube desde hace horas en la sala, ¿qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Respiras, mantienes el trato respetuoso y sigues el proceso completo, aunque eso implique quedarte más tiempo y recibir críticas.",
+      "pragmatic_distractor": "Simplificas pasos para avanzar más rápido, asumiendo que cualquier ajuste se puede hacer después.",
+      "evasive_distractor": "Pides autorización para cada caso complejo y esperas respuesta, dejando que la fila avance lento.",
+      "rationalized_distractor": "Planteas reprogramar a varios para evitar errores, argumentando que es lo más prudente."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 17",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q018",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el cambio de turno, el relevo llega tarde por tráfico y debes continuar atendiendo a una fila tensa que no disminuye y llega hasta la entrada. Un cliente te dice que tu atención es lenta y amenaza con irse sin resolver, y otros comienzan a quejarse con gestos de impaciencia. Sientes enojo y ganas de responder de forma cortante para marcar límites, ¿cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la calma, explicas los tiempos y continúas atendiendo con cuidado, aunque recibas reclamos y termines más tarde.",
+      "pragmatic_distractor": "Aceleras la atención y reduces explicaciones para que avance la fila, aun si algunos clientes quedan confundidos.",
+      "evasive_distractor": "Le dices que espere al relevo para resolverlo y pospones el caso, evitando decidir mientras estás solo.",
+      "rationalized_distractor": "Propone cerrar la fila por un momento para recuperar el control, argumentando que es mejor que seguir bajo presión."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 18",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q019",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Hay una fila larga por una reprogramación de turnos y varios clientes están molestos por la espera prolongada. El jefe te pide resolver sin más reclamos, pero sabes que tu energía ya está baja y sigues solo en el puesto, con varios mirando, y el ambiente se calienta rápido. Te sientes a punto de explotar cuando un cliente te habla con desdén, ¿qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Te controlas, explicas el orden de atención y sigues el proceso completo, aunque tengas que quedarte más y soportar críticas.",
+      "pragmatic_distractor": "Atiendes primero a quienes levantan la voz para bajar la tensión, aun si los demás sienten que no hay orden.",
+      "evasive_distractor": "Solicitas que otro área confirme los casos y detienes esos trámites, esperando que la fila se reduzca.",
+      "rationalized_distractor": "Propones reprogramar parte de la fila para asegurar calidad, argumentando que es mejor hacerlo bien que rápido."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 19",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q020",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al final del día, un problema en el sistema retrasa todo y la fila de clientes crece con gente molesta. El turno siguiente llega tarde por tráfico y te piden mantener la atención hasta que alcance, sin cortar la fila y con reclamos simultáneos, y nadie descansa. Estás cansado y tu paciencia se agota, pero sabes que cualquier respuesta brusca dañará el ambiente, ¿cómo actúas?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el control, explicas la situación y atiendes con cuidado, aunque eso te quite tu descanso y recibas quejas.",
+      "pragmatic_distractor": "Aceleras los trámites y omites explicaciones para avanzar, confiando en que los detalles se aclaren después.",
+      "evasive_distractor": "Pides que el turno siguiente asuma los casos más complejos y te limitas a tareas simples mientras esperas.",
+      "rationalized_distractor": "Sugieres cerrar la atención hasta que llegue el relevo, argumentando que es mejor no cometer errores por cansancio."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 01 item 20",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]

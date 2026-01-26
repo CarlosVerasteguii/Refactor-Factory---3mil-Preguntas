@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M4-q061",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En reparto, llegas a un barrio con calles cortadas por obras y el GPS no coincide con la señalización. El cliente te llama insistente y exige que entregues ya, estás atrasado, llueve y sientes que la presión te irrita; hay desvíos sin aviso, la zona es estrecha y si te apuras puedes entrar a una calle bloqueada y perder tiempo o causar un incidente, pero si tomas con calma llegarás tarde. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te detienes en un punto seguro, confirmas la ruta correcta y ajustas la entrega, aunque te demores y recibas quejas.",
+      "pragmatic_distractor": "Tomas el desvío más cercano para avanzar rápido y llegar antes.",
+      "evasive_distractor": "Cortas la llamada y sigues como puedas para no estresarte más.",
+      "rationalized_distractor": "Entras por una calle que parece libre porque crees que no habrá problema."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 1",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q062",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el almacén, encuentras una caja con daños visibles que debía ir en una salida urgente. El encargado te dice que la envíes igual porque no hay tiempo, la fila de camiones crece, el supervisor no responde, tú estás cansado y recuerdas reclamos recientes por daños; si la detienes, retrasas la salida y te quedas más tiempo, pero enviarla así puede afectar al cliente y generar reclamos. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Retienes la caja, reportas el daño y buscas reemplazo, aunque retrases la salida y salgas tarde.",
+      "pragmatic_distractor": "Envías la caja y registras una nota para no frenar el despacho.",
+      "evasive_distractor": "La apartas y sigues con otras cargas para evitar la discusión.",
+      "rationalized_distractor": "La envías porque el daño parece menor y confías en que no habrá reclamo."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 2",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q063",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En caja, un cliente te pide anular una compra porque se equivocó, pero la fila es larga y el sistema va lento. Estás por terminar turno, el supervisor no aparece, el cierre se acerca y sientes frustración; si haces la anulación con calma, te demoras y recibes quejas, pero si no la haces bien puede quedar un descuadre que luego te reclamarán. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Realizas la anulación siguiendo el procedimiento, aunque se demore la fila y salgas más tarde.",
+      "pragmatic_distractor": "Haces la anulación rápido para avanzar, confiando en que quedará bien.",
+      "evasive_distractor": "Pides al cliente que espere y continúas con el siguiente para calmar la fila.",
+      "rationalized_distractor": "Le sugieres conservar la compra porque la anulación ahora sería un problema."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 3",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q064",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Conduces en ruta y un vehículo te encierra en un carril estrecho, obligándote a frenar. Sientes enojo y ganas de responder, pero llevas carga frágil, el tráfico está denso, el clima empeora, llevas horas sin pausa y notas tensión en las manos; si reaccionas impulsivamente puedes aumentar el riesgo, pero si dejas pasar puede parecer que no te respetan. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la distancia y continúas sin responder, aunque te quedes con la tensión y llegues más tarde.",
+      "pragmatic_distractor": "Haces una señal breve para marcar tu posición y sigues.",
+      "evasive_distractor": "Evitas el contacto visual y te concentras en conducir.",
+      "rationalized_distractor": "Aceleras un poco para salir del conflicto porque crees que así es más seguro."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 4",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q065",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el control de acceso, un conductor te muestra una credencial vencida y te pide que lo dejes pasar porque siempre entrega allí. La fila crece, llueve, llevas horas de turno, el supervisor no responde y sientes presión por avanzar; si lo dejas entrar evitas un conflicto, pero si aceptas una credencial vencida comprometes la seguridad y quedas expuesto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Solicitas la verificación formal y no lo dejas pasar, aunque la fila se alargue y recibas quejas.",
+      "pragmatic_distractor": "Lo dejas entrar y anotas sus datos para revisarlos después.",
+      "evasive_distractor": "Le pides que espere a un costado y sigues con otros vehículos.",
+      "rationalized_distractor": "Lo dejas pasar porque es habitual y crees que no habrá problema."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 5",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q066",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el área de preparación, una cinta transportadora se traba y el jefe te pide que la reinicies rápido sin detener toda la línea. Llevas horas de turno, estás cansado, la salida está comprometida y sientes que la presión te acelera; si detienes todo para revisar, retrasas la salida y te quedas más tiempo, pero si reinicias sin verificar puedes generar un riesgo para el equipo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Detienes la línea y revisas la causa, aunque retrases la salida y salgas más tarde.",
+      "pragmatic_distractor": "Reinicias rápido para no frenar la operación.",
+      "evasive_distractor": "Pides a otro que lo vea y continúas con tu tarea.",
+      "rationalized_distractor": "Reinicias porque la falla parece menor y quieres evitar demoras."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 6",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q067",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En reparto, un cliente te pide que dejes el paquete en la puerta trasera porque no quiere salir, pero esa zona está poco iluminada. Estás atrasado, llueve, no hay apoyo cercano y sientes tensión; recuerdas una recomendación de seguridad reciente, si entras puedes exponerte y perder tiempo, pero si no, el cliente se enoja y amenaza con quejarse. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el punto de entrega seguro y solicitas que salga, aunque se moleste y retrase tu ruta.",
+      "pragmatic_distractor": "Dejas el paquete en la puerta trasera para avanzar rápido.",
+      "evasive_distractor": "Reprogramas la entrega y te retiras para evitar el conflicto.",
+      "rationalized_distractor": "Entras porque parece tranquilo y quieres terminar."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 7",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q068",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el mostrador de atención, un cliente alterado exige una solución inmediata por una entrega tardía. La fila crece, el sistema está lento, ya hubo reclamos y sientes que la paciencia se agota; si mantienes el proceso demoras la fila y recibes más presión, pero si improvisas puedes generar un compromiso que no se cumpla y volver a enfrentar el reclamo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento y explicas plazos reales, aunque la fila se demore y recibas más presión.",
+      "pragmatic_distractor": "Prometes una solución rápida para calmarlo y avanzar.",
+      "evasive_distractor": "Le pides que vuelva más tarde y continúas con otros.",
+      "rationalized_distractor": "Ajustas el caso sin validar porque crees que es lo más práctico."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 8",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q069",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el almacén, notas que un montacargas tiene una luz de advertencia encendida y un ruido extraño. Te queda poco tiempo de turno, el supervisor no está, la carga no puede detenerse y el pasillo está lleno; si lo reportas y detienes el equipo, te retrasas y te quedas más tiempo, pero si sigues podrías provocar un incidente y afectar a otros. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Detienes el equipo y reportas la falla, aunque se retrase la operación y salgas tarde.",
+      "pragmatic_distractor": "Continúas con cuidado para no frenar la carga.",
+      "evasive_distractor": "Pides a otro que lo revise y sigues con la fila.",
+      "rationalized_distractor": "Sigues porque el equipo aún funciona y crees que resistirá."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 9",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q070",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Conduces una unidad de pasajeros y una persona comienza a gritarte por un desvío inesperado. El tráfico es denso, llevas retraso, otros pasajeros miran, llueve y sientes que el enojo sube; llevas horas de turno, el ruido aumenta, la discusión te distrae y temes perder la concentración, si respondes impulsivamente puedes escalar el conflicto, pero si no dices nada el reclamo sigue. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la calma, explicas brevemente el desvío y solicitas apoyo en la próxima parada, aunque retrases la ruta.",
+      "pragmatic_distractor": "Respondes de forma breve para calmarlo y continúas.",
+      "evasive_distractor": "Ignoras el reclamo y te concentras en conducir.",
+      "rationalized_distractor": "Prometes recuperar tiempo para que se tranquilice."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 10",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q071",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En reparto, llegas a un edificio con portería cerrada y el cliente no responde. Está lloviendo, la zona es estrecha, tu ruta va atrasada, no hay lugar seguro para esperar y sientes la presión de no fallar; dejar el paquete sin confirmación puede generar reclamo, pero esperar demasiado te retrasa, te expone a más tensión y además ya recibiste una advertencia por demoras. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Esperas en un punto seguro y confirmas la entrega, aunque te retrases más y recibas quejas.",
+      "pragmatic_distractor": "Dejas el paquete en un lugar resguardado para avanzar rápido.",
+      "evasive_distractor": "Te vas y reprogramas la entrega para evitar la situación.",
+      "rationalized_distractor": "Lo dejas porque parece seguro y confías en que el cliente lo recogerá."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 11",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q072",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el almacén, el área de carga está saturada y un compañero te pide mover un pallet sin revisar el peso porque hay prisa. El supervisor no está, ya hubo un incidente de sobrecarga, el pasillo es angosto y tú estás cansado; si te detienes a verificar, frenas el flujo y te quedas más tiempo, pero si sigues podrías provocar un accidente. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Verificas el peso y ajustas la carga, aunque retrases el flujo y salgas tarde.",
+      "pragmatic_distractor": "Mueves el pallet con cuidado para no frenar la operación.",
+      "evasive_distractor": "Pides a otro que lo revise y sigues con otra tarea.",
+      "rationalized_distractor": "Lo mueves porque parece liviano y así evitas demoras."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 12",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q073",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En caja, una persona paga con dos tarjetas y te pide que redondees el total para no perder tiempo. La fila crece, el sistema va lento, el cierre se acerca, el supervisor no aparece y sientes presión; si accedes sin ajustar correctamente, puede quedar un descuadre, pero si revisas con calma el cliente se impacienta y te reclama. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Haces el cobro correcto y verificas los montos, aunque se demore la fila y recibas reclamos.",
+      "pragmatic_distractor": "Redondeas como pide para avanzar rápido.",
+      "evasive_distractor": "Le pides que espere y continúas con el siguiente cliente.",
+      "rationalized_distractor": "Aceptas porque es una diferencia pequeña y crees que no afectará."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 13",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q074",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Conduces en ruta con baja visibilidad por neblina y el cliente te llama para apurarte. Estás atrasado, llevas horas de conducción, el tráfico es denso, la ruta es estrecha, los reflejos están lentos, la humedad reduce el agarre y notas cansancio; además ya recibiste una advertencia por retrasos. Si aumentas la velocidad para cumplir, el riesgo sube, pero si reduces llegarás tarde y recibirás quejas. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reduces la velocidad y reportas el atraso, aunque llegues tarde y recibas más presión.",
+      "pragmatic_distractor": "Mantienes la velocidad para no aumentar el retraso.",
+      "evasive_distractor": "Silencias el teléfono y sigues sin informar.",
+      "rationalized_distractor": "Aceleras un poco porque conoces la ruta y quieres cumplir."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 14",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q075",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el control de acceso, una visita llega sin registro previo y te pide entrar porque dice tener una entrega urgente. La fila crece, llueve, el supervisor no responde, tú estás cansado y el ruido aumenta; si lo dejas pasar evitas un conflicto, pero si no verificas su ingreso puedes generar un riesgo de seguridad y quedar expuesto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Solicitas verificación formal y no lo dejas pasar, aunque la fila se alargue y recibas quejas.",
+      "pragmatic_distractor": "Lo dejas pasar y anotas sus datos para revisar después.",
+      "evasive_distractor": "Le pides que espere a un costado y sigues con otros.",
+      "rationalized_distractor": "Lo dejas pasar porque parece confiable y quieres destrabar la fila."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 15",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q076",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el área de preparación, te asignan un pedido complejo y el sistema marca un error en un ítem. La cinta no se detiene, el turno termina, ya hubo reclamos por errores, el supervisor no responde y sientes presión por cerrar; si detienes la línea para validar, te quedas más tiempo, pero si lo omites puedes enviar un pedido incorrecto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Detienes la línea y validas el ítem, aunque retrases la salida y salgas tarde.",
+      "pragmatic_distractor": "Sigues y corriges después para no frenar la cinta.",
+      "evasive_distractor": "Apartas el pedido y continúas con otro para decidir luego.",
+      "rationalized_distractor": "Lo dejas pasar porque parece el producto correcto y quieres cerrar."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 16",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q077",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En reparto, un cliente te pide dejar el paquete en la recepción sin firma porque está apurado. La recepcionista no lo conoce, tú vas atrasado, llueve, hay ruido y sientes tensión; recuerdas un reclamo reciente por entrega sin respaldo y sabes que si entregas así puedes perder el paquete, pero si no lo haces te retrasas y el cliente se enoja. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Solicitas firma o verificación formal, aunque te retrases y recibas quejas.",
+      "pragmatic_distractor": "Dejas el paquete en recepción para avanzar rápido.",
+      "evasive_distractor": "Reprogramas la entrega y te vas para evitar conflicto.",
+      "rationalized_distractor": "Entregas porque el cliente lo pidió y confías en que lo retirará."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 17",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q078",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el mostrador de atención, un cliente te habla de forma despectiva por un pedido demorado y te exige una solución inmediata. La fila crece, el sistema va lento, el cierre se acerca, alguien comienza a grabar y sientes que el enojo sube; si respondes con calma te demoras y quedas expuesto, pero si contestas mal puedes escalar el conflicto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes el trato respetuoso y explicas opciones reales, aunque se demore la fila y recibas presión.",
+      "pragmatic_distractor": "Das una respuesta rápida para calmarlo y seguir atendiendo.",
+      "evasive_distractor": "Le pides que vuelva luego y continúas con la fila.",
+      "rationalized_distractor": "Le dices que esperará porque no hay otra opción y sigues."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 18",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q079",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En el almacén, notas que una zona de paso queda con cajas apiladas más altas de lo permitido. El jefe te pide que no lo ajustes porque faltan minutos para cerrar, el pasillo es transitado, la iluminación es baja y tú estás cansado; si lo corriges, te retrasas y sales tarde, pero si lo dejas así aumenta el riesgo de caída. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reacomodas las cajas y señalizas, aunque te quedes más tiempo y salgas tarde.",
+      "pragmatic_distractor": "Ajustas solo lo visible para no retrasarte tanto.",
+      "evasive_distractor": "Avisas y sigues con tu tarea para no discutir.",
+      "rationalized_distractor": "Lo dejas porque falta poco y parece estable."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 19",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q080",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Conduces una unidad de pasajeros y una persona comienza a discutir con otra en voz alta. El tráfico está pesado, llevas retraso, otros pasajeros se inquietan, llueve, ya vas sin pausa desde hace horas y sientes tensión; si intervienes de inmediato puedes escalar el conflicto, pero si lo ignoras puede crecer, distraerte y afectar la seguridad del viaje. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Mantienes la conducción segura y solicitas apoyo en la próxima parada, aunque retrases la ruta.",
+      "pragmatic_distractor": "Pides que bajen el tono mientras continúas para no detenerte.",
+      "evasive_distractor": "Ignoras la discusión y te concentras en manejar.",
+      "rationalized_distractor": "Te detienes un momento para mediar porque crees que así se calma rápido."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 20",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]

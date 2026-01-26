@@ -150,15 +150,36 @@ class MiraPreguntasSeeder extends Seeder
 
 def main():
     """Función principal."""
+    global INPUT_ROOT, OUTPUT_ROOT, LOGS_ROOT
+
     parser = argparse.ArgumentParser(description='Genera seeder Laravel desde JSONs consolidados')
     parser.add_argument('--chunk-size', type=int, default=DEFAULT_CHUNK_SIZE,
                         help=f'Tamaño de chunks para inserts (default: {DEFAULT_CHUNK_SIZE})')
+    parser.add_argument('--input-root', default=str(INPUT_ROOT),
+                        help='Directorio con module*_all.json (default: 02_final_artifacts/consolidated)')
+    parser.add_argument('--output-root', default=str(OUTPUT_ROOT),
+                        help='Directorio de salida para seeders (default: 02_final_artifacts/seeders)')
+    parser.add_argument('--logs-root', default=str(LOGS_ROOT),
+                        help='Directorio de salida para logs (default: 02_final_artifacts/logs)')
+    parser.add_argument('--seeder-filename', default="MiraPreguntasSeeder.php",
+                        help='Nombre del archivo seeder de salida (default: MiraPreguntasSeeder.php)')
+    parser.add_argument('--class-name', default="MiraPreguntasSeeder",
+                        help='Nombre de la clase del seeder PHP (default: MiraPreguntasSeeder)')
+    parser.add_argument('--table-name', default="mira_preguntas",
+                        help='Nombre de tabla destino (default: mira_preguntas)')
     args = parser.parse_args()
+    INPUT_ROOT = Path(args.input_root)
+    OUTPUT_ROOT = Path(args.output_root)
+    LOGS_ROOT = Path(args.logs_root)
     
     print("=" * 70)
     print("GENERADOR DE SEEDER LARAVEL - SEEDER PIPELINE")
     print("=" * 70)
     print(f"Chunk size: {args.chunk_size}")
+    print(f"Input:  {INPUT_ROOT}")
+    print(f"Output: {OUTPUT_ROOT}")
+    print(f"Logs:   {LOGS_ROOT}")
+    print(f"Seeder: {args.seeder_filename} (class {args.class_name})")
     
     # Crear directorios
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
@@ -230,9 +251,12 @@ def main():
     print(f"   Chunks: {(len(all_transformed_items) + args.chunk_size - 1) // args.chunk_size}")
     
     seeder_php = generate_seeder_php(all_transformed_items, args.chunk_size)
+    # Reemplazos de personalización (clase y tabla) manteniendo el template existente
+    seeder_php = seeder_php.replace("class MiraPreguntasSeeder extends Seeder", f"class {args.class_name} extends Seeder")
+    seeder_php = seeder_php.replace("DB::table('mira_preguntas')", f"DB::table('{args.table_name}')")
     
     # Guardar seeder
-    seeder_file = OUTPUT_ROOT / "MiraPreguntasSeeder.php"
+    seeder_file = OUTPUT_ROOT / args.seeder_filename
     with open(seeder_file, 'w', encoding='utf-8') as f:
         f.write(seeder_php)
     
@@ -286,4 +310,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

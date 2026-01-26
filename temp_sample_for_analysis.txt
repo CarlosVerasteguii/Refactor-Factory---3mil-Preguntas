@@ -1,0 +1,162 @@
+ANALYSIS SET: 20 ITEMS
+
+#1 ID: block-B02-q120
+SCENARIO: Administras el presupuesto de un proyecto de investigación científica y el investigador principal te pide reclasificar gastos personales como costos del proyecto para aprovechar fondos antes de que expiren. Argumenta que su trabajo también lo realiza fuera de horario. Rechazar puede generar tensión académica y afectar futuras colaboraciones. ¿Qué autorizas?
+ - INTEGRITY (Correct): Rechazas reclasificar gastos personales y explicas que solo pueden cargarse costos directos del proyecto, aceptando que el investigador se moleste, que la relación académica se deteriore y que evite futuras colaboraciones contigo.
+ - PRAGMATIC (Distractor): Autorizas solo gastos que tienen relación parcial con el proyecto como material bibliográfico o equipo compartido, rechazando gastos puramente personales.
+ - EVASIVE (Distractor): Solicitas que el área de administración de proyectos o auditoría interna valide qué gastos son elegibles, transfiriendo la decisión a otra instancia.
+ - RATIONALIZED (Distractor): Autorizas la reclasificación comprendiendo que el investigador efectivamente trabaja fuera de horario, que merece compensación adicional y que perder fondos no utilizados es peor que flexibilizar criterios.
+----------------------------------------
+
+#2 ID: block-B02-q039
+SCENARIO: Al preparar un reporte de gastos, notas que tu supervisor tiene acceso a información sobre presupuestos que otros no ven y usa esta ventaja para asignar más recursos a ciertos proyectos y dejar a otros con presupuestos insuficientes. Esto ha creado un desequilibrio de poder. Confrontarlo podría afectar tu relación y carrera. ¿Qué haces?
+ - INTEGRITY (Correct): Solicitas una reunión con tu supervisor para pedir más transparencia en la toma de decisiones, aceptando que esto generará un conflicto directo con él, afectará negativamente tu relación, tu carrera y posiblemente te etiquete como alguien problemático.
+ - PRAGMATIC (Distractor): Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, esperando que un enfoque grupal sea más efectivo y menos riesgoso que actuar solo ante el supervisor.
+ - EVASIVE (Distractor): Trabajas dentro del sistema actual mientras buscas mejoras estructurales de manera discreta, esperando que esto sea suficiente para resolver el problema sin crear conflictos directos que puedan perjudicarte profesionalmente.
+ - RATIONALIZED (Distractor): No confrontas directamente pero documentas tus observaciones esperando que el supervisor eventualmente comparta más información, evitando crear conflictos innecesarios que podrían afectar tu posición en la empresa.
+----------------------------------------
+
+#3 ID: block-B02-q145
+SCENARIO: Lideras el proceso de certificación de calidad de productos y el equipo de producción te pide aprobar un lote que tiene defectos menores no detectables por clientes finales pero que violan los estándares internos. Argumentan que rechazar el lote causaría pérdidas económicas importantes. Si insistes en rechazarlo, podrías ser responsabilizado por afectar la rentabilidad. ¿Qué autorizas?
+ - INTEGRITY (Correct): Rechazas aprobar el lote defectuoso y exiges que se sigan los estándares de calidad establecidos, aceptando que te responsabilicen por pérdidas económicas, que el equipo de producción se moleste y que cuestionen tu criterio técnico.
+ - PRAGMATIC (Distractor): Apruebas el lote actual con una nota técnica de advertencia pero refuerzas controles para futuros lotes, esperando evitar pérdidas inmediatas sin comprometer completamente los estándares.
+ - EVASIVE (Distractor): Solicitas que el área de aseguramiento de calidad o un auditor externo valide si los defectos ameritan rechazo, transfiriendo la decisión técnica.
+ - RATIONALIZED (Distractor): Apruebas el lote evaluando que los defectos son realmente menores, que los clientes no los detectarán y que rechazar causaría daño económico desproporcionado frente al riesgo.
+----------------------------------------
+
+#4 ID: block-B02-q111
+SCENARIO: Lideras la revisión de cumplimiento tributario y detectas que varios departamentos clasificaron incorrectamente gastos para aprovechar deducciones fiscales no aplicables. Tu gerente te pide validar las declaraciones tal como están porque corregirlas implicaría pagar impuestos adicionales y multas. Insistir en la corrección puede afectar tu reputación y responsabilizarte de los costos. ¿Qué validas?
+ - INTEGRITY (Correct): Corriges las clasificaciones incorrectas y presentas declaraciones rectificativas aceptando pagar impuestos adicionales, aceptando que te responsabilicen por los costos, que el gerente se moleste y que tu credibilidad interna se vea afectada.
+ - PRAGMATIC (Distractor): Corriges las clasificaciones para futuras declaraciones pero mantienes las anteriores argumentando que fueron interpretaciones razonables en su momento, esperando mejorar sin admitir errores pasados.
+ - EVASIVE (Distractor): Solicitas que una firma externa de asesoría tributaria valide las clasificaciones antes de decidir, transfiriendo la responsabilidad técnica a especialistas.
+ - RATIONALIZED (Distractor): Validas las declaraciones incorrectas apoyándote en que las clasificaciones tienen justificación interpretativa, que el riesgo de auditoría es bajo y que corregir causaría daño financiero desproporcionado.
+----------------------------------------
+
+#5 ID: block-B02-q151
+SCENARIO: Te asignan coordinar la investigación de una queja de acoso laboral presentada contra un gerente de alto desempeño comercial. Tu supervisor te sugiere minimizar el alcance de la investigación porque una sanción afectaría resultados de ventas del trimestre. Si insistes en investigar completamente, podrías ser visto como amenaza para objetivos comerciales. ¿Cómo procedes con la investigación?
+ - INTEGRITY (Correct): Realizas una investigación completa e imparcial de la queja sin limitar alcance, aceptando que afecte resultados comerciales, que tu supervisor se moleste y que te vean como amenaza para objetivos del área.
+ - PRAGMATIC (Distractor): Investigas la queja específica presentada pero sin expandir a otros posibles casos, esperando resolver el asunto puntual sin ampliar innecesariamente el impacto.
+ - EVASIVE (Distractor): Propones que una firma externa especializada en investigaciones laborales maneje el caso, transfiriendo la responsabilidad de definir alcance y conclusiones.
+ - RATIONALIZED (Distractor): Minimizas la investigación suponiendo que la queja puede ser exagerada, que el gerente genera resultados importantes y que una investigación exhaustiva causaría daño desproporcionado frente a evidencia limitada.
+----------------------------------------
+
+#6 ID: block-B02-q038
+SCENARIO: Al asignar tareas para un proyecto importante, identificas un potencial conflicto de interés porque una de las tareas beneficiaría directamente a un negocio paralelo que tienes con un familiar. Tu supervisor lo sabe pero insiste en que manejes la situación. Si te recusas, el proyecto se retrasa y afecta tu carrera. ¿Qué haces?
+ - INTEGRITY (Correct): Te recusas de asignar esa tarea específica citando el conflicto de interés, aceptando que esto retrasará el proyecto, perderás la oportunidad de liderar este proyecto importante y afectará negativamente tu carrera y tu relación con tu supervisor.
+ - PRAGMATIC (Distractor): Propones reasignar la tarea a otro miembro del equipo mientras te enfocas en otras responsabilidades, esperando que esto sea suficiente para evitar el conflicto sin perder completamente tu participación en el liderazgo del proyecto.
+ - EVASIVE (Distractor): Asignas la tarea pero documentas el conflicto y te aseguras de que la decisión sea transparente y beneficie a la empresa, trabajando dentro del sistema actual mientras buscas mejoras estructurales para situaciones similares.
+ - RATIONALIZED (Distractor): Manejas la situación como te piden, convenciéndote de que tu supervisor está al tanto, confía en tu capacidad para ser objetivo y que tu negocio paralelo no influye directamente en tu decisión profesional.
+----------------------------------------
+
+#7 ID: block-B02-q176
+SCENARIO: Coordinas la evaluación de clima organizacional y tu supervisor te pide excluir del análisis las respuestas de empleados que recientemente presentaron quejas formales, argumentando que están sesgados negativamente. Las metodologías establecidas requieren incluir todas las respuestas válidas. Excluirlas distorsionaría resultados. ¿Qué datos incluyes?
+ - INTEGRITY (Correct): Incluyes todas las respuestas válidas sin exclusiones y reportas resultados completos, aceptando que tu supervisor se moleste, cuestione tu criterio metodológico y limite tu participación en procesos de clima.
+ - PRAGMATIC (Distractor): Incluyes todas las respuestas pero realizas análisis segmentado identificando patrones entre diferentes grupos, esperando presentar datos completos con contexto sin excluir.
+ - EVASIVE (Distractor): Solicitas que un consultor externo de clima organizacional valide la metodología de inclusión de respuestas, transfiriendo la decisión técnica.
+ - RATIONALIZED (Distractor): Excluyes las respuestas de quienes presentaron quejas asumiendo que efectivamente están sesgados, que distorsionarían el panorama real y que un análisis limpio es más representativo.
+----------------------------------------
+
+#8 ID: block-B02-q081
+SCENARIO: Participas en un panel de selección para un ascenso interno y dos candidatos finales tienen evaluaciones muy similares. Uno de ellos es cercano a tu jefe, quien te sugiere inclinar la balanza a su favor argumentando que facilitará la transición. Oponerte puede hacer que tu jefe dude de tu lealtad y limite tu influencia futura. ¿Cómo decides?
+ - INTEGRITY (Correct): Evalúas con base en criterios objetivos documentados y propones un proceso de desempate transparente, aceptando que tu jefe se incomode, cuestione tu alineación y reduzca tu participación en decisiones clave.
+ - PRAGMATIC (Distractor): Das un ligero peso adicional a la capacidad de coordinación con la jefatura sin cambiar radicalmente los criterios, esperando que eso incline sutilmente la decisión.
+ - EVASIVE (Distractor): Propones agregar una entrevista adicional o una prueba técnica para que el resultado sea más claro, intentando transferir la decisión final a otro momento.
+ - RATIONALIZED (Distractor): Respaldas al candidato cercano al jefe convenciéndote de que la relación previa facilitará la gestión del equipo y que ambos candidatos son igualmente capaces.
+----------------------------------------
+
+#9 ID: block-B02-q006
+SCENARIO: Te enteras que tu supervisor tiene acceso a información privilegiada que el equipo no tiene y la usa para tomar decisiones que afectan a todos. Algunos miembros del equipo reciben proyectos más deseables, mientras otros, incluyéndote, quedan con tareas menos gratificantes. Confrontar a tu supervisor podría afectar negativamente tu relación con él y tu carrera en la empresa. ¿Qué haces?
+ - INTEGRITY (Correct): Buscas el canal apropiado en la empresa para reportar posible abuso de poder o favoritismo, sabiendo que generará conflicto directo con tu supervisor, afectará tu relación y carrera, y te etiquetará como no leal.
+ - PRAGMATIC (Distractor): Solicitas reunión con tu supervisor para pedir más transparencia en la toma de decisiones, esperando resolver el problema sin escalar y crear conflictos mayores.
+ - EVASIVE (Distractor): Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar acción conjunta, pensando que enfoque grupal sería más efectivo y menos riesgoso.
+ - RATIONALIZED (Distractor): No haces nada para no arriesgar tu relación con el supervisor. Aunque el sistema es injusto, confrontarlo generaría represalias que afectarían aún más tu posición.
+----------------------------------------
+
+#10 ID: block-B02-q128
+SCENARIO: Participas en un panel que selecciona proveedores de servicios de limpieza y uno de los finalistas emplea prácticas laborales cuestionables según reportes de organizaciones sociales, aunque su oferta es económicamente la más conveniente. Tu supervisor te pide enfocarte solo en criterios económicos. Señalar el tema laboral puede complicar la decisión y afectar tu participación en procesos de compra. ¿Qué consideras en la evaluación?
+ - INTEGRITY (Correct): Incluyes formalmente las prácticas laborales como criterio de evaluación y recomiendas excluir al proveedor cuestionado, aceptando que tu supervisor se moleste, que te vean como obstáculo económico y que te excluyan de futuras compras.
+ - PRAGMATIC (Distractor): Mantienes al proveedor en evaluación pero solicitas que presente certificaciones laborales actualizadas antes de adjudicar, esperando que se corrija o se descalifique por no cumplir.
+ - EVASIVE (Distractor): Propones que el área de responsabilidad social o legal valide el tema laboral mientras tú te enfocas en la evaluación económica, dividiendo responsabilidades.
+ - RATIONALIZED (Distractor): Seleccionas al proveedor más económico con la visión de que los reportes sociales pueden ser inexactos, que tu responsabilidad es optimizar costos y que las prácticas laborales no son criterio formal de la licitación.
+----------------------------------------
+
+#11 ID: block-B02-q041
+SCENARIO: Un colega con el que trabajas de cerca te pide registrar horas extra que no trabajó para alcanzar el bono trimestral. Te insiste en que todos lo hacen, que la empresa casi nunca revisa esos detalles y que negarte sería una traición a la confianza del equipo. Si lo rechazas, probablemente te aislará y dejarás de ser considerado para proyectos atractivos. ¿Qué haces?
+ - INTEGRITY (Correct): Le dices con claridad que no registrarás horas falsas y que no estás dispuesto a justificar datos que no son reales, aceptando que se enfadará, puede dejar de confiar en ti, te excluirá de proyectos valorados y dañará tu relación cotidiana con el equipo.
+ - PRAGMATIC (Distractor): Aceptas registrar una parte moderada de horas extra, pero no todas las que pide, convenciéndote de que así lo ayudas sin exagerar el riesgo y de que la empresa difícilmente revisará a detalle ese desajuste.
+ - EVASIVE (Distractor): Le dices que primero quieres revisar el procedimiento oficial de registro de horas y lo vas postergando, esperando que encuentre otra forma de alcanzar el bono sin que tengas que negarte de frente.
+ - RATIONALIZED (Distractor): Registras las horas que te pide porque consideras que trabajan mucho y la empresa no siempre lo reconoce, convenciéndote de que solo estás equilibrando una situación injusta y que nadie saldrá realmente perjudicado.
+----------------------------------------
+
+#12 ID: block-B02-q132
+SCENARIO: Administras el proceso de reembolso de gastos médicos y un empleado presenta comprobantes que parecen haber sido alterados digitalmente para aumentar montos. Las políticas exigen verificar autenticidad antes de aprobar. Rechazar el reembolso puede generar conflicto personal con el empleado y afectar el clima del área. ¿Cómo procedes?
+ - INTEGRITY (Correct): Rechazas el reembolso y solicitas al empleado presentar comprobantes originales verificables, aceptando generar conflicto personal, que el empleado se moleste y que el clima del área se vea afectado.
+ - PRAGMATIC (Distractor): Solicitas que el empleado aclare las inconsistencias detectadas antes de aprobar, dándole oportunidad de corregir o explicar sin rechazar directamente.
+ - EVASIVE (Distractor): Derivas la verificación de autenticidad al área de auditoría interna o al proveedor médico, transfiriendo la responsabilidad de validar.
+ - RATIONALIZED (Distractor): Apruebas el reembolso pensando que las diferencias pueden ser errores de escaneo o formato, que el empleado necesita el dinero y que cuestionar la autenticidad generaría conflicto innecesario.
+----------------------------------------
+
+#13 ID: block-B02-q138
+SCENARIO: Participas en un comité que distribuye fondos de capacitación internacional y tu supervisor te sugiere priorizar a colaboradores de su área aunque otros departamentos tienen solicitudes con mayor justificación técnica según criterios establecidos. Argumenta que su área es estratégica. Oponerte puede afectar tu participación en decisiones de desarrollo. ¿Cómo distribuyes los fondos?
+ - INTEGRITY (Correct): Distribuyes fondos según criterios técnicos establecidos de justificación, rechazando favorecer un área por considerarla estratégica, aceptando que tu supervisor se moleste y limite tu participación en decisiones de desarrollo.
+ - PRAGMATIC (Distractor): Asignas una porción a colaboradores del área de tu supervisor pero garantizas que otras áreas con mejor justificación también reciban fondos proporcionalmente.
+ - EVASIVE (Distractor): Propones que un panel más amplio o el área de gestión humana valide las prioridades de capacitación, transfiriendo la decisión de distribución.
+ - RATIONALIZED (Distractor): Priorizas el área de tu supervisor confiando en que su criterio de importancia estratégica es válido, que conoce mejor las necesidades y que asegurar su apoyo beneficia al programa de capacitación.
+----------------------------------------
+
+#14 ID: block-B02-q137
+SCENARIO: Gestionas el fondo de caja chica y detectas que un supervisor retira regularmente montos pequeños sin comprobantes argumentando que son para atenciones urgentes del equipo. Las políticas exigen documentación completa de todos los retiros. Reportarlo puede generar tensión con el supervisor y afectar la colaboración operativa. ¿Cómo procedes?
+ - INTEGRITY (Correct): Rechazas aprobar retiros sin comprobantes y exiges que se sigan las políticas de documentación completa, aceptando que el supervisor se moleste, te vea como obstáculo administrativo y limite la colaboración operativa.
+ - PRAGMATIC (Distractor): Permites los retiros actuales pero implementas un sistema simplificado de comprobantes para atenciones de equipo que facilite el cumplimiento futuro sin rechazar retroactivamente.
+ - EVASIVE (Distractor): Consultas con el área de finanzas si pueden crearse fondos especiales para atenciones de equipo con controles más flexibles, transfiriendo la decisión sobre la política.
+ - RATIONALIZED (Distractor): Apruebas los retiros sin comprobantes justificando que son montos pequeños, que el supervisor es confiable y que exigir documentación para atenciones menores solo burocratiza la operación.
+----------------------------------------
+
+#15 ID: block-B02-q177
+SCENARIO: Gestionas la selección de proveedor para outsourcing de servicios de TI y uno de los finalistas tiene propuesta económica muy atractiva pero investigación revela antecedentes de incumplimientos contractuales graves con otros clientes. Tu gerente te pide enfocarte solo en criterios económicos y técnicos actuales. Señalar antecedentes puede complicar la contratación. ¿Qué consideras?
+ - INTEGRITY (Correct): Incluyes formalmente los antecedentes de incumplimientos contractuales y recomiendas descalificar al proveedor, aceptando que tu gerente se moleste, que compliques la contratación y que te vean como obstáculo económico.
+ - PRAGMATIC (Distractor): Mantienes al proveedor en evaluación pero recomiendas incluir cláusulas contractuales estrictas de penalidades por incumplimiento, esperando mitigar riesgos sin descalificar.
+ - EVASIVE (Distractor): Solicitas que el área legal o de gestión de riesgos valide el impacto de antecedentes antes de decidir, transfiriendo la responsabilidad de evaluar.
+ - RATIONALIZED (Distractor): Seleccionas según criterios económicos confiando en que los problemas fueron con otros clientes, que el proveedor pudo mejorar y que la propuesta económica beneficia significativamente a la organización.
+----------------------------------------
+
+#16 ID: block-B02-q034
+SCENARIO: Al preparar un reporte de gastos, notas que tu supervisor usa información sobre recursos y presupuestos que otros no ven para tomar decisiones que afectan a todos, asignando proyectos deseables a ciertos empleados y dejando a otros con tareas menos gratificantes. Confrontarlo podría afectar tu relación y carrera. ¿Qué haces?
+ - INTEGRITY (Correct): Buscas el canal apropiado en la empresa para reportar el desequilibrio de poder, aceptando que esto generará un conflicto directo con tu supervisor, afectará negativamente tu relación con él, tu carrera y posiblemente te etiquete como alguien desleal.
+ - PRAGMATIC (Distractor): Solicitas una reunión con tu supervisor para pedir más transparencia en la toma de decisiones, esperando que esto resuelva el problema sin escalar la situación y crear conflictos mayores que te perjudiquen.
+ - EVASIVE (Distractor): Hablas con compañeros de confianza para saber si comparten tu preocupación y evaluar una acción conjunta, pensando que un enfoque grupal podría ser más efectivo y menos riesgoso que actuar solo ante el supervisor.
+ - RATIONALIZED (Distractor): No haces nada para no arriesgar tu relación con el supervisor, convenciéndote de que aunque el sistema es injusto, confrontarlo podría generar represalias que afectarían aún más tu posición en el equipo.
+----------------------------------------
+
+#17 ID: block-B02-q098
+SCENARIO: Te asignan revisar el cumplimiento de cuotas de contratación de grupos minoritarios y detectas que varios departamentos reportan cifras infladas reclasificando puestos para aparentar cumplimiento. Tu gerente te pide validar esos reportes sin objeciones porque corregirlos implicaría admitir incumplimiento ante reguladores. Insistir en la veracidad puede afectar tu reputación interna. ¿Cómo validas los reportes?
+ - INTEGRITY (Correct): Corriges las cifras infladas y reportas el incumplimiento real ante reguladores, aceptando que tu gerente se moleste, que te vean como causa de sanciones externas y que tu credibilidad interna se vea afectada.
+ - PRAGMATIC (Distractor): Validas las cifras actuales pero recomiendas reforzar controles para futuros reportes, esperando corregir gradualmente sin tener que admitir irregularidades pasadas.
+ - EVASIVE (Distractor): Entregas los datos sin validación explícita y sugiere que el área legal o de cumplimiento revise antes de enviar a reguladores, transfiriendo la responsabilidad de certificar.
+ - RATIONALIZED (Distractor): Validas los reportes inflados interpretando que la organización está mejorando, que corregir ahora solo generaría multas innecesarias y que la intención de cumplir es lo importante.
+----------------------------------------
+
+#18 ID: block-B02-q154
+SCENARIO: Coordinas el proceso de contratación de servicios legales externos y uno de los bufetes finalistas es donde trabaja un familiar cercano de tu supervisor. El bufete tiene propuesta competitiva pero no necesariamente la mejor. Tu supervisor no ha declarado la relación. Señalarla puede generar confrontación directa y afectar tu evaluación de desempeño. ¿Qué haces?
+ - INTEGRITY (Correct): Señalas formalmente el conflicto de interés no declarado y solicitas que tu supervisor se aparte de la decisión, aceptando que se moleste, que la relación se deteriore y que tu evaluación de desempeño se vea afectada.
+ - PRAGMATIC (Distractor): Incluyes evaluadores adicionales en el proceso de selección sin mencionar específicamente el conflicto, esperando que múltiples opiniones diluyan cualquier sesgo.
+ - EVASIVE (Distractor): Propones que el área de compras o un comité corporativo tome la decisión final sobre el bufete, transfiriendo la responsabilidad fuera de tu supervisor.
+ - RATIONALIZED (Distractor): No señalas el conflicto creyendo que el bufete tiene méritos propios, que la relación familiar no afecta la calidad técnica y que señalarlo solo complicaría innecesariamente el proceso.
+----------------------------------------
+
+#19 ID: block-B02-q187
+SCENARIO: Lideras la evaluación de cumplimiento de protocolos de investigación clínica y detectas que varios investigadores omitieron registros obligatorios de efectos adversos en estudios con participantes humanos. Tu gerente te pide no reportarlo formalmente a comités de ética porque suspender estudios retrasaría publicaciones importantes. Insistir puede responsabilizarte de afectar reputación académica del centro. ¿Qué reportas?
+ - INTEGRITY (Correct): Reportas formalmente las omisiones de registro a comités de ética y recomiendas suspender estudios hasta regularizar, aceptando retrasar publicaciones, que el gerente se moleste y que afectes reputación del centro.
+ - PRAGMATIC (Distractor): Documentas las omisiones pero das plazo breve para completar registros retroactivamente antes de reportar a comités, esperando regularizar sin suspender estudios.
+ - EVASIVE (Distractor): Consultas con el comité de ética de investigación si las omisiones ameritan suspensión o pueden regularizarse, transfiriendo la decisión sobre acciones correctivas.
+ - RATIONALIZED (Distractor): No reportas las omisiones confiando en que los efectos adversos fueron menores, que los investigadores son expertos confiables y que suspender estudios causaría daño desproporcionado a la investigación.
+----------------------------------------
+
+#20 ID: block-B02-q051
+SCENARIO: Administras una caja chica y detectas que un reembolso fue pagado dos veces por error. Tu supervisor te sugiere dejarlo así para no abrir ajustes contables que retrasen el cierre mensual, y comenta que el monto es pequeño frente al presupuesto total. Si insistes en corregirlo, podrías ser visto como alguien que complica procesos y pierdes su apoyo en tareas futuras. ¿Qué decides hacer con el registro?
+ - INTEGRITY (Correct): Solicitas corregir el reembolso duplicado y documentas el ajuste, aceptando que el cierre se retrase, que tu supervisor se moleste, te considere poco práctico y te excluya de encargos que antes confiaba en ti.
+ - PRAGMATIC (Distractor): Dejas el reembolso duplicado pero propones compensar el monto en el siguiente mes, convenciéndote de que así evitas trámites engorrosos sin afectar de forma relevante las cuentas.
+ - EVASIVE (Distractor): Comentas el error con un compañero y esperas a que alguien más lo escale, evitando asumir tú la responsabilidad de pedir la corrección formal.
+ - RATIONALIZED (Distractor): Decides no corregir el error porque consideras que la empresa también comete fallas a tu favor y en otras ocasiones no reconoce tus esfuerzos, pensando que el saldo se equilibra.
+----------------------------------------
+

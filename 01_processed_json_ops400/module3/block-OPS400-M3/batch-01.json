@@ -1,0 +1,303 @@
+[
+  {
+    "id": "block-OPS400-M3-q001",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En caja, un cliente asegura que ayer se le cobró dos veces y hoy exige devolución inmediata, pero el sistema está lento y no puedes confirmar el movimiento en ese momento. Tu compañero dice que le devuelvas para evitar una escena, porque hay fila y todos miran. Si devuelves sin verificar puedes pagar algo indebido; si esperas, el cliente se enfurece. ¿Cómo procedes?",
+    "options_structured": {
+      "integrity_correct": "Registras la incidencia y verificas antes de devolver, aunque el cliente se altere, la fila se atrase y te toque sostener la tensión por hacer lo correcto.",
+      "pragmatic_distractor": "Le das una solución rápida sin validar del todo y prometes revisar después, confiando en que así evitas conflicto y si hubo error se compensa.",
+      "evasive_distractor": "Le dices que vuelva otro día con más pruebas y evitas decidir, aunque lo dejes molesto y el problema quede sin resolver.",
+      "rationalized_distractor": "Le devuelves de inmediato para mantener la calma del lugar, convencido de que es mejor evitar un pleito aunque no haya confirmación."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 1",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q002",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En reparto llegas a una dirección y quien recibe no coincide con el nombre de la guía. La persona dice que es familiar y te ofrece propina para no llamar ni reprogramar, porque tiene prisa. No tienes buena señal y vas retrasado, pero el paquete es caro y el remitente pidió verificación. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento y confirmas identidad antes de entregar, aunque pierdas tiempo, rechaces la propina y la persona se moleste contigo.",
+      "pragmatic_distractor": "Pides una evidencia rápida (firma y dato verificable) y entregas, confiando en que con eso bastará si luego hay reclamo.",
+      "evasive_distractor": "Evitas decidir y te vas a la siguiente entrega, dejando este caso para después aunque se complique más tarde.",
+      "rationalized_distractor": "Entregas para no afectar tu ruta y porque parece confiable, justificándolo como mantener el servicio del día aunque no quede validación completa."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 2",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q003",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En almacén encuentras cajas con fecha muy próxima y el encargado dice que las mezcles con las nuevas para que “salgan” y no se reporten pérdidas. Si las separas habrá merma y te reclamarán por el costo; si las mezclas, clientes podrían llevarse producto a punto de vencer sin saber. El equipo está presionado por números. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Las separas y reportas para manejo correcto, aunque te ganes enojo del encargado, más trabajo y la incomodidad de quedar como quien generó una pérdida.",
+      "pragmatic_distractor": "Las pones al frente para que salgan primero y avisas de forma discreta, intentando evitar merma sin formalizar un reporte que te traiga problemas.",
+      "evasive_distractor": "No tocas nada y dejas que otro turno lo resuelva, evitando involucrarte aunque el riesgo siga ahí.",
+      "rationalized_distractor": "Las mezclas porque piensas que es mejor evitar pérdidas y que igual se consumirán pronto, aunque el cliente no tenga claridad."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 3",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q004",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el mostrador, un cliente pide datos del pedido de su pareja y se enoja cuando no se los das, diciendo que “vive con ella” y que es urgente. En pantalla ves dirección y detalles sensibles. Tu supervisor te presiona para resolver rápido porque hay fila. Si compartes, puede ser indebido; si no, habrá queja. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a compartir datos y explicas el procedimiento para confirmar autorización, aunque el cliente se altere, te amenace con queja y te retrases atendiendo.",
+      "pragmatic_distractor": "Das solo información mínima para calmarlo, asumiendo que no habrá problema y así evitas una escena frente a la fila.",
+      "evasive_distractor": "Le dices que vuelva cuando esté el encargado y evitas decidir, aunque lo dejes frustrado y el problema siga creciendo.",
+      "rationalized_distractor": "Compartes los detalles porque piensas que ayudar evita un conflicto familiar y protege el servicio, aunque no tengas autorización real."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 4",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q005",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un compañero se equivocó y entregó un pedido a otra persona. Te pide que no lo reportes y que entre ustedes repongan el producto para que no lo sancionen. Si lo reportas, él se enoja y el equipo te ve como desleal; si lo ocultas, se arregla rápido pero el error queda escondido. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas el error por el canal correcto y ayudas a corregirlo, aunque eso te gane rechazo del compañero, te meta en una situación incómoda y te toque dar explicaciones.",
+      "pragmatic_distractor": "Primero intentas recuperar el pedido y corregir, y si no se logra, lo reportas con evidencia, buscando resolver sin dañar al compañero más de lo necesario.",
+      "evasive_distractor": "Te haces el que no vio nada y dejas que él lo arregle, evitando conflicto aunque el riesgo de que se repita quede intacto.",
+      "rationalized_distractor": "Lo ocultas porque piensas que proteger al compañero es lo principal y que el cliente igual quedará atendido cuando lo repongan."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 5",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q006",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En caja, una persona con prisa deja un billete de más sin darse cuenta. Tu compañero te dice que lo guardes porque “el cliente ni lo notará” y el turno está pesado. Si lo regresas, pierdes tiempo y te expones a comentarios; si lo guardas, te beneficia pero no es correcto. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le regresas el dinero y lo aclaras, aunque pierdas tiempo, te retrase la fila y te incomode exponerte por corregir el error.",
+      "pragmatic_distractor": "Lo apartas y buscas contactarlo o esperar a que regrese, intentando devolverlo sin detener tanto la operación del turno.",
+      "evasive_distractor": "Lo dejas en caja sin decir nada para decidir después, evitando el momento incómodo aunque probablemente termine quedando sin resolver.",
+      "rationalized_distractor": "Te lo quedas porque piensas que el turno fue duro y lo mereces, justificándolo como una suerte que te ayuda a ti."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 6",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q007",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En la bodega, un compañero se lastima moviendo una caja y te pide decir que fue “fuera del trabajo” para evitar reporte porque teme que lo regañen. Si aceptas, lo proteges, pero el riesgo de seguridad queda oculto; si reportas, se enoja y te verán como quien lo expuso. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas el incidente como ocurrió y pides que se revise la causa, aunque eso genere molestia, te exponga con el compañero y te toque lidiar con un ambiente tenso.",
+      "pragmatic_distractor": "Le sugieres reportarlo como una molestia leve sin entrar en detalles, buscando que reciba ayuda sin que parezca un gran problema.",
+      "evasive_distractor": "Dices que no sabes y te apartas, evitando decidir, aunque el compañero quede sin apoyo y el riesgo se mantenga.",
+      "rationalized_distractor": "Aceptas su versión porque piensas que ayudar a un compañero es lo correcto y que el reporte solo complica, aunque se pierda la oportunidad de prevenir."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 7",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q008",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un cliente se equivoca al pagar y te entrega una tarjeta que no es suya; al revisar ves el nombre diferente. El cliente está apurado y te pide que lo dejes pasar “porque no importa”. Si aceptas, resuelves rápido, pero puedes facilitar un abuso; si detienes, se enoja y la fila crece. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Detienes la operación y sigues el procedimiento de verificación, aunque el cliente se moleste, pierdas tiempo y tengas que sostener reclamos por la demora.",
+      "pragmatic_distractor": "Le pides que confirme identidad o use otro medio de pago, buscando resolver rápido sin permitir algo irregular.",
+      "evasive_distractor": "Le dices que no puedes y lo mandas a otra caja sin explicación, evitando el conflicto aunque solo traslades el problema.",
+      "rationalized_distractor": "Procesas el pago porque piensas que es un detalle y que la prioridad es atender, aunque la situación sea irregular."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 8",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q009",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En ruta, un cliente te ofrece dinero para que lo registres como “entregado” en otra dirección, porque no quiere que su familia se entere. Si lo haces, ayudas al cliente y terminas rápido, pero el registro quedará falso y puede generar reclamo. Si te niegas, se enoja y amenaza con quejarse. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas y registras la entrega de forma correcta, aunque el cliente se moleste, pierdas tiempo en discutir y te arriesgues a una queja por no ceder.",
+      "pragmatic_distractor": "Buscas una alternativa válida (reprogramar o punto autorizado) para ayudar sin falsificar, aunque eso te tome más tiempo y al cliente no le guste.",
+      "evasive_distractor": "Dices que lo revisarás y te vas, evitando decidir, aunque dejes el paquete en el limbo y el cliente más frustrado.",
+      "rationalized_distractor": "Aceptas porque piensas que es un asunto personal del cliente y que ayudarlo es lo más humano, aunque el registro quede incorrecto."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 9",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q010",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En inventario faltan piezas y el encargado sugiere ajustar el sistema para que cuadre, diciendo que luego “aparecen”. Si aceptas, evitas una revisión larga; si te niegas, detienes el cierre y todos se molestan. Sabes que ajustar sin evidencia oculta problemas reales. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas a ajustar sin evidencia y pides revisión, aunque eso te gane presión, enojo del encargado y te toque quedarte más tiempo para aclararlo.",
+      "pragmatic_distractor": "Haces una búsqueda rápida adicional y documentas lo revisado antes de cerrar, buscando equilibrio entre control y tiempo sin inventar cifras.",
+      "evasive_distractor": "Dejas que el encargado ajuste y tú no participas, evitando confrontarlo aunque se mantenga la práctica incorrecta.",
+      "rationalized_distractor": "Ajustas para que cuadre porque piensas que lo importante es que la tienda funcione y que detenerse por unas piezas no vale la pena."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 10",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q011",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Ves a un cliente tomar un alimento y guardarlo sin pagar. Parece nervioso y va con un niño. Tu compañero dice que lo dejes ir para evitar problemas, pero si todos hacen eso, se afecta la tienda. Si lo detienes, puede haber conflicto público y te tocará manejarlo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento y pides apoyo para atender la situación con respeto, aunque te expongas a un conflicto, pierdas tiempo y recibas críticas por “meterte”.",
+      "pragmatic_distractor": "Te acercas y le ofreces una alternativa para pagar o regresar el producto sin escalar, buscando resolver sin hacer un escándalo.",
+      "evasive_distractor": "Ignoras lo ocurrido y sigues atendiendo, evitando conflicto aunque normalices una falta que puede repetirse.",
+      "rationalized_distractor": "Lo dejas ir porque piensas que quizá lo necesita y que no vale la pena complicar, aunque sea injusto para el resto."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 11",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q012",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un cliente mayor no entiende un cobro y te pide que le expliques con calma, pero la fila está larga y tu compañero te presiona para avanzar. Si lo atiendes bien, te atrasas y te reclaman; si lo despachas rápido, puede pagar algo que no comprendió. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le explicas con calma y verificas que entendió, aunque la fila se impaciente, te atrases y recibas presión por dedicar tiempo extra.",
+      "pragmatic_distractor": "Le das una explicación rápida y pasas al siguiente, confiando en que con eso basta para que no haya problema.",
+      "evasive_distractor": "Lo mandas con el encargado para que él explique, evitando el tiempo, aunque el cliente se sienta rechazado y la fila se detenga igual.",
+      "rationalized_distractor": "Lo cobras sin explicar porque piensas que tu prioridad es la fila, aunque el cliente no comprenda y se sienta engañado."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 12",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q013",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el área de devoluciones, un cliente insiste en devolver un producto usado diciendo que “no lo ocupó”, y tu compañero sugiere aceptarlo para evitar pleito. Si lo aceptas, es injusto para el control y para otros clientes; si lo rechazas, se enoja y hace escándalo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento y rechazas la devolución irregular, aunque el cliente se altere, se detenga la fila y tengas que sostener un conflicto incómodo.",
+      "pragmatic_distractor": "Propones una alternativa permitida, como cambio parcial o revisión con el encargado, buscando evitar pleito sin aceptar algo indebido.",
+      "evasive_distractor": "Le dices que vuelva cuando esté el encargado y evitas decidir, aunque solo postergues el conflicto y el cliente se vaya más molesto.",
+      "rationalized_distractor": "Aceptas para mantener la calma porque piensas que una devolución no afecta tanto y es mejor evitar una escena."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 13",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q014",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En ruta, te das cuenta de que un paquete se dañó por cómo lo acomodaron. El cliente te pide que lo marques como “daño en origen” para que le cambien rápido y te ofrece propina. Si aceptas, el registro queda falso; si dices la verdad, el cliente se enoja y te toca iniciar un trámite más lento. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Registras lo ocurrido con honestidad y sigues el proceso real, aunque pierdas la propina, el cliente se moleste y te toque invertir tiempo extra en el trámite.",
+      "pragmatic_distractor": "Buscas acelerar el trámite con evidencia sin mentir en la causa, intentando ayudar al cliente aunque te tome más tiempo del que quisieras.",
+      "evasive_distractor": "Le dices que lo verán en bodega y te vas, evitando decidir, aunque el cliente quede sin solución clara y el problema crezca.",
+      "rationalized_distractor": "Cambias la causa porque piensas que lo importante es que el cliente quede satisfecho y que el detalle del registro no importa tanto."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 14",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q015",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Te piden priorizar el pedido de un conocido saltando a otros que llegaron antes. Dicen que “no pasa nada” y que es solo un favor. Si lo haces, quedas bien y ahorras discusión; si no, tu compañero se burla y el conocido se ofende. Sabes que es injusto para los demás clientes. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Respetas el orden y explicas que no puedes saltarte la fila, aunque incomodes al conocido, te ganes mala cara del compañero y tengas que sostener la tensión por ser justo.",
+      "pragmatic_distractor": "Buscas acelerar el pedido del conocido sin saltarte formalmente, por ejemplo avisándole tiempos o ayudando a preparar cuando toque, para no romper el orden.",
+      "evasive_distractor": "Dices que no decides tú y lo mandas con el encargado, evitando ser tú quien diga que no, aunque solo traslades el conflicto.",
+      "rationalized_distractor": "Lo priorizas porque piensas que cuidar relaciones te ayuda a ti y al equipo, aunque sea injusto para los demás."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 15",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q016",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el almacén, el termómetro del área fría marca fuera de rango por ratos. El encargado te pide anotar valores normales porque si no se pierde un lote y hoy no llega el técnico. Si lo haces, evitas pérdida y retraso; si reportas lo real, se detiene la salida y te culpan por el costo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Registras el valor real y detienes el envío hasta verificar, aunque eso genere enojo, retraso y te señalen por haber causado una pérdida.",
+      "pragmatic_distractor": "Revisas con otro equipo o medición rápida antes de frenar todo, buscando confirmar si es falla del sensor sin mentir en el registro.",
+      "evasive_distractor": "Pides que el encargado lo firme y te apartas, evitando decidir, aunque el riesgo siga y el tiempo corra.",
+      "rationalized_distractor": "Anotas valores normales para no perder el lote, convencido de que el producto está bien y que lo importante es sacar la operación."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 16",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q017",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En atención, un cliente te pide que confirmes un servicio “hoy mismo” y tu compañero dice que prometas disponibilidad para asegurar la venta. Tú sabes que aún no está confirmado y que puede fallar, pero decir la verdad podría hacer que el cliente se vaya. Si prometes, creas expectativa falsa; si no, pierdes el caso. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Dices la verdad y ofreces confirmar en cuanto esté validado, aunque pierdas la venta, te reclamen por no cerrar y te toque aguantar presión por ser transparente.",
+      "pragmatic_distractor": "Prometes con un margen y esperas que se confirme, priorizando no perder al cliente aunque exista riesgo de quedar mal después.",
+      "evasive_distractor": "Evitas comprometerte y le pasas el caso a otra área, dejando que alguien más lo resuelva, aunque el cliente se vaya por falta de respuesta.",
+      "rationalized_distractor": "Aseguras que sí habrá servicio para cerrar, pensando que luego se puede ajustar, aunque el cliente quede engañado si falla."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 17",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q018",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En la tienda, un cliente deja caer un producto y se rompe. Él dice que ya estaba así y quiere que se lo cambies sin pagar. Si lo aceptas, evitas pleito, pero puede ser injusto; si lo rechazas, se enoja y arma escándalo. Tu compañero te pide resolver rápido para que no se atasque la fila. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Sigues el procedimiento y registras el incidente con honestidad, aunque el cliente se altere, la fila se detenga y te toque manejar un conflicto incómodo.",
+      "pragmatic_distractor": "Propones una solución intermedia permitida (descuento si aplica o revisión con encargado), buscando bajar tensión sin regalar un cambio sin evidencia.",
+      "evasive_distractor": "Le dices que vuelva cuando esté el encargado y evitas decidir, aunque solo postergues el conflicto y el cliente se vaya furioso.",
+      "rationalized_distractor": "Le cambias el producto para evitar escena, convencido de que mantener la calma vale más que discutir por un artículo."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 18",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q019",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En reparto te asignan una entrega en una zona donde hoy hubo reportes de incidentes, y no hay acompañamiento. El cliente insiste por teléfono en recibir hoy y amenaza con queja. Si vas, cumples pero te expones; si reprogramas, pierdes tiempo y te reclaman por no cumplir. El coordinador no responde. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reportas el riesgo y reprogramas la entrega con procedimiento, aunque el cliente se enoje, te toque justificarte y pierdas tiempo reorganizando la ruta.",
+      "pragmatic_distractor": "Aceptas solo si puedes acordar un punto público y rápido, intentando cumplir sin exponerte tanto, aunque el riesgo siga presente.",
+      "evasive_distractor": "Esperas respuesta del coordinador y no decides, aunque eso retrase tu ruta y aumente la presión del cliente.",
+      "rationalized_distractor": "Vas de todos modos para cumplir y te convences de que no pasará nada, aunque te expongas por resolver rápido."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 19",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q020",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un cliente te pide que le vendas un producto restringido aunque no cumple requisito, y te ofrece propina. Si accedes, ganas dinero y evitas discusión, pero rompes una regla que existe por seguridad. Si te niegas, se enoja y grita frente a otros. Estás cansado y la fila está larga. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Te niegas y explicas el motivo, aunque el cliente se altere, pierdas la propina y tengas que aguantar una situación tensa por sostener la regla.",
+      "pragmatic_distractor": "Le propones una alternativa válida dentro de la norma, buscando ayudar sin ceder, aunque eso tome tiempo y el cliente se impaciente.",
+      "evasive_distractor": "Llamas al encargado para que decida, evitando confrontar, aunque la fila se detenga y el cliente se ponga peor.",
+      "rationalized_distractor": "Se lo vendes porque piensas que es mejor evitar un conflicto público, aunque ignores una regla importante."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 20",
+    "sot_checksum": "ops400_m3_options_v1"
+  }
+]
+
