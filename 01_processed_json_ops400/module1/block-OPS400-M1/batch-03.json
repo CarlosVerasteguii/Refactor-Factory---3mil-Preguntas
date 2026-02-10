@@ -6,10 +6,10 @@
     "type": "options",
     "scenario": "En el área de merma separan productos vencidos o dañados para desechar. Un compañero te propone llevártelos a casa porque “igual se tiran” y nadie revisa esa caja. Si lo haces, obtienes beneficio personal, pero es propiedad del trabajo. Si te niegas, quedas como aguafiestas y se burlan. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te niegas y sigues el procedimiento, aunque te incomode quedar mal con el grupo, recibir burlas y perder la “ventaja” que otros toman sin consecuencias visibles.",
-      "pragmatic_distractor": "Sugieres preguntar si existe un canal formal para donación o aprovechamiento autorizado, buscando una opción válida sin convertirlo en un conflicto personal.",
-      "evasive_distractor": "No te lo llevas pero tampoco dices nada; te alejas y dejas que otros decidan, evitando enfrentarte al compañero y al ambiente del equipo.",
-      "rationalized_distractor": "Te lo llevas porque piensas que no afecta a nadie si se iba a tirar, justificándolo como evitar desperdicio aunque no esté permitido."
+      "integrity_correct": "Rechazas la propuesta y procedes con el desecho oficial, aceptando que esto puede generar rechazo o burlas en el grupo de trabajo.",
+      "pragmatic_distractor": "Consultas con el supervisor si existe un programa de donación para estos artículos, buscando una vía legítima de aprovechamiento.",
+      "evasive_distractor": "Te retiras de la zona sin tomar nada y dejas que ellos decidan, evitando involucrarte directamente en la infracción.",
+      "rationalized_distractor": "Tomas los productos para evitar el desperdicio, considerando que el objetivo final es deshacerse de ellos de todas formas."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 1",
     "sot_checksum": "ops400_m1_options_v1"
@@ -21,10 +21,10 @@
     "type": "options",
     "scenario": "Al dar cambio notas que entregaste de más, pero el cliente ya salió y la fila sigue. Podrías dejarlo así para no atrasarte o salir a buscarlo y corregir. Si lo reportas, te cuestionarán por el error; si lo dejas, el faltante quedará en tu caja. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Detienes un momento, reportas el error y buscas corregirlo, aunque te dé vergüenza, se detenga la fila y te toque explicar la situación al encargado.",
-      "pragmatic_distractor": "Intentas llamar al cliente si tienes un dato de contacto o revisas rápidamente si aún está cerca, y si no lo ubicas reportas el faltante para que quede registrado.",
-      "evasive_distractor": "Sigues atendiendo y esperas que el cierre “absorba” la diferencia, evitando el problema en el momento aunque el error quede sin aclarar.",
-      "rationalized_distractor": "Lo dejas pasar porque piensas que corregirlo solo empeora el servicio y que el costo es pequeño comparado con evitar retrasos."
+      "integrity_correct": "Detienes momentáneamente la atención para reportar el error, asumiendo la demora en la fila para garantizar el cuadre correcto.",
+      "pragmatic_distractor": "Intentas localizar visualmente al cliente y, si no es posible, registras el faltante inmediatamente para mantener la contabilidad clara.",
+      "evasive_distractor": "Continúas atendiendo y esperas al cierre de caja para verificar si el balance general compensa la diferencia.",
+      "rationalized_distractor": "Omites la corrección para mantener el flujo de la fila, priorizando la velocidad de atención sobre un error menor."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 2",
     "sot_checksum": "ops400_m1_options_v1"
@@ -36,10 +36,10 @@
     "type": "options",
     "scenario": "En una entrega, el cliente te pide que abras el paquete para comprobar el contenido antes de firmar. La regla dice que no debes abrir paquetes. Si te niegas, se enoja y puede rechazar la entrega; si accedes, rompes el procedimiento y te expones a reclamos si falta algo. Además, vas con retraso. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te apegas a la regla y no abres el paquete, aunque el cliente se moleste, pierdas tiempo explicando y tal vez tengas que reprogramar la entrega.",
-      "pragmatic_distractor": "Le explicas el procedimiento y propones una alternativa permitida, como revisar el estado exterior y registrar observaciones, buscando confianza sin abrir el paquete.",
-      "evasive_distractor": "Te quedas dudando y llamas al encargado para que decida, evitando tomar postura, aunque eso aumente el retraso y el cliente se altere más.",
-      "rationalized_distractor": "Lo abres para evitar conflicto, pensando que así el cliente queda tranquilo y que es mejor ceder un poco aunque no sea lo correcto."
+      "integrity_correct": "Mantienes el paquete cerrado según la normativa, arriesgando la molestia del cliente y la posible reprogramación de la entrega.",
+      "pragmatic_distractor": "Revisas el estado exterior junto con el cliente y anotas sus observaciones, ofreciendo seguridad sin violar el sello del paquete.",
+      "evasive_distractor": "Contactas a soporte para que ellos autoricen o nieguen la apertura, transfiriendo la responsabilidad de la decisión.",
+      "rationalized_distractor": "Accedes a abrirlo para asegurar la firma de recepción, priorizando cerrar la entrega y evitar un rechazo."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 3",
     "sot_checksum": "ops400_m1_options_v1"
@@ -51,10 +51,10 @@
     "type": "options",
     "scenario": "En tienda un cliente deja una bolsa con compras en el mostrador y se va. Nadie la reclama durante varios minutos. Puedes guardarla en resguardo siguiendo el protocolo o dejarla ahí y continuar. Si la reportas, te toca registrar y puede ser tardado; si no, alguien podría llevársela y luego culpar al área. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "La resguardas y haces el registro correspondiente, aunque te quite tiempo, te atrase con la fila y tengas que explicar el procedimiento a compañeros impacientes.",
-      "pragmatic_distractor": "La colocas en un área segura visible y avisas al encargado para que se registre cuando haya oportunidad, buscando control sin frenar toda la operación.",
-      "evasive_distractor": "La dejas donde está y sigues, evitando el trámite, aunque aumente el riesgo de pérdida y de reclamos posteriores.",
-      "rationalized_distractor": "Te la guardas para ti porque piensas que si el cliente la olvidó es su responsabilidad y tú mereces algo por el esfuerzo del turno."
+      "integrity_correct": "Aseguras la bolsa y realizas el registro formal de objetos olvidados, invirtiendo tiempo operativo para garantizar su custodia.",
+      "pragmatic_distractor": "Colocas la bolsa en un lugar seguro bajo llave y notificas a seguridad, despejando tu área rápidamente sin desatender el objeto.",
+      "evasive_distractor": "La dejas en el mostrador vigilando de reojo mientras trabajas, esperando que el dueño regrese pronto.",
+      "rationalized_distractor": "Resguardas la bolsa personalmente para entregarla si vuelven, evitando el trámite burocrático del registro oficial."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 4",
     "sot_checksum": "ops400_m1_options_v1"
@@ -66,10 +66,10 @@
     "type": "options",
     "scenario": "Moviendo tarimas golpeas una estantería y caen dos productos, uno se rompe. Nadie lo vio y el área está apurada por terminar. Podrías acomodarlo y seguir para evitar reporte, o informar para que se registre la merma. Si reportas, perderás tiempo y quizá te culpen; si no, ocultas el incidente. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reportas el daño y registras la merma, aunque te dé miedo que te regañen, pierdas tiempo limpiando y te toque reponer trabajo para no atrasar al equipo.",
-      "pragmatic_distractor": "Aseguras primero el área para evitar accidentes y luego informas de inmediato con evidencia simple, buscando que el reporte sea claro y rápido.",
-      "evasive_distractor": "Lo limpias y sigues sin decir nada, esperando que no se note y evitando una discusión sobre responsabilidades.",
-      "rationalized_distractor": "Lo ocultas porque piensas que fue un accidente menor y que lo importante es terminar el turno, aunque el control de merma quede falso."
+      "integrity_correct": "Informas el incidente y procesas la merma correspondiente, asumiendo la responsabilidad del error y el tiempo de limpieza.",
+      "pragmatic_distractor": "Despejas el riesgo de seguridad inmediato y tomas evidencia rápida para generar el reporte al finalizar la tarea crítica.",
+      "evasive_distractor": "Limpias el área discretamente y continúas con la operación, evitando detener el flujo de trabajo del equipo.",
+      "rationalized_distractor": "Desechas el producto dañado rápidamente para cumplir con la meta de tiempo, considerando que el accidente fue menor."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 5",
     "sot_checksum": "ops400_m1_options_v1"
@@ -81,10 +81,10 @@
     "type": "options",
     "scenario": "En ruta, un cliente te pide que le entregues dos paquetes pero solo aparece uno en tu lista. Te ofrece pagar extra si “aparece el otro”. Un compañero dice que puedes marcar el faltante como entregado para evitar reclamo y luego ver si lo consigues. Si lo haces, falseas registro; si no, el cliente se enoja y se queja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Entregas solo lo que tienes y reportas de inmediato el faltante para rastreo, aunque el cliente se moleste, pierdas tiempo en llamadas y quedes mal por no resolver en el momento.",
-      "pragmatic_distractor": "Verificas rápido con el área de carga y confirmas en sistema antes de cerrar la entrega, buscando dar una respuesta con hechos sin inventar entregas.",
-      "evasive_distractor": "Le dices al cliente que “se revisará” y te vas sin registrar detalles, esperando que luego aparezca el paquete y se evite el conflicto.",
-      "rationalized_distractor": "Marcas ambos como entregados porque piensas que el paquete seguramente aparecerá y que lo importante es evitar un reclamo y mantener el servicio fluido."
+      "integrity_correct": "Entregas únicamente el paquete listado y reportas la discrepancia, enfrentando la molestia del cliente para mantener la veracidad del sistema.",
+      "pragmatic_distractor": "Consultas el estado del segundo paquete en el sistema frente al cliente, ofreciendo información real para gestionar su expectativa.",
+      "evasive_distractor": "Le indicas al cliente que revisarás el caso en la base y te retiras sin comprometerte, posponiendo la resolución del conflicto.",
+      "rationalized_distractor": "Registras ambos como entregados para calmar al cliente, confiando en que el sistema regularizará el faltante posteriormente."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 6",
     "sot_checksum": "ops400_m1_options_v1"
@@ -96,10 +96,10 @@
     "type": "options",
     "scenario": "En el área de herramientas, un compañero te pide que firmes que le entregaste equipo completo, pero falta una pieza y dice que luego la consigue. Si firmas, se evita un problema y el trabajo avanza; si no, se enoja y te acusa de no apoyar. Si después falta el equipo, el registro quedará a tu nombre. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No firmas hasta que el equipo esté completo o quede registrado el faltante, aunque eso cause conflicto con el compañero, retrase la salida y te ganes mala cara en el turno.",
-      "pragmatic_distractor": "Registras la entrega parcial con evidencia del faltante y acuerdas un seguimiento, buscando que el trabajo avance sin mentir en el control.",
-      "evasive_distractor": "Le dices que espere al encargado para firmar, evitando decidir tú, aunque eso alargue el proceso y lo deje molesto.",
-      "rationalized_distractor": "Firmas porque piensas que es solo una formalidad y que ayudar al compañero es lo correcto, aunque el registro quede incorrecto."
+      "integrity_correct": "Te niegas a firmar hasta que el inventario esté completo, aceptando la fricción con el compañero para proteger tu responsabilidad.",
+      "pragmatic_distractor": "Firmas la recepción detallando explícitamente la pieza faltante en el documento, permitiendo el flujo sin asumir la deuda.",
+      "evasive_distractor": "Sugieres esperar a que esté el supervisor para realizar el traspaso formal, evitando confrontar al compañero directamente.",
+      "rationalized_distractor": "Firmas la entrega completa para agilizar el cambio de turno, confiando en la palabra del compañero para reponer la pieza."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 7",
     "sot_checksum": "ops400_m1_options_v1"
@@ -111,10 +111,10 @@
     "type": "options",
     "scenario": "En un estacionamiento, un cliente te entrega efectivo para pagar un servicio y te pide que no lo registres para “ahorrarse” el impuesto. Te ofrece dejarte una parte. Si aceptas, ganas dinero y el cliente queda contento; si te niegas, se enfada y te amenaza con quejarse. Sabes que debes registrar todo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te niegas y registras el pago como corresponde, aunque el cliente se enoje, te haga pasar un mal rato y pierdas el dinero extra que te ofrecía.",
-      "pragmatic_distractor": "Le explicas de forma breve que no puedes hacerlo y le das opciones legales para pagar, buscando cerrar rápido sin discutir ni ceder al acuerdo.",
-      "evasive_distractor": "Dices que lo consultaras y alargas la decisión, esperando que el cliente se canse o se vaya, aunque eso afecte la atención a otros.",
-      "rationalized_distractor": "Aceptas porque piensas que es un acuerdo entre ustedes y que el dinero te ayuda, justificándolo como algo común y sin daño visible."
+      "integrity_correct": "Rechazas la oferta y procedes con el registro fiscal completo, priorizando la normativa sobre la satisfacción del cliente.",
+      "pragmatic_distractor": "Informas al cliente que el sistema audita todos los ingresos y procesas el cobro normal, cerrando la posibilidad de negociación.",
+      "evasive_distractor": "Le dices que no tienes permisos para omitir registros en el sistema, excusándote en la tecnología para no decir un no directo.",
+      "rationalized_distractor": "Aceptas el acuerdo para evitar una confrontación mayor, considerando que aseguras el pago del servicio principal."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 8",
     "sot_checksum": "ops400_m1_options_v1"
@@ -126,10 +126,10 @@
     "type": "options",
     "scenario": "Estás preparando etiquetas y el sistema imprime una serie con datos incompletos. El encargado insiste en que las uses así para no perder tiempo y dice que luego se corrige “en el camino”. Si las usas, pueden generar entregas incorrectas; si te niegas, retrasas la salida y te culpan. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes la operación y pides reimpresión correcta, aunque eso cause retraso, te ganes reclamos y tengas que quedarte más para recuperar el tiempo.",
-      "pragmatic_distractor": "Separas las etiquetas dudosas y continúas con las que están correctas mientras gestionas la corrección, buscando minimizar el impacto sin usar información incompleta.",
-      "evasive_distractor": "Usas algunas y esperas que nadie note, evitando el conflicto con el encargado, aunque aumente el riesgo de confusión en entregas.",
-      "rationalized_distractor": "Las usas porque piensas que es mejor avanzar y que cualquier error se arregla después, justificándolo como mantener el flujo del día."
+      "integrity_correct": "Detienes el proceso para solicitar la reimpresión correcta, aceptando el retraso operativo para prevenir fallos en la entrega final.",
+      "pragmatic_distractor": "Utilizas solo las etiquetas legibles y reportas el lote dañado a soporte, manteniendo un flujo parcial pero seguro.",
+      "evasive_distractor": "Continúas el etiquetado como se indicó sin hacer comentarios, delegando la responsabilidad de los datos al encargado.",
+      "rationalized_distractor": "Aplicas las etiquetas para cumplir con los tiempos de salida, asumiendo que logística resolverá los detalles en ruta."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 9",
     "sot_checksum": "ops400_m1_options_v1"
@@ -141,10 +141,10 @@
     "type": "options",
     "scenario": "Un compañero te pide que le cobres a tu nombre un producto con descuento de empleado y luego él te lo paga, porque su descuento ya no aplica. Si lo haces, lo ayudas y no parece grave, pero la regla es personal. Si te niegas, se molesta y te dice que no eres solidario. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te niegas a usar tu descuento para otra persona, aunque el compañero se enoje, te trate de egoísta y la relación se tense en el día a día.",
-      "pragmatic_distractor": "Le explicas que no puedes hacerlo y le propones alternativas permitidas, como buscar una promoción vigente o un producto equivalente dentro de su presupuesto.",
-      "evasive_distractor": "Dices que sí pero lo pospones y evitas el tema, esperando que se le pase o que alguien más le resuelva, aunque quede resentimiento.",
-      "rationalized_distractor": "Lo haces porque piensas que no le quitas nada a nadie y que ayudar a un compañero vale más que una regla, aunque el beneficio sea personal."
+      "integrity_correct": "Te niegas a transferir tu beneficio personal, estableciendo un límite ético aunque esto cause tensión en la relación laboral.",
+      "pragmatic_distractor": "Le sugieres buscar ofertas públicas vigentes o productos similares en promoción, ayudándole a economizar sin infringir la norma.",
+      "evasive_distractor": "Pospones la compra diciendo que no traes tu método de pago, evitando una negativa directa en ese momento.",
+      "rationalized_distractor": "Realizas la compra para apoyar a tu compañero, considerando que la empresa obtiene la venta de todos modos."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 10",
     "sot_checksum": "ops400_m1_options_v1"
@@ -156,10 +156,10 @@
     "type": "options",
     "scenario": "En el acceso a una zona restringida, un conocido te pide que lo dejes pasar “solo un minuto” porque olvidó su identificación. Dice que es de confianza y que no quiere perder tiempo. Si lo dejas, ayudas y evitas discusión; si no, se enoja y te hace quedar mal frente a otros. Sabes que el control existe por seguridad. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No lo dejas pasar y pides que siga el procedimiento, aunque se moleste, te trate de exagerado y tengas que aguantar la incomodidad del momento.",
-      "pragmatic_distractor": "Lo orientas para que recupere su identificación o se registre por el canal correcto, intentando ayudar sin saltarte el control.",
-      "evasive_distractor": "Haces como que no lo escuchas y sigues con lo tuyo, evitando conflicto, aunque lo dejes sin solución y el problema siga.",
-      "rationalized_distractor": "Lo dejas pasar porque confías en él y piensas que el control solo estorba, justificándolo como no hacer perder tiempo por una formalidad."
+      "integrity_correct": "Niegas el acceso y solicitas la identificación reglamentaria, priorizando el protocolo de seguridad sobre la relación personal.",
+      "pragmatic_distractor": "Lo diriges al módulo de registro para obtener un pase provisional, facilitando su entrada a través del canal correcto.",
+      "evasive_distractor": "Te excusas diciendo que hay cámaras supervisando el acceso, trasladando la negativa a un factor externo.",
+      "rationalized_distractor": "Permites el acceso rápido bajo tu supervisión, agilizando su entrada basado en la confianza que le tienes."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 11",
     "sot_checksum": "ops400_m1_options_v1"
@@ -171,10 +171,10 @@
     "type": "options",
     "scenario": "En una entrega pesada, la política indica dejar el paquete en planta baja, pero el cliente te ofrece dinero para subirlo varios pisos. No hay elevador y te tomaría tiempo y esfuerzo. Si aceptas, ganas dinero pero rompes la regla y arriesgas lesión; si te niegas, el cliente se enfurece y te retrasa con reclamos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te apegas a la política y no aceptas el dinero, aunque el cliente se enoje, te deje mala reseña y te toque sostener la discusión mientras tu ruta se atrasa.",
-      "pragmatic_distractor": "Le explicas la política y buscas una solución permitida, como coordinar una reprogramación o apoyo, intentando ayudar sin asumir un riesgo ni romper la norma.",
-      "evasive_distractor": "Dices que lo harás y luego te vas sin entregar, evitando el conflicto en el momento, aunque generes un reclamo mayor y retrases la entrega.",
-      "rationalized_distractor": "Aceptas y lo subes porque piensas que el extra vale la pena y que satisfacer al cliente es lo principal, aunque te cueste esfuerzo y sea fuera de regla."
+      "integrity_correct": "Dejas el paquete en el punto autorizado y rechazas el pago extra, aceptando el reclamo del cliente para cumplir la política de seguridad.",
+      "pragmatic_distractor": "Explica las limitaciones de tu seguro de trabajo y sugieres coordinar ayuda externa, manteniendo la postura firme pero servicial.",
+      "evasive_distractor": "Indicas que debes mover el vehículo urgentemente y te retiras, dejando el paquete abajo para cortar la discusión.",
+      "rationalized_distractor": "Subes el paquete para asegurar la satisfacción del cliente, valorando el incentivo económico y el servicio extra."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 12",
     "sot_checksum": "ops400_m1_options_v1"
@@ -186,10 +186,10 @@
     "type": "options",
     "scenario": "En el cierre de turno, un compañero te propone “redondear” algunos cobros pequeños para quedarse con monedas, diciendo que así se compensa el esfuerzo. Si lo haces, es dinero constante y difícil de notar, pero es robo. Si te niegas, te señala como el que no se solidariza y te incomoda la conversación. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te niegas y dejas claro que no participarás, aunque eso genere tensión con el compañero, te gane rechazo y te toque trabajar con él después con un ambiente pesado.",
-      "pragmatic_distractor": "Cambias el tema y propones una solución válida para mejorar el turno, buscando cortar la idea sin confrontar de forma agresiva.",
-      "evasive_distractor": "No respondes y te haces el ocupado, evitando decidir, aunque con tu silencio parezca que apruebas o que podrías sumarte más adelante.",
-      "rationalized_distractor": "Aceptas porque piensas que son cantidades mínimas y que el trabajo es duro, justificándolo como una forma de equilibrar lo que no se reconoce."
+      "integrity_correct": "Rechazas participar en la práctica y te limitas a tu cobro exacto, aceptando la posible exclusión social del grupo.",
+      "pragmatic_distractor": "Propones enfocarse en mejorar las métricas de servicio para obtener bonos legales, redirigiendo la conversación a incentivos válidos.",
+      "evasive_distractor": "Ignoras el comentario y continúas con tu cierre de caja, evitando tomar una postura explícita frente al compañero.",
+      "rationalized_distractor": "Aceptas la propuesta para mantener la cohesión del equipo, considerando que son montos insignificantes para la empresa."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 13",
     "sot_checksum": "ops400_m1_options_v1"
@@ -201,10 +201,10 @@
     "type": "options",
     "scenario": "El sistema aplica un descuento por error y el cliente paga menos. Te das cuenta al final, cuando ya imprimiste el comprobante. Corregirlo implicaría cancelar y volver a cobrar, y el cliente se molestaría. Si lo dejas, la caja quedará con diferencia y el inventario podría no cuadrar. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes el proceso y corriges el cobro siguiendo el procedimiento, aunque el cliente se enoje, se atrase la fila y te toque explicar por qué se hace el ajuste.",
-      "pragmatic_distractor": "Si el cliente ya se fue, reportas el error y documentas la causa para que se ajuste internamente, buscando transparencia sin crear un conflicto innecesario.",
-      "evasive_distractor": "Lo dejas pasar sin reportar, esperando que el sistema lo absorba y evitando quedar como quien cometió un error en un momento de mucha fila.",
-      "rationalized_distractor": "Lo dejas porque piensas que el cliente se beneficia y que pelear por un error del sistema solo empeora el servicio del día."
+      "integrity_correct": "Solicitas la corrección del cobro al cliente antes de que se retire, asumiendo su molestia para asegurar la integridad de la transacción.",
+      "pragmatic_distractor": "Documentas el error del sistema y notificas a auditoría, permitiendo que el cliente se vaya para no generar un conflicto post-venta.",
+      "evasive_distractor": "Entregas el comprobante sin mencionar el error, esperando que el sistema absorba la diferencia automáticamente.",
+      "rationalized_distractor": "Permites que el cliente se beneficie del error, priorizando la experiencia de compra sobre la exactitud del cobro."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 14",
     "sot_checksum": "ops400_m1_options_v1"
@@ -216,10 +216,10 @@
     "type": "options",
     "scenario": "Encuentras un dispositivo de escaneo olvidado en una unidad. Sabes que reportarlo implica registro y quizá te pregunten por qué lo traes. Un compañero te dice que lo guardes para usarlo tú porque “siempre faltan” y así trabajas mejor. Si lo guardas, te beneficia, pero es equipo asignado. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Lo reportas y lo entregas a resguardo, aunque te cause un trámite, pierdas tiempo y tengas que responder preguntas incómodas sobre cómo lo encontraste.",
-      "pragmatic_distractor": "Lo entregas al encargado con una nota clara de dónde apareció, intentando que el trámite sea rápido y que el equipo vuelva al control correcto.",
-      "evasive_distractor": "Lo dejas donde estaba para no involucrarte, evitando el trámite, aunque aumente el riesgo de pérdida o de que se use sin control.",
-      "rationalized_distractor": "Te lo quedas porque piensas que te ayuda a rendir y que la empresa tiene varios, justificándolo como una necesidad para trabajar mejor."
+      "integrity_correct": "Entregas el equipo al área de control de inventario, invirtiendo tiempo en el trámite para regularizar su ubicación.",
+      "pragmatic_distractor": "Lo dejas en la oficina del supervisor con una nota de hallazgo, asegurando su devolución sin quedarte a llenar formularios.",
+      "evasive_distractor": "Lo dejas en la unidad donde lo encontraste, evitando la responsabilidad de moverlo o reportarlo.",
+      "rationalized_distractor": "Conservas el escáner temporalmente para asegurar tu eficiencia operativa, supliendo la falta de herramientas disponibles."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 15",
     "sot_checksum": "ops400_m1_options_v1"
@@ -231,10 +231,10 @@
     "type": "options",
     "scenario": "En un punto de carga te piden un comprobante de compra para reembolsar un gasto menor, pero olvidaste pedirlo. Un compañero te ofrece uno viejo para que “no pierdas el dinero”. Si lo usas, recuperas el gasto y nadie revisa en detalle; si no, pierdes dinero por tu descuido. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No usas un comprobante ajeno y reportas lo ocurrido con honestidad, aunque te cueste dinero, te regañen por el descuido y quedes mal por no seguir el proceso.",
-      "pragmatic_distractor": "Buscas una forma válida de recuperar el comprobante o documentar el gasto, intentando resolver sin inventar evidencia y sin perder todo el reembolso.",
-      "evasive_distractor": "No haces nada y dejas pasar el reembolso, evitando problemas, aunque te quedes con la frustración y el gasto en tu bolsillo.",
-      "rationalized_distractor": "Usas el comprobante viejo porque piensas que el gasto sí ocurrió y que solo estás corrigiendo un detalle de forma, aunque el documento no sea real."
+      "integrity_correct": "Reportas el gasto sin comprobante asumiendo que no será reembolsado, aceptando la pérdida financiera por tu omisión administrativa.",
+      "pragmatic_distractor": "Contactas al proveedor para solicitar una copia digital o reimpresión, buscando una solución válida para justificar el gasto real.",
+      "evasive_distractor": "Dejas pasar el tiempo límite de reembolso y no presentas nada, evitando tener que explicar el olvido.",
+      "rationalized_distractor": "Utilizas el comprobante genérico para recuperar tu dinero, considerando justo el reembolso ya que el gasto fue real."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 16",
     "sot_checksum": "ops400_m1_options_v1"
@@ -246,10 +246,10 @@
     "type": "options",
     "scenario": "Te das cuenta de que estás a punto de entregar un paquete con etiqueta similar, pero el apellido no coincide del todo. Si revisas con calma, te atrasas; si entregas rápido, tal vez no pase nada, pero si te equivocas, el reclamo será fuerte y el error quedará en tu ruta. Estás bajo presión por el tiempo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te detienes a verificar el dato correcto antes de entregar, aunque pierdas tiempo, te atrases y recibas presión por bajar el ritmo de tu ruta.",
-      "pragmatic_distractor": "Confirmas con un dato rápido adicional (número, referencia) antes de entregar, buscando asegurar lo esencial sin convertirlo en una revisión larga.",
-      "evasive_distractor": "Entregas sin verificar para no perder tiempo y confías en que es el correcto, evitando la demora aunque aumente el riesgo de error.",
-      "rationalized_distractor": "Entregas de todos modos porque piensas que la mayoría de veces coincide y que si algo pasa se puede corregir después, aunque el registro quede comprometido."
+      "integrity_correct": "Detienes la entrega para verificar los datos completos, sacrificando tiempo de ruta para asegurar la precisión del envío.",
+      "pragmatic_distractor": "Cotejas rápidamente el número de orden o teléfono, buscando un dato clave que confirme la entrega sin revisión exhaustiva.",
+      "evasive_distractor": "Realizas la entrega basándote en la coincidencia de dirección, evitando la pausa para no afectar tu métrica de tiempo.",
+      "rationalized_distractor": "Entregas el paquete asumiendo que es correcto, priorizando la velocidad y confiando en que el cliente avisaría si hay error."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 17",
     "sot_checksum": "ops400_m1_options_v1"
@@ -261,10 +261,10 @@
     "type": "options",
     "scenario": "Un cliente te pide apartar un producto popular “hasta mañana” porque es conocido tuyo, pero la regla dice que no se aparta sin pago. Si lo apartas, ayudas y quedas bien, pero otros clientes se quedarán sin producto. Si no lo haces, el cliente se molesta y te reclama delante de la fila. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No apartas el producto sin pago y explicas la regla, aunque el cliente se enoje, te haga pasar vergüenza y se tensa la relación por no hacerle el favor.",
-      "pragmatic_distractor": "Le ofreces alternativas permitidas, como pagar una parte o comprarlo y recoger después si el proceso lo permite, buscando ayudar sin romper la regla.",
-      "evasive_distractor": "Dices que lo verás con el encargado y dejas el producto a un lado sin registrarlo, evitando decidir, aunque eso siga siendo injusto para otros.",
-      "rationalized_distractor": "Lo apartas porque piensas que un favor no hace daño y que mantener buenas relaciones trae beneficios al equipo, aunque sea injusto para los demás."
+      "integrity_correct": "Informas que no es posible reservar sin pago, manteniendo la equidad para todos los clientes a pesar de la presión personal.",
+      "pragmatic_distractor": "Ofreces opciones de pago en línea o anticipo parcial, brindando una vía reglamentaria para asegurar su compra.",
+      "evasive_distractor": "Le dices que lo intentarás pero dejas el producto en exhibición, evitando confrontarlo con una negativa directa.",
+      "rationalized_distractor": "Guardas el producto discretamente para mantener la buena relación, priorizando la atención personalizada sobre la norma general."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 18",
     "sot_checksum": "ops400_m1_options_v1"
@@ -276,10 +276,10 @@
     "type": "options",
     "scenario": "Notas que un compañero está registrando en el sistema paquetes que no han pasado por control para avanzar más rápido. Te pide que no digas nada porque “si no, nos atrasamos todos”. Si lo reportas, habrá conflicto y te verán como traidor; si callas, se normaliza una práctica que puede causar extravíos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Señalas el riesgo y reportas la situación por el canal correspondiente, aunque eso te gane rechazo del compañero, te genere tensión con el equipo y te pongan el foco por “complicar” el turno.",
-      "pragmatic_distractor": "Hablas primero con el compañero para que corrija de inmediato y documentas el control a partir de ese momento, intentando frenar el riesgo sin escalarlo de golpe.",
-      "evasive_distractor": "No dices nada y te limitas a hacer tu parte, esperando que no ocurra ningún problema y evitando meterte en un conflicto interno.",
-      "rationalized_distractor": "Lo apoyas porque piensas que la prioridad es cumplir con el volumen del día y que los controles pueden relajarse cuando hay presión."
+      "integrity_correct": "Alertas al supervisor sobre la irregularidad en el proceso, aceptando el conflicto interno para prevenir errores de inventario.",
+      "pragmatic_distractor": "Hablas con el compañero para exigir que regularice el escaneo, intentando corregir el proceso sin escalar el reporte.",
+      "evasive_distractor": "Te concentras en tu propia estación de trabajo, ignorando el procedimiento ajeno para evitar disputas.",
+      "rationalized_distractor": "Apoyas el ritmo de trabajo acelerado, considerando que cumplir con el volumen de salida es la prioridad del turno."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 19",
     "sot_checksum": "ops400_m1_options_v1"
@@ -291,13 +291,12 @@
     "type": "options",
     "scenario": "Te piden hacer una entrega rápida y te ofrecen que uses una entrada “solo para personal” para ahorrar tiempo, aunque está prohibido para repartos. Si lo haces, cumples el tiempo y evitas reclamos; si no, tardas más y te presionan por el retraso. Sabes que la norma existe por control y seguridad. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No usas la entrada prohibida y sigues el acceso correcto, aunque pierdas tiempo, te ganes reclamos por tardanza y parezcas poco flexible ante la presión.",
-      "pragmatic_distractor": "Buscas una ruta permitida más eficiente o avisas el retraso con anticipación, intentando cumplir sin saltarte reglas de acceso.",
-      "evasive_distractor": "Dices que lo harás pero luego te quedas dudando y retrasas más la entrega, evitando decidir con claridad y acumulando presión.",
-      "rationalized_distractor": "Usas la entrada porque piensas que es un caso especial y que cumplir el tiempo es lo principal, justificándolo como un atajo sin consecuencias."
+      "integrity_correct": "Utilizas el acceso oficial de proveedores, aceptando el tiempo adicional de recorrido y la presión por la demora.",
+      "pragmatic_distractor": "Te comunicas con el receptor para advertir el retraso por protocolo, gestionando la expectativa sin infringir el acceso.",
+      "evasive_distractor": "Esperas cerca de la entrada prohibida a ver si alguien te da paso, diluyendo tu responsabilidad en la acción de otro.",
+      "rationalized_distractor": "Usas el acceso restringido para cumplir la entrega urgente, priorizando la eficiencia operativa sobre el control de accesos."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 20",
     "sot_checksum": "ops400_m1_options_v1"
   }
 ]
-

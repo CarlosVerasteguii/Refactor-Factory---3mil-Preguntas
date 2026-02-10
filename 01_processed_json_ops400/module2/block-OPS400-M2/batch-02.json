@@ -6,13 +6,11 @@
     "type": "options",
     "scenario": "Implementan un cambio en la entrega: ahora debes tomar evidencia adicional y llenar un registro breve en cada parada. Te retrasa y sientes que no alcanzas la ruta. Puedes ajustarte, aunque al inicio te cueste y recibas presión, o buscar atajos para que el tiempo se vea igual. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Aprendes el flujo y lo aplicas completo, aunque te atrases al inicio, te reclamen por tiempos y tengas que invertir esfuerzo extra hasta agarrar ritmo.",
-      "pragmatic_distractor": "Haces el registro solo cuando el cliente se ve difícil y el resto lo dejas mínimo, priorizando velocidad aunque el control quede irregular.",
-      "evasive_distractor": "Dejas el registro para el final del turno, evitando la molestia en cada parada, aunque luego olvides detalles y aumenten fallas.",
-      "rationalized_distractor": "Ignoras el cambio porque piensas que es innecesario y sigues como antes, aunque eso choque con el nuevo proceso y te deje señalado."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 1",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Adoptas el nuevo flujo de registro completo, aceptando el retraso inicial y la presión sobre tus tiempos mientras estandarizas tu ritmo de entrega.",
+      "pragmatic_distractor": "Gestionas el registro priorizando las paradas críticas y simplificando el resto, equilibrando la velocidad de la ruta con el cumplimiento básico.",
+      "evasive_distractor": "Postergas el llenado de los registros para el final de la jornada, transfiriendo la carga administrativa fuera del horario de ruta para evitar demoras.",
+      "rationalized_distractor": "Procedes considerando que la eficiencia operativa es prioritaria, omitiendo registros que no impactan directamente en la entrega para no afectar los indicadores."
+    }
   },
   {
     "id": "block-OPS400-M2-q022",
@@ -21,13 +19,11 @@
     "type": "options",
     "scenario": "Te rotan a una tarea nueva en almacén que no te gusta y donde te sientes torpe. El encargado dice que es para que todos sepan hacer de todo. Puedes aceptar el aprendizaje y soportar el periodo incómodo, o resistirte para volver a lo que dominas. El equipo está observando tu actitud. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Aceptas la rotación y pides guía para aprender bien, aunque al inicio te cueste, te sientas lento y tengas que tragarte la incomodidad de equivocarte.",
-      "pragmatic_distractor": "Aceptas pero haces lo mínimo para no fallar, sin aprender a fondo, aunque quedes dependiente y el trabajo se resienta cuando falte alguien.",
-      "evasive_distractor": "Te escondes en tareas conocidas para evitar la rotación, esperando que el encargado lo olvide o que asignen a otro.",
-      "rationalized_distractor": "Te niegas y haces solo lo que ya sabes, convencido de que tu experiencia vale más que la rotación, aunque eso te aísle."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 2",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Asumes la nueva función y solicitas retroalimentación constante, enfrentando la curva de aprendizaje y la reducción temporal en tu desempeño personal.",
+      "pragmatic_distractor": "Canalizas tus dudas para cubrir los aspectos básicos de la tarea, gestionando tu esfuerzo para no cometer errores críticos mientras esperas otra rotación.",
+      "evasive_distractor": "Solicitas a un compañero que cubra las partes complejas de la nueva tarea, postergando tu aprendizaje profundo hasta que la carga de trabajo disminuya.",
+      "rationalized_distractor": "Completas la tarea priorizando tus conocimientos previos, considerando que especializarte en lo que ya dominas aporta mayor valor real que el aprendizaje polivalente."
+    }
   },
   {
     "id": "block-OPS400-M2-q023",
@@ -36,13 +32,11 @@
     "type": "options",
     "scenario": "Te cambian temporalmente a una sucursal más lejana y el traslado te deja cansado antes de empezar. Aun así, esperan el mismo rendimiento. Puedes organizarte y aguantar el mes, aunque afecte tu energía, o empezar a buscar una salida y desconectarte. El equipo nuevo no te conoce. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te organizas y pides claridad de horarios y apoyos para sostener el mes, aunque te desgaste el traslado y tengas que ajustar tu rutina con esfuerzo.",
-      "pragmatic_distractor": "Aguantas el mes haciendo lo mínimo indispensable, cuidando solo lo visible, aunque el servicio sufra en detalles y tu integración sea pobre.",
-      "evasive_distractor": "Te quejas con compañeros pero no pides ajustes ni claridad, esperando que el cambio se cancele solo sin que tú te expongas.",
-      "rationalized_distractor": "Te desconectas y decides irte cuanto antes porque piensas que no vale la pena adaptarte, aunque eso afecte tu reputación en el equipo."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 3",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Cumples con el periodo asignado manteniendo los estándares de rendimiento, asumiendo el desgaste del traslado y ajustando tu logística personal temporalmente.",
+      "pragmatic_distractor": "Gestionas tu energía diaria cumpliendo con los objetivos esenciales, equilibrando el impacto del cansancio con las demandas visibles de la nueva sucursal.",
+      "evasive_distractor": "Marcas tu asistencia sin profundizar en la integración con el nuevo equipo, esperando que el mes transcurra sin incidentes que requieran tu involucramiento extra.",
+      "rationalized_distractor": "Accedes confiando en que tu rendimiento previo justifica una baja en la intensidad actual, considerando que el desgaste físico por el traslado debe compensarse operativamente."
+    }
   },
   {
     "id": "block-OPS400-M2-q024",
@@ -51,13 +45,11 @@
     "type": "options",
     "scenario": "El nuevo supervisor controla las pausas y ahora te asigna descansos en horarios que te afectan. Te dice que es para ordenar el turno. Puedes hablarlo con respeto, aunque te incomode y te exponga, o quedarte callado y acumular frustración hasta explotar. Además, el ritmo está alto. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Pides una conversación breve para acordar pausas más sostenibles, aunque te dé miedo quedar como conflictivo y tengas que aguantar una respuesta dura.",
-      "pragmatic_distractor": "Aceptas las pausas como están y te adaptas a la fuerza, aunque te desgastes y aumente tu irritación con el paso de los días.",
-      "evasive_distractor": "No dices nada y solo te quejas con compañeros, esperando que el supervisor cambie cuando vea cansancio, sin exponerte tú.",
-      "rationalized_distractor": "Ignoras la indicación y te tomas pausas cuando quieras porque piensas que nadie puede controlarte, aunque eso genere choque directo."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 4",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Aceptas los nuevos horarios de descanso establecidos, asumiendo la incomodidad personal en favor del orden operativo solicitado por la supervisión.",
+      "pragmatic_distractor": "Verificas la flexibilidad del nuevo esquema y buscas alternativas de descanso informales, gestionando tu energía sin confrontar directamente al supervisor.",
+      "evasive_distractor": "Dejas que el tiempo dicte la efectividad del cambio, postergando cualquier comentario sobre tu malestar hasta que otros compañeros planteen la situación.",
+      "rationalized_distractor": "Procedes considerando que el ritmo de trabajo justifica tomar pausas fuera de horario cuando sea necesario, priorizando tu salud sobre el nuevo control administrativo."
+    }
   },
   {
     "id": "block-OPS400-M2-q025",
@@ -66,13 +58,11 @@
     "type": "options",
     "scenario": "Cometiste un error en una entrega y el cliente se quejó. El encargado te llama la atención frente a otros. Te da coraje y te dan ganas de defenderte. Puedes asumir, aprender y ajustar, aunque te cueste, o culpar al sistema y desentenderte para proteger tu orgullo. ¿Cómo reaccionas?",
     "options_structured": {
-      "integrity_correct": "Reconoces el error, pides claridad sobre cómo evitarlo y ajustas tu rutina, aunque te incomode aceptar la crítica y tengas que trabajar más cuidadoso por un tiempo.",
-      "pragmatic_distractor": "Dices que fue por la carga del día y sigues igual, intentando que no se repita, aunque no cambies lo necesario y el riesgo siga.",
-      "evasive_distractor": "Te quedas callado y evitas tareas similares para no equivocarte, aunque eso te limite y cargue a otros en el equipo.",
-      "rationalized_distractor": "Respondes con dureza porque piensas que te humillaron y debes poner un límite, aunque eso deteriore tu relación con el encargado."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 5",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Registras la retroalimentación y presentas un plan de mejora, aceptando la exposición pública del error y enfocándote en la corrección técnica del proceso.",
+      "pragmatic_distractor": "Canalizas la queja justificando los factores externos del día, buscando equilibrar tu responsabilidad con las limitaciones operativas que facilitaron la falla.",
+      "evasive_distractor": "Solicitas que las tareas similares sean supervisadas por alguien más, transfiriendo la validación de tu trabajo para evitar futuras críticas directas.",
+      "rationalized_distractor": "Accedes confiando en tu criterio habitual, considerando que el señalamiento fue excesivo y que un error aislado no define la calidad de tu desempeño profesional."
+    }
   },
   {
     "id": "block-OPS400-M2-q026",
@@ -81,13 +71,11 @@
     "type": "options",
     "scenario": "Te asignan trabajar con un compañero que hace las cosas distinto y choca contigo. El encargado solo pide resultados, no quiere conflictos. Puedes sentarte a acordar una forma de trabajar, aunque sea incómodo, o aguantar el choque hasta que explote. El turno es largo y la tensión se nota. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Propones un acuerdo simple de roles y comunicación, aunque te cueste ceder, te incomode hablar y tengas que tragarte parte del orgullo para sostener el turno.",
-      "pragmatic_distractor": "Haces tu parte sin coordinar y corriges sobre la marcha, priorizando avanzar aunque el retrabajo aumente y se acumule tensión.",
-      "evasive_distractor": "Evitas al compañero y te quedas en tareas donde no se crucen, esperando que el encargado reacomode sin que tú lo pidas.",
-      "rationalized_distractor": "Lo confrontas fuerte para que se haga a tu manera, porque piensas que solo así se trabaja bien, aunque eso rompa el ambiente."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 6",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Estableces un acuerdo formal de coordinación y roles, asumiendo la dificultad de colaborar con alguien de estilo opuesto para garantizar el resultado del turno.",
+      "pragmatic_distractor": "Gestionas la interacción limitándola a los puntos de contacto estrictamente necesarios, buscando una alternativa que permita avanzar sin resolver el fondo del conflicto.",
+      "evasive_distractor": "Dejas que el compañero tome la iniciativa en las decisiones conjuntas, postergando tus sugerencias para evitar roces y manteniendo una postura pasiva.",
+      "rationalized_distractor": "Procedes considerando que tu metodología es la más efectiva para el negocio, priorizando tus procesos sobre el consenso para asegurar la meta operativa."
+    }
   },
   {
     "id": "block-OPS400-M2-q027",
@@ -96,13 +84,11 @@
     "type": "options",
     "scenario": "Cambian el acomodo de mercancía y ahora debes seguir un orden nuevo que te parece poco práctico. Al inicio te pierdes y tardas más. Puedes adaptarte, documentar mejoras y proponer ajustes, o hacer las cosas como antes para sentir control. El equipo nuevo ya trabaja con el orden actual. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Sigues el orden nuevo y propones mejoras concretas con evidencia, aunque te cueste tiempo aprender, te frustre y te toque aceptar que al inicio serás más lento.",
-      "pragmatic_distractor": "Haces una mezcla: sigues el orden cuando te ven y el resto lo haces como antes, priorizando comodidad aunque generes confusión en el equipo.",
-      "evasive_distractor": "No cambias y esperas que el orden nuevo fracase para que lo quiten, evitando involucrarte aunque el caos continúe.",
-      "rationalized_distractor": "Te niegas a seguirlo porque piensas que es absurdo, aunque eso te ponga en choque con el equipo y te haga ver poco adaptable."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 7",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Aplicas el nuevo sistema de acomodo con rigor, aceptando la pérdida temporal de agilidad y documentando las fallas encontradas de forma profesional.",
+      "pragmatic_distractor": "Buscas un equilibrio aplicando el nuevo orden en las áreas de alta visibilidad, mientras gestionas el resto según tu experiencia para no retrasarte.",
+      "evasive_distractor": "Transfieres la responsabilidad del acomodo difícil a compañeros que ya dominan el sistema, postergando tu propia adaptación hasta observar mejores resultados.",
+      "rationalized_distractor": "Completas el acomodo priorizando la rapidez operativa, considerando que mantener el flujo de trabajo es más relevante que seguir un manual poco práctico."
+    }
   },
   {
     "id": "block-OPS400-M2-q028",
@@ -111,13 +97,11 @@
     "type": "options",
     "scenario": "Piden un curso corto de seguridad y algunos compañeros se burlan del que lo toma en serio. Tú ya estás cansado y preferirías irte, pero sabes que ese curso te ayudará a evitar errores en el nuevo proceso. Puedes quedarte y hacerlo, aunque te critiquen, o irte y aprender sobre la marcha. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te quedas y tomas el curso completo, aunque pierdas tiempo, te hagan comentarios y te cueste sacrificar descanso para adaptarte mejor.",
-      "pragmatic_distractor": "Te quedas solo a la mitad y luego preguntas lo básico, priorizando irte temprano aunque tu aprendizaje quede incompleto.",
-      "evasive_distractor": "Dices que lo harás otro día y te vas, esperando que nadie lo note o que no sea tan necesario, evitando la incomodidad ahora.",
-      "rationalized_distractor": "No lo tomas porque piensas que es puro trámite y que tu experiencia basta, aunque eso aumente tu riesgo de fallas en el cambio."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 8",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Te inscribes y completas la capacitación con atención, enfrentando las críticas del entorno y asumiendo la extensión de tu jornada para asegurar tu formación.",
+      "pragmatic_distractor": "Gestionas el curso revisando solo el material esencial que previene accidentes graves, equilibrando la necesidad de capacitación con el descanso necesario.",
+      "evasive_distractor": "Postergas la toma del curso solicitando una prórroga o justificando carga laboral, esperando a que el interés de la supervisión por el tema disminuya.",
+      "rationalized_distractor": "Accedes confiando en que tu experiencia técnica compensa la falta de teoría, considerando que los cursos generales suelen ser menos efectivos que la práctica diaria."
+    }
   },
   {
     "id": "block-OPS400-M2-q029",
@@ -126,13 +110,11 @@
     "type": "options",
     "scenario": "Te piden enseñar un proceso a un compañero nuevo mientras tú sigues con tu carga normal. Eso te hará ir más lento y temes que te reclamen por tiempos. Puedes entrenarlo con paciencia, aunque te cueste, o dejarlo que aprenda solo para no retrasarte. El equipo necesita que el nuevo funcione pronto. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Lo entrenas con pasos claros y estableces un ritmo realista, aunque te retrase, te canse más y recibas presión por no rendir como cuando ibas solo.",
-      "pragmatic_distractor": "Le das instrucciones rápidas y lo pones a hacer lo simple, priorizando tu ritmo aunque el aprendizaje se alargue y el nuevo cometa errores.",
-      "evasive_distractor": "Evitas entrenarlo y haces tú lo principal, esperando que el nuevo aprenda mirando, aunque se sienta aislado y tarde más en integrarse.",
-      "rationalized_distractor": "Lo regañas y lo dejas solo para que aprenda a la fuerza, porque piensas que así se adapta más rápido, aunque se dañe el ambiente."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 9",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Proporcionas un entrenamiento detallado y reportas el impacto en tus tiempos, aceptando la presión adicional mientras garantizas la autonomía del nuevo colaborador.",
+      "pragmatic_distractor": "Canalizas al nuevo hacia las tareas más sencillas que requieren poca guía, gestionando tu tiempo para no descuidar tus indicadores de productividad personales.",
+      "evasive_distractor": "Solicitas que el compañero nuevo observe tus movimientos sin intervenir, transfiriendo la responsabilidad de su aprendizaje a su propia capacidad de observación.",
+      "rationalized_distractor": "Procedes considerando que la carga de trabajo actual no permite un entrenamiento formal, priorizando la operatividad inmediata sobre la capacitación del nuevo integrante."
+    }
   },
   {
     "id": "block-OPS400-M2-q030",
@@ -141,13 +123,11 @@
     "type": "options",
     "scenario": "Durante una semana te piden tiempo extra obligatorio por un pico de trabajo. Estás agotado y tu familia se queja, pero sabes que si faltas quedas mal y el equipo sufre. Puedes aceptar y organizarte, aunque duela, o empezar a faltar y desconectarte para protegerte. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Aceptas la semana y acuerdas límites claros para que no se vuelva permanente, aunque te cueste cansancio, afecte tu vida personal y tengas que sostener conversaciones incómodas.",
-      "pragmatic_distractor": "Aceptas pero bajas tu calidad para aguantar, priorizando sobrevivir al turno aunque aumenten errores y reclamos al final de la semana.",
-      "evasive_distractor": "Dices que verás si puedes y esperas que asignen el extra a otros, evitando decir que no pero sin comprometerte con claridad.",
-      "rationalized_distractor": "Faltas porque piensas que es injusto exigir extra y que cuidarte es lo primero, aunque eso deje corto al equipo y te gane mala fama."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 10",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Cumples con la jornada extraordinaria establecida, asumiendo el costo en tu balance personal y gestionando internamente tus prioridades para sostener el esfuerzo semanal.",
+      "pragmatic_distractor": "Gestionas el tiempo extra enfocándote solo en las tareas críticas, equilibrando tu presencia física con una intensidad moderada que te permita terminar la semana.",
+      "evasive_distractor": "Postergas tu confirmación diaria para el tiempo extra, esperando que otros cubran los turnos o que la carga de trabajo disminuya antes de tu asignación.",
+      "rationalized_distractor": "Accedes confiando en que un rendimiento estándar durante el extra es suficiente, considerando que la salud personal es prioritaria frente a demandas operativas extraordinarias."
+    }
   },
   {
     "id": "block-OPS400-M2-q031",
@@ -156,13 +136,11 @@
     "type": "options",
     "scenario": "Cambian el guion de atención al cliente y te piden usar frases nuevas que no te salen naturales. Te da pena sonar falso, pero si no lo usas te llaman la atención. Puedes practicar y adaptarte, aunque sea incómodo, o ignorarlo y seguir con tu estilo. Hay supervisión estos días. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Practicas y adoptas el guion con tu estilo, aunque te cueste, te sientas torpe al principio y tengas que invertir tiempo extra para hacerlo bien.",
-      "pragmatic_distractor": "Lo usas solo cuando te observan y el resto del tiempo sigues igual, priorizando comodidad aunque quedes inconsistente y te expongas a correcciones.",
-      "evasive_distractor": "Evitas atender al frente para no usar el guion, dejando a otros con la carga y esperando que la supervisión pase.",
-      "rationalized_distractor": "Lo ignoras porque piensas que tu forma es mejor y que no necesitas esos cambios, aunque eso te ponga en choque con el nuevo estándar."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 11",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Adoptas los nuevos lineamientos de comunicación de forma íntegra, asumiendo la incomodidad inicial y practicando hasta que las frases se sientan profesionales.",
+      "pragmatic_distractor": "Integras solo las palabras clave del nuevo guion en tu discurso habitual, gestionando el cumplimiento normativo sin perder totalmente tu estilo de atención.",
+      "evasive_distractor": "Dejas que otros compañeros tomen las interacciones más visibles, postergando el uso del guion nuevo hasta que sea estrictamente obligatorio para ti.",
+      "rationalized_distractor": "Procedes considerando que la satisfacción del cliente depende de la naturalidad, priorizando tu estilo propio sobre el guion para no parecer poco auténtico."
+    }
   },
   {
     "id": "block-OPS400-M2-q032",
@@ -171,13 +149,11 @@
     "type": "options",
     "scenario": "Te asignan una unidad diferente con controles nuevos y te sientes inseguro al manejarla. El encargado dice que no hay tiempo para practicar y que salgas ya. Puedes pedir unos minutos para familiarizarte, aunque te vean lento, o salir y confiar en que aprenderás en el camino. Estás bajo presión de tiempo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Pides unos minutos para revisar lo básico y salir con seguridad, aunque te retrase, te presionen y te toque aguantar comentarios por ser precavido.",
-      "pragmatic_distractor": "Sales de inmediato y vas aprendiendo con cuidado mientras avanzas, asumiendo que cometerás pequeñas fallas pero sin detener la operación.",
-      "evasive_distractor": "Buscas que otro conduzca primero y tú te quedas atrás, evitando exponerte, aunque eso te deje sin aprender y dependa el equipo de otros.",
-      "rationalized_distractor": "Te niegas a usar esa unidad porque piensas que es injusto asignártela sin capacitación, aunque eso te haga ver poco flexible."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 12",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Solicitas el tiempo mínimo necesario para una revisión de seguridad, aceptando la presión por el retraso y asumiendo la responsabilidad de la demora inicial.",
+      "pragmatic_distractor": "Verificas los controles esenciales mientras inicias la marcha, gestionando la operación con precaución extrema para aprender el funcionamiento sin detener el flujo.",
+      "evasive_distractor": "Marcas la unidad como lista pero esperas a que la carga sea ligera, postergando la salida real hasta sentirte más seguro con el entorno.",
+      "rationalized_distractor": "Procedes considerando que tu habilidad general compensará la falta de práctica específica, priorizando la urgencia del servicio sobre el protocolo de familiarización."
+    }
   },
   {
     "id": "block-OPS400-M2-q033",
@@ -186,13 +162,11 @@
     "type": "options",
     "scenario": "Te cambian a un turno nocturno por dos semanas y tu sueño se altera. Te sientes irritable y te cuesta concentrarte, pero el equipo necesita cobertura. Puedes organizarte para adaptarte y pedir apoyo, o aguantar en silencio y culpar al ambiente cuando falles. El encargado está atento a errores. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Te organizas para dormir mejor y pides ajustes razonables, aunque sea incómodo admitir que te cuesta y tengas que esforzarte más para rendir bien en el nuevo turno.",
-      "pragmatic_distractor": "Aguantas con café y atajos para sobrevivir, priorizando cumplir aunque aumente tu cansancio y el riesgo de equivocarte.",
-      "evasive_distractor": "No dices nada y esperas que pasen las dos semanas, evitando exponerte aunque trabajes irritado y el equipo resienta tu ánimo.",
-      "rationalized_distractor": "Te desconectas y haces lo mínimo porque piensas que nadie debería trabajar de noche, aunque eso afecte la operación y tu imagen."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 13",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Aceptas el cambio de turno y ajustas tus rutinas de descanso, enfrentando el periodo de adaptación biológica y manteniendo la atención en tus responsabilidades críticas.",
+      "pragmatic_distractor": "Gestionas tu carga de trabajo priorizando las tareas de bajo riesgo durante tus horas de mayor cansancio, equilibrando tu salud con la necesidad de cobertura.",
+      "evasive_distractor": "Postergas la toma de decisiones complejas para el final del turno nocturno, esperando que la luz del día o un relevo resuelva los puntos críticos por ti.",
+      "rationalized_distractor": "Procedes considerando que el error humano es inevitable en este esquema, priorizando el cumplimiento de horario sobre la perfección técnica dadas las condiciones actuales."
+    }
   },
   {
     "id": "block-OPS400-M2-q034",
@@ -201,13 +175,11 @@
     "type": "options",
     "scenario": "Ahora planean rutas con un sistema que te manda por calles que no conoces y te hace dudar. Te da ansiedad perderte y quedar mal. Puedes pedir aclaraciones y aprender el criterio, aunque te incomode, o ignorarlo y hacer la ruta como siempre. El coordinador insiste en seguir el plan nuevo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Sigues el plan nuevo y pides aclaraciones para entenderlo, aunque te sientas expuesto, tardes más al inicio y tengas que tolerar la incomodidad de aprender.",
-      "pragmatic_distractor": "Haces tu ruta como siempre pero registras que seguiste el plan, priorizando comodidad aunque se rompa la coordinación del equipo.",
-      "evasive_distractor": "Esperas a que otros lo dominen y tú solo copias lo que te digan, evitando aprender, aunque quedes dependiente y te cueste adaptarte después.",
-      "rationalized_distractor": "Te niegas a seguirlo porque piensas que la calle manda, aunque eso te ponga en choque con el coordinador y te deje señalado."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 14",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Sigues la ruta programada por el nuevo sistema estrictamente, asumiendo el riesgo de demoras y enfrentando la curva de aprendizaje del nuevo territorio.",
+      "pragmatic_distractor": "Verificas el plan sugerido y realizas ajustes menores basados en tu experiencia, gestionando la entrega para que coincida lo más posible con el sistema.",
+      "evasive_distractor": "Solicitas que un compañero con GPS actualizado valide tu ruta, transfiriendo la decisión del camino a un tercero para evitar errores personales de navegación.",
+      "rationalized_distractor": "Completas la ruta priorizando tu conocimiento geográfico previo, considerando que la experiencia local es superior a cualquier algoritmo de planificación nuevo."
+    }
   },
   {
     "id": "block-OPS400-M2-q035",
@@ -216,13 +188,11 @@
     "type": "options",
     "scenario": "Te asignan trabajar en pareja para una tarea pesada, pero tú prefieres trabajar solo porque sientes que avanzas más. El nuevo método exige coordinación y comunicación, y al principio se pierde tiempo. Puedes adaptarte y acordar un ritmo, o hacer tu parte sin coordinar y frustrarte cuando el otro no sigue. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Acordas roles y un ritmo claro con tu compañero, aunque te cueste ceder control, invertir tiempo en coordinar y tolerar que al inicio avanzarán más lento.",
-      "pragmatic_distractor": "Haces tu parte por tu cuenta y esperas que el otro se adapte, priorizando tu velocidad aunque se duplique trabajo y haya fricción.",
-      "evasive_distractor": "Evitas la tarea en pareja y buscas otras actividades, esperando que reasignen sin que tú lo pidas, aunque quedes mal por no colaborar.",
-      "rationalized_distractor": "Te impones y exiges que el otro se ajuste a ti, porque crees que tu forma es la correcta, aunque eso rompa el ambiente."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 15",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Aplicas el protocolo de trabajo en equipo y sincronizas tus movimientos con tu pareja, aceptando la lentitud inicial y el esfuerzo de comunicación constante.",
+      "pragmatic_distractor": "Gestionas la tarea dividiendo el trabajo de forma independiente para evitar esperas, equilibrando la necesidad de coordinación con tu preferencia por la velocidad.",
+      "evasive_distractor": "Dejas que el compañero marque el ritmo y tú te limitas a seguir sus instrucciones, postergando tu iniciativa para evitar conflictos de coordinación directos.",
+      "rationalized_distractor": "Procedes considerando que tu ritmo individual es el motor de la tarea, priorizando tu avance personal sobre la integración para no retrasar el resultado final."
+    }
   },
   {
     "id": "block-OPS400-M2-q036",
@@ -231,13 +201,11 @@
     "type": "options",
     "scenario": "Llevas semanas con cambios seguidos y te sientes en agotamiento. Un compañero dice que la mejor forma es “desconectarte” y hacer solo lo indispensable. Tú quieres conservar tu empleo, pero también te preocupa tu salud y ánimo. Puedes pedir apoyo y ajustar hábitos, o resignarte y bajar el esfuerzo sin decir nada. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Hablas con el encargado para ajustar carga y te organizas para recuperarte, aunque te cueste admitir que te está afectando y tengas que sostener una conversación incómoda.",
-      "pragmatic_distractor": "Bajas el esfuerzo en tareas menos visibles para sobrevivir, priorizando energía aunque se acumulen problemas y aumenten reclamos después.",
-      "evasive_distractor": "No dices nada y esperas que el cansancio pase solo, evitando exponerte, aunque tu ánimo y rendimiento sigan bajando.",
-      "rationalized_distractor": "Te desconectas por completo porque piensas que la empresa no valora y no merece tu esfuerzo, aunque eso perjudique al equipo y a tu permanencia."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 16",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Reportas tu estado de agotamiento al supervisor y propones ajustes de eficiencia, asumiendo la vulnerabilidad profesional para sostener tu compromiso a largo plazo.",
+      "pragmatic_distractor": "Gestionas tu esfuerzo enfocándote solo en los entregables clave, equilibrando tu salud mental con el cumplimiento de las metas más vigiladas por la empresa.",
+      "evasive_distractor": "Marcas tus tareas como realizadas sin buscar proactivamente nuevos retos, esperando que la racha de cambios termine sin que tu rendimiento sea cuestionado.",
+      "rationalized_distractor": "Accedes confiando en que un ritmo reducido es justo dadas las circunstancias, considerando que la empresa debe prever el desgaste del personal ante tantos cambios."
+    }
   },
   {
     "id": "block-OPS400-M2-q037",
@@ -246,13 +214,11 @@
     "type": "options",
     "scenario": "Ahora piden una revisión breve al inicio del turno con el supervisor para ajustar prioridades. A ti te incomoda hablar y sientes que te van a señalar. Puedes participar y decir lo que necesitas, aunque sea incómodo, o quedarte callado y luego quejarte de que todo salió mal. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Participas y dices con claridad lo necesario para el turno, aunque te incomode hablar frente a otros y te expongas a preguntas o críticas del supervisor.",
-      "pragmatic_distractor": "Dices solo lo mínimo para que no te noten, priorizando pasar desapercibido aunque luego falten recursos o claridad en tareas.",
-      "evasive_distractor": "Te quedas callado y esperas que otros hablen por ti, evitando exposición, aunque luego te afecten decisiones tomadas sin tu contexto.",
-      "rationalized_distractor": "Te niegas a participar porque piensas que esa revisión no sirve, aunque eso te deje desconectado de prioridades y te vean poco colaborativo."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 17",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Participas activamente en la revisión de prioridades, enfrentando la incomodidad de exponerte y aceptando la responsabilidad de tus aportaciones frente al equipo.",
+      "pragmatic_distractor": "Gestionas tu intervención dando respuestas breves y técnicas, buscando cumplir con el protocolo de la reunión sin profundizar en temas que generen debate.",
+      "evasive_distractor": "Transfieres tus dudas a un compañero antes de la reunión para que él las mencione, postergando tu participación directa mientras observas la dinámica.",
+      "rationalized_distractor": "Procedes considerando que las prioridades ya están claras por la rutina, priorizando el inicio rápido del trabajo sobre la asistencia a una reunión administrativa."
+    }
   },
   {
     "id": "block-OPS400-M2-q038",
@@ -261,13 +227,11 @@
     "type": "options",
     "scenario": "Cambian el proceso de entrega y ahora debes pedir identificación en ciertos casos. Algunos clientes se molestan y te insultan. Puedes sostener la regla con calma, aunque recibas agresión y te retrases, o evitar el conflicto y no pedirla para avanzar. El supervisor dice que habrá revisiones. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Pides la identificación y explicas el motivo con calma, aunque te insulten, te retrases y tengas que aguantar tensión por sostener el proceso.",
-      "pragmatic_distractor": "Pides identificación solo si el cliente se ve sospechoso, priorizando rapidez aunque apliques la regla de forma inconsistente.",
-      "evasive_distractor": "Llamas al supervisor en cada caso difícil para que él decida, evitando confrontar, aunque eso haga el proceso más lento y pesado.",
-      "rationalized_distractor": "No la pides para evitar conflicto porque piensas que lo importante es entregar y que la gente se ofende, aunque te expongas a sanción."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 18",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Exiges la identificación según el nuevo protocolo en todos los casos, asumiendo la fricción con los clientes y el tiempo adicional que requiere la explicación.",
+      "pragmatic_distractor": "Canalizas la solicitud de identificación solo en situaciones de bajo riesgo de conflicto, equilibrando el cumplimiento de la norma con la fluidez del servicio.",
+      "evasive_distractor": "Solicitas que el supervisor hable directamente con los clientes que presenten resistencia, postergando la ejecución de la regla para evitar la confrontación personal.",
+      "rationalized_distractor": "Procedes considerando que la satisfacción del cliente es la meta final, omitiendo la identificación cuando esto garantice una entrega sin incidentes o agresiones."
+    }
   },
   {
     "id": "block-OPS400-M2-q039",
@@ -276,13 +240,11 @@
     "type": "options",
     "scenario": "Te cambian el orden de tareas del turno: ahora primero atención al cliente y después acomodo, pero tú siempre lo hiciste al revés. Sientes que el nuevo orden te deja mal. Puedes adaptarte y ajustar tu rutina, aunque al inicio te cueste, o seguir tu forma y chocar con el encargado. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Sigues el nuevo orden y ajustas tu rutina, aunque te frustre al principio, te sientas menos eficiente y tengas que poner más energía para adaptarte.",
-      "pragmatic_distractor": "Haces una mezcla según te convenga, priorizando comodidad aunque el equipo se descoordine y se pierda consistencia en el turno.",
-      "evasive_distractor": "No dices nada y haces lo mínimo, esperando que el orden cambie de nuevo, evitando el esfuerzo de adaptarte.",
-      "rationalized_distractor": "Sigues tu forma y discutes con el encargado porque piensas que sabes mejor, aunque eso deteriore la relación y tu permanencia."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 19",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Aplicas el nuevo orden de tareas establecido, enfrentando la desorganización inicial de tu rutina y aceptando el esfuerzo de reconfigurar tus hábitos laborales.",
+      "pragmatic_distractor": "Gestionas ambas tareas de forma simultánea cuando es posible, buscando una alternativa que respete formalmente el nuevo orden sin abandonar tus métodos previos.",
+      "evasive_distractor": "Dejas que el flujo del día determine qué tarea haces primero, postergando la adopción estricta del cambio hasta recibir una instrucción directa y personalizada.",
+      "rationalized_distractor": "Completas las tareas en tu orden habitual priorizando tu productividad, considerando que los resultados finales validan tu elección por encima del nuevo esquema."
+    }
   },
   {
     "id": "block-OPS400-M2-q040",
@@ -291,13 +253,10 @@
     "type": "options",
     "scenario": "Recortan un beneficio pequeño y el equipo está molesto; varios dicen que ya no vale la pena esforzarse. Tú también te sientes frustrado, pero necesitas estabilidad y no quieres quedar marcado por mala actitud. Puedes sostener un compromiso realista y proponer mejoras, o sumarte al desánimo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Mantienes tu trabajo con constancia y propones mejoras concretas, aunque te cueste motivarte, recibas comentarios cínicos y te toque sostener el esfuerzo sin reconocimiento inmediato.",
-      "pragmatic_distractor": "Te enfocas solo en lo visible para quedar bien, aunque descuides detalles y el servicio se resienta en lo que nadie ve.",
-      "evasive_distractor": "Te sumas a quejarte y esperas que alguien más haga algo, evitando involucrarte, aunque el ambiente se vuelva más pesado.",
-      "rationalized_distractor": "Bajas tu esfuerzo porque piensas que es la única forma de protestar, aunque eso afecte al equipo y te deje mal ante el encargado."
-    },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 02 item 20",
-    "sot_checksum": "ops400_m2_options_v1"
+      "integrity_correct": "Mantienes tu nivel de desempeño profesional y registras tus sugerencias, asumiendo el impacto emocional del recorte mientras proteges tu reputación laboral.",
+      "pragmatic_distractor": "Equilibras tu esfuerzo cumpliendo con los estándares mínimos aceptables, gestionando tu energía para evitar el agotamiento ante un entorno que percibes como menos favorable.",
+      "evasive_distractor": "Dejas que el desánimo del grupo guíe la comunicación externa, evitando tomar una postura clara para no entrar en conflicto con la empresa ni con tus compañeros.",
+      "rationalized_distractor": "Procedes considerando que el esfuerzo debe ser proporcional a los beneficios recibidos, priorizando tu bienestar personal sobre la excelencia dadas las nuevas condiciones."
+    }
   }
 ]
-
