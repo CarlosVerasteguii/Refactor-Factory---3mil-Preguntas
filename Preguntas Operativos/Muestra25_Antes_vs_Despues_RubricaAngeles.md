@@ -31,14 +31,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Vas a cargar gasolina para la unidad y la tarjeta de la empresa pasa sin clave. Se te ocurre cargar de más para usar esa gasolina en tu auto. ¿Qué haces?
+> Vas a cargar gasolina para la unidad y la tarjeta de la empresa pasa sin clave. Traes prisa y nadie está encima en la bomba. Se te ocurre cargar de más para usar esa gasolina en tu auto. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Cargo lo que corresponde a la ruta y guardo el comprobante.
-- **Pragmática:** Cargo un poco extra “por si acaso”, para no tener que volver a cargar.
-- **Evasiva:** Le pregunto al encargado cuánto cargar y hago exactamente eso.
-- **Autojustificada:** Cargo unos litros de más y los guardo para mi auto, pensando que luego los repongo porque “es poco”.
+- **Correcta:** Cargo solo lo que necesito para el trabajo y, si hace falta más, se lo pido al encargado.
+- **Pragmática:** Cargo un poco de más para cubrir cualquier vuelta extra y no perder tiempo regresando.
+- **Evasiva:** Le pregunto al encargado cuánto cargar y hago exactamente eso, aunque me tarde.
+- **Autojustificada:** Cargo unos litros de más y los guardo para mi auto, pensando que luego los repongo porque son pocos litros.
 
 **Por qué se cambió:**
 
@@ -68,14 +68,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un amigo te pide que le hagas una devolución sin recibo y fuera de tiempo. No está el encargado y hay fila. ¿Qué haces?
+> Un amigo te pide una devolución sin recibo y fuera de tiempo. Hay fila, el encargado no está y tu amigo insiste. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Le digo que así no puedo hacer la devolución y le explico las opciones que sí aplican.
-- **Pragmática:** Busco la compra en el sistema y, si aparece, hago el trámite permitido o le ofrezco un cambio.
-- **Evasiva:** Le digo que lo vea con el encargado y lo dejo esperando para no decidir yo.
-- **Autojustificada:** Se la acepto como “excepción” para evitar pleito y porque es mi amigo.
+- **Correcta:** Reviso si la compra aparece en el sistema y, si no aplica, le digo que no puedo y qué sí se puede.
+- **Pragmática:** Busco una forma de hacerle el cambio rápido con lo que hay, para no detener la fila.
+- **Evasiva:** Le digo que lo vea con el encargado y sigo atendiendo, sin decidir yo.
+- **Autojustificada:** Se la acepto como favor para no quedar mal y luego veo cómo lo acomodo si preguntan.
 
 **Por qué se cambió:**
 
@@ -104,14 +104,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un cliente dice que no recibió su paquete. Tú crees que sí lo entregaste, pero no estás seguro. ¿Qué haces?
+> Un cliente te dice que no recibió su paquete y está molesto. Tú crees que sí lo entregaste, pero no estás seguro. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Le digo que lo reviso y dejo registrado el caso para que se verifique la entrega.
-- **Pragmática:** Reviso mi foto, firma o registro y con eso le respondo en el momento.
-- **Evasiva:** Le digo que lo revise por atención/soporte y sigo con la ruta para no atrasarme.
-- **Autojustificada:** Le digo que sí se entregó para cerrarlo rápido, aunque yo no esté seguro.
+- **Correcta:** Reviso mi evidencia y, si hay duda, dejo el caso registrado para que verifiquen la entrega.
+- **Pragmática:** Busco la foto o la firma y le muestro lo que tengo para aclararlo ahí mismo.
+- **Evasiva:** Le doy el contacto de atención y sigo con la ruta; no puedo detenerme en ese momento.
+- **Autojustificada:** Le digo que sí se entregó y que seguramente lo recibió alguien, para cerrar la discusión.
 
 **Por qué se cambió:**
 
@@ -140,14 +140,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> No puedes entrar al sistema porque no tienes tu clave. Un compañero te ofrece la suya para que avances rápido. ¿Qué haces?
+> Tu clave no funciona y te urge entrar al sistema porque hay trabajo acumulado. Un compañero te ofrece su clave para que avances rápido. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Pido que me habiliten mi propio acceso y empiezo en cuanto lo tenga.
-- **Pragmática:** Le pido al supervisor un acceso temporal a mi nombre para avanzar mientras arreglan mi clave.
-- **Evasiva:** Me quedo en tareas que no usan sistema hasta que me den acceso.
-- **Autojustificada:** Uso la clave del compañero “solo por hoy” para avanzar y luego pido la mía.
+- **Correcta:** Pido que me habiliten mi acceso a mi nombre y trabajo con lo que sí puedo hacer mientras tanto.
+- **Pragmática:** Le pido al supervisor un acceso temporal a mi nombre para avanzar en lo urgente.
+- **Evasiva:** Me quedo en tareas que no usan sistema y dejo lo demás para cuando se arregle.
+- **Autojustificada:** Uso la clave del compañero solo hoy para sacar el trabajo, y después pido la mía.
 
 **Por qué se cambió:**
 
@@ -176,14 +176,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Encuentras un producto con el empaque roto. Un compañero dice que lo selles y lo vendas como nuevo para que no lo descuenten. ¿Qué haces?
+> Encuentras un producto con el empaque roto mientras acomodan para venta. Un compañero te dice que lo selles y lo vendas como nuevo para que no lo descuenten. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Lo separo y lo reporto como dañado para que no se venda como nuevo.
-- **Pragmática:** Pregunto si se puede vender con descuento avisando que el empaque está roto.
-- **Evasiva:** Lo dejo apartado y le pido al encargado que decida qué hacer con ese producto.
-- **Autojustificada:** Lo sello y lo pongo a la venta como nuevo, porque el producto está bien y no quiero que lo descuenten.
+- **Correcta:** Lo separo y lo reporto como dañado para que se revise antes de venderse.
+- **Pragmática:** Pregunto si se puede poner en descuento avisando que el empaque está roto.
+- **Evasiva:** Lo dejo apartado y le aviso al encargado para que él decida.
+- **Autojustificada:** Lo sello y lo pongo como nuevo, pensando que por dentro está bien y así evitamos el descuento.
 
 **Por qué se cambió:**
 
@@ -214,14 +214,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Te mandan un mes a otra sucursal más lejos. No conoces al equipo y te complica el transporte. ¿Qué haces?
+> Te mandan un mes a otra sucursal más lejos y empiezas desde mañana. No conoces al equipo y te complica el transporte. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Acepto el cambio y me organizo con el transporte para llegar a tiempo.
-- **Pragmática:** Voy y cumplo, enfocándome en sacar el trabajo sin meterme tanto en el equipo nuevo.
-- **Evasiva:** Digo que sí, pero empiezo a pedir cambios y a buscar cómo reducir los días.
-- **Autojustificada:** Pido que manden a otro porque me queda muy lejos y “yo rindo mejor aquí”.
+- **Correcta:** Acepto el cambio, me organizo y llego listo para trabajar con el equipo nuevo.
+- **Pragmática:** Voy, hago lo mío y me enfoco en sacar el día, sin involucrarme mucho.
+- **Evasiva:** Digo que sí, pero espero a ver si lo cambian y voy pidiendo ajustes.
+- **Autojustificada:** Pido que manden a otro porque con mi transporte se me complica y digo que aquí hago más falta.
 
 **Por qué se cambió:**
 
@@ -250,14 +250,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Va a cambiar un proceso y hoy hay capacitación para aprenderlo. Estás cansado y preferirías seguir trabajando como siempre, pero si no aprendes luego te va a costar más. ¿Qué haces?
+> Va a cambiar un proceso y hoy hay una capacitación corta al inicio del turno. Estás cansado y preferirías seguir trabajando como siempre, pero si no aprendes luego te va a costar más. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Voy a la capacitación y me quedo hasta entender lo básico.
-- **Pragmática:** Le pido a un compañero que me pase lo más importante y lo aprendo sobre la marcha.
-- **Evasiva:** Digo que luego la veo y lo dejo pendiente, esperando que no me toque pronto.
-- **Autojustificada:** No voy; si cambia algo, ya preguntaré cuando esté pasando.
+- **Correcta:** Voy a la capacitación y tomo nota para entender lo básico.
+- **Pragmática:** Le pido a un compañero el resumen y lo aprendo en el piso mientras trabajo.
+- **Evasiva:** Me quedo trabajando y digo que luego me la pasan, para no detenerme hoy.
+- **Autojustificada:** No voy; prefiero seguir como estoy y ya me ajustaré cuando lo vea en la práctica.
 
 **Por qué se cambió:**
 
@@ -286,14 +286,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Te cambian de equipo y en el nuevo grupo se burlan cuando alguien pregunta. Tú no entiendes bien el proceso. ¿Qué haces?
+> Te cambian de equipo y es tu primer día con ese grupo. Se burlan cuando alguien pregunta y tú no entiendes bien el proceso. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Pregunto lo que necesito, aunque se rían.
-- **Pragmática:** Le pregunto en corto a alguien del equipo que sea más accesible, para no hacerlo frente a todos.
-- **Evasiva:** Me quedo observando y no pregunto, a ver si lo entiendo solo.
-- **Autojustificada:** No pregunto y hago el trabajo como salga; si me reclaman, digo que nadie explicó.
+- **Correcta:** Pregunto lo necesario con respeto, aunque me dé pena.
+- **Pragmática:** Me acerco con alguien del equipo y le pregunto en corto para no hacerlo frente a todos.
+- **Evasiva:** Me quedo observando y tomando nota, esperando entender sin preguntar.
+- **Autojustificada:** No pregunto y saco el trabajo como salga; si hay errores, digo que nadie me explicó.
 
 **Por qué se cambió:**
 
@@ -322,14 +322,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> El encargado dice que ahora rotarán puestos cada semana y ya no estarás fijo en caja. A ti te gustaba tu puesto y te molesta. ¿Qué haces?
+> El encargado dice que ahora rotarán puestos cada semana y ya no estarás fijo en caja. Esta semana te toca un puesto que no te gusta. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Acepto la rotación y me adapto al puesto que me toque.
-- **Pragmática:** Pido apoyo para agarrar el ritmo y me organizo con el equipo para no atrasarnos.
-- **Evasiva:** Pido que me dejen en caja “porque ya sé”, esperando que me lo pospongan.
-- **Autojustificada:** En otros puestos hago solo lo mínimo porque “yo soy de caja” y así me regresan.
+- **Correcta:** Hago la rotación que me toca y me pongo a aprender para no fallar.
+- **Pragmática:** Pido que me expliquen lo básico y me organizo para cumplir, aunque no sea mi favorito.
+- **Evasiva:** Pido quedarme en caja por experiencia, esperando que me cambien.
+- **Autojustificada:** En otros puestos hago lo mínimo para que vean que en caja soy más rápido y me regresen.
 
 **Por qué se cambió:**
 
@@ -358,11 +358,11 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Ahora van a rotar las zonas de trabajo. A ti te tocó una zona que no dominas y querías quedarte donde siempre. ¿Qué haces?
+> Ahora van a rotar las zonas de trabajo y hoy hay mucha carga. A ti te tocó una zona que no dominas y querías quedarte donde siempre. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Me cambio a la nueva zona y me apoyo para aprenderla.
+- **Correcta:** Me cambio a la nueva zona y pido apoyo para aprenderla rápido.
 - **Pragmática:** Me organizo con alguien del equipo para que me explique lo básico y sacar el trabajo.
 - **Evasiva:** Empiezo a poner excusas y digo que “no me sale” para ver si me regresan.
 - **Autojustificada:** Me quedo en la zona que ya domino y me hago el ocupado para que no me muevan.
@@ -396,14 +396,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un cliente te pide datos del pedido de su pareja. En pantalla ves dirección y datos personales. Se enoja y hay fila. ¿Qué haces?
+> Un cliente te pide datos del pedido de su pareja (dirección, teléfono y estado del pedido). Dice que “vive con ella” y que es urgente porque viene a recogerlo. Hay fila y te piden que avances. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Le digo que no puedo dar información a terceros y le pido que el titular lo solicite.
-- **Pragmática:** Le ofrezco llamar al titular para que autorice o confirme antes de dar cualquier dato.
-- **Evasiva:** Le digo que lo vea por teléfono o en la app y lo mando a otro lado para seguir con la fila.
-- **Autojustificada:** Le doy el estatus del pedido para que se calme; total “es su pareja”.
+- **Correcta:** Le explico que esa información solo se la doy al titular; si quiere, le marco al titular o le pido que llame para confirmar antes de decirle algo.
+- **Pragmática:** Le digo solo algo general (por ejemplo, si ya está listo) sin dar dirección ni datos personales, para avanzar la fila.
+- **Evasiva:** Le digo que no puedo ayudar y lo mando a otro lado, para seguir con la fila y evitar discutir.
+- **Autojustificada:** Le doy la información completa para que se vaya rápido, pensando que así evitamos una queja y la fila avanza.
 
 **Por qué se cambió:**
 
@@ -432,14 +432,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un compañero entregó un pedido a la persona equivocada. Te pide que no lo digas y que “entre ustedes” lo repongan para que no lo regañen. ¿Qué haces?
+> Un compañero entregó un pedido a la persona equivocada y el cliente ya se fue. Te pide que no lo digas y que “entre ustedes” lo repongan rápido para que no lo regañen. Hay prisa. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Lo aviso al encargado y lo registro para que se corrija.
-- **Pragmática:** Ayudo a recuperar el pedido y después lo informo para que quede asentado.
-- **Evasiva:** Me hago a un lado y le digo que lo vea él, para no meterme en el problema.
-- **Autojustificada:** Lo arreglamos entre nosotros sin avisar, pensando que así evitamos problemas.
+- **Correcta:** Le digo que hay que avisarlo y registrarlo, y me pongo a ayudar a corregirlo aunque mi compañero se moleste.
+- **Pragmática:** Primero ayudo a recuperar o reponer el pedido para resolver al cliente, y luego lo informo para que quede registrado.
+- **Evasiva:** Le digo que lo vea él con el encargado y yo sigo con lo mío mientras él lo resuelve.
+- **Autojustificada:** Lo arreglamos entre nosotros sin avisar para evitar regaños y que “no se haga grande”.
 
 **Por qué se cambió:**
 
@@ -468,14 +468,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un cliente mayor no entiende un cobro y te pide que se lo expliques. Hay fila y te están apurando. ¿Qué haces?
+> Un cliente mayor no entiende un cobro porque ve dos cargos parecidos en el ticket. Te pide que se lo expliques con calma, pero hay fila y te están apurando. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Le explico rápido y claro y me aseguro de que entendió.
-- **Pragmática:** Le explico lo básico y le señalo en el ticket dónde viene el cobro.
-- **Evasiva:** Pido a un compañero o a atención al cliente que lo apoye y yo sigo cobrando.
-- **Autojustificada:** Le digo “así salió en el sistema” y cobro para que avance la fila.
+- **Correcta:** Me tomo un minuto para explicarle con palabras simples y me aseguro de que entendió antes de cobrarle.
+- **Pragmática:** Le explico lo básico y le marco en el ticket dónde está el cobro; si necesita más, lo paso a un lado para revisarlo sin frenar la fila.
+- **Evasiva:** Le digo que lo vea con servicio al cliente y yo sigo cobrando para no atrasar a los demás.
+- **Autojustificada:** Le cobro ya y le digo que luego lo revisamos, porque si no la fila se hace más.
 
 **Por qué se cambió:**
 
@@ -504,14 +504,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un cliente quiere devolución de una caja sellada. La abres y lo de adentro no es lo que dice la caja. Se enoja y hay fila. ¿Qué haces?
+> Un cliente quiere devolución de una caja sellada que compró hace rato. La abres y lo de adentro no coincide con la caja. Se enoja, dice que “así venía”, y hay fila. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Reviso la caja y le explico que no puedo hacer la devolución porque no coincide el contenido.
-- **Pragmática:** Tomo fotos y lo canalizo con el encargado para que lo revise, sin pasarlo como devolución normal.
-- **Evasiva:** Le digo que vuelva cuando esté el encargado y corto la conversación para seguir atendiendo.
-- **Autojustificada:** Le hago la devolución para que no se arme problema y luego lo reporto.
+- **Correcta:** No proceso la devolución en ese momento; llamo al encargado y dejo registrado que el contenido no coincide.
+- **Pragmática:** Tomo fotos y le propongo revisarlo con el encargado para buscar una solución (cambio o revisión), sin regresarle el dinero al momento.
+- **Evasiva:** Le digo que yo no puedo y que regrese cuando esté el encargado, y sigo atendiendo a la fila.
+- **Autojustificada:** Le hago la devolución para que se vaya y luego “vemos cómo lo arreglamos” con el encargado.
 
 **Por qué se cambió:**
 
@@ -540,14 +540,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Un cliente te pide que le cobres más barato un producto que está bien y te ofrece propina. Se enoja si le dices que no. ¿Qué haces?
+> Un cliente te pide que le cobres más barato un producto que está bien. Te ofrece una propina y dice que, si no, se va a quejar. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Cobro el precio marcado y no acepto la propina.
-- **Pragmática:** Reviso si hay algún descuento real o promoción y se lo aplico si corresponde.
-- **Evasiva:** Llamo al supervisor para que él lo maneje, para no discutir yo.
-- **Autojustificada:** Se lo cobro más barato por la propina y para que se vaya tranquilo.
+- **Correcta:** Le cobro el precio marcado y le digo que no puedo aceptar dinero extra; si sigue insistiendo, pido apoyo al encargado.
+- **Pragmática:** Reviso si hay promoción o descuento real y se lo aplico si corresponde; si no, le explico qué opciones sí aplican.
+- **Evasiva:** Le digo que lo vea con el encargado y sigo atendiendo a la fila.
+- **Autojustificada:** Le hago el precio “especial” para que no se enoje y porque me dejó propina.
 
 **Por qué se cambió:**
 
@@ -578,14 +578,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Vas manejando en tráfico pesado por un desvío. Un pasajero se acerca a gritarte y te distrae. ¿Qué haces?
+> Vas manejando en tráfico pesado por un desvío y está lloviendo. Un pasajero se acerca a gritarte cerca de la cabina y te distrae. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Me concentro en manejar y le pido que regrese a su asiento; si quiere, le explico cuando esté en un lugar seguro.
-- **Pragmática:** Le respondo corto sin voltear para bajarle, y sigo atento al camino.
-- **Evasiva:** No le respondo y sigo manejando, esperando que se calme.
-- **Autojustificada:** Le contesto y discuto para que entienda, aunque me distraiga.
+- **Correcta:** Me concentro en manejar, le pido que regrese a su asiento y le digo que lo atiendo en un lugar seguro (por ejemplo, en la próxima parada).
+- **Pragmática:** Le digo en una frase corta que hay desvío y que por seguridad no puedo hablar ahora, sin engancharme y siguiendo atento al camino.
+- **Evasiva:** No le respondo y sigo manejando, esperando que se calme solo.
+- **Autojustificada:** Le explico y le respondo mientras manejo para que se calme y no altere a los demás, aunque me distraiga.
 
 **Por qué se cambió:**
 
@@ -614,14 +614,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Vas tarde y la ruta está parada. Conoces un atajo que no está permitido y no lo cubre el seguro. ¿Qué haces?
+> Vas tarde, la ruta está parada y ya hay pasajeros molestos. Conoces un atajo que no está permitido y no lo cubre el seguro. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Sigo la ruta permitida aunque llegue tarde.
-- **Pragmática:** Le aviso a la base y pregunto si hay otra ruta permitida para no perder tanto tiempo.
-- **Evasiva:** Me quedo esperando indicaciones para no decidir yo.
-- **Autojustificada:** Me voy por el atajo “solo esta vez” porque me lo sé y así llego a tiempo.
+- **Correcta:** Le aviso a la base del retraso y pregunto si hay una ruta permitida; si no hay, sigo la autorizada aunque llegue tarde.
+- **Pragmática:** Sigo la ruta autorizada y les explico a los pasajeros que hubo tráfico/desvío, para no arriesgarme con un atajo.
+- **Evasiva:** Reporto que hay tráfico y espero instrucciones antes de moverme de ruta.
+- **Autojustificada:** Me voy por el atajo “solo esta vez” porque me lo sé y así evito reclamos por llegar tarde.
 
 **Por qué se cambió:**
 
@@ -650,14 +650,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> En el acceso, un proveedor habitual llega con credencial vencida. Hay fila y te presionan para que lo dejes pasar. ¿Qué haces?
+> En el acceso, un proveedor habitual llega con credencial vencida y dice que trae material “urgente”. Hay fila y te presionan para que lo dejes pasar. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** No lo dejo pasar sin credencial vigente, aunque haya fila.
-- **Pragmática:** Llamo al encargado para validar si existe un pase temporal y lo dejo anotado; no lo decido yo solo.
-- **Evasiva:** Le digo que espere mientras “averiguo” y me tardo, para no decirle que no.
-- **Autojustificada:** Lo dejo pasar y le digo que mañana trae la vigente; es conocido.
+- **Correcta:** No lo dejo pasar con credencial vencida; le explico y le indico qué necesita para poder entrar.
+- **Pragmática:** Llamo al encargado para ver si existe un pase temporal y lo registro; si no se autoriza, no lo dejo pasar.
+- **Evasiva:** Lo pongo a esperar mientras busco al encargado para que lo valide.
+- **Autojustificada:** Lo dejo pasar porque es conocido y no quiero detener la fila; luego que la renueve.
 
 **Por qué se cambió:**
 
@@ -686,14 +686,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Te piden mover un pallet sin revisar el peso porque hay prisa. Tú sabes que puede ser peligroso. ¿Qué haces?
+> Te piden mover un pallet sin revisar el peso porque hay prisa y el pasillo está estrecho. Tú sabes que puede ser peligroso si está pesado. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Reviso el peso o la etiqueta y pido apoyo si hace falta antes de moverlo.
-- **Pragmática:** Busco la información rápido y lo muevo solo si está dentro del límite.
-- **Evasiva:** Digo que lo mueva el montacarguista y me quito para no decidir.
-- **Autojustificada:** Lo muevo despacio sin revisar, porque a simple vista se ve como los demás.
+- **Correcta:** Reviso la etiqueta o el peso y pido apoyo si hace falta; no lo muevo hasta estar seguro.
+- **Pragmática:** Busco la información rápido y lo muevo solo si está dentro del límite; si no, pido ayuda.
+- **Evasiva:** Pido que lo mueva alguien autorizado y yo apoyo en otra cosa mientras tanto.
+- **Autojustificada:** Lo muevo “con cuidado” sin revisar, porque se ve parecido a los demás y urge despejar.
 
 **Por qué se cambió:**
 
@@ -722,14 +722,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Ves que al cliente le quedó un saldo a favor por error. El cliente te pide que lo dejes así. ¿Qué haces?
+> Ves que al cliente le quedó un saldo a favor por error y él ya se dio cuenta. Te pide que lo dejes así “porque ya está” y hay gente esperando. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Corrijo el saldo y se lo explico al cliente.
-- **Pragmática:** Llamo al encargado y lo corrijo con él presente para evitar una discusión larga.
-- **Evasiva:** Le digo que luego se revisa y dejo nota para que lo corrijan después.
-- **Autojustificada:** Lo dejo así porque es poco y prefiero no pelear por eso.
+- **Correcta:** Reviso el movimiento y lo corrijo en ese momento, explicándole que fue un error aunque se moleste.
+- **Pragmática:** Le digo que lo reviso con el encargado y lo corregimos juntos para que quede claro, aunque tome más tiempo.
+- **Evasiva:** Le digo que luego se revisa y dejo nota para que lo corrijan después, y sigo atendiendo.
+- **Autojustificada:** Lo dejo así porque “no es mucho” y prefiero evitar un pleito con el cliente.
 
 **Por qué se cambió:**
 
@@ -760,14 +760,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> En devoluciones quedan artículos sin etiqueta al cierre del turno. Si los dejas así, el siguiente turno batallará; si los ordenas, te presionan por cerrar rápido. ¿Qué haces?
+> En devoluciones quedan varios artículos sin etiqueta al cierre del turno y ya te están pidiendo que cierres. Si los dejas así, el siguiente turno batallará; si los ordenas, te atrasas. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Los separo, marco lo que sí sé y dejo una lista de lo pendiente; aviso al supervisor y al siguiente turno.
-- **Pragmática:** Los guardo en un solo contenedor y dejo una nota general para que el siguiente turno los revise.
-- **Evasiva:** Los muevo a un lado y sigo con mi cierre sin avisar mucho.
-- **Autojustificada:** Los dejo tal cual para el siguiente turno; seguro ellos lo acomodan y listo.
+- **Correcta:** Los separo, marco lo que sí identifico y dejo una lista de lo pendiente; aviso al supervisor y al siguiente turno.
+- **Pragmática:** Los separo y dejo una nota con lo más importante, aunque no alcance a dejar una lista tan detallada.
+- **Evasiva:** Los guardo en un contenedor y sigo con mi cierre, diciendo que “ahí están” para que luego los vean.
+- **Autojustificada:** Los dejo tal cual para el siguiente turno, pensando que ellos lo acomodan y listo.
 
 **Por qué se cambió:**
 
@@ -796,14 +796,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Al cierre, a un compañero le falta un cupón/vale importante y quiere que no se diga para terminar rápido. Los demás ya se quieren ir. ¿Qué haces?
+> Al cierre, a un compañero le falta un cupón/vale importante y dice que mejor no lo mencionen para terminar rápido. Falta poco para salir y los demás ya se quieren ir. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Le digo que lo avisemos y lo buscamos rápido; si no aparece, se registra.
-- **Pragmática:** Le sugiero dónde buscar y le digo que lo avise; yo sigo con mi cierre.
-- **Evasiva:** Me enfoco en mi corte y no opino para no meterme.
-- **Autojustificada:** Le digo que lo reponga o lo deje pasar sin decir nada para cerrar rápido.
+- **Correcta:** Le digo que lo reportemos y lo buscamos unos minutos; si no aparece, se registra en el cierre.
+- **Pragmática:** Le ayudo a buscar rápido y le digo que avise al encargado; yo sigo avanzando con mi cierre.
+- **Evasiva:** Me enfoco en mi corte y le digo que lo vea con el encargado; yo sigo con mi cierre.
+- **Autojustificada:** Le digo que lo deje para mañana y hoy cerremos; seguro aparece después.
 
 **Por qué se cambió:**
 
@@ -832,14 +832,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> En atención al cliente la fila se pone pesada y tu compañera está sola. Si la ayudas, tu fila también se detiene. ¿Qué haces?
+> En atención al cliente la fila se pone pesada y tu compañera está sola. En tu fila también hay gente esperando y un cliente ya se está molestando. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Me coordino y apoyo a mi compañera con algunos casos para bajar la fila, aunque la mía se haga.
-- **Pragmática:** Le doy apoyo rápido (orientar, imprimir, revisar un dato) sin dejar mi puesto mucho tiempo.
+- **Correcta:** Me coordino y apoyo a mi compañera con algunos casos rápidos para bajar la fila, avisando a la mía que voy a tardar un poco.
+- **Pragmática:** Le doy apoyo rápido (orientar, imprimir, revisar un dato) y regreso a mi puesto para que mi fila no se frene tanto.
 - **Evasiva:** Voy por el coordinador y me quedo esperando instrucciones, sin meterme a ayudar directamente.
-- **Autojustificada:** Me quedo en mi puesto para que al menos una fila avance; si la dejo, se hace peor.
+- **Autojustificada:** Me quedo en mi puesto para que al menos mi fila avance; si la dejo, se hace peor.
 
 **Por qué se cambió:**
 
@@ -868,14 +868,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> Antes de cerrar, un compañero propone copiar los conteos de ayer para terminar rápido. Tú sabes que eso puede salir mal después. ¿Qué haces?
+> Faltan pocos minutos para cerrar y un compañero propone copiar los conteos de ayer para terminar rápido. Tú sabes que eso puede traer problemas después. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Hago el conteo real y lo registro.
-- **Pragmática:** Hago un conteo rápido y marco lo que no me cuadra para revisarlo.
-- **Evasiva:** Le digo al líder y espero que él decida, para no ser yo quien se meta.
-- **Autojustificada:** Copio los números de ayer y, si sobra tiempo, reviso por encima.
+- **Correcta:** Hago el conteo real (aunque sea rápido) y dejo registrado lo que quede pendiente.
+- **Pragmática:** Hago el conteo real de lo más importante y marco lo que falta para revisarlo después.
+- **Evasiva:** Le digo al líder y espero su decisión antes de avanzar.
+- **Autojustificada:** Copio los números de ayer y reviso solo algunos para “confirmar”, para no atrasarnos.
 
 **Por qué se cambió:**
 
@@ -904,14 +904,14 @@ Convenciones en “Después”:
 
 **Escenario:**
 
-> En clasificación ves bolsas sin sello listas para salir. El equipo quiere mandarlas así para cerrar. ¿Qué haces?
+> En clasificación ves bolsas sin sello listas para salir y ya quieren cerrar. El equipo dice que las manden así “para no atrasarse”. ¿Qué haces?
 
 **Opciones:**
 
-- **Correcta:** Detengo un momento y las sello antes de enviarlas.
-- **Pragmática:** Pido apoyo para sellarlas rápido y aviso al supervisor, para no mandar nada abierto.
-- **Evasiva:** Aviso y me hago a un lado; que otro decida qué hacer con esas bolsas.
-- **Autojustificada:** Las mando así porque son pocas y en destino “las pueden sellar”.
+- **Correcta:** Detengo esas bolsas, pido apoyo y las sello antes de que salgan, aunque se retrase un poco.
+- **Pragmática:** Sello las que están más abiertas y dejo el resto “bien acomodado”, para no frenar todo el cierre.
+- **Evasiva:** Aviso que hay bolsas sin sello y espero indicación del supervisor antes de moverlas.
+- **Autojustificada:** Las mando así para cerrar rápido y que en destino lo arreglen, porque si me detengo me van a reclamar.
 
 **Por qué se cambió:**
 
