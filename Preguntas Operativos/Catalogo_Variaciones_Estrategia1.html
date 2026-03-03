@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Variaciones — Estrategia 1</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+        :root {
+            --primary: #1a365d;
+            --primary-light: #2b6cb0;
+            --accent: #ed8936;
+            --accent-light: #fbd38d;
+            --success: #38a169;
+            --success-light: #c6f6d5;
+            --info: #3182ce;
+            --info-light: #bee3f8;
+            --warning: #d69e2e;
+            --warning-light: #fefcbf;
+            --danger: #e53e3e;
+            --gray-50: #f7fafc;
+            --gray-100: #edf2f7;
+            --gray-200: #e2e8f0;
+            --gray-300: #cbd5e0;
+            --gray-500: #718096;
+            --gray-600: #4a5568;
+            --gray-700: #2d3748;
+            --gray-800: #1a202c;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            color: var(--gray-700);
+            line-height: 1.6;
+            background: white;
+            font-size: 11pt;
+        }
+
+        @media print {
+            body { font-size: 10pt; }
+            .page-break { page-break-before: always; }
+            .no-print { display: none; }
+            @page { margin: 1.5cm 2cm; size: letter; }
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 20px 40px;
+        }
+
+        /* COVER */
+        .cover {
+            text-align: center;
+            padding: 80px 40px 60px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+            color: white;
+            border-radius: 0 0 20px 20px;
+            margin-bottom: 40px;
+        }
+        .cover-tag {
+            display: inline-block;
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 6px 18px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 24px;
+        }
+        .cover h1 {
+            font-size: 2.2rem;
+            font-weight: 800;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+        .cover .subtitle {
+            font-size: 1.1rem;
+            font-weight: 300;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+        .cover-meta {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            font-size: 0.85rem;
+            opacity: 0.8;
+        }
+
+        /* SECTION HEADERS */
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin: 40px 0 20px;
+            padding-bottom: 12px;
+            border-bottom: 3px solid var(--primary);
+        }
+        .section-number {
+            background: var(--primary);
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.95rem;
+            flex-shrink: 0;
+        }
+        .section-header h2 {
+            font-size: 1.3rem;
+            color: var(--primary);
+            font-weight: 700;
+        }
+
+        /* INTRO BLOCK */
+        .intro-block {
+            background: var(--gray-50);
+            border-left: 4px solid var(--primary);
+            padding: 20px 24px;
+            border-radius: 0 8px 8px 0;
+            margin-bottom: 30px;
+        }
+        .intro-block h3 {
+            color: var(--primary);
+            font-size: 1rem;
+            margin-bottom: 8px;
+        }
+        .intro-block p {
+            font-size: 0.95rem;
+            color: var(--gray-600);
+        }
+
+        /* PROBLEM HIGHLIGHT */
+        .problem-box {
+            background: linear-gradient(135deg, #fff5f5, #fed7d7);
+            border: 1px solid #feb2b2;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin-bottom: 30px;
+        }
+        .problem-box h3 {
+            color: var(--danger);
+            font-size: 1rem;
+            margin-bottom: 8px;
+        }
+        .problem-box .highlight-text {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: var(--gray-800);
+            font-style: italic;
+        }
+
+        /* VARIATION CARD */
+        .variation-card {
+            border: 1px solid var(--gray-200);
+            border-radius: 12px;
+            margin-bottom: 28px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .variation-header {
+            padding: 16px 24px;
+            color: white;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .variation-header.blue { background: linear-gradient(135deg, #2b6cb0, #3182ce); }
+        .variation-header.green { background: linear-gradient(135deg, #276749, #38a169); }
+        .variation-header.orange { background: linear-gradient(135deg, #c05621, #dd6b20); }
+        .variation-header.purple { background: linear-gradient(135deg, #553c9a, #6b46c1); }
+        .variation-header.teal { background: linear-gradient(135deg, #234e52, #319795); }
+        .variation-header.gold { background: linear-gradient(135deg, #975a16, #d69e2e); }
+
+        .variation-id {
+            font-size: 1.4rem;
+            font-weight: 800;
+            opacity: 0.7;
+        }
+        .variation-header h3 {
+            font-size: 1.1rem;
+            font-weight: 700;
+        }
+        .variation-header .source {
+            font-size: 0.75rem;
+            opacity: 0.8;
+            margin-left: auto;
+            font-style: italic;
+        }
+        .variation-body {
+            padding: 20px 24px;
+        }
+        .variation-concept {
+            font-size: 0.95rem;
+            color: var(--gray-600);
+            margin-bottom: 16px;
+        }
+
+        /* KIDDER TABLE */
+        .kidder-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 16px;
+            font-size: 0.9rem;
+        }
+        .kidder-table th {
+            background: var(--gray-100);
+            color: var(--primary);
+            padding: 8px 12px;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid var(--gray-300);
+        }
+        .kidder-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid var(--gray-200);
+        }
+        .kidder-table tr:last-child td { border-bottom: none; }
+
+        /* EXAMPLE BOX */
+        .example-box {
+            background: var(--gray-50);
+            border: 1px solid var(--gray-200);
+            border-radius: 8px;
+            padding: 16px 20px;
+            margin: 16px 0;
+        }
+        .example-label {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            margin-bottom: 8px;
+        }
+        .scenario {
+            background: white;
+            border-left: 3px solid var(--accent);
+            padding: 12px 16px;
+            margin-bottom: 12px;
+            font-style: italic;
+            color: var(--gray-600);
+            border-radius: 0 6px 6px 0;
+            font-size: 0.9rem;
+        }
+        .options-list {
+            list-style: none;
+            padding: 0;
+        }
+        .options-list li {
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 6px;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        .options-list li:nth-child(1) { background: #ebf8ff; border-left: 3px solid #3182ce; }
+        .options-list li:nth-child(2) { background: #f0fff4; border-left: 3px solid #38a169; }
+        .options-list li:nth-child(3) { background: #fefcbf; border-left: 3px solid #d69e2e; }
+        .options-list li:nth-child(4) { background: #fed7e2; border-left: 3px solid #d53f8c; }
+        .option-letter {
+            font-weight: 700;
+            margin-right: 4px;
+        }
+
+        /* INTERPRETATION */
+        .interpretation {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+            margin-top: 10px;
+        }
+        .interp-item {
+            font-size: 0.8rem;
+            color: var(--gray-500);
+            padding: 4px 8px;
+        }
+        .interp-item strong {
+            color: var(--gray-700);
+        }
+
+        /* PROS/CONS */
+        .pros-cons {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 16px;
+        }
+        .pro-box, .con-box {
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+        }
+        .pro-box {
+            background: var(--success-light);
+            border: 1px solid #9ae6b4;
+        }
+        .pro-box .label { color: var(--success); font-weight: 700; font-size: 0.75rem; }
+        .con-box {
+            background: #fff5f5;
+            border: 1px solid #feb2b2;
+        }
+        .con-box .label { color: var(--danger); font-weight: 700; font-size: 0.75rem; }
+
+        /* COMPARISON TABLE */
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.85rem;
+        }
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+            padding: 10px 12px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+        .comparison-table td {
+            padding: 10px 12px;
+            border-bottom: 1px solid var(--gray-200);
+        }
+        .comparison-table tr:nth-child(even) { background: var(--gray-50); }
+        .comparison-table tr.recommended {
+            background: linear-gradient(90deg, #fefcbf, #fefce8) !important;
+            font-weight: 600;
+        }
+        .stars { color: var(--accent); letter-spacing: -2px; }
+
+        /* RECOMMENDATION BOX */
+        .recommendation {
+            background: linear-gradient(135deg, #fefcbf, #fef9c3);
+            border: 2px solid var(--warning);
+            border-radius: 12px;
+            padding: 24px;
+            margin-top: 30px;
+        }
+        .recommendation h3 {
+            color: var(--gray-800);
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+        .recommendation .rec-tag {
+            display: inline-block;
+            background: var(--warning);
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .recommendation p {
+            font-size: 0.95rem;
+            color: var(--gray-600);
+        }
+        .recommendation ol {
+            margin: 10px 0 0 20px;
+            color: var(--gray-700);
+            font-size: 0.9rem;
+        }
+        .recommendation li { margin-bottom: 4px; }
+
+        /* FOOTER */
+        .footer {
+            text-align: center;
+            padding: 30px 0;
+            color: var(--gray-500);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--gray-200);
+            margin-top: 40px;
+        }
+
+        /* PRINT BUTTON */
+        .print-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 14px 28px;
+            border-radius: 50px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(26,54,93,0.4);
+            transition: all 0.2s;
+            font-family: 'Inter', sans-serif;
+        }
+        .print-btn:hover {
+            background: var(--primary-light);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(26,54,93,0.5);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- PRINT BUTTON -->
+    <button class="print-btn no-print" onclick="window.print()">🖨️ Imprimir / Guardar PDF</button>
+
+    <!-- COVER -->
+    <div class="cover">
+        <div class="cover-tag">Investigación SJT · OPS400</div>
+        <h1>Catálogo de Variaciones<br>Estrategia 1</h1>
+        <p class="subtitle">Diseño de preguntas con "conflicto entre valores buenos" para que las opciones correctas no sean obvias</p>
+        <div class="cover-meta">
+            <span>📅 Marzo 2026</span>
+            <span>📋 6 variaciones documentadas</span>
+            <span>🎯 Nivel Operativo</span>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <!-- PROBLEM STATEMENT -->
+        <div class="problem-box">
+            <h3>⚠️ El problema de fondo</h3>
+            <p class="highlight-text">"Siempre hay 1 opción que sigue la regla y 3 que la rompen. Cualquier persona con sentido común la detecta."</p>
+            <p style="margin-top:8px; font-size:0.9rem; color:#4a5568;">El formato actual (Correcta / Pragmática / Evasiva / Autojustificada) mapea directamente a 4 niveles de "qué tan mal actuó". Por más que se limpie la redacción, la estructura lo delata.</p>
+        </div>
+
+        <div class="intro-block">
+            <h3>¿Qué propone la Estrategia 1?</h3>
+            <p>En vez de presentar "seguir la regla vs. romperla", crear escenarios donde <strong>dos o más valores legítimos chocan</strong>. Así el evaluado debe <em>priorizar</em>, no simplemente elegir "lo correcto". A continuación se presentan 6 variaciones investigadas de esta estrategia.</p>
+        </div>
+
+        <!-- ======= VARIACIÓN 1A ======= -->
+        <div class="variation-card">
+            <div class="variation-header blue">
+                <span class="variation-id">1A</span>
+                <div>
+                    <h3>Dilema de Kidder</h3>
+                </div>
+                <span class="source">Rushworth Kidder, "Moral Courage"</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">Los dilemas éticos difíciles no son "bueno vs. malo" (esos son fáciles). Los difíciles son <strong>"bueno vs. bueno"</strong>, donde ambas opciones son éticamente válidas pero chocan. Kidder identifica 4 ejes:</p>
+
+                <table class="kidder-table">
+                    <thead>
+                        <tr><th>Eje de conflicto</th><th>Ejemplo operativo</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>Verdad vs. Lealtad</strong></td><td>¿Reporto el error de mi compañero o lo ayudo a corregirlo sin avisar?</td></tr>
+                        <tr><td><strong>Individuo vs. Comunidad</strong></td><td>¿Priorizo mi seguridad personal o completo la tarea para el equipo?</td></tr>
+                        <tr><td><strong>Corto plazo vs. Largo plazo</strong></td><td>¿Resuelvo rápido HOY o sigo el proceso que evita errores MAÑANA?</td></tr>
+                        <tr><td><strong>Justicia vs. Misericordia</strong></td><td>¿Aplico la regla al pie de la letra o hago una excepción razonable?</td></tr>
+                    </tbody>
+                </table>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo aplicado — Módulo 1</div>
+                    <div class="scenario">Tu compañero entregó un pedido equivocado y no se dio cuenta. Si lo reportas, lo van a sancionar y pierdes su confianza. Si lo arreglan entre ustedes rápido, el cliente no se entera pero el error no queda registrado. ¿Qué haces?</div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Le digo que lo corrijamos juntos y luego lo reportemos para que quede en el registro.</li>
+                        <li><span class="option-letter">B)</span> Lo ayudo a corregirlo rápido sin avisar, porque lo importante es que el cliente esté bien.</li>
+                        <li><span class="option-letter">C)</span> Le digo que él lo reporte mientras yo busco al cliente para resolverlo.</li>
+                        <li><span class="option-letter">D)</span> Se lo reporto al encargado directamente y dejo que él decida.</li>
+                    </ul>
+                    <div class="interpretation">
+                        <div class="interp-item"><strong>A =</strong> Transparencia + apoyo al compañero</div>
+                        <div class="interp-item"><strong>B =</strong> Lealtad al equipo + servicio al cliente</div>
+                        <div class="interp-item"><strong>C =</strong> Reparto de responsabilidad</div>
+                        <div class="interp-item"><strong>D =</strong> Apego al proceso formal</div>
+                    </div>
+                </div>
+
+                <div class="pros-cons">
+                    <div class="pro-box"><span class="label">✅ VENTAJA</span><br>Todas las opciones tienen lógica ética real. No hay opción "mala".</div>
+                    <div class="con-box"><span class="label">⚠️ CUIDADO</span><br>Requiere que la "mejor" opción no sea la más larga (sesgo de extensión).</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="page-break"></div>
+
+        <!-- ======= VARIACIÓN 1B ======= -->
+        <div class="variation-card">
+            <div class="variation-header green">
+                <span class="variation-id">1B</span>
+                <div>
+                    <h3>Desiderabilidad Equiparada</h3>
+                </div>
+                <span class="source">Christiansen et al., APA Div. 14</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">Todas las opciones se diseñan para que <strong>suenen igual de buenas</strong> (o igual de neutras). La diferencia no está en "cuál suena mejor", sino en <strong>qué valor prioriza</strong> cada una. Regla: antes de publicar, un grupo de revisión puntúa la "deseabilidad social" de cada opción (1–5). Solo se publican sets donde las 4 opciones puntúan similar.</p>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo aplicado — Módulo 3</div>
+                    <div class="scenario">Un cliente mayor no entiende un cargo en su ticket. Hay fila y te presionan. ¿Qué haces primero?</div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Le explico con calma el cobro señalándole en el ticket de dónde sale.</li>
+                        <li><span class="option-letter">B)</span> Le resumo lo principal y le sugiero que revise el ticket con calma en casa.</li>
+                        <li><span class="option-letter">C)</span> Llamo a un compañero para que le atienda su duda mientras sigo con la fila.</li>
+                        <li><span class="option-letter">D)</span> Le pregunto cuál es el cargo que le preocupa para ir directo al punto.</li>
+                    </ul>
+                    <div class="interpretation">
+                        <div class="interp-item"><strong>A =</strong> Paciencia + claridad</div>
+                        <div class="interp-item"><strong>B =</strong> Eficiencia + respeto</div>
+                        <div class="interp-item"><strong>C =</strong> Delegación responsable</div>
+                        <div class="interp-item"><strong>D =</strong> Escucha activa + eficiencia</div>
+                    </div>
+                </div>
+
+                <div class="pros-cons">
+                    <div class="pro-box"><span class="label">✅ VENTAJA</span><br>Es la técnica con más respaldo en investigación para reducir faking. Muy difícil de "adivinar".</div>
+                    <div class="con-box"><span class="label">⚠️ CUIDADO</span><br>Requiere validación externa (piloto con personas reales que puntúen la deseabilidad).</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======= VARIACIÓN 1C ======= -->
+        <div class="variation-card">
+            <div class="variation-header orange">
+                <span class="variation-id">1C</span>
+                <div>
+                    <h3>Prioridades Secuenciales</h3>
+                </div>
+                <span class="source">"¿Qué haces PRIMERO?"</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">La pregunta no es "qué haces" sino <strong>"qué es lo primero que haces"</strong>. Todas las opciones son cosas que un buen empleado haría eventualmente, pero el <strong>orden revela cómo piensa bajo presión</strong>.</p>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo aplicado — Módulo 4 (Seguridad vial)</div>
+                    <div class="scenario">Un pasajero te grita mientras manejas en tráfico denso. ¿Qué es lo primero que haces?</div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Me concentro al 100% en manejar sin responderle nada.</li>
+                        <li><span class="option-letter">B)</span> Le digo con calma que en la siguiente parada lo atiendo.</li>
+                        <li><span class="option-letter">C)</span> Bajo la velocidad para reducir el riesgo mientras pienso qué hacer.</li>
+                        <li><span class="option-letter">D)</span> Observo los espejos para evaluar si es seguro orillarme y hablar.</li>
+                    </ul>
+                    <div class="interpretation">
+                        <div class="interp-item"><strong>A =</strong> Seguridad pura</div>
+                        <div class="interp-item"><strong>B =</strong> Comunicación + seguridad</div>
+                        <div class="interp-item"><strong>C =</strong> Precaución instintiva</div>
+                        <div class="interp-item"><strong>D =</strong> Resolución situacional</div>
+                    </div>
+                </div>
+
+                <div class="pros-cons">
+                    <div class="pro-box"><span class="label">✅ VENTAJA</span><br>Se implementa sin cambiar la app (solo cambia la pregunta). Mide pensamiento bajo presión.</div>
+                    <div class="con-box"><span class="label">⚠️ CUIDADO</span><br>Funciona mejor para módulos de seguridad/adaptación que para ética pura.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="page-break"></div>
+
+        <!-- ======= VARIACIÓN 1D ======= -->
+        <div class="variation-card">
+            <div class="variation-header purple">
+                <span class="variation-id">1D</span>
+                <div>
+                    <h3>Trade-off de Stakeholders</h3>
+                </div>
+                <span class="source">HumRRO / DTIC.mil</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">El escenario presenta un conflicto donde <strong>cada opción beneficia a un stakeholder diferente</strong> (cliente, compañero, empresa, tú mismo). No hay opción "egoísta obvia" porque todas benefician a alguien legítimo.</p>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo aplicado — Módulo 5 (Equipo)</div>
+                    <div class="scenario">Es cierre de turno y quedan artículos sin etiquetar. Tu transporte sale en 20 minutos y el siguiente turno viene con prisa. ¿Qué haces?</div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Separo y anoto los que puedo para que el siguiente turno los identifique fácil. <em style="color:#718096">(beneficia al equipo)</em></li>
+                        <li><span class="option-letter">B)</span> Le dejo la información al supervisor para que él decida cómo repartir. <em style="color:#718096">(beneficia la cadena formal)</em></li>
+                        <li><span class="option-letter">C)</span> Termino lo que alcance y me voy a mi hora, para rendir mañana. <em style="color:#718096">(tu bienestar futuro)</em></li>
+                        <li><span class="option-letter">D)</span> Le marco al del siguiente turno para avisarle qué hay pendiente. <em style="color:#718096">(comunicación directa)</em></li>
+                    </ul>
+                </div>
+
+                <div class="pros-cons">
+                    <div class="pro-box"><span class="label">✅ VENTAJA</span><br>Refleja complejidad real. Permite perfilar qué valora más la persona (equipo, proceso, autogestión, comunicación).</div>
+                    <div class="con-box"><span class="label">⚠️ CUIDADO</span><br>La "mejor" respuesta puede variar según la cultura de la empresa. Requiere definir qué perfil quiere la organización.</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======= VARIACIÓN 1E ======= -->
+        <div class="variation-card">
+            <div class="variation-header teal">
+                <span class="variation-id">1E</span>
+                <div>
+                    <h3>Principios Complementarios</h3>
+                </div>
+                <span class="source">Todas correctas, diferente profundidad</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">Las 4 opciones son "correctas" pero a <strong>diferente nivel de madurez</strong>:</p>
+                <table class="kidder-table">
+                    <tbody>
+                        <tr><td><strong>Nivel 1 — Reactiva</strong></td><td>Hace lo mínimo correcto</td></tr>
+                        <tr><td><strong>Nivel 2 — Resolutiva</strong></td><td>Resuelve el problema inmediato</td></tr>
+                        <tr><td><strong>Nivel 3 — Preventiva</strong></td><td>Resuelve y previene que pase otra vez</td></tr>
+                        <tr><td><strong>Nivel 4 — Sistémica</strong></td><td>Resuelve, previene y mejora el proceso</td></tr>
+                    </tbody>
+                </table>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo aplicado — Módulo 1</div>
+                    <div class="scenario">Descubres que un producto tiene el empaque dañado. ¿Qué haces?</div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Lo retiro y lo pongo aparte para que no se venda así.</li>
+                        <li><span class="option-letter">B)</span> Lo retiro, le aviso al encargado y anoto en qué estante estaba.</li>
+                        <li><span class="option-letter">C)</span> Lo retiro, aviso y reviso los productos cercanos por si hay más dañados.</li>
+                        <li><span class="option-letter">D)</span> Lo retiro, aviso, reviso el estante y pregunto al proveedor si el lote llegó así.</li>
+                    </ul>
+                </div>
+
+                <div class="pros-cons">
+                    <div class="pro-box"><span class="label">✅ VENTAJA</span><br>No mide "bueno vs. malo" sino profundidad de pensamiento. La más obvia (A) no es la mejor pero tampoco es "mala".</div>
+                    <div class="con-box"><span class="label">⚠️ CUIDADO</span><br>Puede generar sesgo donde la gente marque la opción más larga/elaborada.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="page-break"></div>
+
+        <!-- ======= VARIACIÓN 1F ======= -->
+        <div class="variation-card" style="border: 2px solid var(--warning);">
+            <div class="variation-header gold">
+                <span class="variation-id">1F</span>
+                <div>
+                    <h3>⭐ Híbrida (Recomendada)</h3>
+                </div>
+                <span class="source">Kidder + Equiparada + Secuencial</span>
+            </div>
+            <div class="variation-body">
+                <p class="variation-concept">Combina las mejores partes de 1A, 1B y 1C en <strong>3 reglas de diseño simultáneas</strong>:</p>
+
+                <table class="kidder-table">
+                    <tbody>
+                        <tr><td style="width:30%"><strong>De Kidder (1A)</strong></td><td>El escenario pone en conflicto dos valores legítimos (no "bueno vs. malo").</td></tr>
+                        <tr><td><strong>De Equiparada (1B)</strong></td><td>Las 4 opciones se redactan con el mismo tono, misma longitud y misma "calidad moral percibida".</td></tr>
+                        <tr><td><strong>De Secuencial (1C)</strong></td><td>La pregunta cierra con "¿Qué es lo primero que haces?" para revelar priorización.</td></tr>
+                    </tbody>
+                </table>
+
+                <div class="example-box">
+                    <div class="example-label">📝 Ejemplo híbrido — Módulo 4</div>
+                    <div class="scenario">Un proveedor habitual llega con credencial vencida y dice que trae material urgente para producción. Hay fila atrás. <strong>¿Qué es lo primero que haces?</strong></div>
+                    <ul class="options-list">
+                        <li><span class="option-letter">A)</span> Le explico que su credencial venció y le digo dónde puede renovarla.</li>
+                        <li><span class="option-letter">B)</span> Llamo al supervisor para ver si puede autorizar un pase temporal.</li>
+                        <li><span class="option-letter">C)</span> Le pido que se estacione a un lado mientras resuelvo y atiendo a los demás.</li>
+                        <li><span class="option-letter">D)</span> Le pregunto qué material trae y si hay alguien adentro que lo pueda recibir.</li>
+                    </ul>
+                    <div class="interpretation">
+                        <div class="interp-item"><strong>A =</strong> Apego a norma (rigidez clara)</div>
+                        <div class="interp-item"><strong>B =</strong> Búsqueda de solución flexible</div>
+                        <div class="interp-item"><strong>C =</strong> Gestión del flujo operativo</div>
+                        <div class="interp-item"><strong>D =</strong> Resolución creativa legítima</div>
+                    </div>
+                </div>
+
+                <p style="font-size:0.9rem; color:var(--gray-600); margin-top:12px;">Cada opción tiene la <strong>misma longitud</strong>, el <strong>mismo tono</strong>, y suena <strong>igualmente profesional</strong>. La diferencia es sutil: qué valor prioriza el evaluado.</p>
+            </div>
+        </div>
+
+        <!-- COMPARISON TABLE -->
+        <div class="section-header">
+            <div class="section-number">★</div>
+            <h2>Tabla comparativa</h2>
+        </div>
+
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Variación</th>
+                    <th>Anti-faking</th>
+                    <th>Implementación</th>
+                    <th>Cambio en app</th>
+                    <th>Mejor para módulos</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>1A</strong> Kidder</td>
+                    <td><span class="stars">★★★★</span><span style="color:#cbd5e0">★</span></td>
+                    <td>Media</td>
+                    <td>No</td>
+                    <td>1 (Integridad), 3 (Servicio)</td>
+                </tr>
+                <tr>
+                    <td><strong>1B</strong> Equiparada</td>
+                    <td><span class="stars">★★★★★</span></td>
+                    <td>Alta (requiere piloto)</td>
+                    <td>No</td>
+                    <td>Todos</td>
+                </tr>
+                <tr>
+                    <td><strong>1C</strong> Secuencial</td>
+                    <td><span class="stars">★★★</span><span style="color:#cbd5e0">★★</span></td>
+                    <td>Baja</td>
+                    <td>No</td>
+                    <td>2 (Adaptación), 4 (Seguridad)</td>
+                </tr>
+                <tr>
+                    <td><strong>1D</strong> Stakeholders</td>
+                    <td><span class="stars">★★★★</span><span style="color:#cbd5e0">★</span></td>
+                    <td>Media</td>
+                    <td>No</td>
+                    <td>5 (Equipo), 3 (Servicio)</td>
+                </tr>
+                <tr>
+                    <td><strong>1E</strong> Profundidad</td>
+                    <td><span class="stars">★★★</span><span style="color:#cbd5e0">★★</span></td>
+                    <td>Baja</td>
+                    <td>No</td>
+                    <td>1, 2</td>
+                </tr>
+                <tr class="recommended">
+                    <td>⭐ <strong>1F Híbrida</strong></td>
+                    <td><span class="stars">★★★★★</span></td>
+                    <td>Media</td>
+                    <td>No</td>
+                    <td><strong>Todos</strong></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- RECOMMENDATION -->
+        <div class="recommendation">
+            <span class="rec-tag">💡 RECOMENDACIÓN</span>
+            <h3>Usar la Variación 1F (Híbrida) como base para las 25 preguntas</h3>
+            <p>Combina los tres principios más fuertes sin necesidad de tocar la aplicación:</p>
+            <ol>
+                <li><strong>Del modelo Kidder:</strong> El escenario enfrenta dos valores legítimos, no "bueno vs. malo".</li>
+                <li><strong>De la equiparación:</strong> Las 4 opciones suenan igual de profesionales, con la misma longitud y tono.</li>
+                <li><strong>De la secuencia:</strong> La pregunta cierra con "¿Qué es lo primero que haces?" para revelar cómo piensa.</li>
+            </ol>
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            Catálogo de Variaciones — Estrategia 1 · OPS400 Nivel Operativo · Marzo 2026<br>
+            Basado en investigación de diseño de SJT, psicología I/O y tests de integridad
+        </div>
+
+    </div>
+
+</body>
+</html>

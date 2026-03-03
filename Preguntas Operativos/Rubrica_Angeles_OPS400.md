@@ -1,133 +1,143 @@
-# OPS400 — Rúbrica de reformulación (Source of Truth: comentarios de Ángeles)
+# OPS400 — Rúbrica de redacción (Actualizada Marzo 2026)
 
-Basado en: `Preguntas Operativos/Comentarios Angeles.md` (Feb 2026).
+Fuentes: Comentarios de Ángeles (Feb 2026) + Investigación SJT anti-faking (Mar 2026).
+
+---
 
 ## 1) Objetivo
 
 Reformular las 400 preguntas OPS400 para que:
 
 - Sean claras y realistas para **perfil operativo** (primaria/secundaria).
-- Conserven el dilema psicométrico (no “demasiado obvias”).
-- Eviten sesgos (p. ej., medir “sacrificar vida personal” en vez de conducta responsable).
+- **No tengan una respuesta obvia** — todas las opciones deben sonar igual de razonables.
+- Eviten sesgos (medir "sacrificar vida personal" en vez de conducta responsable).
 - No generen conflictos legales/laborales ni sugieran conductas inseguras.
 
-## 2) Principios de redacción (aplican a todos los módulos)
+---
 
-### A. Longitud y carga cognitiva
+## 2) Principios de redacción (aplican a las 400 preguntas)
 
-- **Escenario corto:** ideal **2–3 líneas**.
-- **Un solo conflicto central:** no mezclar 2–3 problemas en la misma pregunta.
-- **Evitar “doble condición”:** no escribir el escenario como “si haces A pasa X / si haces B pasa Y”.
-- **Frases cortas:** preferir 1–2 ideas por oración.
+### A. Escenarios
+
+- **Cortos:** 2–3 líneas máximo.
+- **Un solo conflicto central:** no mezclar 2–3 problemas.
+- **Sin "doble condición":** no "si haces A pasa X / si haces B pasa Y".
+- **Frases cortas:** 1–2 ideas por oración.
 
 ### B. Lenguaje (operativo, no corporativo)
 
-- Usar español cotidiano: concreto, directo, sin tecnicismos.
-- Evitar verbos/formas “de oficina”: *gestionar, subsanar, regularización, discrepancia, métricas*.
-- Evitar abstracciones: *“desestimar la oportunidad de beneficio personal”* → decirlo en lenguaje llano.
+Español cotidiano, concreto, directo, sin tecnicismos.
+
+| ❌ Evitar | ✅ Usar |
+|---|---|
+| discrepancia | no coincide / no cuadra |
+| subsanar | arreglar / corregir |
+| regularización administrativa | que lo revisen después en oficina |
+| métricas / indicadores | tiempos / números / registro |
+| incidencia | reporte / problema / aviso |
+| cohesión | buen ambiente / unión del equipo |
+| protocolo | regla / procedimiento |
+| zona de especialidad | tu área / tu puesto |
+| estándar | la forma correcta / como se hace |
 
 ### C. Tono y voz
 
-- Mantener **segunda persona** en escenario y opciones (consistente con “¿Qué haces?”).
-- Evitar frases moralizantes o “de manual”. La opción correcta **no debe sonar obvia** por su estilo.
+- **Segunda persona** en escenario y opciones ("¿Qué haces?").
+- Sin frases moralizantes o "de manual".
+- La opción correcta **no debe sonar obvia** por su estilo.
 
-## 3) Diccionario de sustituciones (lo más importante)
+---
 
-Sustituir palabras que suben dificultad sin aportar al dilema:
+## 3) Diseño de opciones — NUEVO ENFOQUE
 
-| Evitar | Usar en su lugar |
-|---|---|
-| discrepancia | no coincide / diferencia / no cuadra |
-| subsanar / subsanado operativamente | arreglar / corregir / dejarlo bien |
-| regularización administrativa | que después lo arreglen en oficina / que lo revisen después |
-| métricas | tiempos / números / registro / “cómo vas” |
-| incidencia | reporte / problema / aviso |
-| cohesión | buen ambiente / unión del equipo |
-| protocolo | regla / procedimiento / política |
-| zona de especialidad | tu área / tu puesto / tu zona |
-| estándar | la forma correcta / como se hace / regla |
-| indicadores | números / resultados / registro |
+### ⚠️ Lo que ya NO se hace
 
-## 4) Diseño de opciones (4 opciones, mismo nivel)
+~~1 correcta obvia + 1 pragmática + 1 evasiva + 1 autojustificada~~
 
-### A. Estructura recomendada
+Ese formato era fácil de detectar: cualquier persona con sentido común elegía la que "sigue la regla".
 
-Para cada pregunta:
+### ✅ Lo que ahora se hace
 
-- **1 correcta (Integridad)**: hace “lo correcto” aunque tenga costo realista (incomodidad, tiempo, conflicto, esfuerzo).
-- **3 distractores**:
-  - **Pragmática**: busca eficiencia/rapidez sin ser “mala” explícita.
-  - **Evasiva**: evita decidir, difiere, se “sale” del conflicto.
-  - **Racionalizada (autojustificada)**: rompe la regla, pero con una justificación creíble (“no pasa nada”, “es poco”, “se arregla luego”).
+**4 opciones que suenan igual de razonables**, diferenciadas por el **valor que priorizan**, no por "buena vs. mala". La persona debe PENSAR, no simplemente detectar la obvia.
 
-### B. Reglas de calidad para las opciones
+### Reglas obligatorias para las 4 opciones
 
-- **Mismo registro**: todas deben sonar igual de “humanas”, sin que la correcta se vea más elegante/moral.
-- **Paralelismo**: empezar con verbos similares (“Reportas…”, “Pides…”, “Dejas…”).
-- **Longitud parecida**: evitar que la correcta sea la única larga o “bien escrita”.
-- **No etiquetas en inglés**: si se muestran etiquetas para revisión, usar español (p. ej., “Autojustificada”), o mejor aún **no mostrar etiquetas** al evaluado.
+1. **Equiparar tono:** todas suenan igual de profesionales y humanas.
+2. **Equiparar longitud:** ± 5 palabras de diferencia máximo entre la más corta y la más larga.
+3. **Ninguna "mala obvia":** todo lo que se ofrece es algo que un empleado real haría con buena intención.
+4. **Etiquetas A/B/C/D:** en la versión para el evaluado, NUNCA se muestran las etiquetas internas (Correcta, Pragmática, etc.). Solo A, B, C, D.
+5. **Una sola acción por opción:** no combinar 2-3 acciones en una misma opción.
 
-## 5) Reglas por módulo (patrones que Ángeles observó)
+---
+
+## 4) Variaciones por módulo
+
+Cada módulo usa una variación dominante según su naturaleza temática (ver `Plan_Accion_Rediseno_OPS400.md` para detalle completo):
+
+| Módulo | Variación dominante | Pregunta cierra con… |
+|---|---|---|
+| **M1** Integridad | **Kidder** — conflicto entre 2 valores buenos (Verdad vs Lealtad, Justicia vs Misericordia) | ¿Qué haces? |
+| **M2** Adaptabilidad | **Secuencial** — "¿Qué es lo primero que haces?" para medir priorización bajo cambio | ¿Qué es lo primero que haces? |
+| **M3** Servicio/Ética | **Stakeholders** — cada opción beneficia a alguien distinto (cliente, equipo, empresa, proceso) | ¿Qué haces? / ¿Qué haces primero? |
+| **M4** Seguridad | **Secuencial + Kidder** — priorización bajo presión + rapidez vs precaución | ¿Qué es lo primero que haces? |
+| **M5** Trabajo en equipo | **Stakeholders + Profundidad** — a quién priorizas + qué tan lejos llevas tu apoyo | ¿Qué haces? |
+
+---
+
+## 5) Reglas especiales por módulo (observaciones de Ángeles)
 
 ### Módulo 2 — Adaptabilidad
 
-- Evitar escenarios que midan **aceptar abusos** (p. ej., “capacitación fuera de horario y sin pago”).
-- El foco debe ser:
-  - disposición a aprender,
-  - actitud ante cambio/rotación,
-  - colaboración sin dramatizar “injusticias”.
-- Si hay un “costo”, que sea **realista y legal** (p. ej., incomodidad, salir de rutina, pedir ayuda, reconocer que no sabes).
+- **No medir "aceptar abusos"** (ej: capacitación fuera de horario sin pago).
+- Foco: disposición a aprender, actitud ante cambio, colaboración.
+- Si hay un "costo", que sea **realista y legal** (incomodidad, salir de rutina, pedir ayuda).
 
 ### Módulo 3 — Servicio y ética
 
-- Casos son buenos, pero requieren **simplificación fuerte**.
-- Evitar palabras “de oficina” en opciones (p. ej., “deniegas”, “discrepancia”, “gestionar la queja”).
-- Explicar acciones de forma concreta (p. ej., “Revisas la caja y dices que no puedes devolver el dinero porque no coincide el contenido”).
+- Buenos casos, pero requieren **simplificación fuerte** de lenguaje.
+- Explicar acciones de forma concreta ("Revisas la caja y dices que no puedes devolver...").
 
 ### Módulo 4 — Seguridad
 
 - La opción correcta debe ser **la más segura en el mundo real**.
-- En conducción:
-  - No “explicar/discutir” en tráfico denso.
-  - Priorizar concentrarse en manejar y posponer la conversación hasta un punto seguro.
-- Evitar opciones correctas ambiguas que puedan leerse como inseguras.
+- En conducción: **no "explicar/discutir" en tráfico denso**.
+- Priorizar concentrarse en manejar → posponer conversación a punto seguro.
 
-### Módulo 5 — Trabajo en equipo vs límites personales
+### Módulo 5 — Trabajo en equipo
 
-- No convertir “integridad” en “quedarte tarde / perder transporte” como patrón dominante.
-- Un trabajador responsable puede:
-  - documentar,
-  - informar,
-  - dejar entregado formalmente,
-  - pedir apoyo o relevo,
-  - sin quedarse fuera de horario.
-- Revisar que la respuesta correcta mida **conducta responsable**, no “disponibilidad a sacrificar vida personal”.
+- **No confundir integridad con "quedarte tarde / perder transporte"**.
+- Un trabajador responsable puede: documentar, informar, entregar pendiente, pedir relevo.
+- Revisar que la correcta mida **conducta responsable**, no sacrificio personal.
 
-## 6) Checklist de QA (para aprobar/rechazar una pregunta)
+---
 
-**Estructura**
-- [ ] Escenario 2–3 líneas, 1 conflicto.
-- [ ] Sin “si A / si B” como construcción dominante.
+## 6) Checklist de QA (aprobar/rechazar una pregunta)
+
+**Escenario**
+
+- [ ] 2–3 líneas, 1 conflicto central.
+- [ ] Sin construcción "si A / si B".
 
 **Lenguaje**
-- [ ] Sin tecnicismos/jerga corporativa (tabla de sustituciones).
+
+- [ ] Sin tecnicismos/jerga corporativa (ver tabla §2B).
 - [ ] Nivel lector operativo (frases simples, vocabulario común).
 
-**Opciones**
-- [ ] Misma “voz” y nivel emocional.
-- [ ] La correcta no es obvia por tono “moral” o palabras “más finas”.
-- [ ] Distractores son plausibles (no caricaturas).
+**Opciones (NUEVO)**
+
+- [ ] Las 4 suenan igual de razonables — ninguna es "mala obvia".
+- [ ] Longitud equiparada (± 5 palabras).
+- [ ] Mismo tono y nivel emocional.
+- [ ] Una sola acción por opción.
+- [ ] Se aplica la variación dominante del módulo.
 
 **Sesgos / seguridad / legal**
-- [ ] No mide “aguantar abuso” como virtud.
-- [ ] No sugiere prácticas inseguras (especialmente en conducción).
-- [ ] No fuerza a elegir “quedarte tarde” como única forma de ser responsable.
 
-## 7) Anti‑patrones frecuentes a corregir (lo que más se repite)
+- [ ] No mide "aguantar abuso" como virtud.
+- [ ] No sugiere prácticas inseguras (especialmente conducción).
+- [ ] No fuerza "quedarte tarde" como única forma de ser responsable.
 
-- Escenarios largos con múltiples variables (fila + supervisor + sistema + compañero + cliente + tiempo).
-- Mucho lenguaje administrativo (protocolo, incidencia, regularización, métricas, indicadores).
-- Correcta “bonita” y distractores “feos” (la gente la detecta sin pensar).
-- Integridad confundida con “sacrificio personal” (salir tarde / perder transporte) en M5.
-- En M4 conducción: correcta que implica conversar mientras se maneja en tráfico denso.
+**Anti-faking**
 
+- [ ] Un lector externo NO identifica la correcta en <10 segundos.
+- [ ] Las opciones reflejan diferentes valores/prioridades, no diferentes "niveles de bondad".
