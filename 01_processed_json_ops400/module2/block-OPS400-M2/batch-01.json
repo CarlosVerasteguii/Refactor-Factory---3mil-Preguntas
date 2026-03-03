@@ -6,43 +6,43 @@
     "type": "options",
     "scenario": "Te cambian de zona de reparto sin aviso. No conoces las calles ni los clientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que alguien me explique la zona o me acompañe la primera vuelta para no perderme.",
-      "pragmatic_distractor": "Salgo con el GPS y voy resolviendo sobre la marcha para no retrasar las entregas.",
-      "evasive_distractor": "Espero a ver cómo le hacen otros compañeros antes de salir yo solo a la zona nueva.",
-      "rationalized_distractor": "Hago la ruta como la haría en mi zona anterior, con la lógica que ya conozco."
+      "integrity_correct": "Pido que alguien me explique la zona o me acompañe la primera vuelta.",
+      "pragmatic_distractor": "Salgo con el GPS y voy resolviendo sobre la marcha.",
+      "evasive_distractor": "Espero a ver cómo le hacen otros antes de salir yo a la zona nueva.",
+      "rationalized_distractor": "Hago la ruta con la lógica que ya conozco de mi zona anterior."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 1",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 1",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q002",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Ponen un sistema nuevo para escanear paquetes y todo toma más tiempo. El encargado quiere el mismo ritmo de siempre. ¿Qué es lo primero que haces?",
+    "scenario": "Ponen un sistema nuevo para escanear paquetes y todo toma más tiempo. El encargado quiere el mismo ritmo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que me enseñen bien el sistema para hacerlo correcto, aunque al inicio vaya más lento.",
-      "pragmatic_distractor": "Copio lo que hacen los demás para no quedarme atrás y ya después lo entiendo mejor.",
-      "evasive_distractor": "Sigo con el sistema viejo mientras pueda, hasta que me obliguen a usar el nuevo.",
-      "rationalized_distractor": "Escaneo solo lo urgente y lo demás lo registro después para no perder el ritmo."
+      "integrity_correct": "Pido que me enseñen bien el sistema para usarlo correcto.",
+      "pragmatic_distractor": "Copio lo que hacen los demás para no quedarme atrás.",
+      "evasive_distractor": "Sigo con el sistema viejo mientras pueda.",
+      "rationalized_distractor": "Escaneo solo lo urgente y lo demás lo registro después."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 2",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 2",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q003",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te piden cubrir un turno diferente al tuyo durante un mes porque falta gente. Te complica en casa pero es temporal. ¿Qué es lo primero que haces?",
+    "scenario": "Te piden cubrir un turno diferente durante un mes por falta de gente. Te complica en casa pero es temporal. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto y me organizo en casa para el mes, pero pido que quede claro cuándo vuelvo a mi horario.",
-      "pragmatic_distractor": "Digo que sí para quedar bien y ya voy viendo cómo le hago con mis cosas personales.",
-      "evasive_distractor": "Le digo que lo pienso unos días para ver si alguien más puede cubrirlo antes que yo.",
-      "rationalized_distractor": "Digo que no puedo porque mi horario actual es el que firmé y cambiar afecta mi descanso."
+      "integrity_correct": "Acepto y me organizo, pero pido que quede claro cuándo regreso a mi horario.",
+      "pragmatic_distractor": "Digo que sí y voy viendo cómo ajusto mis cosas personales.",
+      "evasive_distractor": "Le digo que lo pienso unos días por si alguien más puede cubrirlo.",
+      "rationalized_distractor": "Digo que no puedo porque mi horario es el que firmé."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 3",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 3",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q004",
@@ -51,28 +51,28 @@
     "type": "options",
     "scenario": "Llega un supervisor nuevo y te corrige en público aunque llevas años en el puesto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le pido hablar en privado para conocer sus expectativas y aclarar cómo trabajar mejor juntos.",
-      "pragmatic_distractor": "Hago lo que me dice sin decir nada para evitar problemas mientras lo voy conociendo.",
-      "evasive_distractor": "Sigo con mi trabajo sin responder y dejo que las cosas se calmen con el tiempo.",
-      "rationalized_distractor": "Le explico que tengo más experiencia y que mi forma de trabajar ha funcionado bien siempre."
+      "integrity_correct": "Le pido hablar en privado para alinear cómo trabajar juntos.",
+      "pragmatic_distractor": "Hago lo que me dice sin decir nada para evitar problemas.",
+      "evasive_distractor": "Sigo con mi trabajo sin responder y dejo que se calme solo.",
+      "rationalized_distractor": "Le explico que mi forma de trabajar ha funcionado bien siempre."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 4",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 4",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q005",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian la política y ahora debes llenar una lista de seguridad antes de cada salida. Te quita tiempo y algunos compañeros ya la marcan sin hacerla. ¿Qué es lo primero que haces?",
+    "scenario": "Cambian la política y ahora debes llenar una lista de seguridad antes de cada salida. Algunos compañeros ya la marcan sin hacerla. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "La hago completa y busco cómo integrarla a mi rutina para que no me atrase tanto.",
-      "pragmatic_distractor": "Reviso rápido lo más importante de la lista y marco lo demás para no perder tiempo.",
-      "evasive_distractor": "Espero a ver qué tan en serio la están pidiendo antes de cambiar mi rutina de salida.",
-      "rationalized_distractor": "No la lleno porque conozco bien mi unidad y sé que está en buen estado."
+      "integrity_correct": "La hago completa y busco cómo integrarla a mi rutina.",
+      "pragmatic_distractor": "Reviso rápido lo más importante y marco lo demás.",
+      "evasive_distractor": "Espero a ver qué tan en serio la piden antes de cambiar mi rutina.",
+      "rationalized_distractor": "No la lleno porque conozco bien mi unidad y está en buen estado."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 5",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 5",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q006",
@@ -81,58 +81,58 @@
     "type": "options",
     "scenario": "Reducen personal y ahora te toca atender caja y acomodar al mismo tiempo. Sientes que no das abasto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le propongo al encargado una forma de organizar las dos tareas para rendir mejor.",
-      "pragmatic_distractor": "Atiendo primero a los clientes en caja y acomodo en los ratos que no hay gente.",
-      "evasive_distractor": "Hago las dos cosas despacio y espero que la empresa se dé cuenta de que falta gente.",
-      "rationalized_distractor": "Me enfoco solo en una tarea porque hacer las dos al mismo tiempo baja la calidad."
+      "integrity_correct": "Le propongo al encargado una forma de organizar las dos tareas.",
+      "pragmatic_distractor": "Atiendo primero a clientes y acomodo en los ratos libres.",
+      "evasive_distractor": "Hago las dos cosas despacio y espero que noten que falta gente.",
+      "rationalized_distractor": "Me enfoco solo en una porque hacer las dos baja la calidad."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 6",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 6",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q007",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te asignan un compañero nuevo en tu ruta. Es más lento porque está aprendiendo pero el encargado quiere el mismo ritmo. ¿Qué es lo primero que haces?",
+    "scenario": "Te asignan un compañero nuevo en ruta. Es lento porque está aprendiendo pero quieren el mismo ritmo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le voy explicando las cosas mientras trabajamos, aunque vayamos más lento los primeros días.",
-      "pragmatic_distractor": "Le doy las tareas fáciles para que no me atrase y ya irá aprendiendo las difíciles.",
-      "evasive_distractor": "Hago todo yo para no perder tiempo y que él vaya viendo cómo se hace.",
-      "rationalized_distractor": "Lo dejo que resuelva solo porque así es como uno realmente aprende en el trabajo."
+      "integrity_correct": "Le voy explicando las cosas mientras trabajamos.",
+      "pragmatic_distractor": "Le doy las tareas fáciles para que no me atrase.",
+      "evasive_distractor": "Hago todo yo para no perder tiempo.",
+      "rationalized_distractor": "Lo dejo que resuelva solo porque así se aprende."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 7",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 7",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q008",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian el lugar de carga de un día para otro sin avisar. Ahora hay que caminar más y el flujo es diferente. Todos están molestos. ¿Qué es lo primero que haces?",
+    "scenario": "Cambian el lugar de carga sin avisar. Ahora hay que caminar más y el flujo es diferente. Todos están molestos. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me adapto al nuevo lugar y si veo algo que se pueda mejorar se lo comento al encargado.",
-      "pragmatic_distractor": "Sigo el flujo nuevo cuando me ven pero uso atajos cuando puedo para ahorrar pasos.",
-      "evasive_distractor": "Hago lo que me toca sin meterme, ya veré si el cambio funciona o lo quitan.",
-      "rationalized_distractor": "Sigo haciéndolo como antes porque el cambio está mal planeado y no tiene sentido."
+      "integrity_correct": "Me adapto y si veo algo que mejorar se lo digo al encargado.",
+      "pragmatic_distractor": "Sigo el flujo nuevo cuando me ven y uso atajos cuando puedo.",
+      "evasive_distractor": "Hago lo que me toca sin meterme, ya veré si funciona.",
+      "rationalized_distractor": "Sigo como antes porque el cambio está mal planeado."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 8",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 8",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q009",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Corren rumores de recortes de personal. Varios compañeros dicen que es mejor no esforzarse de más. Tú necesitas tu trabajo. ¿Qué es lo primero que haces?",
+    "scenario": "Corren rumores de recortes. Varios compañeros dicen que mejor no esforzarse de más. Tú necesitas tu trabajo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Sigo trabajando igual que siempre y busco información con mi jefe para saber qué hay de cierto.",
-      "pragmatic_distractor": "Me enfoco en las tareas que más notan los jefes para que vean que soy útil.",
-      "evasive_distractor": "No cambio nada de lo que hago pero tampoco me meto en los chismes del grupo.",
-      "rationalized_distractor": "Bajo un poco el ritmo porque no vale la pena dar de más si igual me pueden cortar."
+      "integrity_correct": "Sigo trabajando igual y busco información con mi jefe.",
+      "pragmatic_distractor": "Me enfoco en las tareas que más notan los jefes.",
+      "evasive_distractor": "No cambio nada pero tampoco me meto en los chismes.",
+      "rationalized_distractor": "Bajo el ritmo porque no vale la pena dar de más si me pueden cortar."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 9",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 9",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q010",
@@ -141,28 +141,28 @@
     "type": "options",
     "scenario": "Un compañero faltó y te piden cubrir su ruta extra hoy. Ya tenías planes personales. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto ayudar hoy pero le pido al encargado que se roten estos apoyos para que no siempre me toque a mí.",
-      "pragmatic_distractor": "Digo que sí sin quejarme para mantener buena relación con mi jefe y cancelo mis planes.",
-      "evasive_distractor": "Pregunto si hay alguien más que pueda antes de decidir, para no comprometerme de una vez.",
-      "rationalized_distractor": "Digo que no porque ya tengo algo fuera del trabajo y mi descanso es importante."
+      "integrity_correct": "Acepto hoy pero pido que roten los apoyos para que no siempre me toque.",
+      "pragmatic_distractor": "Digo que sí sin quejarme para mantener buena relación.",
+      "evasive_distractor": "Pregunto si hay alguien más antes de comprometerme.",
+      "rationalized_distractor": "Digo que no porque mi descanso es importante."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 10",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 10",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q011",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Empiezan a medir tus tiempos de atención y te comparan con tus compañeros. Te sientes presionado. ¿Qué es lo primero que haces?",
+    "scenario": "Empiezan a medir tus tiempos de atención y te comparan con tus compañeros. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que me digan en qué puedo mejorar y ajusto mi forma de trabajar poco a poco.",
-      "pragmatic_distractor": "Acorto algunos pasos del servicio para que mis tiempos se vean mejor en el reporte.",
-      "evasive_distractor": "Sigo haciendo lo mismo de siempre y espero a ver si los números se acomodan solos.",
-      "rationalized_distractor": "Le digo al encargado que medir por tiempos no es justo porque la calidad importa más."
+      "integrity_correct": "Pido que me digan en qué mejorar y ajusto mi forma de trabajar.",
+      "pragmatic_distractor": "Acorto algunos pasos para que mis tiempos se vean mejor.",
+      "evasive_distractor": "Sigo igual y espero a ver si los números se acomodan.",
+      "rationalized_distractor": "Le digo al encargado que medir por tiempos no es justo."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 11",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 11",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q012",
@@ -171,132 +171,132 @@
     "type": "options",
     "scenario": "Te mueven a otra sucursal por un mes. Queda más lejos y no conoces a nadie. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me organizo para llegar bien y me presento con buena actitud al equipo nuevo.",
-      "pragmatic_distractor": "Voy y hago lo que me toca sin meterme mucho, total es solo un mes.",
-      "evasive_distractor": "Acepto pero pregunto si puedo estar menos días o volver antes si se puede.",
-      "rationalized_distractor": "Pido que no me muevan porque el traslado me sale caro y me desacomoda todo."
+      "integrity_correct": "Me organizo para llegar bien y me presento con buena actitud.",
+      "pragmatic_distractor": "Voy y hago lo que me toca sin meterme mucho, total es un mes.",
+      "evasive_distractor": "Acepto pero pregunto si puedo volver antes.",
+      "rationalized_distractor": "Pido que no me muevan porque el traslado me sale caro."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 12",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 12",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q013",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El nuevo jefe de turno pide reportes más seguido y revisa todo lo que haces. Te sientes vigilado. ¿Qué es lo primero que haces?",
+    "scenario": "El nuevo jefe de turno pide reportes más seguido y revisa todo lo que haces. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me adapto a lo que pide y le mando los reportes a tiempo para que vea cómo trabajo.",
-      "pragmatic_distractor": "Le doy la información que me pide de forma corta para cumplir sin perder mucho tiempo.",
-      "evasive_distractor": "Solo le respondo cuando me pregunta directamente y evito acercarme de más.",
-      "rationalized_distractor": "Sigo trabajando a mi manera porque tantos reportes quitan tiempo y no ayudan en nada."
+      "integrity_correct": "Me adapto y le mando los reportes a tiempo.",
+      "pragmatic_distractor": "Le doy la información corta para cumplir sin perder tiempo.",
+      "evasive_distractor": "Solo le respondo cuando me pregunta directamente.",
+      "rationalized_distractor": "Sigo a mi manera porque tantos reportes quitan tiempo."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 13",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 13",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q014",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Van a enseñar un proceso nuevo en una capacitación dentro de tu horario de trabajo. Te interesa pero te atrasa en tus pendientes del día. ¿Qué es lo primero que haces?",
+    "scenario": "Hay una capacitación dentro de tu horario para aprender un proceso nuevo. Te interesa pero te atrasa en tus pendientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Asisto a la capacitación y reorganizo mis pendientes para sacarlos después.",
-      "pragmatic_distractor": "Le pido a un compañero que me pase los puntos clave y ya lo repaso por mi cuenta.",
-      "evasive_distractor": "Espero a ver si alguien más va primero y si me obligan entonces asisto.",
-      "rationalized_distractor": "No voy porque mis pendientes son más urgentes y ya sé hacer mi trabajo bien."
+      "integrity_correct": "Asisto y reorganizo mis pendientes para después.",
+      "pragmatic_distractor": "Le pido a un compañero que me pase los puntos clave.",
+      "evasive_distractor": "Espero a ver si me obligan, si no, sigo con lo mío.",
+      "rationalized_distractor": "No voy porque mis pendientes son más urgentes."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 14",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 14",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q015",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian la política de devoluciones y ahora tienes que decirle que no a más clientes. Te incomoda el conflicto. ¿Qué es lo primero que haces?",
+    "scenario": "Cambian la política de devoluciones y ahora tienes que decirle que no a más clientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Aprendo bien las reglas nuevas y practico cómo decirle al cliente con respeto que no se puede.",
-      "pragmatic_distractor": "Aplico la nueva regla según el cliente: si insiste mucho, hago una excepción para evitar problema.",
-      "evasive_distractor": "Mando los casos difíciles al encargado para que él diga que no, no yo.",
-      "rationalized_distractor": "Sigo aceptando devoluciones como antes porque es más importante que el cliente se vaya contento."
+      "integrity_correct": "Aprendo bien las reglas nuevas y practico cómo explicarle al cliente.",
+      "pragmatic_distractor": "Aplico la regla según el cliente: si insiste mucho, hago excepción.",
+      "evasive_distractor": "Mando los casos difíciles al encargado para que diga que no.",
+      "rationalized_distractor": "Sigo aceptando devoluciones porque el cliente debe irse contento."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 15",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 15",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q016",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te mueven a una tarea menos visible por un mes mientras se ajusta la operación. Sientes que te están bajando de puesto. ¿Qué es lo primero que haces?",
+    "scenario": "Te mueven a una tarea menos visible por un mes mientras se ajusta la operación. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Hago la tarea bien y le pregunto a mi jefe cuánto va a durar y qué sigue después.",
-      "pragmatic_distractor": "Cumplo con lo básico y me enfoco en que me regresen pronto a lo que hacía antes.",
-      "evasive_distractor": "Acepto sin decir nada pero empiezo a averiguar por qué me movieron.",
-      "rationalized_distractor": "Le digo al encargado que mis habilidades están desperdiciadas en esa tarea."
+      "integrity_correct": "Hago la tarea bien y pregunto cuánto dura y qué sigue.",
+      "pragmatic_distractor": "Cumplo lo básico y me enfoco en que me regresen pronto.",
+      "evasive_distractor": "Acepto sin decir nada pero averiguo por qué me movieron.",
+      "rationalized_distractor": "Le digo al encargado que mis habilidades están desperdiciadas ahí."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 16",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 16",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q017",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian el uniforme y ahora piden usar botas que te resultan incómodas. Algunos compañeros solo se las ponen cuando ven al encargado. ¿Qué es lo primero que haces?",
+    "scenario": "Cambian el uniforme y piden usar botas que te resultan incómodas. Algunos solo se las ponen cuando ven al encargado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Las uso y busco plantillas o un número diferente para que me queden mejor.",
-      "pragmatic_distractor": "Me las pongo cuando hay supervisión y me cambio cuando estoy solo para descansar los pies.",
-      "evasive_distractor": "Espero a ver si de verdad lo van a exigir antes de comprar plantillas o cambiar algo.",
-      "rationalized_distractor": "Uso mis zapatos de siempre porque mi salud es primero y con esos no puedo trabajar bien."
+      "integrity_correct": "Las uso y busco plantillas o un número que me quede mejor.",
+      "pragmatic_distractor": "Me las pongo cuando hay supervisión y me cambio cuando estoy solo.",
+      "evasive_distractor": "Espero a ver si de verdad lo van a exigir.",
+      "rationalized_distractor": "Uso mis zapatos de siempre porque mi salud es primero."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 17",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 17",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q018",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te cambian de equipo y en el nuevo grupo se burlan del que pregunta. Necesitas aprender el flujo pero te da pena. ¿Qué es lo primero que haces?",
+    "scenario": "Te cambian de equipo y en el nuevo grupo se burlan del que pregunta. Necesitas aprender el flujo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pregunto lo que necesito saber aunque se burlen, porque prefiero hacer bien las cosas.",
-      "pragmatic_distractor": "Le pregunto solo al compañero que se ve más tranquilo, en privado, para no exponerme.",
-      "evasive_distractor": "Observo cómo lo hacen los demás y trato de aprender sin preguntar nada.",
-      "rationalized_distractor": "Les digo que si quieren que aprenda rápido, dejen de burlarse y me expliquen bien."
+      "integrity_correct": "Pregunto lo que necesito saber aunque se burlen.",
+      "pragmatic_distractor": "Le pregunto solo al compañero más tranquilo, en privado.",
+      "evasive_distractor": "Observo cómo lo hacen los demás y trato de aprender sin preguntar.",
+      "rationalized_distractor": "Les digo que dejen de burlarse y me expliquen bien."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 18",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 18",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q019",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Por reglas nuevas, ahora debes registrar cada entrega con más detalle. Te quita tiempo y un compañero dice que nadie lo revisa. ¿Qué es lo primero que haces?",
+    "scenario": "Por reglas nuevas debes registrar cada entrega con más detalle. Un compañero dice que nadie lo revisa. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Lleno el registro completo y busco cómo hacerlo más rápido sin saltarme nada.",
-      "pragmatic_distractor": "Lleno con detalle las entregas importantes y las demás las pongo más resumidas.",
-      "evasive_distractor": "Lo lleno a medias durante la ruta y completo lo que falta al final del día.",
-      "rationalized_distractor": "Sigo registrando como antes porque así funciona bien y nadie revisa lo nuevo."
+      "integrity_correct": "Lleno el registro completo y busco cómo hacerlo más rápido.",
+      "pragmatic_distractor": "Lleno con detalle las entregas importantes y las demás resumidas.",
+      "evasive_distractor": "Lo lleno a medias en ruta y completo al final del día.",
+      "rationalized_distractor": "Sigo registrando como antes porque funciona bien y nadie revisa."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 19",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 19",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q020",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te ofrecen aprender una tarea nueva que te abriría mejores horarios, pero al inicio vas a ser lento y te vas a equivocar. ¿Qué es lo primero que haces?",
+    "scenario": "Te ofrecen aprender una tarea nueva que te abriría mejores horarios, pero al inicio vas a ser lento. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto y pido que me vayan enseñando, aunque al principio vaya más lento que los demás.",
-      "pragmatic_distractor": "Digo que sí pero sigo haciendo lo mío en paralelo para no verme mal si lo nuevo no sale.",
-      "evasive_distractor": "Pido más información antes de decidirme, para ver si de verdad me conviene cambiar.",
-      "rationalized_distractor": "Me quedo en lo que ya sé hacer bien porque cambiar ahora puede afectar al equipo."
+      "integrity_correct": "Acepto y pido que me vayan enseñando.",
+      "pragmatic_distractor": "Digo que sí pero sigo con lo mío en paralelo por si no sale.",
+      "evasive_distractor": "Pido más información antes de decidirme.",
+      "rationalized_distractor": "Me quedo en lo que ya sé hacer bien."
     },
-    "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 20",
-    "sot_checksum": "ops400_m2_options_v2"
+    "notes": "OPS400 M2 batch01 item 20",
+    "sot_checksum": "ops400_m2_options_v3"
   }
 ]
