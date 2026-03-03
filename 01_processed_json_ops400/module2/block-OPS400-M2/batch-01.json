@@ -4,299 +4,299 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian el mapa de rutas y te asignan una zona nueva sin capacitación completa. Te dicen que aprendas sobre la marcha porque el servicio no puede detenerse. Puedes pedir apoyo y quedar como lento o salir solo y arriesgarte a perder tiempo con errores y reclamos. ¿Cómo reaccionas ante el cambio?",
+    "scenario": "Te cambian de zona de reparto sin aviso. No conoces las calles ni los clientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Solicitas instrucciones precisas y acompañamiento inicial para asegurar la calidad, asumiendo una curva de aprendizaje que requiere tiempo extra de práctica.",
-      "pragmatic_distractor": "Inicias la ruta aplicando criterios propios para mantener el ritmo, resolviendo dudas sobre la marcha para evitar retrasos en el cronograma de entregas.",
-      "evasive_distractor": "Observas el desempeño de compañeros con más experiencia antes de actuar, manteniendo un perfil bajo mientras el nuevo esquema operativo se estabiliza.",
-      "rationalized_distractor": "Mantienes la lógica de navegación anterior basándote en tu experiencia previa, priorizando tu conocimiento del terreno sobre las nuevas directrices de ruta."
+      "integrity_correct": "Pido que alguien me explique la zona o me acompañe la primera vuelta para no perderme.",
+      "pragmatic_distractor": "Salgo con el GPS y voy resolviendo sobre la marcha para no retrasar las entregas.",
+      "evasive_distractor": "Espero a ver cómo le hacen otros compañeros antes de salir yo solo a la zona nueva.",
+      "rationalized_distractor": "Hago la ruta como la haría en mi zona anterior, con la lógica que ya conozco."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 1",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q002",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En el punto de carga implementan un sistema nuevo para escanear paquetes y ahora todo toma más tiempo. El encargado exige que el volumen salga igual que antes desde el primer día. Puedes pedir que te expliquen bien y quedar como el que frena, o improvisar para no verte lento. ¿Qué haces?",
+    "scenario": "Ponen un sistema nuevo para escanear paquetes y todo toma más tiempo. El encargado quiere el mismo ritmo de siempre. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Solicitas una demostración técnica para validar el proceso correcto, aceptando el ajuste inicial en los tiempos de despacho para dominar la herramienta.",
-      "pragmatic_distractor": "Ejecutas el escaneo de forma simplificada para agilizar la salida del flujo, dejando las correcciones de datos para un momento de menor carga operativa.",
-      "evasive_distractor": "Sigues el ritmo de la fila replicando las acciones de los demás operadores, confiando en que la práctica diaria resolverá las dudas técnicas pendientes.",
-      "rationalized_distractor": "Priorizas el despacho manual de los paquetes para cumplir con el volumen exigido, considerando que la operatividad es más urgente que el nuevo registro digital."
+      "integrity_correct": "Pido que me enseñen bien el sistema para hacerlo correcto, aunque al inicio vaya más lento.",
+      "pragmatic_distractor": "Copio lo que hacen los demás para no quedarme atrás y ya después lo entiendo mejor.",
+      "evasive_distractor": "Sigo con el sistema viejo mientras pueda, hasta que me obliguen a usar el nuevo.",
+      "rationalized_distractor": "Escaneo solo lo urgente y lo demás lo registro después para no perder el ritmo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 2",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q003",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te cambian el horario y ahora te piden cubrir turnos más tarde durante un mes por falta de personal. En tu casa eso complica rutinas y descanso, pero negarte puede ponerte en la mira. Puedes aceptar y adaptarte con esfuerzo o rechazar y mantener tu estabilidad. ¿Qué priorizas?",
+    "scenario": "Te piden cubrir un turno diferente al tuyo durante un mes porque falta gente. Te complica en casa pero es temporal. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Aceptas el ajuste temporal solicitando un cronograma definido, reorganizando tus actividades personales para garantizar el cumplimiento de la nueva jornada.",
-      "pragmatic_distractor": "Confirmas la disponibilidad para el nuevo turno gestionando tu energía de forma conservadora, adaptando tu ritmo de trabajo a la extensión del horario.",
-      "evasive_distractor": "Indicas que evaluarás la propuesta en los próximos días, permitiendo que la operación explore otras alternativas antes de formalizar tu compromiso.",
-      "rationalized_distractor": "Mantienes tu postura sobre el horario original para preservar el equilibrio personal, fundamentando tu decisión en la importancia del descanso para el rendimiento."
+      "integrity_correct": "Acepto y me organizo en casa para el mes, pero pido que quede claro cuándo vuelvo a mi horario.",
+      "pragmatic_distractor": "Digo que sí para quedar bien y ya voy viendo cómo le hago con mis cosas personales.",
+      "evasive_distractor": "Le digo que lo pienso unos días para ver si alguien más puede cubrirlo antes que yo.",
+      "rationalized_distractor": "Digo que no puedo porque mi horario actual es el que firmé y cambiar afecta mi descanso."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 3",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q004",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Llega un supervisor nuevo al almacén y empieza a corregirte en público por detalles, aunque tú llevas años ahí. Te sientes humillado y te dan ganas de responderle. Puedes aguantar, pedir una conversación privada y adaptarte, o resistirte y marcar distancia. ¿Cómo reaccionas?",
+    "scenario": "Llega un supervisor nuevo y te corrige en público aunque llevas años en el puesto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Gestionas una reunión privada para alinear criterios de trabajo, abordando las observaciones técnicas y estableciendo una comunicación profesional directa.",
-      "pragmatic_distractor": "Adoptas los cambios solicitados de manera inmediata para evitar fricciones adicionales, manteniendo una actitud reservada durante las interacciones en el almacén.",
-      "evasive_distractor": "Escuchas las correcciones sin emitir comentarios y continúas con tus labores, dejando que la relación laboral se estabilice gradualmente con el paso de los días.",
-      "rationalized_distractor": "Argumentas tu método de trabajo actual frente al supervisor para validar tus años de experiencia, estableciendo límites sobre la forma en que recibes retroalimentación."
+      "integrity_correct": "Le pido hablar en privado para conocer sus expectativas y aclarar cómo trabajar mejor juntos.",
+      "pragmatic_distractor": "Hago lo que me dice sin decir nada para evitar problemas mientras lo voy conociendo.",
+      "evasive_distractor": "Sigo con mi trabajo sin responder y dejo que las cosas se calmen con el tiempo.",
+      "rationalized_distractor": "Le explico que tengo más experiencia y que mi forma de trabajar ha funcionado bien siempre."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 4",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q005",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Por un cambio de política ahora debes hacer una lista de verificación de seguridad antes de cada salida. Te toma varios minutos y sientes que te deja atrás. Algunos compañeros ya la “marcan” sin hacerla para ganar tiempo. Puedes seguirla y atrasarte, o imitar el atajo para no quedar mal. ¿Qué haces?",
+    "scenario": "Cambian la política y ahora debes llenar una lista de seguridad antes de cada salida. Te quita tiempo y algunos compañeros ya la marcan sin hacerla. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Realizas la inspección completa integrando este nuevo paso en tu rutina de salida, priorizando el cumplimiento normativo sobre la velocidad de despacho inicial.",
-      "pragmatic_distractor": "Verificas los puntos críticos de seguridad y completas el registro rápidamente, equilibrando la prevención necesaria con la agilidad requerida por la operación.",
-      "evasive_distractor": "Monitoreas el nivel de supervisión sobre el nuevo registro antes de modificar tus tiempos habituales, adaptando el rigor de la inspección según la exigencia externa.",
-      "rationalized_distractor": "Optimizas el tiempo omitiendo los pasos que consideras redundantes, basándote en tu criterio profesional sobre el estado real de los equipos y herramientas."
+      "integrity_correct": "La hago completa y busco cómo integrarla a mi rutina para que no me atrase tanto.",
+      "pragmatic_distractor": "Reviso rápido lo más importante de la lista y marco lo demás para no perder tiempo.",
+      "evasive_distractor": "Espero a ver qué tan en serio la están pidiendo antes de cambiar mi rutina de salida.",
+      "rationalized_distractor": "No la lleno porque conozco bien mi unidad y sé que está en buen estado."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 5",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q006",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En la tienda reducen personal y ahora te toca atender caja y acomodar al mismo tiempo. El ritmo sube y sientes que no das. Puedes hablar con el encargado y proponer una forma de organizar, aunque parezca que te quejas, o aguantar hasta que no puedas. ¿Qué haces?",
+    "scenario": "Reducen personal y ahora te toca atender caja y acomodar al mismo tiempo. Sientes que no das abasto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Presentas una propuesta de organización de tareas al encargado, buscando optimizar los tiempos de respuesta ante el incremento de la carga operativa.",
-      "pragmatic_distractor": "Alternas entre ambas funciones priorizando la atención directa al cliente, postergando el orden del inventario para los momentos de menor flujo en caja.",
-      "evasive_distractor": "Realizas ambas actividades de manera pausada para evitar el agotamiento prematuro, esperando que la gerencia note la necesidad de recursos adicionales.",
-      "rationalized_distractor": "Te enfocas exclusivamente en una de las tareas asignadas para garantizar su calidad, considerando que la multifuncionalidad compromete el estándar del servicio."
+      "integrity_correct": "Le propongo al encargado una forma de organizar las dos tareas para rendir mejor.",
+      "pragmatic_distractor": "Atiendo primero a los clientes en caja y acomodo en los ratos que no hay gente.",
+      "evasive_distractor": "Hago las dos cosas despacio y espero que la empresa se dé cuenta de que falta gente.",
+      "rationalized_distractor": "Me enfoco solo en una tarea porque hacer las dos al mismo tiempo baja la calidad."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 6",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q007",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te cambian un compañero nuevo en ruta y al principio te hace más lento porque necesita aprender. El encargado insiste en que no baje el ritmo de entregas. Puedes tomarte el tiempo de enseñarle y atrasarte, o dejarlo que aprenda solo para mantener tus tiempos. ¿Qué decides?",
+    "scenario": "Te asignan un compañero nuevo en tu ruta. Es más lento porque está aprendiendo pero el encargado quiere el mismo ritmo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Instruyes detalladamente al compañero durante el recorrido, asumiendo un ritmo de entrega moderado para asegurar su correcta formación en el puesto.",
-      "pragmatic_distractor": "Asignas tareas sencillas al nuevo integrante para no comprometer el cronograma, permitiendo que observe los procesos complejos sin intervenir directamente.",
-      "evasive_distractor": "Ejecutas las funciones principales por tu cuenta para cumplir con las métricas del día, dejando que el compañero se adapte a su propio ritmo de observación.",
-      "rationalized_distractor": "Permites que el compañero resuelva las situaciones de forma autónoma, fundamentando que la experiencia directa es el método más eficiente de aprendizaje operativo."
+      "integrity_correct": "Le voy explicando las cosas mientras trabajamos, aunque vayamos más lento los primeros días.",
+      "pragmatic_distractor": "Le doy las tareas fáciles para que no me atrase y ya irá aprendiendo las difíciles.",
+      "evasive_distractor": "Hago todo yo para no perder tiempo y que él vaya viendo cómo se hace.",
+      "rationalized_distractor": "Lo dejo que resuelva solo porque así es como uno realmente aprende en el trabajo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 7",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q008",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "De un día a otro cambian el lugar de carga y ahora debes caminar más y seguir un flujo nuevo. Te sientes frustrado porque nadie avisó y todo parece improvisado. Puedes adaptarte y dar sugerencias útiles, o quedarte en el enojo y hacerlo a tu manera. El cambio afecta a todos. ¿Qué haces?",
+    "scenario": "Cambian el lugar de carga de un día para otro sin avisar. Ahora hay que caminar más y el flujo es diferente. Todos están molestos. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Adoptas el nuevo flujo de trabajo y aportas observaciones técnicas para mejorar la eficiencia del proceso en esta nueva ubicación logística.",
-      "pragmatic_distractor": "Sigues la nueva dinámica operativa mientras haya supervisión directa, alternando con métodos anteriores para mitigar el impacto en tu esfuerzo físico.",
-      "evasive_distractor": "Cumples con el nuevo esquema sin involucrarte en su optimización, manteniendo una postura neutral mientras observas la viabilidad de los cambios implementados.",
-      "rationalized_distractor": "Cuestionas formalmente la nueva disposición del área de carga, señalando las deficiencias del diseño antes de modificar tus hábitos de trabajo actuales."
+      "integrity_correct": "Me adapto al nuevo lugar y si veo algo que se pueda mejorar se lo comento al encargado.",
+      "pragmatic_distractor": "Sigo el flujo nuevo cuando me ven pero uso atajos cuando puedo para ahorrar pasos.",
+      "evasive_distractor": "Hago lo que me toca sin meterme, ya veré si el cambio funciona o lo quitan.",
+      "rationalized_distractor": "Sigo haciéndolo como antes porque el cambio está mal planeado y no tiene sentido."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 8",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q009",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Hay rumores de recortes y varios compañeros dicen que es mejor bajar el esfuerzo y “no dar más de lo necesario”. Tú necesitas estabilidad y te preocupa quedarte fuera. Puedes mantener un desempeño constante y buscar claridad, o sumarte al clima de cinismo para protegerte. Nadie confirma nada. ¿Qué haces?",
+    "scenario": "Corren rumores de recortes de personal. Varios compañeros dicen que es mejor no esforzarse de más. Tú necesitas tu trabajo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Mantienes la consistencia en tus objetivos de desempeño y buscas información oficial, gestionando la incertidumbre mediante el cumplimiento profesional de tus tareas.",
-      "pragmatic_distractor": "Centras tus esfuerzos en las actividades de mayor visibilidad para la gerencia, asegurando que tu rendimiento sea percibido positivamente ante posibles evaluaciones.",
-      "evasive_distractor": "Adoptas una postura de observación sin modificar tus niveles actuales de entrega, evitando tomar partido en las discusiones grupales sobre la situación de la empresa.",
-      "rationalized_distractor": "Ajustas tu nivel de compromiso a lo estrictamente necesario según el contrato, considerando que es una medida prudente de autoprotección ante la falta de certezas."
+      "integrity_correct": "Sigo trabajando igual que siempre y busco información con mi jefe para saber qué hay de cierto.",
+      "pragmatic_distractor": "Me enfoco en las tareas que más notan los jefes para que vean que soy útil.",
+      "evasive_distractor": "No cambio nada de lo que hago pero tampoco me meto en los chismes del grupo.",
+      "rationalized_distractor": "Bajo un poco el ritmo porque no vale la pena dar de más si igual me pueden cortar."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 9",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q010",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te piden cubrir una ruta extra porque otro compañero faltó, pero ya habías hecho planes personales. Si aceptas, quedas bien y ayudas al equipo, pero pierdes tu tiempo y descanso; si rechazas, el equipo se queda corto y quizá te lo recuerden después. No es la primera vez que lo piden. ¿Qué haces?",
+    "scenario": "Un compañero faltó y te piden cubrir su ruta extra hoy. Ya tenías planes personales. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Colaboras con la cobertura solicitada estableciendo acuerdos sobre la rotación de estos apoyos, asegurando la continuidad del servicio para el equipo de trabajo.",
-      "pragmatic_distractor": "Aceptas la tarea adicional para mantener una relación armoniosa con la supervisión, postergando tus compromisos externos para una ocasión posterior.",
-      "evasive_distractor": "Consultas si existen otros colaboradores disponibles antes de dar una respuesta definitiva, permitiendo que la coordinación explore diversas opciones de apoyo.",
-      "rationalized_distractor": "Declinas la solicitud para respetar tu tiempo de recuperación personal, argumentando la importancia de mantener los límites establecidos en la jornada laboral."
+      "integrity_correct": "Acepto ayudar hoy pero le pido al encargado que se roten estos apoyos para que no siempre me toque a mí.",
+      "pragmatic_distractor": "Digo que sí sin quejarme para mantener buena relación con mi jefe y cancelo mis planes.",
+      "evasive_distractor": "Pregunto si hay alguien más que pueda antes de decidir, para no comprometerme de una vez.",
+      "rationalized_distractor": "Digo que no porque ya tengo algo fuera del trabajo y mi descanso es importante."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 10",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q011",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian la forma de medir el trabajo: ahora cuentan tiempos de atención y te comparan con otros. Te sientes observado y temes quedar mal mientras aprendes. Puedes pedir retroalimentación y ajustar hábitos con esfuerzo, o empezar a hacer atajos para que el número se vea bien. ¿Qué haces?",
+    "scenario": "Empiezan a medir tus tiempos de atención y te comparan con tus compañeros. Te sientes presionado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Solicitas una revisión de tus indicadores actuales para identificar áreas de mejora, enfocándote en optimizar tus procesos técnicos bajo los nuevos estándares.",
-      "pragmatic_distractor": "Simplificas ciertos pasos del protocolo de atención para mejorar tus métricas de tiempo, priorizando el cumplimiento de los objetivos estadísticos del departamento.",
-      "evasive_distractor": "Mantienes tu metodología habitual de trabajo mientras te familiarizas con el nuevo sistema de medición, esperando que los resultados se estabilicen naturalmente.",
-      "rationalized_distractor": "Expresas tu desacuerdo con los nuevos parámetros de evaluación, sosteniendo que la calidad del servicio no debe reducirse a una comparación de tiempos operativos."
+      "integrity_correct": "Pido que me digan en qué puedo mejorar y ajusto mi forma de trabajar poco a poco.",
+      "pragmatic_distractor": "Acorto algunos pasos del servicio para que mis tiempos se vean mejor en el reporte.",
+      "evasive_distractor": "Sigo haciendo lo mismo de siempre y espero a ver si los números se acomodan solos.",
+      "rationalized_distractor": "Le digo al encargado que medir por tiempos no es justo porque la calidad importa más."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 11",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q012",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te mueven de tienda temporalmente a otra sucursal más lejos y con equipo nuevo. Te preocupa el transporte y no conocer a nadie. Puedes aceptar y adaptarte, aunque te cueste, o resistirte y buscar quedarte donde estás. El cambio es por un mes y no hay muchas opciones. ¿Qué haces?",
+    "scenario": "Te mueven a otra sucursal por un mes. Queda más lejos y no conoces a nadie. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Asumes la asignación temporal organizando tu logística de traslado, presentándote con disposición para colaborar con los nuevos integrantes de la sucursal.",
-      "pragmatic_distractor": "Realizas el traslado cumpliendo con las funciones básicas requeridas durante el periodo asignado, manteniendo un enfoque centrado en la operatividad diaria.",
-      "evasive_distractor": "Aceptas la movilidad bajo reserva mientras consultas la posibilidad de reducir el tiempo de permanencia en la nueva ubicación por motivos personales.",
-      "rationalized_distractor": "Manifiestas los inconvenientes logísticos que representa el cambio de sucursal, solicitando reconsiderar la medida para evitar el impacto en tu rutina establecida."
+      "integrity_correct": "Me organizo para llegar bien y me presento con buena actitud al equipo nuevo.",
+      "pragmatic_distractor": "Voy y hago lo que me toca sin meterme mucho, total es solo un mes.",
+      "evasive_distractor": "Acepto pero pregunto si puedo estar menos días o volver antes si se puede.",
+      "rationalized_distractor": "Pido que no me muevan porque el traslado me sale caro y me desacomoda todo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 12",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q013",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En el almacén cambian al líder de turno y ahora el nuevo jefe pide reportes más frecuentes y controla cada paso. Te sientes asfixiado y te preocupa perder autonomía. Puedes adaptarte y encontrar una forma de trabajar dentro del control, o resistirte y hacer las cosas como siempre. ¿Qué haces?",
+    "scenario": "El nuevo jefe de turno pide reportes más seguido y revisa todo lo que haces. Te sientes vigilado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Estableces una dinámica de reporte constante para alinearte a las directrices del nuevo liderazgo, ajustando tus procesos a la frecuencia de supervisión solicitada.",
-      "pragmatic_distractor": "Entregas la información requerida de manera sintética para satisfacer el control administrativo, manteniendo el enfoque principal en tus tareas operativas habituales.",
-      "evasive_distractor": "Cumples con las nuevas solicitudes de reporte de forma reactiva, limitando la interacción con la supervisión a los momentos estrictamente necesarios.",
-      "rationalized_distractor": "Mantienes tu esquema de trabajo independiente para demostrar eficiencia, considerando que el exceso de reportes interfiere innecesariamente con la productividad del turno."
+      "integrity_correct": "Me adapto a lo que pide y le mando los reportes a tiempo para que vea cómo trabajo.",
+      "pragmatic_distractor": "Le doy la información que me pide de forma corta para cumplir sin perder mucho tiempo.",
+      "evasive_distractor": "Solo le respondo cuando me pregunta directamente y evito acercarme de más.",
+      "rationalized_distractor": "Sigo trabajando a mi manera porque tantos reportes quitan tiempo y no ayudan en nada."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 13",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q014",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te asignan capacitación fuera de tu horario para aprender un proceso nuevo. No te pagan extra y estás cansado, pero si no asistes te quedas atrás y te pueden mover a tareas menos deseadas. Puedes ir y sacrificar descanso, o no ir y mantener tu tiempo personal. ¿Qué haces?",
+    "scenario": "Van a enseñar un proceso nuevo en una capacitación dentro de tu horario de trabajo. Te interesa pero te atrasa en tus pendientes del día. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Asistes a la formación técnica para actualizar tus competencias, integrando el nuevo aprendizaje como parte de tu desarrollo profesional en la organización.",
-      "pragmatic_distractor": "Buscas obtener la información de la capacitación de forma resumida a través de terceros, tratando de nivelar tus conocimientos sin alterar tu horario de descanso.",
-      "evasive_distractor": "Mencionas una posible asistencia condicionada a tus compromisos personales previos, evitando un compromiso firme mientras evalúas la relevancia de la sesión.",
-      "rationalized_distractor": "Decides no participar en sesiones fuera de la jornada establecida, priorizando el cumplimiento del horario de trabajo como una norma de respeto mutuo."
+      "integrity_correct": "Asisto a la capacitación y reorganizo mis pendientes para sacarlos después.",
+      "pragmatic_distractor": "Le pido a un compañero que me pase los puntos clave y ya lo repaso por mi cuenta.",
+      "evasive_distractor": "Espero a ver si alguien más va primero y si me obligan entonces asisto.",
+      "rationalized_distractor": "No voy porque mis pendientes son más urgentes y ya sé hacer mi trabajo bien."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 14",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q015",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En tu trabajo de atención, cambian la política de devoluciones y ahora debes decir más “no” a clientes. Te incomoda el conflicto y temes que te dejen malas reseñas. Puedes aprender el nuevo guion y sostener la regla aunque sea incómodo, o hacer excepciones para evitar discusiones. ¿Qué haces?",
+    "scenario": "Cambian la política de devoluciones y ahora tienes que decirle que no a más clientes. Te incomoda el conflicto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Aplicas la nueva normativa de devoluciones de forma estricta y profesional, utilizando los protocolos de comunicación establecidos para manejar la inconformidad del cliente.",
-      "pragmatic_distractor": "Gestionas las solicitudes de devolución aplicando criterios flexibles según el nivel de insistencia del cliente, buscando agilizar el cierre de la interacción en el mostrador.",
-      "evasive_distractor": "Derivas los casos de devolución más complejos a otros compañeros o supervisores, evitando el enfrentamiento directo mientras te familiarizas con la nueva política.",
-      "rationalized_distractor": "Priorizas la satisfacción inmediata del usuario mediante excepciones puntuales, considerando que mantener una imagen positiva es más relevante que el rigor del nuevo reglamento."
+      "integrity_correct": "Aprendo bien las reglas nuevas y practico cómo decirle al cliente con respeto que no se puede.",
+      "pragmatic_distractor": "Aplico la nueva regla según el cliente: si insiste mucho, hago una excepción para evitar problema.",
+      "evasive_distractor": "Mando los casos difíciles al encargado para que él diga que no, no yo.",
+      "rationalized_distractor": "Sigo aceptando devoluciones como antes porque es más importante que el cliente se vaya contento."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 15",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q016",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En el almacén te cambian a una tarea menos visible por un mes “mientras se ajusta la operación”. Sientes que es una degradación y te afecta el orgullo. Puedes aceptar, hacerlo bien y esperar que pase, o resistirte y mostrar inconformidad. Te preocupa tu futuro en el equipo. ¿Qué haces?",
+    "scenario": "Te mueven a una tarea menos visible por un mes mientras se ajusta la operación. Sientes que te están bajando de puesto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Desempeñas la nueva función con el estándar de calidad habitual, solicitando una retroalimentación sobre la duración de esta etapa y las metas esperadas.",
-      "pragmatic_distractor": "Realizas la tarea asignada cumpliendo los requisitos mínimos, enfocando tu atención en retomar tus funciones anteriores en cuanto la operatividad lo permita.",
-      "evasive_distractor": "Aceptas la posición de manera silenciosa mientras indagas informalmente sobre los motivos del cambio, evitando plantear una postura oficial ante la supervisión.",
-      "rationalized_distractor": "Expresas tu inconformidad con el cambio de funciones, argumentando que tus capacidades profesionales están siendo subutilizadas en la nueva asignación operativa."
+      "integrity_correct": "Hago la tarea bien y le pregunto a mi jefe cuánto va a durar y qué sigue después.",
+      "pragmatic_distractor": "Cumplo con lo básico y me enfoco en que me regresen pronto a lo que hacía antes.",
+      "evasive_distractor": "Acepto sin decir nada pero empiezo a averiguar por qué me movieron.",
+      "rationalized_distractor": "Le digo al encargado que mis habilidades están desperdiciadas en esa tarea."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 16",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q017",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "La empresa cambia el uniforme y ahora exige usar botas específicas. Te resultan incómodas y sientes dolor, pero no usarlas puede traerte sanción. Algunos compañeros dicen que las uses solo cuando veas al encargado. Puedes adaptarte y buscar una solución, o ignorar la regla para estar cómodo. ¿Qué haces?",
+    "scenario": "Cambian el uniforme y ahora piden usar botas que te resultan incómodas. Algunos compañeros solo se las ponen cuando ven al encargado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Utilizas el calzado reglamentario de forma permanente mientras gestionas una solución técnica o médica que permita mejorar el confort dentro de la norma.",
-      "pragmatic_distractor": "Portas el uniforme completo durante los periodos de mayor supervisión, alternando con calzado propio en momentos de menor exposición para aliviar la molestia física.",
-      "evasive_distractor": "Observas si el cumplimiento de la norma se vuelve generalizado antes de adoptar el cambio definitivo, manteniendo tu calzado habitual durante la etapa de transición.",
-      "rationalized_distractor": "Priorizas el uso de calzado que garantice tu bienestar físico durante la jornada, fundamentando que la salud es indispensable para realizar correctamente las labores asignadas."
+      "integrity_correct": "Las uso y busco plantillas o un número diferente para que me queden mejor.",
+      "pragmatic_distractor": "Me las pongo cuando hay supervisión y me cambio cuando estoy solo para descansar los pies.",
+      "evasive_distractor": "Espero a ver si de verdad lo van a exigir antes de comprar plantillas o cambiar algo.",
+      "rationalized_distractor": "Uso mis zapatos de siempre porque mi salud es primero y con esos no puedo trabajar bien."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 17",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q018",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te cambian de equipo y ahora trabajas con un grupo donde se burlan del que pregunta. Tú necesitas aprender el flujo nuevo, pero te da pena quedar mal. Puedes preguntar y soportar comentarios, o callarte y cometer errores por no aclarar. Te importa mantener tu lugar. ¿Qué haces?",
+    "scenario": "Te cambian de equipo y en el nuevo grupo se burlan del que pregunta. Necesitas aprender el flujo pero te da pena. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Realizas todas las consultas técnicas necesarias para dominar el proceso, manteniendo una postura profesional frente a las reacciones del entorno de trabajo.",
-      "pragmatic_distractor": "Resuelves tus dudas de manera discreta con los integrantes más accesibles del equipo, priorizando el aprendizaje sin atraer la atención del resto del grupo.",
-      "evasive_distractor": "Intentas deducir el funcionamiento del nuevo flujo mediante la observación directa, evitando realizar preguntas que puedan generar comentarios negativos por parte de los compañeros.",
-      "rationalized_distractor": "Adoptas una actitud firme para establecer respeto desde el inicio, señalando la importancia de una comunicación clara para el éxito de los objetivos comunes."
+      "integrity_correct": "Pregunto lo que necesito saber aunque se burlen, porque prefiero hacer bien las cosas.",
+      "pragmatic_distractor": "Le pregunto solo al compañero que se ve más tranquilo, en privado, para no exponerme.",
+      "evasive_distractor": "Observo cómo lo hacen los demás y trato de aprender sin preguntar nada.",
+      "rationalized_distractor": "Les digo que si quieren que aprenda rápido, dejen de burlarse y me expliquen bien."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 18",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q019",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Por nuevas reglas, ahora debes registrar cada entrega con más detalle. Te toma tiempo y te retrasa, pero si no lo haces te llaman la atención. Un compañero te dice que “nadie revisa” y que es mejor seguir como antes. Puedes adaptarte al registro, o ignorarlo y ganar velocidad. ¿Qué haces?",
+    "scenario": "Por reglas nuevas, ahora debes registrar cada entrega con más detalle. Te quita tiempo y un compañero dice que nadie lo revisa. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Incorporas el registro detallado en cada punto de entrega, ajustando tu metodología de trabajo para cumplir con los nuevos requerimientos de información logística.",
-      "pragmatic_distractor": "Completas el registro de forma exhaustiva solo en las entregas que consideras críticas, manteniendo la agilidad en los puntos de menor relevancia operativa.",
-      "evasive_distractor": "Realizas los registros de manera simplificada durante el recorrido para evitar retrasos, planeando completar la información faltante al concluir la jornada de trabajo.",
-      "rationalized_distractor": "Mantienes el sistema de registro anterior para garantizar el cumplimiento de los tiempos de entrega, asumiendo que la eficiencia operativa es el indicador más importante."
+      "integrity_correct": "Lleno el registro completo y busco cómo hacerlo más rápido sin saltarme nada.",
+      "pragmatic_distractor": "Lleno con detalle las entregas importantes y las demás las pongo más resumidas.",
+      "evasive_distractor": "Lo lleno a medias durante la ruta y completo lo que falta al final del día.",
+      "rationalized_distractor": "Sigo registrando como antes porque así funciona bien y nadie revisa lo nuevo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 19",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   },
   {
     "id": "block-OPS400-M2-q020",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te ofrecen aprender una tarea nueva que puede abrirte más turnos y mejores horarios, pero al inicio serás lento y te equivocarás. Puedes tomar el reto y soportar el periodo de aprendizaje, o quedarte en lo que ya dominas para no pasar vergüenza. El equipo necesita quien se adapte rápido. ¿Qué decides?",
+    "scenario": "Te ofrecen aprender una tarea nueva que te abriría mejores horarios, pero al inicio vas a ser lento y te vas a equivocar. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Inicias la capacitación en la nueva tarea solicitando retroalimentación constante, aceptando el periodo de menor velocidad como parte necesaria del desarrollo de habilidades.",
-      "pragmatic_distractor": "Asumes el nuevo rol alternándolo con tus tareas actuales para reducir el margen de error, buscando una transición gradual hacia las nuevas responsabilidades operativas.",
-      "evasive_distractor": "Manifiestas interés en la propuesta mientras solicitas mayor información sobre los tiempos de adaptación, postergando el inicio formal de las nuevas funciones laborales.",
-      "rationalized_distractor": "Permaneces en tus funciones actuales donde garantizas un rendimiento óptimo, considerando que cambiar de tarea podría comprometer la estabilidad actual del equipo."
+      "integrity_correct": "Acepto y pido que me vayan enseñando, aunque al principio vaya más lento que los demás.",
+      "pragmatic_distractor": "Digo que sí pero sigo haciendo lo mío en paralelo para no verme mal si lo nuevo no sale.",
+      "evasive_distractor": "Pido más información antes de decidirme, para ver si de verdad me conviene cambiar.",
+      "rationalized_distractor": "Me quedo en lo que ya sé hacer bien porque cambiar ahora puede afectar al equipo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 01 item 20",
-    "sot_checksum": "ops400_m2_options_v1"
+    "sot_checksum": "ops400_m2_options_v2"
   }
 ]
