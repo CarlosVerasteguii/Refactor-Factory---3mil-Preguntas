@@ -4,12 +4,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, un cliente asegura que ayer se le cobró dos veces y hoy exige devolución inmediata, pero el sistema está lento y no puedes confirmar el movimiento en ese momento. Tu compañero dice que le devuelvas para evitar una escena, porque hay fila y todos miran. Si devuelves sin verificar puedes pagar algo indebido; si esperas, el cliente se enfurece. ¿Cómo procedes?",
+    "scenario": "Un cliente dice que ayer le cobraron dos veces y quiere su devolución ya, pero el sistema está lento y no puedo confirmar el movimiento. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras la incidencia y esperas a verificar antes de devolver, aceptando que esto generará tensión con el cliente y retrasará la fila momentáneamente.",
-      "pragmatic_distractor": "Buscas una validación rápida con un superior o método alternativo, equilibrando la atención al cliente con el control de caja.",
-      "evasive_distractor": "Solicitas al cliente que espere a un supervisor para la autorización, transfiriendo la decisión para no detener tú la operación.",
-      "rationalized_distractor": "Procedes con la devolución para agilizar el servicio, considerando que evitar un escándalo en la fila es prioritario para la operación."
+      "integrity_correct": "Le digo que necesito verificar el cobro antes de devolver y le pido que espere.",
+      "pragmatic_distractor": "Le pido a un compañero que lo atienda mientras yo verifico en el sistema.",
+      "evasive_distractor": "Le explico que sin verificación no puedo hacer devoluciones y que contacte al banco.",
+      "rationalized_distractor": "Le devuelvo para que no se vaya molesto y después reviso si el cobro fue doble."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -34,7 +34,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén encuentras cajas con fecha muy próxima y el encargado dice que las mezcles con las nuevas para que “salgan” y no se reporten pérdidas. Si las separas habrá merma y te reclamarán por el costo; si las mezclas, clientes podrían llevarse producto a punto de vencer sin saber. El equipo está presionado por números. ¿Qué haces?",
+    "scenario": "En almacén encuentras cajas con fecha muy próxima y el encargado dice que las mezcles con las nuevas para que 'salgan' y no se reporten pérdidas. Si las separas habrá merma y te reclamarán por el costo; si las mezclas, clientes podrían llevarse producto a punto de vencer sin saber. El equipo está presionado por números. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Separas el producto y registras la merma real, aceptando la fricción con el encargado y el impacto en los indicadores del turno.",
       "pragmatic_distractor": "Rotas el producto antiguo a una zona de salida prioritaria visible, gestionando su venta rápida sin mezclar lotes indebidamente.",
@@ -49,7 +49,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el mostrador, un cliente pide datos del pedido de su pareja y se enoja cuando no se los das, diciendo que “vive con ella” y que es urgente. En pantalla ves dirección y detalles sensibles. Tu supervisor te presiona para resolver rápido porque hay fila. Si compartes, puede ser indebido; si no, habrá queja. ¿Qué haces?",
+    "scenario": "En el mostrador, un cliente pide datos del pedido de su pareja y se enoja cuando no se los das, diciendo que 'vive con ella' y que es urgente. En pantalla ves dirección y detalles sensibles. Tu supervisor te presiona para resolver rápido porque hay fila. Si compartes, puede ser indebido; si no, habrá queja. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a compartir los datos y explicas la política de privacidad, asumiendo la queja del cliente y la presión del momento.",
       "pragmatic_distractor": "Ofreces contactar tú al titular para verificar autorización, buscando una alternativa que calme al cliente sin vulnerar la seguridad.",
@@ -79,7 +79,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, una persona con prisa deja un billete de más sin darse cuenta. Tu compañero te dice que lo guardes porque “el cliente ni lo notará” y el turno está pesado. Si lo regresas, pierdes tiempo y te expones a comentarios; si lo guardas, te beneficia pero no es correcto. ¿Qué haces?",
+    "scenario": "En caja, una persona con prisa deja un billete de más sin darse cuenta. Tu compañero te dice que lo guardes porque 'el cliente ni lo notará' y el turno está pesado. Si lo regresas, pierdes tiempo y te expones a comentarios; si lo guardas, te beneficia pero no es correcto. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Detienes al cliente para devolver el excedente, aceptando el retraso en la operación y la exposición del error propio.",
       "pragmatic_distractor": "Apartas el excedente registrando la diferencia para el arqueo, asegurando la transparencia sin detener la fila en ese instante.",
@@ -94,7 +94,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la bodega, un compañero se lastima moviendo una caja y te pide decir que fue “fuera del trabajo” para evitar reporte porque teme que lo regañen. Si aceptas, lo proteges, pero el riesgo de seguridad queda oculto; si reportas, se enoja y te verán como quien lo expuso. ¿Qué haces?",
+    "scenario": "En la bodega, un compañero se lastima moviendo una caja y te pide decir que fue 'fuera del trabajo' para evitar reporte porque teme que lo regañen. Si aceptas, lo proteges, pero el riesgo de seguridad queda oculto; si reportas, se enoja y te verán como quien lo expuso. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Reportas el accidente laboral según protocolo, asumiendo la molestia del equipo por la investigación de seguridad que esto detona.",
       "pragmatic_distractor": "Acompañas al compañero a servicio médico interno para valoración, gestionando la salud primero antes de formalizar el tipo de reporte.",
@@ -109,7 +109,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente se equivoca al pagar y te entrega una tarjeta que no es suya; al revisar ves el nombre diferente. El cliente está apurado y te pide que lo dejes pasar “porque no importa”. Si aceptas, resuelves rápido, pero puedes facilitar un abuso; si detienes, se enoja y la fila crece. ¿Qué haces?",
+    "scenario": "Un cliente se equivoca al pagar y te entrega una tarjeta que no es suya; al revisar ves el nombre diferente. El cliente está apurado y te pide que lo dejes pasar 'porque no importa'. Si aceptas, resuelves rápido, pero puedes facilitar un abuso; si detienes, se enoja y la fila crece. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Rechazas el pago y solicitas una forma válida, aceptando la queja del cliente y el aumento del tiempo de atención.",
       "pragmatic_distractor": "Solicitas una identificación oficial para validar la titularidad, equilibrando la seguridad financiera con la atención al cliente.",
@@ -124,7 +124,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, un cliente te ofrece dinero para que lo registres como “entregado” en otra dirección, porque no quiere que su familia se entere. Si lo haces, ayudas al cliente y terminas rápido, pero el registro quedará falso y puede generar reclamo. Si te niegas, se enoja y amenaza con quejarse. ¿Qué haces?",
+    "scenario": "En ruta, un cliente te ofrece dinero para que lo registres como 'entregado' en otra dirección, porque no quiere que su familia se entere. Si lo haces, ayudas al cliente y terminas rápido, pero el registro quedará falso y puede generar reclamo. Si te niegas, se enoja y amenaza con quejarse. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Registras la ubicación real de entrega, asumiendo la discusión con el cliente y el riesgo de una evaluación negativa.",
       "pragmatic_distractor": "Acuerdas un punto de entrega oficial cercano, gestionando la satisfacción del cliente sin falsificar la geolocalización.",
@@ -139,7 +139,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En inventario faltan piezas y el encargado sugiere ajustar el sistema para que cuadre, diciendo que luego “aparecen”. Si aceptas, evitas una revisión larga; si te niegas, detienes el cierre y todos se molestan. Sabes que ajustar sin evidencia oculta problemas reales. ¿Qué haces?",
+    "scenario": "En inventario faltan piezas y el encargado sugiere ajustar el sistema para que cuadre, diciendo que luego 'aparecen'. Si aceptas, evitas una revisión larga; si te niegas, detienes el cierre y todos se molestan. Sabes que ajustar sin evidencia oculta problemas reales. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Te niegas a ajustar cifras y reportas el faltante real, aceptando que esto extenderá el horario de cierre para la investigación.",
       "pragmatic_distractor": "Realizas un conteo cruzado rápido para descartar errores, buscando precisión operativa antes de determinar si hay pérdida.",
@@ -184,7 +184,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el área de devoluciones, un cliente insiste en devolver un producto usado diciendo que “no lo ocupó”, y tu compañero sugiere aceptarlo para evitar pleito. Si lo aceptas, es injusto para el control y para otros clientes; si lo rechazas, se enoja y hace escándalo. ¿Qué haces?",
+    "scenario": "En el área de devoluciones, un cliente insiste en devolver un producto usado diciendo que 'no lo ocupó', y tu compañero sugiere aceptarlo para evitar pleito. Si lo aceptas, es injusto para el control y para otros clientes; si lo rechazas, se enoja y hace escándalo. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Rechazas la devolución por incumplir políticas de calidad, asumiendo la confrontación con el cliente y la posible queja.",
       "pragmatic_distractor": "Consultas con el supervisor una posible excepción o cambio parcial, buscando alternativas de servicio dentro del marco operativo.",
@@ -199,7 +199,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, te das cuenta de que un paquete se dañó por cómo lo acomodaron. El cliente te pide que lo marques como “daño en origen” para que le cambien rápido y te ofrece propina. Si aceptas, el registro queda falso; si dices la verdad, el cliente se enoja y te toca iniciar un trámite más lento. ¿Qué haces?",
+    "scenario": "En ruta, te das cuenta de que un paquete se dañó por cómo lo acomodaron. El cliente te pide que lo marques como 'daño en origen' para que le cambien rápido y te ofrece propina. Si aceptas, el registro queda falso; si dices la verdad, el cliente se enoja y te toca iniciar un trámite más lento. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Reportas el daño con la causa real, aceptando que el trámite será más largo y generará molestia en el cliente.",
       "pragmatic_distractor": "Gestionas el reclamo documentando el estado actual, buscando la vía más eficiente de resolución sin alterar los hechos.",
@@ -214,7 +214,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Te piden priorizar el pedido de un conocido saltando a otros que llegaron antes. Dicen que “no pasa nada” y que es solo un favor. Si lo haces, quedas bien y ahorras discusión; si no, tu compañero se burla y el conocido se ofende. Sabes que es injusto para los demás clientes. ¿Qué haces?",
+    "scenario": "Te piden priorizar el pedido de un conocido saltando a otros que llegaron antes. Dicen que 'no pasa nada' y que es solo un favor. Si lo haces, quedas bien y ahorras discusión; si no, tu compañero se burla y el conocido se ofende. Sabes que es injusto para los demás clientes. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Mantienes el turno establecido y atiendes en orden, aceptando la molestia de tu conocido y la presión social.",
       "pragmatic_distractor": "Revisas si puedes adelantar la preparación sin afectar la entrega de otros, optimizando el flujo para ayudar sin saltar turnos.",
@@ -244,7 +244,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un cliente te pide que confirmes un servicio “hoy mismo” y tu compañero dice que prometas disponibilidad para asegurar la venta. Tú sabes que aún no está confirmado y que puede fallar, pero decir la verdad podría hacer que el cliente se vaya. Si prometes, creas expectativa falsa; si no, pierdes el caso. ¿Qué haces?",
+    "scenario": "En atención, un cliente te pide que confirmes un servicio 'hoy mismo' y tu compañero dice que prometas disponibilidad para asegurar la venta. Tú sabes que aún no está confirmado y que puede fallar, pero decir la verdad podría hacer que el cliente se vaya. Si prometes, creas expectativa falsa; si no, pierdes el caso. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Informas los tiempos reales de confirmación, aceptando el riesgo de perder la venta y la presión por los objetivos.",
       "pragmatic_distractor": "Ofreces una reserva condicionada a confirmación, gestionando la expectativa del cliente sin prometer lo imposible.",
