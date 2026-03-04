@@ -7,7 +7,7 @@
 
 | Batch | Preguntas | Estado | Timestamp | Commit |
 |---|---|---|---|---|
-| batch-01 | q001–q020 | ✅ Completado | 2026-03-03 17:36 → 17:42 | `19496db` |
+| batch-01 | q001–q020 | ✅ v3 fix | 2026-03-03 17:36 → 17:54 | `032986a` |
 | batch-02 | q021–q040 | ⬜ Pendiente | — | — |
 | batch-03 | q041–q060 | ⬜ Pendiente | — | — |
 | batch-04 | q061–q080 | ⬜ Pendiente | — | — |
@@ -16,7 +16,7 @@
 
 | Batch | Preguntas | Estado | Timestamp | Commit |
 |---|---|---|---|---|
-| batch-01 | q001–q020 | ✅ Completado | 2026-03-03 17:43 → 17:50 | `a78f20f` |
+| batch-01 | q001–q020 | ✅ v3 fix | 2026-03-04 | `75c7231` |
 | batch-02 | q021–q040 | ⬜ Pendiente | — | — |
 | batch-03 | q041–q060 | ⬜ Pendiente | — | — |
 | batch-04 | q061–q080 | ⬜ Pendiente | — | — |
