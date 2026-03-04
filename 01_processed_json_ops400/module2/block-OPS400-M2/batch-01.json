@@ -6,10 +6,10 @@
     "type": "options",
     "scenario": "Te cambian de zona de reparto sin aviso. No conoces las calles ni los clientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que alguien me explique la zona o me acompañe la primera vuelta.",
-      "pragmatic_distractor": "Salgo con el GPS y voy resolviendo sobre la marcha.",
-      "evasive_distractor": "Espero a ver cómo le hacen otros antes de salir yo a la zona nueva.",
-      "rationalized_distractor": "Hago la ruta con la lógica que ya conozco de mi zona anterior."
+      "integrity_correct": "Le pido al encargado un contacto o un mapa de la zona antes de salir.",
+      "pragmatic_distractor": "Salgo con GPS y voy preguntando a los clientes conforme llego.",
+      "evasive_distractor": "Pido quedarme un día más en mi zona para cerrar pendientes antes del cambio.",
+      "rationalized_distractor": "Armo mi ruta basándome en las direcciones y el sentido común; así aprendí mi zona actual."
     },
     "notes": "OPS400 M2 batch01 item 1",
     "sot_checksum": "ops400_m2_options_v3"
@@ -21,10 +21,10 @@
     "type": "options",
     "scenario": "Ponen un sistema nuevo para escanear paquetes y todo toma más tiempo. El encargado quiere el mismo ritmo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que me enseñen bien el sistema para usarlo correcto.",
-      "pragmatic_distractor": "Copio lo que hacen los demás para no quedarme atrás.",
-      "evasive_distractor": "Sigo con el sistema viejo mientras pueda.",
-      "rationalized_distractor": "Escaneo solo lo urgente y lo demás lo registro después."
+      "integrity_correct": "Le pido al encargado tiempo o apoyo para aprender el sistema bien antes de que me exijan ritmo.",
+      "pragmatic_distractor": "Me pego con el compañero que más rápido le agarró y le copio los pasos.",
+      "evasive_distractor": "Escaneo lo que puedo con el nuevo y lo que no alcanzo lo anoto manual para después.",
+      "rationalized_distractor": "Uso el sistema viejo en lo que sale bien el nuevo; cuando esté estable me cambio."
     },
     "notes": "OPS400 M2 batch01 item 2",
     "sot_checksum": "ops400_m2_options_v3"
@@ -36,10 +36,10 @@
     "type": "options",
     "scenario": "Te piden cubrir un turno diferente durante un mes por falta de gente. Te complica en casa pero es temporal. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto y me organizo, pero pido que quede claro cuándo regreso a mi horario.",
-      "pragmatic_distractor": "Digo que sí y voy viendo cómo ajusto mis cosas personales.",
-      "evasive_distractor": "Le digo que lo pienso unos días por si alguien más puede cubrirlo.",
-      "rationalized_distractor": "Digo que no puedo porque mi horario es el que firmé."
+      "integrity_correct": "Acepto y le pregunto los horarios exactos para avisarle a mi familia.",
+      "pragmatic_distractor": "Acepto sin preguntar nada; total es un mes y ya pasará.",
+      "evasive_distractor": "Le pido que me diga bien qué turno es antes de contestar.",
+      "rationalized_distractor": "Le digo que sí pero sugiero que roten para que no siempre le toque al mismo."
     },
     "notes": "OPS400 M2 batch01 item 3",
     "sot_checksum": "ops400_m2_options_v3"
@@ -51,10 +51,10 @@
     "type": "options",
     "scenario": "Llega un supervisor nuevo y te corrige en público aunque llevas años en el puesto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le pido hablar en privado para alinear cómo trabajar juntos.",
-      "pragmatic_distractor": "Hago lo que me dice sin decir nada para evitar problemas.",
-      "evasive_distractor": "Sigo con mi trabajo sin responder y dejo que se calme solo.",
-      "rationalized_distractor": "Le explico que mi forma de trabajar ha funcionado bien siempre."
+      "integrity_correct": "Después le pregunto en qué puedo mejorar para que no me corrija frente a todos.",
+      "pragmatic_distractor": "Aplico su corrección y sigo trabajando; con el tiempo se va a alinear.",
+      "evasive_distractor": "No digo nada en el momento y espero a ver si cambia su trato.",
+      "rationalized_distractor": "Le explico cómo lo he hecho y por qué ha funcionado así."
     },
     "notes": "OPS400 M2 batch01 item 4",
     "sot_checksum": "ops400_m2_options_v3"
@@ -66,10 +66,10 @@
     "type": "options",
     "scenario": "Cambian la política y ahora debes llenar una lista de seguridad antes de cada salida. Algunos compañeros ya la marcan sin hacerla. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "La hago completa y busco cómo integrarla a mi rutina.",
-      "pragmatic_distractor": "Reviso rápido lo más importante y marco lo demás.",
-      "evasive_distractor": "Espero a ver qué tan en serio la piden antes de cambiar mi rutina.",
-      "rationalized_distractor": "No la lleno porque conozco bien mi unidad y está en buen estado."
+      "integrity_correct": "La hago completa aunque me tome más tiempo en salir al inicio.",
+      "pragmatic_distractor": "La reviso rápido y le meto más detalle conforme me la vaya aprendiendo.",
+      "evasive_distractor": "Le pregunto al encargado cuáles puntos son los más importantes para empezar por esos.",
+      "rationalized_distractor": "La adapto a lo que realmente aplica en mi unidad en vez de llenar todo tal cual."
     },
     "notes": "OPS400 M2 batch01 item 5",
     "sot_checksum": "ops400_m2_options_v3"
@@ -81,10 +81,10 @@
     "type": "options",
     "scenario": "Reducen personal y ahora te toca atender caja y acomodar al mismo tiempo. Sientes que no das abasto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le propongo al encargado una forma de organizar las dos tareas.",
-      "pragmatic_distractor": "Atiendo primero a clientes y acomodo en los ratos libres.",
-      "evasive_distractor": "Hago las dos cosas despacio y espero que noten que falta gente.",
-      "rationalized_distractor": "Me enfoco solo en una porque hacer las dos baja la calidad."
+      "integrity_correct": "Le propongo al encargado cómo dividir las dos tareas para cubrir las dos bien.",
+      "pragmatic_distractor": "Atiendo primero a los clientes y acomodo en los huecos que me van quedando.",
+      "evasive_distractor": "Le pido al encargado que me diga cuál priorizar cuando no pueda con las dos.",
+      "rationalized_distractor": "Hago caja por la mañana y acomodo por la tarde; así rindo más en cada una."
     },
     "notes": "OPS400 M2 batch01 item 6",
     "sot_checksum": "ops400_m2_options_v3"
@@ -96,10 +96,10 @@
     "type": "options",
     "scenario": "Te asignan un compañero nuevo en ruta. Es lento porque está aprendiendo pero quieren el mismo ritmo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le voy explicando las cosas mientras trabajamos.",
-      "pragmatic_distractor": "Le doy las tareas fáciles para que no me atrase.",
-      "evasive_distractor": "Hago todo yo para no perder tiempo.",
-      "rationalized_distractor": "Lo dejo que resuelva solo porque así se aprende."
+      "integrity_correct": "Le voy explicando mientras hacemos las entregas para que vaya agarrando el ritmo.",
+      "pragmatic_distractor": "Le doy las entregas más fáciles y yo me quedo con las complicadas para no perder tiempo.",
+      "evasive_distractor": "Le digo que me observe un rato y luego le paso algunas para que practique.",
+      "rationalized_distractor": "Organizo paradas cortas entre entregas para explicarle lo básico de la ruta."
     },
     "notes": "OPS400 M2 batch01 item 7",
     "sot_checksum": "ops400_m2_options_v3"
@@ -111,10 +111,10 @@
     "type": "options",
     "scenario": "Cambian el lugar de carga sin avisar. Ahora hay que caminar más y el flujo es diferente. Todos están molestos. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me adapto y si veo algo que mejorar se lo digo al encargado.",
-      "pragmatic_distractor": "Sigo el flujo nuevo cuando me ven y uso atajos cuando puedo.",
-      "evasive_distractor": "Hago lo que me toca sin meterme, ya veré si funciona.",
-      "rationalized_distractor": "Sigo como antes porque el cambio está mal planeado."
+      "integrity_correct": "Pruebo el flujo nuevo y si veo algo que mejorar se lo comento al encargado.",
+      "pragmatic_distractor": "Busco la forma más rápida de moverme en el nuevo lugar y comparto el tip con el equipo.",
+      "evasive_distractor": "Sigo el flujo nuevo sin opinar y espero a que se estabilice.",
+      "rationalized_distractor": "Lo pruebo un par de días antes de dar mi opinión sobre si funciona o no."
     },
     "notes": "OPS400 M2 batch01 item 8",
     "sot_checksum": "ops400_m2_options_v3"
@@ -126,10 +126,10 @@
     "type": "options",
     "scenario": "Corren rumores de recortes. Varios compañeros dicen que mejor no esforzarse de más. Tú necesitas tu trabajo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Sigo trabajando igual y busco información con mi jefe.",
-      "pragmatic_distractor": "Me enfoco en las tareas que más notan los jefes.",
-      "evasive_distractor": "No cambio nada pero tampoco me meto en los chismes.",
-      "rationalized_distractor": "Bajo el ritmo porque no vale la pena dar de más si me pueden cortar."
+      "integrity_correct": "Sigo trabajando igual y le pregunto a mi jefe directamente cómo está la situación.",
+      "pragmatic_distractor": "Me enfoco en que mi trabajo se note más para tener mejor posición si hay cambios.",
+      "evasive_distractor": "No le hago caso a los rumores y sigo con lo mío sin meterme.",
+      "rationalized_distractor": "Cuido más mi energía para aguantar el tramo; si hay recortes va a ser largo."
     },
     "notes": "OPS400 M2 batch01 item 9",
     "sot_checksum": "ops400_m2_options_v3"
@@ -141,10 +141,10 @@
     "type": "options",
     "scenario": "Un compañero faltó y te piden cubrir su ruta extra hoy. Ya tenías planes personales. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto hoy pero pido que roten los apoyos para que no siempre me toque.",
-      "pragmatic_distractor": "Digo que sí sin quejarme para mantener buena relación.",
-      "evasive_distractor": "Pregunto si hay alguien más antes de comprometerme.",
-      "rationalized_distractor": "Digo que no porque mi descanso es importante."
+      "integrity_correct": "Acepto y le aviso a mi familia que hoy llego tarde.",
+      "pragmatic_distractor": "La cubro y después le propongo al encargado un rol para que sea parejo.",
+      "evasive_distractor": "Pregunto cuántas entregas son para calcular si me da tiempo.",
+      "rationalized_distractor": "La tomo pero le pido que mañana me regresen el favor con un turno más corto."
     },
     "notes": "OPS400 M2 batch01 item 10",
     "sot_checksum": "ops400_m2_options_v3"
@@ -156,10 +156,10 @@
     "type": "options",
     "scenario": "Empiezan a medir tus tiempos de atención y te comparan con tus compañeros. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido que me digan en qué mejorar y ajusto mi forma de trabajar.",
-      "pragmatic_distractor": "Acorto algunos pasos para que mis tiempos se vean mejor.",
-      "evasive_distractor": "Sigo igual y espero a ver si los números se acomodan.",
-      "rationalized_distractor": "Le digo al encargado que medir por tiempos no es justo."
+      "integrity_correct": "Reviso mis números y le pregunto al encargado dónde puedo mejorar.",
+      "pragmatic_distractor": "Busco la forma de agilizar mis pasos sin saltarme lo importante.",
+      "evasive_distractor": "Observo cómo le hacen los que salen mejor y adapto lo que me sirva.",
+      "rationalized_distractor": "Le propongo al encargado que midan también la calidad de atención, no solo el tiempo."
     },
     "notes": "OPS400 M2 batch01 item 11",
     "sot_checksum": "ops400_m2_options_v3"
@@ -171,10 +171,10 @@
     "type": "options",
     "scenario": "Te mueven a otra sucursal por un mes. Queda más lejos y no conoces a nadie. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me organizo para llegar bien y me presento con buena actitud.",
-      "pragmatic_distractor": "Voy y hago lo que me toca sin meterme mucho, total es un mes.",
-      "evasive_distractor": "Acepto pero pregunto si puedo volver antes.",
-      "rationalized_distractor": "Pido que no me muevan porque el traslado me sale caro."
+      "integrity_correct": "Me presento con el equipo de allá y les pregunto cómo prefieren trabajar.",
+      "pragmatic_distractor": "Llego, observo cómo trabajan y me adapto a su ritmo.",
+      "evasive_distractor": "Voy haciendo mi trabajo y si necesito algo lo pregunto sobre la marcha.",
+      "rationalized_distractor": "Acepto pero le pido al encargado que me presente con el equipo para no llegar en frío."
     },
     "notes": "OPS400 M2 batch01 item 12",
     "sot_checksum": "ops400_m2_options_v3"
@@ -186,10 +186,10 @@
     "type": "options",
     "scenario": "El nuevo jefe de turno pide reportes más seguido y revisa todo lo que haces. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me adapto y le mando los reportes a tiempo.",
-      "pragmatic_distractor": "Le doy la información corta para cumplir sin perder tiempo.",
-      "evasive_distractor": "Solo le respondo cuando me pregunta directamente.",
-      "rationalized_distractor": "Sigo a mi manera porque tantos reportes quitan tiempo."
+      "integrity_correct": "Le mando los reportes como los pide y me ajusto a su formato.",
+      "pragmatic_distractor": "Le preparo un resumen corto con lo más importante para no perder tanto tiempo.",
+      "evasive_distractor": "Empiezo con los reportes más sencillos y le voy agregando detalle conforme me pide.",
+      "rationalized_distractor": "Le propongo una frecuencia de reportes que funcione para los dos."
     },
     "notes": "OPS400 M2 batch01 item 13",
     "sot_checksum": "ops400_m2_options_v3"
@@ -201,10 +201,10 @@
     "type": "options",
     "scenario": "Hay una capacitación dentro de tu horario para aprender un proceso nuevo. Te interesa pero te atrasa en tus pendientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Asisto y reorganizo mis pendientes para después.",
-      "pragmatic_distractor": "Le pido a un compañero que me pase los puntos clave.",
-      "evasive_distractor": "Espero a ver si me obligan, si no, sigo con lo mío.",
-      "rationalized_distractor": "No voy porque mis pendientes son más urgentes."
+      "integrity_correct": "Asisto a la capacitación y acomodo mis pendientes para después.",
+      "pragmatic_distractor": "Le pido a un compañero que me cubra un rato y asisto a la parte más importante.",
+      "evasive_distractor": "Anoto los puntos clave de lo que mandan y los practico después en mi puesto.",
+      "rationalized_distractor": "Saco primero mis pendientes urgentes y después reviso el material de la capacitación."
     },
     "notes": "OPS400 M2 batch01 item 14",
     "sot_checksum": "ops400_m2_options_v3"
@@ -216,10 +216,10 @@
     "type": "options",
     "scenario": "Cambian la política de devoluciones y ahora tienes que decirle que no a más clientes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Aprendo bien las reglas nuevas y practico cómo explicarle al cliente.",
-      "pragmatic_distractor": "Aplico la regla según el cliente: si insiste mucho, hago excepción.",
-      "evasive_distractor": "Mando los casos difíciles al encargado para que diga que no.",
-      "rationalized_distractor": "Sigo aceptando devoluciones porque el cliente debe irse contento."
+      "integrity_correct": "Estudio las reglas nuevas y preparo cómo explicarle al cliente el cambio.",
+      "pragmatic_distractor": "Aplico la regla nueva pero busco alternativas que sí pueda ofrecerle al cliente.",
+      "evasive_distractor": "Le pido al encargado que me acompañe en los primeros casos difíciles.",
+      "rationalized_distractor": "Explico al cliente el cambio con calma y si aun así se molesta lo canalizo al encargado."
     },
     "notes": "OPS400 M2 batch01 item 15",
     "sot_checksum": "ops400_m2_options_v3"
@@ -231,10 +231,10 @@
     "type": "options",
     "scenario": "Te mueven a una tarea menos visible por un mes mientras se ajusta la operación. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Hago la tarea bien y pregunto cuánto dura y qué sigue.",
-      "pragmatic_distractor": "Cumplo lo básico y me enfoco en que me regresen pronto.",
-      "evasive_distractor": "Acepto sin decir nada pero averiguo por qué me movieron.",
-      "rationalized_distractor": "Le digo al encargado que mis habilidades están desperdiciadas ahí."
+      "integrity_correct": "Hago la tarea bien aunque no sea lo que normalmente hago.",
+      "pragmatic_distractor": "Aprovecho para aprender algo nuevo y que vean que puedo con distintas áreas.",
+      "evasive_distractor": "Cumplo lo que me piden y espero a que pase el mes sin hacer ruido.",
+      "rationalized_distractor": "La hago pero le comento al encargado dónde podría aportar más según mi experiencia."
     },
     "notes": "OPS400 M2 batch01 item 16",
     "sot_checksum": "ops400_m2_options_v3"
@@ -246,10 +246,10 @@
     "type": "options",
     "scenario": "Cambian el uniforme y piden usar botas que te resultan incómodas. Algunos solo se las ponen cuando ven al encargado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Las uso y busco plantillas o un número que me quede mejor.",
-      "pragmatic_distractor": "Me las pongo cuando hay supervisión y me cambio cuando estoy solo.",
-      "evasive_distractor": "Espero a ver si de verdad lo van a exigir.",
-      "rationalized_distractor": "Uso mis zapatos de siempre porque mi salud es primero."
+      "integrity_correct": "Las uso todo el turno y pido que me cambien la talla si no me quedan.",
+      "pragmatic_distractor": "Les pongo una plantilla que tengo y las uso; así aguanto mejor.",
+      "evasive_distractor": "Las uso unos días para acostumbrarme y si no puedo pido otra opción.",
+      "rationalized_distractor": "Las uso pero en los momentos de menos movimiento me pongo mis zapatos para descansar."
     },
     "notes": "OPS400 M2 batch01 item 17",
     "sot_checksum": "ops400_m2_options_v3"
@@ -261,10 +261,10 @@
     "type": "options",
     "scenario": "Te cambian de equipo y en el nuevo grupo se burlan del que pregunta. Necesitas aprender el flujo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pregunto lo que necesito saber aunque se burlen.",
-      "pragmatic_distractor": "Le pregunto solo al compañero más tranquilo, en privado.",
-      "evasive_distractor": "Observo cómo lo hacen los demás y trato de aprender sin preguntar.",
-      "rationalized_distractor": "Les digo que dejen de burlarse y me expliquen bien."
+      "integrity_correct": "Pregunto lo que necesito aunque les cause gracia.",
+      "pragmatic_distractor": "Le pregunto al compañero más tranquilo cuando estamos solos.",
+      "evasive_distractor": "Observo cómo lo hacen y voy sacando el flujo por mi cuenta.",
+      "rationalized_distractor": "Busco si hay un manual o guía del proceso para no depender de ellos."
     },
     "notes": "OPS400 M2 batch01 item 18",
     "sot_checksum": "ops400_m2_options_v3"
@@ -276,10 +276,10 @@
     "type": "options",
     "scenario": "Por reglas nuevas debes registrar cada entrega con más detalle. Un compañero dice que nadie lo revisa. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Lleno el registro completo y busco cómo hacerlo más rápido.",
-      "pragmatic_distractor": "Lleno con detalle las entregas importantes y las demás resumidas.",
-      "evasive_distractor": "Lo lleno a medias en ruta y completo al final del día.",
-      "rationalized_distractor": "Sigo registrando como antes porque funciona bien y nadie revisa."
+      "integrity_correct": "Lleno el registro completo en cada entrega aunque me tome más tiempo.",
+      "pragmatic_distractor": "Le meto más detalle a las entregas grandes y en las chicas pongo lo esencial.",
+      "evasive_distractor": "Anoto todo en mi libreta y lo paso al sistema al final de la ruta.",
+      "rationalized_distractor": "Armo mi propio formato rápido que cubra lo que piden sin tanta vuelta."
     },
     "notes": "OPS400 M2 batch01 item 19",
     "sot_checksum": "ops400_m2_options_v3"
@@ -291,10 +291,10 @@
     "type": "options",
     "scenario": "Te ofrecen aprender una tarea nueva que te abriría mejores horarios, pero al inicio vas a ser lento. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acepto y pido que me vayan enseñando.",
-      "pragmatic_distractor": "Digo que sí pero sigo con lo mío en paralelo por si no sale.",
-      "evasive_distractor": "Pido más información antes de decidirme.",
-      "rationalized_distractor": "Me quedo en lo que ya sé hacer bien."
+      "integrity_correct": "Acepto y le digo que al inicio voy a necesitar que me tengan paciencia.",
+      "pragmatic_distractor": "Digo que sí y sigo con mi tarea actual en paralelo mientras agarro ritmo.",
+      "evasive_distractor": "Pregunto bien qué implica y cuánto tarda el aprendizaje antes de decidir.",
+      "rationalized_distractor": "Empiezo poco a poco con la tarea nueva sin soltar la mía hasta sentirme seguro."
     },
     "notes": "OPS400 M2 batch01 item 20",
     "sot_checksum": "ops400_m2_options_v3"
