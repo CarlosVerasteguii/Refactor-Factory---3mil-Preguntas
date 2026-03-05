@@ -23,7 +23,7 @@
     "options_structured": {
       "integrity_correct": "Detengo el cierre y pido que revisemos el corte juntos para ubicar el sobrante.",
       "pragmatic_distractor": "Anoto el sobrante y le aviso al encargado para que lo revise cuando termine el turno.",
-      "evasive_distractor": "Separo los billetes con una nota y los dejo en caja para que el siguiente turno lo concilie.",
+      "evasive_distractor": "Separo los billetes con una nota y los dejo en caja para que el siguiente turno lo revise bien.",
       "rationalized_distractor": "Lo aparto identificado y lo entrego al cierre; si la caja cuadra al final, no hay faltante que reportar."
     },
     "notes": "OPS400 M1 batch01 item 2",
@@ -34,7 +34,7 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Estás surtiendo pedidos con prisa y encuentras una caja abierta con el producto golpeado. El camión sale en minutos. ¿Qué haces?",
+    "scenario": "Estás preparando pedidos con prisa y encuentras una caja abierta con el producto golpeado. El camión sale en minutos. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Bajo la caja de la línea y pido que revisen el producto antes de decidir si se carga.",
       "pragmatic_distractor": "Abro la caja, reviso el producto y si se ve funcional lo reacomodo antes de cargarlo.",
@@ -51,7 +51,7 @@
     "type": "options",
     "scenario": "La unidad está casi sin gasolina y sales a ruta. La tarjeta funciona y nadie te dijo cuánto cargar. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Cargo lo que necesito para la ruta, guardo el recibo y lo registro en la bitácora.",
+      "integrity_correct": "Cargo lo que necesito para la ruta, guardo el recibo y lo anoto en el registro.",
       "pragmatic_distractor": "Lleno el tanque para no parar después y dejo el recibo para que lo vean en el cierre.",
       "evasive_distractor": "Le marco al encargado antes de cargar para que me diga cuánto poner; prefiero no decidir solo.",
       "rationalized_distractor": "Cargo lo mínimo para salir y completo después; así gasto menos por si había un tope que no me avisaron."
@@ -68,7 +68,7 @@
     "options_structured": {
       "integrity_correct": "Le explico que no puedo dejar el paquete sin que alguien lo reciba y reprogramo la entrega.",
       "pragmatic_distractor": "Le pido que me dé unos minutos; si no puede, le marco después para coordinar otra hora.",
-      "evasive_distractor": "Marco intento fallido y sigo con la ruta; el sistema lo reprograma automáticamente.",
+      "evasive_distractor": "Marco intento fallido y sigo con la ruta; se vuelve a programar solo.",
       "rationalized_distractor": "Lo dejo dentro de la reja y tomo foto; el cliente ya me autorizó de palabra y queda respaldo."
     },
     "notes": "OPS400 M1 batch01 item 5",

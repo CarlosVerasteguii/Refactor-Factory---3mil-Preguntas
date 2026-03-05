@@ -21,8 +21,8 @@
     "type": "options",
     "scenario": "Llego a entregar un paquete caro y quien recibe no coincide con el nombre de la guía. Dice que es familiar y tiene prisa. No tengo buena señal. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "No entrego hasta confirmar identidad con el titular, aunque me atrase.",
-      "pragmatic_distractor": "Le pido una identificación o que me comunique con el titular por teléfono para verificar.",
+      "integrity_correct": "No entrego hasta confirmar la identidad con la persona que aparece en la guía, aunque me atrase.",
+      "pragmatic_distractor": "Le pido una identificación o que me comunique por teléfono con la persona que aparece en la guía.",
       "evasive_distractor": "Lo marco como no entregado y sigo con mi ruta; que lo reprogramen después.",
       "rationalized_distractor": "Se lo dejo porque es familiar y vive ahí; el paquete llega a la dirección correcta."
     },
@@ -51,9 +51,9 @@
     "type": "options",
     "scenario": "Un cliente pide datos del pedido de su pareja. Dice que vive con ella y es urgente. En pantalla veo dirección y datos sensibles. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que no puedo darle información de otro titular sin autorización por escrito.",
-      "pragmatic_distractor": "Le doy solo el estatus general del pedido sin datos personales ni dirección.",
-      "evasive_distractor": "Lo canalizo con servicio al cliente para que ahí le ayuden con la autorización.",
+      "integrity_correct": "Le digo que no puedo darle información de otra persona sin autorización por escrito.",
+      "pragmatic_distractor": "Le doy solo cómo va el pedido sin datos personales ni dirección.",
+      "evasive_distractor": "Lo mando con servicio al cliente para que ahí le ayuden con la autorización.",
       "rationalized_distractor": "Le doy la información porque es su pareja y puede verificarlo con comprobante de domicilio."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 4",

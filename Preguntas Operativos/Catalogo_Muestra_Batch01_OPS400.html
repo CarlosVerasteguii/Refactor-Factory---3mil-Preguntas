@@ -1,0 +1,1816 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Muestra de preguntas OPS400 — Batch 01</title>
+    
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap');
+
+      :root {
+        --primary: #15314b;
+        --primary-light: #295e8a;
+        --success: #38a169;
+        --blue: #1f5f99;
+        --green: #28714a;
+        --orange: #b55d1e;
+        --purple: #6a4ea1;
+        --teal: #16666a;
+        --gray-50: #f7fafc;
+        --gray-100: #edf2f7;
+        --gray-200: #e2e8f0;
+        --gray-300: #cbd5e0;
+        --gray-500: #718096;
+        --gray-600: #4a5568;
+        --gray-700: #2d3748;
+        --gray-800: #1a202c;
+        --shadow: 0 2px 10px rgba(0,0,0,0.05);
+      }
+
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+
+      body {
+        font-family: 'Source Sans 3', Georgia, serif;
+        color: var(--gray-700);
+        line-height: 1.55;
+        background: white;
+        font-size: 11pt;
+      }
+
+      @media print {
+        body { font-size: 10pt; }
+        .no-print { display: none !important; }
+        .page-break { page-break-before: always; }
+        @page { margin: 1cm 1.1cm; size: letter; }
+      }
+
+      .toolbar {
+        position: fixed;
+        top: 18px;
+        right: 18px;
+        display: flex;
+        gap: 10px;
+        z-index: 5;
+      }
+
+      .btn {
+        border: 1px solid var(--gray-300);
+        background: white;
+        color: var(--gray-800);
+        padding: 10px 14px;
+        border-radius: 999px;
+        font-weight: 600;
+        font-size: 0.9rem;
+        cursor: pointer;
+        box-shadow: var(--shadow);
+      }
+      .btn.primary {
+        background: var(--primary);
+        border-color: var(--primary);
+        color: white;
+      }
+      .btn:hover { transform: translateY(-1px); }
+
+      .cover {
+        text-align: center;
+        padding: 32px 28px 26px;
+        background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+        color: white;
+        border-top: 12px solid #d99a2b;
+        border-bottom: 6px solid #d99a2b;
+        border-radius: 0 0 14px 14px;
+        margin-bottom: 20px;
+      }
+      .cover-tag {
+        display: inline-block;
+        border: 2px solid rgba(255,255,255,0.7);
+        padding: 4px 14px;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        margin-bottom: 14px;
+      }
+      .cover h1 {
+        font-size: 2.05rem;
+        font-weight: 800;
+        margin-bottom: 8px;
+        line-height: 1.15;
+      }
+      .cover .subtitle {
+        font-size: 1.08rem;
+        font-weight: 600;
+        opacity: 0.92;
+        max-width: 860px;
+        margin: 0 auto 14px;
+      }
+      .cover-meta {
+        display: flex;
+        justify-content: center;
+        gap: 18px;
+        font-size: 0.9rem;
+        opacity: 0.9;
+        flex-wrap: wrap;
+      }
+      .cover-note {
+        margin-top: 18px;
+        font-size: 0.9rem;
+        opacity: 0.9;
+      }
+
+      .container {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 6px 16px 28px;
+      }
+
+      .info-box {
+        background: white;
+        border: 2px solid var(--gray-200);
+        border-left: 8px solid var(--primary);
+        border-radius: 14px;
+        padding: 14px 16px;
+        margin-bottom: 18px;
+      }
+      .info-box h2 {
+        font-size: 1.1rem;
+        color: var(--gray-800);
+        margin-bottom: 8px;
+      }
+      .source-list {
+        margin-left: 18px;
+        columns: 2;
+        column-gap: 28px;
+        color: var(--gray-600);
+        font-size: 0.92rem;
+      }
+      .source-list li { margin-bottom: 4px; }
+
+      .section-header {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin: 18px 0 10px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid var(--primary);
+        page-break-after: avoid;
+      }
+
+      .section-number {
+        color: var(--primary);
+        width: 38px;
+        height: 38px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 800;
+        font-size: 0.95rem;
+        flex-shrink: 0;
+        background: white;
+        border: 3px solid var(--primary);
+      }
+      .section-number.mod-blue { color: var(--blue); border-color: var(--blue); }
+      .section-number.mod-green { color: var(--green); border-color: var(--green); }
+      .section-number.mod-orange { color: var(--orange); border-color: var(--orange); }
+      .section-number.mod-purple { color: var(--purple); border-color: var(--purple); }
+      .section-number.mod-teal { color: var(--teal); border-color: var(--teal); }
+      .section-number.key { color: var(--green); border-color: var(--green); }
+
+      .section-title h2 {
+        font-size: 1.25rem;
+        color: var(--primary);
+        font-weight: 800;
+        line-height: 1.2;
+      }
+      .section-subtitle {
+        font-size: 0.9rem;
+        color: var(--gray-500);
+        margin-top: 2px;
+      }
+
+      .question-card {
+        border: 2px solid var(--gray-200);
+        border-left-width: 9px;
+        border-radius: 14px;
+        overflow: hidden;
+        margin-bottom: 14px;
+        box-shadow: var(--shadow);
+        break-inside: avoid;
+        page-break-inside: avoid;
+        background: white;
+      }
+      .question-card.mod-blue { border-left-color: var(--blue); }
+      .question-card.mod-green { border-left-color: var(--green); }
+      .question-card.mod-orange { border-left-color: var(--orange); }
+      .question-card.mod-purple { border-left-color: var(--purple); }
+      .question-card.mod-teal { border-left-color: var(--teal); }
+
+      .question-header {
+        padding: 10px 14px 8px;
+        color: var(--gray-800);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        border-bottom: 2px solid var(--gray-200);
+        background: white;
+      }
+
+      .q-left { min-width: 0; }
+      .q-number {
+        font-weight: 800;
+        font-size: 1.08rem;
+        line-height: 1.1;
+        color: var(--gray-800);
+      }
+      .q-meta {
+        font-size: 0.88rem;
+        color: var(--gray-600);
+        margin-top: 2px;
+      }
+      .q-id {
+        font-size: 0.8rem;
+        color: var(--gray-500);
+        margin-top: 1px;
+        word-break: break-all;
+      }
+
+      .history-pill,
+      .answer-pill {
+        display: none;
+        border: 2px solid var(--gray-300);
+        color: var(--gray-800);
+        padding: 5px 10px;
+        border-radius: 999px;
+        font-size: 0.85rem;
+        white-space: nowrap;
+        font-weight: 700;
+      }
+      .history-pill { display: inline-flex; }
+      .q-right {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+
+      body.show-keys .answer-pill { display: inline-flex; }
+
+      .question-body {
+        padding: 12px 14px 12px;
+        background: white;
+      }
+
+      .scenario {
+        background: white;
+        border: 2px solid var(--gray-200);
+        border-left: 6px solid var(--primary);
+        border-radius: 10px;
+        padding: 11px 12px;
+        color: var(--gray-800);
+        font-size: 0.98rem;
+        margin-bottom: 10px;
+      }
+
+      .options-list {
+        list-style: none;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px 10px;
+        padding: 0;
+      }
+
+      .option {
+        display: flex;
+        gap: 10px;
+        align-items: flex-start;
+        padding: 10px 12px;
+        border-radius: 10px;
+        border: 2px solid var(--gray-200);
+        border-left-width: 6px;
+        background: white;
+      }
+
+      .opt-letter {
+        width: 28px;
+        height: 28px;
+        border-radius: 9px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 900;
+        flex-shrink: 0;
+        background: white;
+        border: 2px solid currentColor;
+      }
+
+      .opt-a { color: #1f5f99; border-left-color: #1f5f99; }
+      .opt-b { color: #28714a; border-left-color: #28714a; }
+      .opt-c { color: #b07900; border-left-color: #b07900; }
+      .opt-d { color: #b43c74; border-left-color: #b43c74; }
+
+      .opt-text {
+        font-size: 0.95rem;
+        color: var(--gray-800);
+      }
+
+      body.show-keys .option.is-correct {
+        border-color: #38a169;
+        box-shadow: 0 0 0 2px rgba(56,161,105,0.18) inset;
+      }
+
+      .answer-key { display: none; margin-top: 28px; }
+      body.show-keys .answer-key { display: block; }
+
+      .key-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9rem;
+        margin-top: 10px;
+      }
+      .key-table th {
+        background: white;
+        color: var(--primary);
+        text-align: left;
+        padding: 10px 12px;
+        font-weight: 700;
+        font-size: 0.85rem;
+        border-bottom: 2px solid var(--primary);
+      }
+      .key-table td {
+        padding: 9px 12px;
+        border-bottom: 1px solid var(--gray-200);
+        vertical-align: top;
+      }
+      .key-table tr:nth-child(even) { background: var(--gray-50); }
+
+      code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.88em; }
+
+      @media (max-width: 860px) {
+        .container { padding: 6px 12px 24px; }
+        .source-list { columns: 1; }
+        .options-list { grid-template-columns: 1fr; }
+        .question-header {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+        .q-right { justify-content: flex-start; }
+      }
+    </style>
+  
+  </head>
+  <body>
+    
+    <div class="toolbar no-print">
+      <button class="btn" id="toggleKeysBtn" type="button">Mostrar clave</button>
+      <button class="btn primary" type="button" onclick="window.print()">Imprimir / Guardar PDF</button>
+    </div>
+  
+    
+    <div class="cover">
+      <div class="cover-tag">OPS400 · Operativo · Muestra batch 01</div>
+      <h1>Muestra de preguntas OPS400</h1>
+      <p class="subtitle">5 preguntas por módulo (tomadas del primer batch) para revisión y lectura rápida.</p>
+      <div class="cover-meta">
+        <span>05 de marzo de 2026</span>
+        <span>25 preguntas</span>
+        <span>5 módulos</span>
+      </div>
+      <div class="cover-note">Tip: puedes activar “Mostrar clave” antes de imprimir si quieres incluir respuestas correctas.</div>
+    </div>
+  
+    
+    <div class="container">
+      <div class="info-box">
+        <h2>Fuente</h2>
+        <ul class="source-list">
+          <li><strong>M1</strong> — 01_processed_json_ops400/module1/block-OPS400-M1/batch-01.json</li>
+<li><strong>M2</strong> — 01_processed_json_ops400/module2/block-OPS400-M2/batch-01.json</li>
+<li><strong>M3</strong> — 01_processed_json_ops400/module3/block-OPS400-M3/batch-01.json</li>
+<li><strong>M4</strong> — 01_processed_json_ops400/module4/block-OPS400-M4/batch-01.json</li>
+<li><strong>M5</strong> — 01_processed_json_ops400/module5/block-OPS400-M5/batch-01.json</li>
+        </ul>
+      </div>
+  
+    
+        <div class="section-header">
+          <div class="section-number mod-blue">M1</div>
+          <div class="section-title">
+            <h2>Integridad</h2>
+            <div class="section-subtitle">Batch 01 · Primeras 5 preguntas</div>
+          </div>
+        </div>
+      
+
+            <div class="question-card mod-blue">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 1/25</div>
+                  <div class="q-meta">M1 · 1/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M1-q001</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 1/25</span>
+                  <span class="answer-pill">Correcta: <strong>D</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Vas tarde en tu ruta y en una dirección nadie abre. Tu compañero te dice que cierres la entrega y mañana la llevas. ¿Qué haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Llamo al cliente y, si contesta, regreso más tarde ese mismo día.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Sigo la ruta y paso mañana temprano; así le doy más tiempo al cliente de estar en casa.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Regreso el paquete a base y le paso el caso al encargado para que decida.</span>
+                </li>
+              
+
+                <li class="option opt-d is-correct">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Anoto que nadie abrió, registro el intento y dejo la entrega reprogramada.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-blue">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 2/25</div>
+                  <div class="q-meta">M1 · 2/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M1-q002</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 2/25</span>
+                  <span class="answer-pill">Correcta: <strong>A</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Al cerrar caja te sobran billetes y no sabes de dónde salieron. Tu compañero dice que lo dejes así para no atrasar. ¿Qué haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a is-correct">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Detengo el cierre y pido que revisemos el corte juntos para ubicar el sobrante.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Lo aparto identificado y lo entrego al cierre; si la caja cuadra al final, no hay faltante que reportar.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Separo los billetes con una nota y los dejo en caja para que el siguiente turno lo revise bien.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Anoto el sobrante y le aviso al encargado para que lo revise cuando termine el turno.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-blue">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 3/25</div>
+                  <div class="q-meta">M1 · 3/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M1-q003</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 3/25</span>
+                  <span class="answer-pill">Correcta: <strong>A</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Estás preparando pedidos con prisa y encuentras una caja abierta con el producto golpeado. El camión sale en minutos. ¿Qué haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a is-correct">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Bajo la caja de la línea y pido que revisen el producto antes de decidir si se carga.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Abro la caja, reviso el producto y si se ve funcional lo reacomodo antes de cargarlo.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">La subo porque el daño es solo en el empaque exterior; el cliente puede reportar si hay problema al recibirlo.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">La aparto, tomo otra caja del mismo producto y sigo cargando para no frenar la salida.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-blue">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 4/25</div>
+                  <div class="q-meta">M1 · 4/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M1-q004</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 4/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">La unidad está casi sin gasolina y sales a ruta. La tarjeta funciona y nadie te dijo cuánto cargar. ¿Qué haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Cargo lo mínimo para salir y completo después; así gasto menos por si había un tope que no me avisaron.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Lleno el tanque para no parar después y dejo el recibo para que lo vean en el cierre.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Cargo lo que necesito para la ruta, guardo el recibo y lo anoto en el registro.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le marco al encargado antes de cargar para que me diga cuánto poner; prefiero no decidir solo.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-blue">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 5/25</div>
+                  <div class="q-meta">M1 · 5/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M1-q005</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 5/25</span>
+                  <span class="answer-pill">Correcta: <strong>B</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Un cliente te pide que dejes el paquete dentro de la reja porque va saliendo y no puede recibirlo. ¿Qué haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Lo dejo dentro de la reja y tomo foto; el cliente ya me autorizó de palabra y queda respaldo.</span>
+                </li>
+              
+
+                <li class="option opt-b is-correct">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le explico que no puedo dejar el paquete sin que alguien lo reciba y reprogramo la entrega.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Marco intento fallido y sigo con la ruta; se vuelve a programar solo.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le pido que me dé unos minutos; si no puede, le marco después para coordinar otra hora.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+
+        <div class="section-header">
+          <div class="section-number mod-green">M2</div>
+          <div class="section-title">
+            <h2>Adaptabilidad</h2>
+            <div class="section-subtitle">Batch 01 · Primeras 5 preguntas</div>
+          </div>
+        </div>
+      
+
+            <div class="question-card mod-green">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 6/25</div>
+                  <div class="q-meta">M2 · 1/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M2-q001</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 6/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Te cambian de zona de reparto sin aviso. No conoces las calles ni los clientes. ¿Qué es lo primero que haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Salgo con GPS y voy preguntando a los clientes conforme llego.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Armo mi ruta basándome en las direcciones y el sentido común; así aprendí mi zona actual.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le pido al encargado un contacto o un mapa de la zona antes de salir.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Pido quedarme un día más en mi zona para cerrar pendientes antes del cambio.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-green">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 7/25</div>
+                  <div class="q-meta">M2 · 2/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M2-q002</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 7/25</span>
+                  <span class="answer-pill">Correcta: <strong>B</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Ponen un sistema nuevo para escanear paquetes y todo toma más tiempo. El encargado quiere el mismo ritmo. ¿Qué es lo primero que haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Me pego con el compañero que más rápido le agarró y le copio los pasos.</span>
+                </li>
+              
+
+                <li class="option opt-b is-correct">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le pido al encargado tiempo o apoyo para aprender el sistema bien antes de que me exijan ritmo.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Escaneo lo que puedo con el nuevo y lo que no alcanzo lo anoto manual para después.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Uso el sistema viejo en lo que sale bien el nuevo; cuando esté estable me cambio.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-green">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 8/25</div>
+                  <div class="q-meta">M2 · 3/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M2-q003</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 8/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Te piden cubrir un turno diferente durante un mes por falta de gente. Te complica en casa pero es temporal. ¿Qué es lo primero que haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le digo que sí pero sugiero que roten para que no siempre le toque al mismo.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le pido que me diga bien qué turno es antes de contestar.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Acepto y le pregunto los horarios exactos para avisarle a mi familia.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Acepto sin preguntar nada; total es un mes y ya pasará.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-green">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 9/25</div>
+                  <div class="q-meta">M2 · 4/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M2-q004</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 9/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Llega un supervisor nuevo y te corrige en público aunque llevas años en el puesto. ¿Qué es lo primero que haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le explico cómo lo he hecho y por qué ha funcionado así.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Aplico su corrección y sigo trabajando; con el tiempo se va a alinear.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Después le pregunto en qué puedo mejorar para que no me corrija frente a todos.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">No digo nada en el momento y espero a ver si cambia su trato.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-green">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 10/25</div>
+                  <div class="q-meta">M2 · 5/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M2-q005</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 10/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Cambian la política y ahora debes llenar una lista de seguridad antes de cada salida. Algunos compañeros ya la marcan sin hacerla. ¿Qué es lo primero que haces?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">La adapto a lo que realmente aplica en mi unidad en vez de llenar todo tal cual.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le pregunto al encargado cuáles puntos son los más importantes para empezar por esos.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">La hago completa aunque me tome más tiempo en salir al inicio.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">La reviso rápido y le meto más detalle conforme me la vaya aprendiendo.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+
+        <div class="section-header">
+          <div class="section-number mod-orange">M3</div>
+          <div class="section-title">
+            <h2>Servicio y ética</h2>
+            <div class="section-subtitle">Batch 01 · Primeras 5 preguntas</div>
+          </div>
+        </div>
+      
+
+            <div class="question-card mod-orange">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 11/25</div>
+                  <div class="q-meta">M3 · 1/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M3-q001</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 11/25</span>
+                  <span class="answer-pill">Correcta: <strong>B</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Un cliente dice que ayer le cobraron dos veces y quiere su devolución ya, pero el sistema está lento y no puedo confirmar el movimiento. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le tomo sus datos y le digo que hoy le llamamos con la solución para no detener la fila.</span>
+                </li>
+              
+
+                <li class="option opt-b is-correct">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le pido que espere unos minutos mientras verifico el cobro en el sistema.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le pido que traiga su estado de cuenta para procesar la devolución con evidencia.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le devuelvo el monto y si no fue doble cobro se ajusta en su próxima visita.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-orange">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 12/25</div>
+                  <div class="q-meta">M3 · 2/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M3-q002</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 12/25</span>
+                  <span class="answer-pill">Correcta: <strong>D</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Llego a entregar un paquete caro y quien recibe no coincide con el nombre de la guía. Dice que es familiar y tiene prisa. No tengo buena señal. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Se lo dejo porque es familiar y vive ahí; el paquete llega a la dirección correcta.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le pido una identificación o que me comunique por teléfono con la persona que aparece en la guía.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Lo marco como no entregado y sigo con mi ruta; que lo reprogramen después.</span>
+                </li>
+              
+
+                <li class="option opt-d is-correct">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">No entrego hasta confirmar la identidad con la persona que aparece en la guía, aunque me atrase.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-orange">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 13/25</div>
+                  <div class="q-meta">M3 · 3/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M3-q003</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 13/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Encuentro cajas con fecha muy próxima en almacén. El encargado me dice que las mezcle con las nuevas para que &#039;salgan&#039;. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Les pongo un descuento especial y las pongo al frente para que se vendan rápido.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Las acomodo con las nuevas porque todavía tienen días y se venden rápido.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Las separo, las marco con la fecha y aviso al encargado que las saque de exhibición.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Las dejo separadas y que el encargado de calidad decida qué hacer con ellas.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-orange">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 14/25</div>
+                  <div class="q-meta">M3 · 4/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M3-q004</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 14/25</span>
+                  <span class="answer-pill">Correcta: <strong>D</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Un cliente pide datos del pedido de su pareja. Dice que vive con ella y es urgente. En pantalla veo dirección y datos sensibles. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le doy solo cómo va el pedido sin datos personales ni dirección.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Lo mando con servicio al cliente para que ahí le ayuden con la autorización.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le doy la información porque es su pareja y puede verificarlo con comprobante de domicilio.</span>
+                </li>
+              
+
+                <li class="option opt-d is-correct">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le digo que no puedo darle información de otra persona sin autorización por escrito.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-orange">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 15/25</div>
+                  <div class="q-meta">M3 · 5/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M3-q005</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 15/25</span>
+                  <span class="answer-pill">Correcta: <strong>D</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Un compañero entregó un pedido a la persona equivocada. Me pide que no lo reporte y que entre los dos lo arreglemos. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le ayudo a reponer con producto de reserva y ya no hace falta reportarlo.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le digo que lo reporte él mismo porque fue su error, no el mío.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Lo ayudo a recuperar el producto y actualizo el registro para que quede correcto.</span>
+                </li>
+              
+
+                <li class="option opt-d is-correct">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Lo reporto y dejo que el proceso formal de recuperación lo resuelva.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+
+        <div class="section-header">
+          <div class="section-number mod-purple">M4</div>
+          <div class="section-title">
+            <h2>Seguridad</h2>
+            <div class="section-subtitle">Batch 01 · Primeras 5 preguntas</div>
+          </div>
+        </div>
+      
+
+            <div class="question-card mod-purple">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 16/25</div>
+                  <div class="q-meta">M4 · 1/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M4-q001</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 16/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Voy manejando la unidad y noto que los frenos responden raro. Llevo carga y me faltan dos entregas. ¿Qué es lo primero que hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Termino la entrega más cercana y después reviso los frenos con calma.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Bajo la velocidad y manejo con más cuidado hasta terminar las dos entregas que faltan.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Me orillo en un lugar seguro y reporto la falla aunque no complete las entregas.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Llamo a la base para avisar y que ellos me digan si sigo o me detengo.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-purple">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 17/25</div>
+                  <div class="q-meta">M4 · 2/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M4-q002</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 17/25</span>
+                  <span class="answer-pill">Correcta: <strong>B</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Acabo de cargar la unidad y noto que una caja pesa mucho más de lo que dice la etiqueta. Estoy atrasado con la ruta. ¿Qué es lo primero que hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le aviso al encargado de almacén y que él decida si la llevo o no.</span>
+                </li>
+              
+
+                <li class="option opt-b is-correct">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">La bajo y la reviso antes de salir aunque me atrase más.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">La reacomodo en la parte baja de la unidad para que no se caiga en el camino.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">La llevo así porque a veces las etiquetas están mal y no ha pasado nada.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-purple">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 18/25</div>
+                  <div class="q-meta">M4 · 3/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M4-q003</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 18/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Al revisar la unidad antes de salir, veo que una llanta se ve un poco baja pero no está ponchada. Tengo la ruta completa y ya es tarde. ¿Qué es lo primero que hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le pongo aire en la gasolinera de la esquina y si aguanta sigo con la ruta.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">La anoto y pido que la revisen cuando regrese.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">No salgo hasta que revisen la llanta y confirmen que está bien.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Salgo normal porque se ve un poco baja pero no es para tanto; si baja más me detengo.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-purple">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 19/25</div>
+                  <div class="q-meta">M4 · 4/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M4-q004</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 19/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">La puerta trasera de la unidad hace un ruido raro al cerrar pero sí cierra. Tengo la ruta llena y ya voy tarde. ¿Qué es lo primero que hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">La anoto para que la revisen cuando regrese.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Si cierra, cierra. La uso normal y la reporto al final del día.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">No salgo hasta que revisen la puerta y me digan que está bien.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">La aseguro con una cinta extra por si acaso y la reviso en cada parada.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-purple">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 20/25</div>
+                  <div class="q-meta">M4 · 5/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M4-q005</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 20/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Al llegar al almacén veo que el piso de la zona de carga está un poco mojado por la lluvia. Hay que descargar rápido porque el camión tiene horario. ¿Qué es lo primero que hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le aviso al encargado del piso mojado y que él decida si descargamos o esperamos.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Descargo con cuidado, paso más lento y aviso a los demás que está resbaloso.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Pido que sequen el piso antes de empezar a descargar aunque se atrase el camión.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Descargo normal porque siempre se moja un poco con la lluvia y nunca ha pasado nada.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+
+        <div class="section-header">
+          <div class="section-number mod-teal">M5</div>
+          <div class="section-title">
+            <h2>Trabajo en equipo</h2>
+            <div class="section-subtitle">Batch 01 · Primeras 5 preguntas</div>
+          </div>
+        </div>
+      
+
+            <div class="question-card mod-teal">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 21/25</div>
+                  <div class="q-meta">M5 · 1/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M5-q001</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 21/25</span>
+                  <span class="answer-pill">Correcta: <strong>B</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Llega un compañero nuevo al equipo y se le complican las ubicaciones del almacén. Los demás siguen con lo suyo. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le paso una lista con las ubicaciones más comunes para que la consulte.</span>
+                </li>
+              
+
+                <li class="option opt-b is-correct">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le explico el sistema de ubicaciones para que entienda la lógica y se ubique solo.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le digo que le pregunte al encargado porque él conoce mejor el acomodo del almacén.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le digo que me siga un rato y vaya viendo cómo lo hago yo.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-teal">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 22/25</div>
+                  <div class="q-meta">M5 · 2/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M5-q002</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 22/25</span>
+                  <span class="answer-pill">Correcta: <strong>A</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Mi compañero de reparto se confunde con las direcciones y llevamos varias entregas pendientes. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a is-correct">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le enseño a leer la lista de entregas para que sepa orientarse solo.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Yo manejo y él va leyendo las direcciones para que practique.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le marco las entregas en orden en el mapa del celular.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le digo que llame a la base para que le den las direcciones.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-teal">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 23/25</div>
+                  <div class="q-meta">M5 · 3/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M5-q003</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 23/25</span>
+                  <span class="answer-pill">Correcta: <strong>C</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Una compañera nueva tiene problemas para manejar a un cliente molesto en caja. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le digo que llame al supervisor para que él maneje la situación.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Me acerco y manejo al cliente frente a ella para que vea cómo se hace.</span>
+                </li>
+              
+
+                <li class="option opt-c is-correct">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Después me siento con ella y le explico cómo manejar ese tipo de clientes.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le paso las frases clave que uso yo cuando un cliente se pone así.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-teal">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 24/25</div>
+                  <div class="q-meta">M5 · 4/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M5-q004</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 24/25</span>
+                  <span class="answer-pill">Correcta: <strong>A</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">Un compañero nuevo se confunde con los pasos de las devoluciones y tiene clientes esperando. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a is-correct">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le explico el proceso completo de devoluciones para que lo entienda.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Le hago un resumen rápido de los pasos en un papelito que pueda consultar.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le digo que me pase los casos complicados y él se quede con los sencillos.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Hago una devolución frente a él paso a paso para que la vea.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+            <div class="question-card mod-teal">
+              <div class="question-header">
+                <div class="q-left">
+                  <div class="q-number">Pregunta 25/25</div>
+                  <div class="q-meta">M5 · 5/5 del módulo</div>
+                  <div class="q-id">block-OPS400-M5-q005</div>
+                </div>
+                <div class="q-right">
+                  <span class="history-pill">Histórica 25/25</span>
+                  <span class="answer-pill">Correcta: <strong>A</strong></span>
+                </div>
+              </div>
+              <div class="question-body">
+                <div class="scenario">El equipo tiene que cerrar el camión y uno de los compañeros no sabe cómo acomodar las cajas para que no se muevan. ¿Qué hago?</div>
+                <ol class="options-list">
+                  
+                <li class="option opt-a is-correct">
+                  <span class="opt-letter">A</span>
+                  <span class="opt-text">Le explico cómo acomodar bien las cajas para que queden firmes.</span>
+                </li>
+              
+
+                <li class="option opt-b">
+                  <span class="opt-letter">B</span>
+                  <span class="opt-text">Armo la primera capa con él para que vea cómo se hace.</span>
+                </li>
+              
+
+                <li class="option opt-c">
+                  <span class="opt-letter">C</span>
+                  <span class="opt-text">Le dibujo un esquema rápido de cómo van las cajas.</span>
+                </li>
+              
+
+                <li class="option opt-d">
+                  <span class="opt-letter">D</span>
+                  <span class="opt-text">Le digo que se ponga con el compañero que mejor acomoda las cajas para que le enseñe.</span>
+                </li>
+              
+                </ol>
+              </div>
+            </div>
+          
+
+    
+      <div class="answer-key">
+        <div class="section-header">
+          <div class="section-number key">✓</div>
+          <div class="section-title">
+            <h2>Clave (opcional)</h2>
+            <div class="section-subtitle">Se muestra solo si activas “Mostrar clave”</div>
+          </div>
+        </div>
+
+        <table class="key-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Módulo</th>
+              <th>Tema</th>
+              <th>ID</th>
+              <th>Correcta</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+        <tr>
+          <td>1</td>
+          <td>M1</td>
+          <td>Integridad</td>
+          <td><code>block-OPS400-M1-q001</code></td>
+          <td><strong>D</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>2</td>
+          <td>M1</td>
+          <td>Integridad</td>
+          <td><code>block-OPS400-M1-q002</code></td>
+          <td><strong>A</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>3</td>
+          <td>M1</td>
+          <td>Integridad</td>
+          <td><code>block-OPS400-M1-q003</code></td>
+          <td><strong>A</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>4</td>
+          <td>M1</td>
+          <td>Integridad</td>
+          <td><code>block-OPS400-M1-q004</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>5</td>
+          <td>M1</td>
+          <td>Integridad</td>
+          <td><code>block-OPS400-M1-q005</code></td>
+          <td><strong>B</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>6</td>
+          <td>M2</td>
+          <td>Adaptabilidad</td>
+          <td><code>block-OPS400-M2-q001</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>7</td>
+          <td>M2</td>
+          <td>Adaptabilidad</td>
+          <td><code>block-OPS400-M2-q002</code></td>
+          <td><strong>B</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>8</td>
+          <td>M2</td>
+          <td>Adaptabilidad</td>
+          <td><code>block-OPS400-M2-q003</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>9</td>
+          <td>M2</td>
+          <td>Adaptabilidad</td>
+          <td><code>block-OPS400-M2-q004</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>10</td>
+          <td>M2</td>
+          <td>Adaptabilidad</td>
+          <td><code>block-OPS400-M2-q005</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>11</td>
+          <td>M3</td>
+          <td>Servicio y ética</td>
+          <td><code>block-OPS400-M3-q001</code></td>
+          <td><strong>B</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>12</td>
+          <td>M3</td>
+          <td>Servicio y ética</td>
+          <td><code>block-OPS400-M3-q002</code></td>
+          <td><strong>D</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>13</td>
+          <td>M3</td>
+          <td>Servicio y ética</td>
+          <td><code>block-OPS400-M3-q003</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>14</td>
+          <td>M3</td>
+          <td>Servicio y ética</td>
+          <td><code>block-OPS400-M3-q004</code></td>
+          <td><strong>D</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>15</td>
+          <td>M3</td>
+          <td>Servicio y ética</td>
+          <td><code>block-OPS400-M3-q005</code></td>
+          <td><strong>D</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>16</td>
+          <td>M4</td>
+          <td>Seguridad</td>
+          <td><code>block-OPS400-M4-q001</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>17</td>
+          <td>M4</td>
+          <td>Seguridad</td>
+          <td><code>block-OPS400-M4-q002</code></td>
+          <td><strong>B</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>18</td>
+          <td>M4</td>
+          <td>Seguridad</td>
+          <td><code>block-OPS400-M4-q003</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>19</td>
+          <td>M4</td>
+          <td>Seguridad</td>
+          <td><code>block-OPS400-M4-q004</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>20</td>
+          <td>M4</td>
+          <td>Seguridad</td>
+          <td><code>block-OPS400-M4-q005</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>21</td>
+          <td>M5</td>
+          <td>Trabajo en equipo</td>
+          <td><code>block-OPS400-M5-q001</code></td>
+          <td><strong>B</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>22</td>
+          <td>M5</td>
+          <td>Trabajo en equipo</td>
+          <td><code>block-OPS400-M5-q002</code></td>
+          <td><strong>A</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>23</td>
+          <td>M5</td>
+          <td>Trabajo en equipo</td>
+          <td><code>block-OPS400-M5-q003</code></td>
+          <td><strong>C</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>24</td>
+          <td>M5</td>
+          <td>Trabajo en equipo</td>
+          <td><code>block-OPS400-M5-q004</code></td>
+          <td><strong>A</strong></td>
+        </tr>
+      
+
+        <tr>
+          <td>25</td>
+          <td>M5</td>
+          <td>Trabajo en equipo</td>
+          <td><code>block-OPS400-M5-q005</code></td>
+          <td><strong>A</strong></td>
+        </tr>
+      
+          </tbody>
+        </table>
+      </div>
+    </div>
+  
+    
+    <script>
+      (function () {
+        const btn = document.getElementById('toggleKeysBtn');
+        const updateLabel = () => {
+          const on = document.body.classList.contains('show-keys');
+          btn.textContent = on ? 'Ocultar clave' : 'Mostrar clave';
+        };
+        btn.addEventListener('click', () => {
+          document.body.classList.toggle('show-keys');
+          updateLabel();
+        });
+        updateLabel();
+      })();
+    </script>
+  
+  </body>
+</html>
