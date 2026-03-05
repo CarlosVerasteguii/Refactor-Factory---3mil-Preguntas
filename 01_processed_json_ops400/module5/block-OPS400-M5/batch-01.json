@@ -4,12 +4,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el almacén estás en picking con una cuota exigente y llega un compañero nuevo que se pierde con las ubicaciones. El resto acelera y lo deja atrás, y sabes que si te detienes a guiarlo el turno se alarga y pierdes descanso. Además, el encargado vigila tiempos del pasillo; ¿cómo actúas para cuidar el ambiente del equipo?",
+    "scenario": "Llega un compañero nuevo al equipo y se le complican las ubicaciones del almacén. Los demás siguen con lo suyo. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes tu marcha para orientarlo sobre las ubicaciones, asumiendo que esto impactará tu métrica de rendimiento diario y reducirá tu tiempo de descanso.",
-      "pragmatic_distractor": "Le indicas las coordenadas clave verbalmente mientras avanzas, equilibrando el apoyo básico con la necesidad operativa de mantener el ritmo de picking.",
-      "evasive_distractor": "Solicitas al supervisor de piso que asigne un tutor para el nuevo ingreso, transfiriendo la responsabilidad de su inducción para no detener tu ruta.",
-      "rationalized_distractor": "Continúas tu recorrido sin detenerte, considerando que la inmersión en el ritmo real de trabajo es la forma más efectiva de aprendizaje bajo presión."
+      "integrity_correct": "Le explico el sistema de ubicaciones para que entienda la lógica y se ubique solo.",
+      "pragmatic_distractor": "Le paso una lista con las ubicaciones más comunes para que la consulte.",
+      "evasive_distractor": "Le digo que le pregunte al encargado porque él conoce mejor el layout.",
+      "rationalized_distractor": "Le digo que me siga un rato y vaya viendo cómo lo hago yo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 1",
     "sot_checksum": "ops400_m5_options_v1"
@@ -19,12 +19,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En reparto vas con un compañero que recién se unió y en una entrega pesada se le cae una caja y se lastima la mano. Quedan varias paradas y el cliente siguiente es exigente, pero si te quedas a ayudarlo pierdes tiempo y tendrás que regresar más tarde. El compañerismo está en juego; ¿cómo decides?",
+    "scenario": "Mi compañero de reparto se confunde con las direcciones y llevamos varias entregas pendientes. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes la marcha para asistirle y reorganizar la carga, aceptando que deberás notificar el retraso y extender la jornada para completar la ruta.",
-      "pragmatic_distractor": "Verificas la herida superficialmente y reorganizas los paquetes más ligeros para él, gestionando el incidente sin detener la operación logística.",
-      "evasive_distractor": "Reportas la situación a la central para que decidan el protocolo a seguir, esperando instrucciones específicas antes de continuar el trayecto.",
-      "rationalized_distractor": "Procedes con el resto de las entregas dejando el paquete incidentado para después, priorizando el cumplimiento de la ventana horaria del cliente."
+      "integrity_correct": "Le enseño a leer las guías de ruta para que sepa orientarse solo.",
+      "pragmatic_distractor": "Le marco las entregas en orden en el mapa del celular.",
+      "evasive_distractor": "Le digo que llame a la base para que le den las direcciones.",
+      "rationalized_distractor": "Yo manejo y él va leyendo las direcciones para que practique."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 2",
     "sot_checksum": "ops400_m5_options_v1"
@@ -34,12 +34,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En caja hay fila larga y una compañera nueva intenta atender a un cliente molesto por un precio. Si intervienes para apoyarla, tu propia fila se retrasa y el supervisor podría llamarte la atención por la espera. El equipo viene tenso y se nota poco apoyo entre turnos; ¿qué haces?",
+    "scenario": "Una compañera nueva tiene problemas para manejar a un cliente molesto en caja. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Pausas tu atención para asistirle con el procedimiento de reclamo, asumiendo la posible molestia de tus clientes por la espera adicional.",
-      "pragmatic_distractor": "Le indicas el código correcto verbalmente mientras escaneas, equilibrando el soporte técnico con la fluidez necesaria en tu propia fila.",
-      "evasive_distractor": "Solicitas por interfono la presencia del supervisor de cajas, delegando la resolución del conflicto para mantener tu estación operativa.",
-      "rationalized_distractor": "Continúas con tu operación, confiando en que enfrentar la presión del cliente por sí misma es necesario para su desarrollo profesional."
+      "integrity_correct": "Después me siento con ella y le explico cómo manejar ese tipo de clientes.",
+      "pragmatic_distractor": "Le paso las frases clave que uso yo cuando un cliente se pone así.",
+      "evasive_distractor": "Le digo que llame al supervisor para que él maneje la situación.",
+      "rationalized_distractor": "Me acerco y manejo al cliente frente a ella para que vea cómo se hace."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 3",
     "sot_checksum": "ops400_m5_options_v1"
@@ -49,12 +49,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el mostrador de devoluciones entra una oleada de clientes y un compañero nuevo confunde los pasos. Si le explicas con calma, atenderás menos personas y el turno se alargará, pero si no lo haces el ambiente se vuelve más tenso. Sabes que la confianza del equipo es frágil; ¿cómo actúas?",
+    "scenario": "Un compañero nuevo se confunde con los pasos de las devoluciones y tiene clientes esperando. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Dedicas tiempo a explicarle el proceso paso a paso, aceptando que tu indicador de atención por hora disminuirá y saldrás más tarde.",
-      "pragmatic_distractor": "Tomas los casos complejos y le asignas las devoluciones estándar, gestionando el flujo de trabajo para evitar cuellos de botella en el servicio.",
-      "evasive_distractor": "Le indicas que revise el manual de operaciones y solicitas refuerzos a otra área, postergando la intervención directa.",
-      "rationalized_distractor": "Le permites gestionar los casos según su criterio, considerando que la agilidad es prioritaria para descongestionar el área en momentos de saturación."
+      "integrity_correct": "Le explico el proceso completo de devoluciones para que lo entienda.",
+      "pragmatic_distractor": "Le hago un resumen rápido de los pasos en un papelito que pueda consultar.",
+      "evasive_distractor": "Le digo que me pase los casos complicados y él se quede con los sencillos.",
+      "rationalized_distractor": "Hago una devolución frente a él paso a paso para que la vea."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 4",
     "sot_checksum": "ops400_m5_options_v1"
@@ -64,12 +64,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el muelle de carga detectas un pallet mal armado justo cuando el equipo quiere cerrar el camión y terminar. Si detienes la carga para corregirlo, todos tendrán que quedarse más tiempo y podrías quedar como el que atrasa. El grupo ya viene con comentarios de “sálvese quien pueda”; ¿qué decides?",
+    "scenario": "El equipo tiene que cerrar el camión y uno de los compañeros no sabe cómo acomodar las cajas para que no se muevan. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes la carga para reconstruir la estiba correctamente, asumiendo que esto retrasará la salida de todo el equipo y generará incomodidad.",
-      "pragmatic_distractor": "Refuerzas externamente el pallet con material adicional, equilibrando la seguridad mínima requerida con la urgencia de cierre del equipo.",
-      "evasive_distractor": "Consultas al supervisor de turno sobre el estado de la carga, transfiriendo la decisión final de embarcarlo o rehacerlo.",
-      "rationalized_distractor": "Embarcas la tarima tal como está, confiando en que la estabilidad de la carga es suficiente para el trayecto y priorizando la moral del equipo."
+      "integrity_correct": "Le explico la técnica de estiba para que aprenda a armar tarimas estables.",
+      "pragmatic_distractor": "Le dibujo un esquema rápido de cómo van las cajas.",
+      "evasive_distractor": "Le digo que se ponga con el compañero que mejor estiba para que le enseñe.",
+      "rationalized_distractor": "Armo la primera capa con él para que vea cómo se hace."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 5",
     "sot_checksum": "ops400_m5_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Durante la reposición nocturna, un compañero llega tarde seguido y el resto se queja diciendo que ya no lo cubrirán. Si decides hablar con él y reorganizar tareas para apoyarlo, terminarás más tarde y podrías quedar como quien protege a quien falla. El clima se está volviendo individualista; ¿cómo actúas?",
+    "scenario": "Un compañero llega tarde seguido y el equipo se queja de que siempre lo cubren. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Dialogas con él y asumes parte de su pasillo para nivelar la carga, aceptando que deberás extender tu jornada para completar tu asignación.",
-      "pragmatic_distractor": "Te concentras en cerrar tu sector rápidamente para poder apoyarlo al final, gestionando tus tiempos para minimizar el impacto en tu salida.",
-      "evasive_distractor": "Sugieres tratar el tema de la puntualidad con recursos humanos, dejando que el proceso disciplinario siga su curso sin intervenir.",
-      "rationalized_distractor": "Te limitas estrictamente a tu asignación, considerando que cubrir sus faltas impide que la gerencia note el problema operativo real."
+      "integrity_correct": "Hablo con él para entender qué le pasa y ver si podemos ajustar algo en el equipo.",
+      "pragmatic_distractor": "Le propongo que usemos un grupo para avisar si alguien va a llegar tarde.",
+      "evasive_distractor": "Le digo que hable con el supervisor para que ajusten su horario.",
+      "rationalized_distractor": "Le cuento cómo yo me organizo para llegar a tiempo por si le sirve."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 6",
     "sot_checksum": "ops400_m5_options_v1"
@@ -94,12 +94,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Vas en caravana con otro conductor y su vehículo pincha a mitad de ruta. Hay entregas con horario fijo y si te detienes a ayudarlo podrían retrasarse, pero dejarlo solo se siente contrario al compañerismo del equipo. La última semana hubo fricciones por falta de apoyo; ¿qué haces?",
+    "scenario": "A mi compañero de ruta se le poncha una llanta y no sabe cambiarla. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes tu unidad para asistir en el cambio de neumático, aceptando el riesgo de incumplir la ventana de entrega y tener que recuperar tiempo.",
-      "pragmatic_distractor": "Coordinas el apoyo vial por radio y aseguras la zona, equilibrando la seguridad del compañero con la continuidad de tu ruta crítica.",
-      "evasive_distractor": "Reportas la avería a la central de monitoreo, transfiriendo la gestión del auxilio mecánico al equipo de soporte en carretera.",
-      "rationalized_distractor": "Continúas hacia tu destino, priorizando el cumplimiento de los indicadores de servicio del cliente corporativo sobre la asistencia en ruta."
+      "integrity_correct": "Le enseño paso a paso cómo cambiar la llanta para que la próxima vez pueda solo.",
+      "pragmatic_distractor": "Le paso un video del celular de cómo se cambia para que lo siga.",
+      "evasive_distractor": "Llamo a la base para que manden auxilio mecánico.",
+      "rationalized_distractor": "La cambio yo mientras él me observa y me pasa las herramientas."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 7",
     "sot_checksum": "ops400_m5_options_v1"
@@ -109,12 +109,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el centro de distribución falla el lector de códigos y el equipo propone anotar a mano sin revisar para avanzar rápido. Si insistes en hacer un doble control para evitar errores, todos tardarán más y podrías quedar como el que no confía en el grupo. Además, sabes que luego se reparten culpas con facilidad; ¿qué decides?",
+    "scenario": "Falla el lector de códigos y el equipo quiere anotar a mano sin revisar para avanzar rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Aplicas el protocolo de verificación manual doble, asumiendo la reducción en la productividad del turno y la posible fricción con el grupo.",
-      "pragmatic_distractor": "Implementas un muestreo aleatorio de las cajas críticas mientras anotas, gestionando el riesgo de error sin detener el flujo operativo.",
-      "evasive_distractor": "Solicitas autorización formal para el procedimiento manual simplificado, esperando la validación de un encargado antes de procesar la carga.",
-      "rationalized_distractor": "Registras los códigos con el método abreviado, considerando que la velocidad es crítica para evitar el colapso del andén en hora pico."
+      "integrity_correct": "Le propongo al equipo un método manual con doble verificación para que no haya errores.",
+      "pragmatic_distractor": "Uso la cámara del celular para escanear los códigos como respaldo.",
+      "evasive_distractor": "Aviso al supervisor para que consiga un lector de respaldo.",
+      "rationalized_distractor": "Yo anoto y otro compañero verifica; así nos repartimos la chamba."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 8",
     "sot_checksum": "ops400_m5_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En la zona de clasificación, el equipo comenta que “aquí nadie ayuda” después de un pico de trabajo. Tú podrías proponer apoyarse para terminar juntos, pero eso implica asumir tareas extra y quedar como quien defiende al responsable del turno. Hay tensión y falta de confianza; ¿qué haces?",
+    "scenario": "Después de un pico de trabajo, el equipo anda tenso y nadie quiere ayudar a nadie. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Distribuyes la carga remanente entre todos y asumes el sector más complejo, aceptando el desgaste adicional y la pérdida de tu pausa.",
-      "pragmatic_distractor": "Optimizas tu proceso para liberar tiempo al final, buscando alternativas para apoyar a los rezagados una vez asegurada tu meta.",
-      "evasive_distractor": "Consultas si existe alguna directriz de horas extra para el equipo, postergando la acción hasta tener claridad administrativa.",
-      "rationalized_distractor": "Completas únicamente tu cuota asignada, considerando que intervenir en otras áreas diluye la responsabilidad individual de cada clasificador."
+      "integrity_correct": "Propongo que nos organicemos para repartir lo que falta entre todos.",
+      "pragmatic_distractor": "Hago una lista de lo pendiente para que cada quien escoja qué tomar.",
+      "evasive_distractor": "Le sugiero al encargado que haga una junta rápida para repartir tareas.",
+      "rationalized_distractor": "Empiezo ayudando al que va más atrasado para que los demás se animen."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 9",
     "sot_checksum": "ops400_m5_options_v1"
@@ -139,12 +139,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Durante el conteo de inventario detectas que un compañero cercano registró mal varias cajas. Si lo ayudas a corregir y vuelves a contar, perderás tiempo y quizá tu zona quede incompleta, pero si lo ocultas se afecta la confianza del equipo. Hay presión por terminar antes de la salida; ¿qué haces?",
+    "scenario": "Un compañero registró mal varias cajas en el inventario y no se dio cuenta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Corriges el inventario erróneo y reinicias el conteo del sector junto a él, aceptando que el cierre administrativo se retrasará.",
-      "pragmatic_distractor": "Ajustas las diferencias numéricas evidentes para cuadrar el sistema, equilibrando la precisión del stock con el tiempo disponible.",
-      "evasive_distractor": "Notificas la discrepancia al auditor de inventarios, dejando la corrección detallada en manos del área especializada.",
-      "rationalized_distractor": "Validas el conteo actual, confiando en que las diferencias menores se ajustarán naturalmente en el próximo ciclo de inventario rotativo."
+      "integrity_correct": "Le muestro dónde se equivocó y le explico cómo verificar para que no le pase de nuevo.",
+      "pragmatic_distractor": "Le hago una tabla con los códigos más comunes que se confunden.",
+      "evasive_distractor": "Le digo que le pida al auditor que le enseñe el sistema de conteo.",
+      "rationalized_distractor": "Le reviso los registros con él y los corregimos juntos."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 10",
     "sot_checksum": "ops400_m5_options_v1"
@@ -154,12 +154,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En atención al cliente, un compañero con acento distinto atiende y algunos colegas se burlan en voz baja, lo que lo pone nervioso. Si intervienes para apoyar y pedir respeto, podrías quedar aislado del grupo y distraerte del trabajo. El ambiente ya viene dividido; ¿cómo actúas?",
+    "scenario": "Algunos compañeros se burlan de un compañero nuevo y él se pone nervioso. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Intervienes para solicitar respeto y asistes en la gestión del cliente, asumiendo la tensión social que esto generará con tus compañeros.",
-      "pragmatic_distractor": "Redireccionas la atención del grupo hacia los pendientes operativos, gestionando el ambiente laboral de forma indirecta para disolver la tensión.",
-      "evasive_distractor": "Solicitas tratar el tema en la próxima junta de retroalimentación, postergando la confrontación para un momento neutral y controlado.",
-      "rationalized_distractor": "Te mantienes al margen de la situación, considerando que la integración social es un proceso que cada individuo debe gestionar por su cuenta."
+      "integrity_correct": "Hablo con el grupo y propongo que lo integremos a las actividades del equipo.",
+      "pragmatic_distractor": "Le digo al compañero que cualquier duda me pregunte a mí para que se sienta más cómodo.",
+      "evasive_distractor": "Le comento al encargado lo que está pasando para que lo maneje.",
+      "rationalized_distractor": "Me pongo a trabajar con él para que los demás vean que es parte del equipo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 11",
     "sot_checksum": "ops400_m5_options_v1"
@@ -169,12 +169,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el muelle de descarga llega un pallet pesado y el equipo quiere moverlo rápido sin usar el equipo de apoyo. Si insistes en esperar el equipo adecuado, todos perderán tiempo y podrías quedar como el que pone reglas, pero hay riesgo de lesión. El clima es de apuro y poca cooperación; ¿qué haces?",
+    "scenario": "Llega una tarima pesada y no hay equipo de carga disponible. El equipo quiere moverla a mano. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes la maniobra hasta traer el equipo de seguridad adecuado, asumiendo la molestia del equipo por la pausa operativa.",
-      "pragmatic_distractor": "Organizas una cuadrilla para mover la carga con técnica manual segura, equilibrando la prevención de riesgos con la falta de herramienta.",
-      "evasive_distractor": "Llamas al supervisor de seguridad e higiene para que evalúe la carga, transfiriendo la autorización de la maniobra a su criterio.",
-      "rationalized_distractor": "Procedes con la descarga manual rápida, confiando en que la agilidad y fuerza del equipo mitigarán el riesgo de fatiga o lesión."
+      "integrity_correct": "Propongo una técnica de carga manual entre varios para que nadie se lastime.",
+      "pragmatic_distractor": "Busco tablas o rodillos que nos ayuden a deslizarla sin cargarla directo.",
+      "evasive_distractor": "Aviso al encargado para que consiga el montacargas o patín.",
+      "rationalized_distractor": "Le digo a todos que carguemos contando a tres para que sea parejo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 12",
     "sot_checksum": "ops400_m5_options_v1"
@@ -184,12 +184,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En caja hay acuerdo de turnos de descanso, pero una compañera se saltó su turno por atender una fila larga y ahora está agotada. Si le cubres unos minutos, tu propio descanso se reducirá y la fila podría crecer, pero el equipo espera apoyo mutuo. Últimamente se escucha que cada quien se salva; ¿qué decides?",
+    "scenario": "Una compañera se saltó su descanso por atender clientes y se ve agotada. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Asumes su posición para que pueda tomar su descanso, aceptando que esto reducirá tu propio tiempo de recuperación y aumentará tu carga.",
-      "pragmatic_distractor": "Le sugieres tomar micro-descansos estratégicos entre clientes, gestionando su fatiga sin detener la operación continua de las cajas.",
-      "evasive_distractor": "Recomiendas que solicite autorización al jefe de cajas para una pausa, dejando la gestión de horarios al responsable del área.",
-      "rationalized_distractor": "Mantienes tu posición operativa, considerando que alterar los turnos programados puede generar un descontrol mayor en el servicio al cliente."
+      "integrity_correct": "Le propongo al equipo que hagamos turnos de cobertura para que todos descansen.",
+      "pragmatic_distractor": "Le armo un horario de relevos con los demás para que sepa cuándo le toca.",
+      "evasive_distractor": "Le digo que le avise al jefe para que mande refuerzo y pueda descansar.",
+      "rationalized_distractor": "La relevo yo un rato para que descanse."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 13",
     "sot_checksum": "ops400_m5_options_v1"
@@ -199,12 +199,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En reparto ves que un compañero nuevo se confunde con varias direcciones y está por regresar con paquetes sin entregar. Si lo ayudas a reordenar la ruta, perderás tiempo y tal vez tengas que terminar tus entregas más tarde, pero dejarlo solo afecta la confianza. El equipo dice que los nuevos deben hacerse fuertes; ¿qué haces?",
+    "scenario": "Un compañero nuevo de reparto se confunde con varias direcciones y quiere devolver paquetes. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Revisas su itinerario y le acompañas en las entregas críticas, asumiendo el impacto en tu hora de término y descanso.",
-      "pragmatic_distractor": "Le marcas en el mapa la secuencia lógica óptima, buscando una alternativa que le permita corregir el rumbo sin tu intervención directa.",
-      "evasive_distractor": "Le indicas que contacte a logística para reprogramar las entregas, transfiriendo la resolución al área de planeación de rutas.",
-      "rationalized_distractor": "Sigues tu ruta establecida, priorizando el cumplimiento de tus propios indicadores de efectividad para asegurar el cierre del día."
+      "integrity_correct": "Le enseño a usar la app de mapas con la secuencia de entregas para que aprenda a planear.",
+      "pragmatic_distractor": "Le marco en un mapa las direcciones en el orden más lógico.",
+      "evasive_distractor": "Le digo que llame a logística para que le reprogramen la ruta.",
+      "rationalized_distractor": "Lo acompaño en las primeras entregas para que agarre confianza."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 14",
     "sot_checksum": "ops400_m5_options_v1"
@@ -214,12 +214,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el área de devoluciones, un compañero se siente mal pero quiere terminar su lote para no dejar trabajo. Si te ofreces a cargar parte de su tarea, tu propio cierre se retrasará y podrías salir más tarde, pero el equipo valora el apoyo. El ambiente ha estado frío por metas difíciles; ¿qué haces?",
+    "scenario": "Un compañero se siente mal pero quiere terminar su lote para no dejar trabajo pendiente. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Procesas sus devoluciones pendientes para que pueda retirarse, asumiendo la carga de trabajo adicional y el retraso en tu salida.",
-      "pragmatic_distractor": "Le ayudas a organizar su lote por prioridad de proceso, gestionando el flujo para que pueda cerrar lo antes posible con menos esfuerzo.",
-      "evasive_distractor": "Preguntas en el grupo si alguien tiene disponibilidad inmediata, esperando que un voluntario con menos carga cubra la necesidad.",
-      "rationalized_distractor": "Te enfocas en cerrar tu propia área, considerando que cumplir con el procedimiento individual es la mejor forma de apoyar la operación global."
+      "integrity_correct": "Le propongo al equipo que nos repartamos su lote para que él descanse sin que quede pendiente.",
+      "pragmatic_distractor": "Le organizo su lote por prioridad para que cierre lo urgente y deje el resto.",
+      "evasive_distractor": "Le digo que avise al encargado para que manden a alguien de apoyo.",
+      "rationalized_distractor": "Me quedo con él y entre los dos sacamos su lote más rápido."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 15",
     "sot_checksum": "ops400_m5_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el almacén descubres mercancía dañada y el grupo sugiere apartarla sin reportar para no rehacer el conteo. Si reportas, habrá que repetir tareas y varios se enojarán contigo por el retraso, pero callarlo afecta la confianza. El tono del turno es de no complicarse; ¿qué decides?",
+    "scenario": "Descubro mercancía dañada en el almacén y el equipo quiere apartarla sin reportar para no repetir el conteo. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras la merma y reinicias el conteo del lote afectado, asumiendo la fricción con el equipo por el tiempo invertido.",
-      "pragmatic_distractor": "Separas el producto dañado para una revisión posterior, equilibrando el control de calidad con la necesidad de avanzar en el inventario.",
-      "evasive_distractor": "Consultas la política de mermas con el supervisor en turno, dejando la decisión de registro inmediato en su cancha.",
-      "rationalized_distractor": "Contabilizas el producto como apto provisionalmente, priorizando el cierre administrativo del inventario en tiempo y forma."
+      "integrity_correct": "Le propongo al equipo que reportemos y nos repartamos el reconteo entre todos para que sea rápido.",
+      "pragmatic_distractor": "Separo la mercancía dañada y la documento con fotos para que el reporte sea más fácil.",
+      "evasive_distractor": "Le aviso al supervisor para que él decida cómo manejar la merma.",
+      "rationalized_distractor": "Aparto la mercancía y la registro yo solo para no involucrar a todo el equipo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 16",
     "sot_checksum": "ops400_m5_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En la ruta, un compañero olvidó su lector y no puede confirmar entregas. Si le prestas el tuyo y haces registros manuales, perderás tiempo y quizá te llamen la atención por faltas de registro, pero dejarlo sin apoyo lo expone frente al cliente. El equipo habla de confianza, pero pocos la practican; ¿qué haces?",
+    "scenario": "Un compañero de ruta olvidó su lector y no puede confirmar entregas. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Compartes tu dispositivo y realizas tus propios registros manualmente, asumiendo el riesgo de errores administrativos y la lentitud del proceso.",
-      "pragmatic_distractor": "Le sugieres tomar fotos de las guías como evidencia de entrega, gestionando una solución temporal para no detener el servicio.",
-      "evasive_distractor": "Solicitas a soporte técnico el envío de un equipo de reemplazo al punto de encuentro, transfiriendo la solución a la central.",
-      "rationalized_distractor": "Mantienes el uso de tu equipo asignado, considerando que la trazabilidad digital de tus envíos es tu responsabilidad contractual primaria."
+      "integrity_correct": "Le propongo un sistema: él toma fotos de las guías y yo le paso mi lector en los puntos donde nos crucemos.",
+      "pragmatic_distractor": "Le sugiero que use la cámara del celular para dejar evidencia de cada entrega.",
+      "evasive_distractor": "Le digo que llame a soporte para que le envíen un lector de respaldo.",
+      "rationalized_distractor": "Le presto mi lector en la primera parada y me lo devuelve en la siguiente."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 17",
     "sot_checksum": "ops400_m5_options_v1"
@@ -259,12 +259,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Durante la reposición, escuchas que en atención al cliente hay una fila larga y un compañero solo. Si dejas tu pasillo para ayudar, tu zona quedará incompleta y podrías recibir un reclamo por no terminar, pero apoyar podría mejorar el clima del equipo. La tienda está tensa por el “cada quien a lo suyo”; ¿cómo actúas?",
+    "scenario": "Escucho que en otra área hay fila larga y un compañero solo. Mi zona aún tiene pendientes. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Acudes al mostrador para descongestionar la fila, asumiendo que deberás acelerar el paso al regresar para completar tu pasillo.",
-      "pragmatic_distractor": "Continúas con la reposición de productos prioritarios, equilibrando la urgencia del cliente en caja con la disponibilidad en estante.",
-      "evasive_distractor": "Avisas por radio que se requiere apoyo en el área de cajas, delegando la asignación de recursos al gerente en turno.",
-      "rationalized_distractor": "Permaneces en tu zona de trabajo asignada, priorizando la disponibilidad de producto en piso de venta como tu aporte principal."
+      "integrity_correct": "Le propongo al equipo que alguien con menos carga vaya a apoyar mientras los demás cubrimos.",
+      "pragmatic_distractor": "Termino lo urgente de mi zona y después me paso a ayudarle un rato.",
+      "evasive_distractor": "Aviso por radio para que el encargado mande refuerzo.",
+      "rationalized_distractor": "Voy directo a ayudarle y luego regreso a terminar lo mío."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 18",
     "sot_checksum": "ops400_m5_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "En el área de empaque, el grupo decide dejar fuera a un compañero lento de la rotación para avanzar más rápido. Si lo integras y le das parte de su trabajo, el ritmo bajará y podrías quedar mal con quienes impulsan la decisión, pero la pertenencia del equipo se resiente si lo aíslan. Además, todos están cansados; ¿qué haces?",
+    "scenario": "El equipo decide sacar de la rotación a un compañero lento para avanzar más rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Integras al compañero en la línea y compensas su ritmo compartiendo carga, asumiendo el impacto en la productividad colectiva.",
-      "pragmatic_distractor": "Le asignas tareas de preparación de material fuera de la línea principal, gestionando su participación sin afectar la velocidad de empaque.",
-      "evasive_distractor": "Sugieres evaluar la distribución de personal en la junta semanal, postergando la reorganización operativa para evitar conflictos.",
-      "rationalized_distractor": "Mantienes la rotación optimizada tal como está, considerando que el cumplimiento de la meta diaria beneficia a todo el departamento."
+      "integrity_correct": "Propongo que le asignemos tareas donde pueda aportar a su ritmo sin frenar la línea.",
+      "pragmatic_distractor": "Le preparo las piezas más fáciles para que fluya mejor en la rotación.",
+      "evasive_distractor": "Le sugiero al encargado que redistribuya las posiciones según habilidades.",
+      "rationalized_distractor": "Lo integro conmigo en mi estación y entre los dos sacamos el trabajo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 19",
     "sot_checksum": "ops400_m5_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Al finalizar ruta, todos deben limpiar el vehículo, pero un compañero suele irse antes y deja su cabina sucia. Si lo enfrentas y te quedas a limpiar con él, perderás tu salida y quizá generes conflicto con el grupo, pero dejarlo pasar alimenta el individualismo. El equipo necesita confianza; ¿cómo actúas?",
+    "scenario": "Un compañero siempre deja su unidad sucia al final de la ruta y los demás se quejan. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le solicitas realizar la limpieza y le asistes para agilizar el proceso, asumiendo la incomodidad de confrontar el incumplimiento.",
-      "pragmatic_distractor": "Realizas una limpieza general rápida de ambas unidades, equilibrando el estándar de higiene con la necesidad de cumplir tu hora de salida.",
-      "evasive_distractor": "Dejas una nota en la bitácora de mantenimiento sobre el estado de la unidad, transfiriendo el reporte de la incidencia a la supervisión.",
-      "rationalized_distractor": "Ignoras el estado de su unidad y te ocupas de la tuya, priorizando mantener un ambiente laboral libre de conflictos menores."
+      "integrity_correct": "Propongo al equipo un rol de revisión rotativo para que todos cumplan con la limpieza.",
+      "pragmatic_distractor": "Le hago una lista de lo que debe limpiar para que sea rápido y no se le olvide.",
+      "evasive_distractor": "Le aviso al encargado para que lo incluya en las revisiones de cierre.",
+      "rationalized_distractor": "Le ayudo a limpiar su unidad para que vea que no toma tanto tiempo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 01 item 20",
     "sot_checksum": "ops400_m5_options_v1"
