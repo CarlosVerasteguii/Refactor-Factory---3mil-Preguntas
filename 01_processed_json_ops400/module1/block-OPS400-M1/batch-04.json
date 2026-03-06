@@ -229,12 +229,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Un cliente te reclama por un daño que, según tú, ya venía en el producto cuando lo recibió, pero no quedó anotado. Te pide que “arregles” el registro diciendo que fue daño en tienda para que lo cambien. Si aceptas, lo ayudas y evitas queja; si no, se enfurece y te deja una mala reseña. Sabes que mentir complica el control. ¿Qué haces?",
+    "scenario": "Un cliente quiere cambiar un producto que dice que venía roto de fábrica, pero no está anotado en el sistema. Si le creo tengo que inventar un reporte; si no, se va enojado y perdemos al cliente. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras el daño con la causa real observada, manteniendo la integridad del reporte histórico pese a la insistencia del cliente.",
-      "pragmatic_distractor": "Exploras garantías vigentes que cubran el daño real o alternativas de servicio, buscando ayudar al cliente mediante canales legítimos.",
-      "evasive_distractor": "Sugieres al cliente regresar en otro horario para revisión técnica especializada, desplazando la resolución del conflicto inmediato.",
-      "rationalized_distractor": "Procesas el cambio bajo el motivo solicitado por el cliente para asegurar su fidelidad y cerrar el caso positivamente sin discusiones."
+      "integrity_correct": "Le explico que no puedo hacer el cambio sin el registro previo del daño.",
+      "pragmatic_distractor": "Busco si hay alguna garantía vigente que cubra el daño sin necesidad de reporte previo.",
+      "evasive_distractor": "Le pido que hable con el supervisor para ver si autoriza una excepción.",
+      "rationalized_distractor": "Registro que el daño ocurrió en la tienda hoy para poder hacerle el cambio y que se vaya contento."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 04 item 16",
     "sot_checksum": "ops400_m1_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "En la unidad encuentras una bolsa con mercancía sin ticket. Un compañero dice que la guardes porque “si no aparece nadie, es tuya”. Si la reportas, tienes que registrar el hallazgo y quizá sospechen de ti; si te la quedas, obtienes beneficio pero sabes que no te pertenece. Estás por terminar el turno. ¿Qué haces?",
+    "scenario": "Encuentro un paquete pequeño sin registrar en una zona común del almacén. Nadie me vio encontrarlo y mi turno ya terminó. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Entregas el artículo al área de resguardo siguiendo el protocolo de objetos perdidos, invirtiendo tiempo en el registro formal del hallazgo.",
-      "pragmatic_distractor": "Reportas el hallazgo brevemente a seguridad para activar la búsqueda del dueño sin detener tu proceso de salida excesivamente.",
-      "evasive_distractor": "Ignoras el objeto y te retiras del área, dejando que el personal del siguiente turno o limpieza gestione la situación si la encuentran.",
-      "rationalized_distractor": "Tomas el artículo bajo custodia personal, asumiendo que el abandono en esa zona implica renuncia de propiedad por parte del dueño."
+      "integrity_correct": "Me quedo unos minutos más para entregarlo formalmente en el área de resguardo.",
+      "pragmatic_distractor": "Se lo encargo al compañero que va entrando para que él lo reporte.",
+      "evasive_distractor": "Lo dejo donde lo encontré para que lo vea el personal de limpieza.",
+      "rationalized_distractor": "Lo guardo en mi locker para reportarlo mañana con más calma y no atrasar mi salida."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 04 item 17",
     "sot_checksum": "ops400_m1_options_v1"
@@ -259,12 +259,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Un compañero te pide que le prestes tu identificación para entrar a un área porque la suya no funciona hoy. Dice que solo será un minuto y que si no, se atrasan. Si la prestas, evitas problema, pero el control queda a tu nombre; si no, se enoja y te acusa de no apoyar al equipo. ¿Qué haces?",
+    "scenario": "Un compañero olvidó su clave de acceso y me pide la mía solo para sacar un reporte rápido. Si se la doy me ahorro ir hasta su estación a ayudarlo. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Mantienes tu identificación personal y rechazas el préstamo, protegiendo el control de accesos individual asignado a tu cargo.",
-      "pragmatic_distractor": "Gestionas el acceso del compañero a través de seguridad o supervisión, validando su entrada por la vía oficial para evitar retrasos.",
-      "evasive_distractor": "Evades la solicitud alegando que necesitas tu identificación para otra tarea inmediata, evitando el conflicto directo con el compañero.",
-      "rationalized_distractor": "Prestas tu identificación brevemente para agilizar el flujo de trabajo del equipo y evitar retrasos operativos innecesarios."
+      "integrity_correct": "Le digo que no puedo darle mi clave por seguridad.",
+      "pragmatic_distractor": "Voy con él y yo mismo ingreso mi clave para sacar el reporte.",
+      "evasive_distractor": "Le digo que le pida a sistemas que le resetee su clave lo antes posible.",
+      "rationalized_distractor": "Se la doy solo por esta vez para que no se detenga la operación."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 04 item 18",
     "sot_checksum": "ops400_m1_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "En la preparación de pedidos, te ofrecen registrar como “frágil” solo algunos paquetes para ahorrar en material de protección, aunque varios lo requieren. Si lo haces, reduces costo y tiempo, pero aumentas el riesgo de daño. Si lo haces bien, se gasta más y el encargado te presiona por eficiencia. ¿Qué haces?",
+    "scenario": "El encargado me pide que no marque como 'frágil' todos los paquetes decorativos para ahorrar en etiquetas y tiempo de empaque. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Etiquetas y proteges todos los paquetes que lo requieren técnicamente, defendiendo el estándar de calidad frente a la presión de reducción de costos.",
-      "pragmatic_distractor": "Optimizas el uso de material en los ítems críticos y señalizas claramente, balanceando la seguridad del envío con el ahorro de insumos.",
-      "evasive_distractor": "Sigues el ritmo de empaquetado general sin aplicar criterios específicos, diluyendo tu responsabilidad individual en el proceso grupal.",
-      "rationalized_distractor": "Omites el etiquetado especial para reducir tiempos y costos, confiando en el manejo estándar de la paquetería para la protección."
+      "integrity_correct": "Sigo marcándolos como frágiles si creo que realmente lo necesitan.",
+      "pragmatic_distractor": "Propongo usar una marca más sencilla o cinta especial que identifique el riesgo sin usar etiqueta de lujo.",
+      "evasive_distractor": "Marco solo los más caros para cumplir a medias con la instrucción y con la seguridad.",
+      "rationalized_distractor": "Dejo de marcarlos confiando en que el manejo de la paquetería será cuidadoso."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 04 item 19",
     "sot_checksum": "ops400_m1_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "En un punto de entrega te das cuenta de que el cliente te dio un billete de más por error, pero él ya se fue hacia su auto. Podrías guardártelo y nadie lo sabría, o salir a devolvérselo y perder tiempo. Si lo devuelves, quizá te agradece, pero también te expones a preguntas o a que otros se burlen de ti. ¿Qué haces?",
+    "scenario": "Un cliente me dio propina por un servicio que es gratuito. La política de la empresa prohíbe aceptar propinas. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Interrumpes tu ruta para alcanzar al cliente y rectificar el pago, priorizando la honestidad sobre la eficiencia del tiempo de entrega.",
-      "pragmatic_distractor": "Buscas una vía rápida de comunicación o devolución inmediata para corregir el saldo sin desviar significativamente tu ruta programada.",
-      "evasive_distractor": "Guardas el excedente aparte a la espera de un posible reclamo futuro del cliente, posponiendo la acción correctiva activa.",
-      "rationalized_distractor": "Integras el excedente a tus fondos personales, interpretando el error ajeno como una propina circunstancial por el servicio."
+      "integrity_correct": "Le agradezco pero le digo que no puedo recibir dinero extra por mi trabajo.",
+      "pragmatic_distractor": "Le pido que si quiere agradecer, ponga una buena reseña del servicio en la encuesta.",
+      "evasive_distractor": "Le digo que lo ponga en la caja de donaciones si quiere aportar algo.",
+      "rationalized_distractor": "Acepto la propina para no ofender al cliente, ya que insistió mucho."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 04 item 20",
     "sot_checksum": "ops400_m1_options_v1"
