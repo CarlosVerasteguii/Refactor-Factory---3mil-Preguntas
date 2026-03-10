@@ -19,7 +19,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Una compañera me pide que le pase la respuesta a la evaluación de seguridad por WhatsApp porque tiene demasiada carga y si no aprueba rápido, nos penalizan el bono de área. ¿Qué decides hacer?",
+    "scenario": "Una compañera me pide que le pase la respuesta a la evaluación de seguridad por mensajería porque tiene demasiada carga y si no aprueba rápido, nos penalizan el bono de área. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Me niego a darle las respuestas directo del cuestionario de la evaluación de seguridad.",
       "pragmatic_distractor": "Le paso un resumen rápido de la guía para que ella conteste sola sin darle la clave exacta directamente.",
@@ -154,7 +154,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un colega de otra tienda me pide por WhatsApp que le comparta el archivo privado de nuestra estrategia comercial para usarlo él. Si se lo niego, me dirá que soy un mal compañero corporativo. ¿Qué decides hacer?",
+    "scenario": "Un colega de otra tienda me pide por mensajería que le comparta el archivo privado de nuestra estrategia comercial para usarlo él. Si se lo niego, me dirá que soy un mal compañero corporativo. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Le informo que el documento es interno y cierro el tema declinando su solicitud de información.",
       "pragmatic_distractor": "Le explico a grandes rasgos por nota de voz de qué trata la estrategia sin mandarle el documento oficial.",
@@ -263,7 +263,7 @@
     "options_structured": {
       "integrity_correct": "Sigo el reglamento de la tienda reportando que presencié un consumo no pagado en área comercial.",
       "pragmatic_distractor": "Lo obligo a acompañarme a la caja a pagar inmediatamente el producto de su propio bolsillo sin hacer un reporte formal al gerente.",
-      "evasive_distractor": "Hablo con la persona de recursos humanos para decirle que ando incómodo en mi puesto y pido que me cambien de área comercial.",
+      "evasive_distractor": "Hablo con mi supervisor para decirle que ando incómodo en mi puesto y pido que me cambien de área comercial.",
       "rationalized_distractor": "Le guardo el secreto por pura compasión humana porque un producto de comida pesa menos que el sustento de toda una familia."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 18",

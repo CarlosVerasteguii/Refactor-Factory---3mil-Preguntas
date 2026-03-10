@@ -49,11 +49,11 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la evaluación mensual del KPI de almacén estamos empatados con la sucursal Sur. Mi gerente me insinúa saltarnos el escaseo de merma de hoy para no sumar defectuosos que nos hagan perder frente a la otra tienda. ¿Qué decides hacer?",
+    "scenario": "En la evaluación mensual del indicador de almacén estamos empatados con la sucursal Sur. Mi gerente me insinúa saltarnos el escaseo de merma de hoy para no sumar defectuosos que nos hagan perder frente a la otra tienda. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Realizo mis actividades obligatorias incluyendo el registro oficial de la merma dentro del sistema.",
       "pragmatic_distractor": "Escaneo hoy solo la merma más barata para disimular y escondo en una gaveta el producto defectuoso caro para escaneos de mañana.",
-      "evasive_distractor": "Simulo tener un problema de software en mi equipo escáner portátil para que alguien más asuma el registro.",
+      "evasive_distractor": "Simulo tener un problema técnico con mi equipo escáner portátil para que alguien más asuma el registro.",
       "rationalized_distractor": "Omito cargar las mermas el día de hoy porque un equipo resiliente protege sus victorias motivacionales primero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 4",
@@ -64,11 +64,11 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Para impresionar a su supervisor corporativo que acaba de llegar de visita, mi compañero me pide por Whatsapp interno que le preste mis registros de métricas altas para presentarlos como si los hubiera hecho toda el área. ¿Qué decides hacer?",
+    "scenario": "Para impresionar a su supervisor corporativo que acaba de llegar de visita, mi compañero me pide por mensajería interna que le preste mis registros de métricas altas para presentarlos como si los hubiera hecho toda el área. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Señalo las métricas verdaderas que me corresponden de manera precisa en los reportes correspondientes al área.",
       "pragmatic_distractor": "Le comparto solo unas cuantas métricas intermedias mías para que luzca pero sin comprometer mi puntaje de excelencia total.",
-      "evasive_distractor": "Apago mi Whatsapp por el momento para fingir que no vi jamás su solicitud de préstamo de resultados.",
+      "evasive_distractor": "Silencio la mensajería por el momento para fingir que no vi jamás su solicitud de préstamo de resultados.",
       "rationalized_distractor": "Se los presto confiando en que el éxito individual no existe y que todas las validaciones son logros genuinamente de equipo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 5",
@@ -141,10 +141,10 @@
     "type": "options",
     "scenario": "En el chat grupal de los empleados del turno, los de cajas pesillas y almacén están insultando durísimo al gerente operativo nombrándolo con adjetivos discriminatorios. Algunos sugieren que no diga nada quien no los apoya. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el protocolo de reporte anónimo con recursos humanos local.",
+      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el canal interno de reporte anónimo local.",
       "pragmatic_distractor": "Me limito a escribirles un \"Pobrecito\" un poco sarcástico para participar en el chat sin decir un adjetivo directamente grueso.",
       "evasive_distractor": "Simplemente 'archivo' el chat grupal para no estar viendo las notificaciones polémicas y mantenerme sumamente alejado del conflicto.",
-      "rationalized_distractor": "Borro los mensajes en mi celular para no dejar rastro, entendiendo que el chat de WhatsApp es un escape psicológico de la dura presión laboral operaria."
+      "rationalized_distractor": "Borro los mensajes en mi celular para no dejar rastro, entendiendo que el chat de mensajería es un escape psicológico de la dura presión laboral operaria."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 10",
     "sot_checksum": "ops400_m3_options_v1"
