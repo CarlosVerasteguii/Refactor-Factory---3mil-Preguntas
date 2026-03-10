@@ -21,7 +21,7 @@
     "type": "options",
     "scenario": "Llego a entregar un paquete caro y quien recibe no coincide con el nombre de la guía. Dice que es familiar y tiene prisa. No tengo buena señal. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "No entrego hasta confirmar la identidad con la persona que aparece en la guía, aunque me atrase.",
+      "integrity_correct": "No entrego hasta confirmar la identidad con la persona que aparece en la guía.",
       "pragmatic_distractor": "Le pido una identificación o que me comunique por teléfono con la persona que aparece en la guía.",
       "evasive_distractor": "Lo marco como no entregado y sigo con mi ruta; que lo reprogramen después.",
       "rationalized_distractor": "Se lo dejo porque es familiar y vive ahí; el paquete llega a la dirección correcta."
@@ -96,7 +96,7 @@
     "type": "options",
     "scenario": "Un compañero se lastima en la bodega y me pide que diga que fue fuera del trabajo para que no lo reporten. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Aviso que se lastimó en la bodega y lleno el reporte de accidente aunque se enoje conmigo.",
+      "integrity_correct": "Aviso que se lastimó en la bodega y lleno el reporte de accidente como marca el proceso.",
       "pragmatic_distractor": "Lo llevo al médico de la empresa primero y ya ahí que decidan cómo clasificar el accidente.",
       "evasive_distractor": "Le digo que él decida qué reportar porque yo no vi cómo pasó.",
       "rationalized_distractor": "Lo apoyo con su versión porque lo importante es que lo atiendan rápido, no el papeleo."
@@ -126,7 +126,7 @@
     "type": "options",
     "scenario": "Un cliente me ofrece dinero para que registre la entrega en otra dirección porque no quiere que su familia sepa. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registro la dirección real de entrega aunque el cliente se moleste y me ponga mala calificación.",
+      "integrity_correct": "Registro la dirección real en la que estoy realizando la entrega en el sistema.",
       "pragmatic_distractor": "Le propongo un punto de entrega oficial cercano que le dé más privacidad sin cambiar el registro.",
       "evasive_distractor": "Le digo que el GPS del sistema no me deja cambiar la ubicación.",
       "rationalized_distractor": "Registro donde me pide porque al final el paquete sí se entregó y el cliente está satisfecho."
@@ -141,7 +141,7 @@
     "type": "options",
     "scenario": "En inventario faltan piezas y el encargado me dice que ajuste el sistema para que cuadre, que luego 'aparecen'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto el faltante real aunque se extienda el cierre y todos se queden más tiempo.",
+      "integrity_correct": "Reporto el faltante real en el sistema de inventario para que quede registrado el descuadre.",
       "pragmatic_distractor": "Hago un conteo rápido cruzado para ver si es error de captura antes de reportar.",
       "evasive_distractor": "Me hago a un lado y dejo que el encargado cierre como él quiera, es su responsabilidad.",
       "rationalized_distractor": "Ajusto el sistema porque son pocas piezas y siempre aparecen al día siguiente."
@@ -156,7 +156,7 @@
     "type": "options",
     "scenario": "Veo a un cliente guardar un producto sin pagar. Va con un niño y se ve nervioso. Mi compañero me dice que lo deje ir. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Me acerco y le pido que pase a pagar, aunque se arme una escena frente a la gente.",
+      "integrity_correct": "Me acerco cortesmente y le indico que pase a la caja a pagar el producto.",
       "pragmatic_distractor": "Me acerco y le ofrezco ayuda como si fuera servicio al cliente para que sepa que lo vi.",
       "evasive_distractor": "Aviso a seguridad por radio y dejo que ellos se encarguen.",
       "rationalized_distractor": "Lo dejo ir porque es un alimento y va con un niño; no vale la pena el escándalo."
@@ -171,7 +171,7 @@
     "type": "options",
     "scenario": "Un cliente mayor no entiende un cobro y quiere que le explique con calma. La fila está larga y mi compañero me presiona. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Me tomo el tiempo que necesite para explicarle bien aunque la fila crezca.",
+      "integrity_correct": "Me tomo el tiempo que necesite para explicarle claramente el cobro realizado.",
       "pragmatic_distractor": "Le explico lo más importante en pocas palabras y le doy el ticket para que lo revise con calma.",
       "evasive_distractor": "Le pido a un compañero que le explique mientras yo sigo atendiendo la fila.",
       "rationalized_distractor": "Le cobro y le digo que si tiene dudas regrese después con el ticket; la fila no puede esperar."
@@ -186,7 +186,7 @@
     "type": "options",
     "scenario": "Un cliente quiere devolver un producto que ya usó. Dice que 'no lo ocupó'. Mi compañero me dice que lo acepte para evitar pleito. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que no aplica devolución porque el producto ya fue usado, aunque haga escándalo.",
+      "integrity_correct": "Le explico que por política no aplica devolución porque el producto ya fue usado.",
       "pragmatic_distractor": "Consulto con el supervisor si puede haber un cambio parcial o crédito en tienda.",
       "evasive_distractor": "Le digo que el sistema no me deja procesar la devolución y que hable con el gerente.",
       "rationalized_distractor": "Se lo acepto porque retener al cliente es más importante que una devolución pequeña."
@@ -201,7 +201,7 @@
     "type": "options",
     "scenario": "Un paquete se dañó en ruta por cómo lo acomodé. El cliente me pide que lo marque como 'daño en origen' para que le cambien rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto que el daño fue en ruta aunque el trámite sea más lento y el cliente se enoje.",
+      "integrity_correct": "Reporto y documento gráficamente que el daño ocurrió durante el trayecto de la ruta.",
       "pragmatic_distractor": "Tomo fotos del estado actual y abro el reclamo sin alterar la causa, para que resuelvan rápido.",
       "evasive_distractor": "Le digo al cliente que lo reporte él directo al servicio al cliente con las fotos.",
       "rationalized_distractor": "Lo marco como daño en origen porque al final el cliente va a recibir su cambio igual."
@@ -216,7 +216,7 @@
     "type": "options",
     "scenario": "Un conocido me pide que le adelante su pedido saltando a otros que llegaron antes. Mi compañero dice que 'no pasa nada'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que tiene que esperar su turno como todos aunque se ofenda.",
+      "integrity_correct": "Le pido que tome su lugar y espere su turno conforme al orden de llegada.",
       "pragmatic_distractor": "Empiezo a preparar su pedido sin saltarme a nadie para tenerlo listo cuando le toque.",
       "evasive_distractor": "Le digo que el sistema ordena por llegada y que no puedo cambiarlo yo.",
       "rationalized_distractor": "Lo atiendo primero porque es rápido y nadie se va a dar cuenta."
@@ -231,7 +231,7 @@
     "type": "options",
     "scenario": "El termómetro del área fría marca fuera de rango por ratos. El encargado me pide anotar valores normales para no perder un lote. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Anoto el valor real aunque se pierda el lote y me culpen por el costo.",
+      "integrity_correct": "Anoto el valor real que marca el termómetro en la bitácora de control de temperatura.",
       "pragmatic_distractor": "Reviso si el sensor está bien calibrado y ajusto la ventilación antes de tomar la lectura.",
       "evasive_distractor": "No anoto nada esta hora y espero a que se estabilice para la siguiente medición.",
       "rationalized_distractor": "Anoto el valor normal porque el producto aguanta y no vale la pena perder un lote entero."
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "Un cliente quiere que le confirme un servicio para hoy, pero aún no está disponible. Mi compañero me dice que le prometa para no perder la venta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo los tiempos reales de confirmación aunque se vaya y pierda la venta.",
+      "integrity_correct": "Le informo objetivamente los tiempos reales que requiere el sistema para la confirmación.",
       "pragmatic_distractor": "Le ofrezco una reserva condicionada a confirmación para que no se comprometa sin garantía.",
       "evasive_distractor": "Le tomo sus datos y le digo que le confirmo por teléfono más tarde.",
       "rationalized_distractor": "Le confirmo porque seguro se va a liberar y si no, ya lo resolvemos después."
@@ -261,7 +261,7 @@
     "type": "options",
     "scenario": "Un cliente tira un producto y se rompe. Dice que ya estaba así y quiere cambio gratis. Mi compañero me dice que lo resuelva rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que el daño fue en tienda y no aplica cambio, aunque se enoje frente a todos.",
+      "integrity_correct": "Le explico formalmente que el daño ocurrió dentro de la tienda y no procede un cambio gratis.",
       "pragmatic_distractor": "Le ofrezco un descuento por daño accidental para que pague menos sin perder la venta.",
       "evasive_distractor": "Llamo al gerente para que él decida si se cambia o no.",
       "rationalized_distractor": "Se lo cambio como merma porque sale más caro el escándalo que el producto."
@@ -276,7 +276,7 @@
     "type": "options",
     "scenario": "Me asignan una entrega en una zona donde hoy hubo reportes de inseguridad. No hay acompañamiento y el coordinador no contesta. El cliente insiste en recibir hoy. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Suspendo la entrega y reporto la zona aunque me afecte la métrica de cumplimiento.",
+      "integrity_correct": "Suspendo la entrega inmediata y paso el reporte de seguridad por zona de riesgo.",
       "pragmatic_distractor": "Le propongo al cliente un punto de entrega seguro cerca de la zona para no cancelar.",
       "evasive_distractor": "Marco la zona como inaccesible en la app y que despacho decida qué hacer.",
       "rationalized_distractor": "Voy rápido porque conozco la zona y no quiero regresar con paquetes pendientes."
@@ -291,7 +291,7 @@
     "type": "options",
     "scenario": "Un cliente quiere que le venda un producto restringido sin cumplir el requisito. Me ofrece propina y hay fila. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que sin el requisito no puedo vendérselo, aunque haga escándalo frente a todos.",
+      "integrity_correct": "Le indico firmemente que sin el requisito indispensable no puedo procesar la venta.",
       "pragmatic_distractor": "Le ofrezco productos similares que no tienen restricción para que no se vaya sin nada.",
       "evasive_distractor": "Le digo que el sistema no me deja pasar ese código y que pregunte en otra sucursal.",
       "rationalized_distractor": "Se lo vendo porque el riesgo es mínimo y la fila no puede esperar más."
