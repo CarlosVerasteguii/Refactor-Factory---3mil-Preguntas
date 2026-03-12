@@ -139,7 +139,7 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Vas manejando tu ruta por carretera y ves una moto tirada en la cuneta donde no hay nadie ayudando. Si te paras, no vas a llegar a entregar tu carga a tiempo al cedis. ¿Qué haces?",
+    "scenario": "Vas manejando tu ruta por carretera y ves una moto tirada en la orilla donde no hay nadie ayudando. Si te paras, no vas a llegar a entregar tu carga a tiempo al centro. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Prendo las intermitentes, me bajo a revisar la situación y marco directo al número de emergencia.",
       "pragmatic_distractor": "Sigo manejando sin parar, pero voy tocando el claxon y marcando al 911 desde el estéreo de la camioneta.",
@@ -171,7 +171,7 @@
     "type": "options",
     "scenario": "El pasillo está tapado. Tu compañero te pide que entre los dos muevan rápido a mano una tarima gigante para despejar, pero la caja dice 'usar solo montacargas'. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Me niego a empujarla a mano y voy a solicitar el montacargas para despachar el pasillo.",
+      "integrity_correct": "Me niego a empujarla a mano y voy a solicitar el montacargas para despejar el pasillo.",
       "pragmatic_distractor": "Le digo que sí, pero la arrastramos muy despacio nada más haciéndola a un ladito para poder pasar.",
       "evasive_distractor": "Me pongo a acomodar cajas chiquitas en lo que él decide cómo empujar la tarima solo.",
       "rationalized_distractor": "Le ayudo a empujarla rápido porque si dejamos atorada la línea de carga nos van a regañar a los dos."
@@ -249,7 +249,7 @@
       "integrity_correct": "Registro el intento fallido en el domicilio marcado por sistema y regreso el paquete a la base.",
       "pragmatic_distractor": "Le pido que mejor me intercepte él en la gasolinera de la esquina para entregarle en un punto intermedio y seguro.",
       "evasive_distractor": "Le marco a mi gerente para ver si él me autoriza brincarme a esa otra colonia nada más a dejar este paquete.",
-      "rationalized_distractor": "Voy rápido a la nueva ubicación porque un paquete no entregado nos pega directo en el bono de efectividad global."
+      "rationalized_distractor": "Voy rápido a la nueva ubicación porque un paquete no entregado nos pega directo en el bono de entregas."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 04 item 17",
     "sot_checksum": "ops400_m4_options_v1"
@@ -261,7 +261,7 @@
     "type": "options",
     "scenario": "El sistema le regaló por error un saldo a favor altísimo a un cliente muy problemático. Él ya vio el ticket y te exige comprar con eso ahorita. Quitarle el saldo te garantiza una hora de gritos frente a todos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Retiro el saldo inválido del sistema operativo y le indico el proceso para meter su queja formal.",
+      "integrity_correct": "Retiro el saldo inválido del sistema y le indico el proceso para meter su queja formal.",
       "pragmatic_distractor": "Le aplico el saldo en sus compras de hoy y reporto el folio a sistemas para que se lo descuenten en su próxima recarga.",
       "evasive_distractor": "Apago mi terminal y le pido al gerente en turno que venga a lidiar con el ajuste de esa cuenta.",
       "rationalized_distractor": "Se lo dejo pasar esta vez porque la empresa prefiere perder ese dinero a que un cliente se ponga violento en piso."

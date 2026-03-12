@@ -1,0 +1,83 @@
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║                    REPORTE DE AUDITORÍA LINGÜÍSTICA                               ║
+║        BÚSQUEDA DE DUPLICACIONES EN MiraPreguntasOps400Seeder.php               ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
+
+EJECUTIVO:
+──────────────────────────────────────────────────────────────────────────────────
+
+Se ejecutó una búsqueda exhaustiva de patrones de duplicación de palabras en el
+archivo de seeder MiraPreguntasOps400Seeder.php.
+
+RESULTADOS:
+──────────────────────────────────────────────────────────────────────────────────
+
+✗ TOTAL DE DUPLICACIONES: 73
+
+DISTRIBUCIÓN POR SEVERIDAD:
+
+  [🔴 CRÍTICO]  'de de' ............................ 40 coincidencias (54.8%)
+  [🟡 ALTO]     'que que' ......................... 16 coincidencias (21.9%)
+  [🟠 MEDIO]    'con mis ' ........................ 11 coincidencias (15.1%)
+  [🟢 BAJO]     'la la' ........................... 1 coincidencia (1.4%)
+  [🟢 BAJO]     'mis lo que' ...................... 1 coincidencia (1.4%)
+  [🟢 BAJO]     'un no ' .......................... 2 coincidencias (2.7%)
+  [🟢 BAJO]     'miden de ' ....................... 2 coincidencias (2.7%)
+
+PATRONES SIN ERRORES (✓):
+  ✓ 'el el' ....................................... Sin coincidencias
+  ✓ 'un un' ....................................... Sin coincidencias
+  ✓ 'los los' ..................................... Sin coincidencias
+  ✓ 'las las' ..................................... Sin coincidencias
+
+ANÁLISIS DETALLADO:
+──────────────────────────────────────────────────────────────────────────────────
+
+1. PATRÓN 'de de' (CRÍTICO - 40 casos)
+   ├─ Severidad: ALTA - Afecta significativamente la legibilidad
+   ├─ Causa: Probablemente error de generación automática o redacción deficiente
+   ├─ Líneas afectadas: 52, 183, 184, 436, 437, 448, 470, 649, 650, 826, 1067,
+   │                    1123, 1160, 1170, 1369, 1412, 1424, 1467, 1468, 1611,
+   │                    1632, 1713, 2054, 2055, 2143, 2554, 2610, 2631, 2740,
+   │                    3086, 3251, 3313, 3380, 3395, 3482, 3549, 3630, 3815,
+   │                    4270, 4424
+   └─ Acción: REVISAR Y CORREGIR URGENTEMENTE
+
+2. PATRÓN 'que que' (ALTO - 16 casos)
+   ├─ Severidad: MEDIA-ALTA
+   ├─ Líneas afectadas: 107, 162, 382, 481, 1846, 1857, 1901, 2565, 2741,
+   │                    2910, 3262, 3328, 3552, 3618, 3728, 4293
+   └─ Acción: REVISAR Y CORREGIR
+
+3. PATRÓN 'con mis ' (MEDIO - 11 casos)
+   ├─ Severidad: MEDIA
+   └─ Acción: REVISAR Y CORREGIR
+
+RECOMENDACIONES:
+──────────────────────────────────────────────────────────────────────────────────
+
+1. INMEDIATO (Próximas 48 horas):
+   • Ejecutar auditoría lingüística para revisar todas las 73 duplicaciones
+   • Enfocarse prioritariamente en los 40 casos de 'de de'
+   • Utilizar herramientas de búsqueda-reemplazo cuidadosamente
+
+2. CORTO PLAZO (Esta semana):
+   • Aplicar correcciones a todas las duplicaciones identificadas
+   • Realizar pruebas de validación del texto corregido
+   • Ejecutar nuevas búsquedas para validar las correcciones
+
+3. MEDIANO PLAZO:
+   • Implementar validación automática en el pipeline de generación de seeders
+   • Establecer reglas de QA para prevenir futuras duplicaciones
+   • Capacitar al equipo en buenas prácticas de redacción
+
+ARCHIVOS GENERADOS:
+──────────────────────────────────────────────────────────────────────────────────
+
+  📄 duplicaciones_reporte.txt ................... Resumen ejecutivo
+  📊 duplicaciones_detalladas.csv ............... Datos estructurados (73 registros)
+  📋 Este reporte ............................. Análisis completo
+
+══════════════════════════════════════════════════════════════════════════════════════
+Generado: 2026-03-11 16:48:33
+══════════════════════════════════════════════════════════════════════════════════════

@@ -4,12 +4,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la salida de ruta, noto que mi compañero no hizo el check-list de frenos de la unidad. Él me dice que firme yo la hoja como 'revisado' porque si lo hacemos ahora perderemos 30 minutos valiosos. ¿Qué decides hacer?",
+    "scenario": "En la salida de ruta, noto que mi compañero no hizo la lista de revisión de frenos de la unidad. Él me dice que firme yo la hoja como 'revisado' porque si lo hacemos ahora perderemos 30 minutos valiosos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le indico que el protocolo exige realizar la revisión física completa antes de iniciar el recorrido.",
+      "integrity_correct": "Le digo que el protocolo exige realizar la revisión física completa antes de iniciar el recorrido.",
       "pragmatic_distractor": "Doy una vuelta visual rápida a las llantas por encimita en 1 minuto y firmo el documento para agilizar todo.",
       "evasive_distractor": "Le digo al supervisor de aduana de salida que yo no sé llenar las hojas de revisión vehicular.",
-      "rationalized_distractor": "Firmo el documento porque conozco bien esa unidad, nunca falla de los frenos y lo principal es sacar las entregas rápido."
+      "rationalized_distractor": "Firmo el documento porque conozco bien esa unidad, nunca fallan los frenos y lo principal es sacar las entregas rápido."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -21,7 +21,7 @@
     "type": "options",
     "scenario": "Me asomo al monitor de mi compañera de mostrador y noto que olvidó cerrar la sesión de un cliente anterior dejándola con tarjetas expuestas. Si la reporto con el gerente, sé que le tocará sanción severa en su bono. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Levanto el reporte de la desviación de proceso de seguridad informática directamente con la gerencia.",
+      "integrity_correct": "Levanto el reporte del error de seguridad directamente con la gerencia.",
       "pragmatic_distractor": "Cierro la sesión en el teclado físicamente yo mismo sin avisarle a nadie para prevenir un problema mayor.",
       "evasive_distractor": "Volteo la mirada rápido hacia otro lado y finjo estar sumamente ocupado acomodando mis propios papeles.",
       "rationalized_distractor": "Solo le digo a ella en secreto que tenga más cuidado porque el mejor entrenamiento se da entre pares, no con reportes fríos."
@@ -36,7 +36,7 @@
     "type": "options",
     "scenario": "Ya abrimos la sucursal y mi compañero de apertura me dice que no alcanzó a acomodar el frente de tienda ayer. Me pide que le ayude a ordenarlo ahora mismo mintiéndole al gerente de que 'los clientes ya lo desordenaron'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me niego a mentir sobre las condiciones reales y le indico que reporte el frente pendiente al jefe de piso.",
+      "integrity_correct": "Me niego a mentir sobre las condiciones reales y le digo que reporte el frente pendiente al jefe de piso.",
       "pragmatic_distractor": "Lo ayudo a ordenar lo más escandaloso rapidísimo antes de que salga el gerente de la oficina trasera.",
       "evasive_distractor": "Le digo que tengo muchísimas cancelaciones pendientes en el sistema que debo revisar justo ahorita.",
       "rationalized_distractor": "Lo apoyo con el acomodo y con la historia a contar, porque el trabajo en equipo consiste en cubrirse las espaldas operativas."
@@ -49,12 +49,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la evaluación mensual del indicador de almacén estamos empatados con la sucursal Sur. Mi gerente me insinúa saltarnos el escaseo de merma de hoy para no sumar defectuosos que nos hagan perder frente a la otra tienda. ¿Qué decides hacer?",
+    "scenario": "En la evaluación mensual del indicador de almacén estamos empatados con la sucursal Sur. Mi gerente me insinúa saltarnos el conteo de merma de hoy para no sumar defectuosos que nos hagan perder frente a la otra tienda. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Realizo mis actividades obligatorias incluyendo el registro oficial de la merma dentro del sistema.",
       "pragmatic_distractor": "Escaneo hoy solo la merma más barata para disimular y escondo en una gaveta el producto defectuoso caro para escaneos de mañana.",
       "evasive_distractor": "Simulo tener un problema técnico con mi equipo escáner portátil para que alguien más asuma el registro.",
-      "rationalized_distractor": "Omito cargar las mermas el día de hoy porque un equipo resiliente protege sus victorias motivacionales primero."
+      "rationalized_distractor": "Omito cargar las mermas el día de hoy porque un buen equipo cuida sus logros primero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -64,10 +64,10 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Para impresionar a su supervisor corporativo que acaba de llegar de visita, mi compañero me pide por mensajería interna que le preste mis registros de métricas altas para presentarlos como si los hubiera hecho toda el área. ¿Qué decides hacer?",
+    "scenario": "Para impresionar a su supervisor de oficinas centrales que acaba de llegar de visita, mi compañero me pide por mensajería interna que le preste mis registros de números altos para presentarlos como si los hubiera hecho toda el área. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Señalo las métricas verdaderas que me corresponden de manera precisa en los reportes correspondientes al área.",
-      "pragmatic_distractor": "Le comparto solo unas cuantas métricas intermedias mías para que luzca pero sin comprometer mi puntaje de excelencia total.",
+      "integrity_correct": "Señalo los resultados reales que me corresponden de manera precisa en los reportes que me tocan.",
+      "pragmatic_distractor": "Le comparto solo unos cuantos números intermedios míos para que luzca pero sin comprometer mi puntaje de excelencia total.",
       "evasive_distractor": "Silencio la mensajería por el momento para fingir que no vi jamás su solicitud de préstamo de resultados.",
       "rationalized_distractor": "Se los presto confiando en que el éxito individual no existe y que todas las validaciones son logros genuinamente de equipo."
     },
@@ -96,7 +96,7 @@
     "type": "options",
     "scenario": "A un cliente furioso se le negó un cambio de mercancía por no traer su recibo. Mi supervisor de piso me dice en voz muy alta, enfrente del cliente, que mejor le hagamos el cambio 'usando el ticket de otra persona' para callarlo de una vez. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le indico al supervisor y al cliente que el sistema requiere el ticket original de la compra para procesar una devolución.",
+      "integrity_correct": "Le digo al supervisor y al cliente que el sistema requiere el ticket original de la compra para procesar una devolución.",
       "pragmatic_distractor": "Hago el cambio tal y como pidió el supervisor pero le pido al gerente que él ponga su clave de autorización directamente en caja.",
       "evasive_distractor": "Le digo al supervisor que justamente mi caja se acaba de pasmar y que va a tener que operarlo en otra terminal distinta.",
       "rationalized_distractor": "Proceso la devolución inventando un ticket porque un supervisor ya dio la orden directa delante del cliente y debe respetarse su jerarquía."
@@ -126,7 +126,7 @@
     "type": "options",
     "scenario": "En mostrador, me doy cuenta que por error técnico, a todo el equipo de ventas le está marcando 0 pesos en la tasa de interés de los créditos que originan hoy. Si aviso a soporte técnico, mis compañeros se enojarán conmigo porque perderán esta ventaja desleal para cumplir la cuota del mes. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Levanto de inmediato el ticket de incidencia a soporte técnico reportando la falla en el cálculo de tasas.",
+      "integrity_correct": "Levanto de inmediato el aviso a soporte técnico reportando la falla en el cálculo de tasas.",
       "pragmatic_distractor": "Hago una captura de pantalla del error y se lo mando por correo directo a mi jefe en privado pidiéndole anonimato total.",
       "evasive_distractor": "Termino mi propio turno originando los menos créditos posibles pero no levanto la voz esperando que alguien más en el equipo lo note.",
       "rationalized_distractor": "Guardo silencio el resto de hoy sobre el error técnico porque todos en el equipo necesitan ese estímulo económico en este momento de inflación."
@@ -141,7 +141,7 @@
     "type": "options",
     "scenario": "En el chat grupal de los empleados del turno, los de cajas pesillas y almacén están insultando durísimo al gerente operativo nombrándolo con adjetivos discriminatorios. Algunos sugieren que no diga nada quien no los apoya. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el canal interno de reporte anónimo local.",
+      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el buzón anónimo local.",
       "pragmatic_distractor": "Me limito a escribirles un \"Pobrecito\" un poco sarcástico para participar en el chat sin decir un adjetivo directamente grueso.",
       "evasive_distractor": "Simplemente 'archivo' el chat grupal para no estar viendo las notificaciones polémicas y mantenerme sumamente alejado del conflicto.",
       "rationalized_distractor": "Borro los mensajes en mi celular para no dejar rastro, entendiendo que el chat de mensajería es un escape psicológico de la dura presión laboral operaria."
@@ -156,7 +156,7 @@
     "type": "options",
     "scenario": "El mostrador está vacío y mi compañero tiene que ir un momento a la entrada a entregarle unas llaves a un familiar. Me pide que le eche un ojo a su caja 5 minutos sin avisar al supervisor. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le indico que solicite su código de ausencia temporal al gerente antes de retirarse.",
+      "integrity_correct": "Le digo que solicite su código de ausencia temporal al gerente antes de retirarse.",
       "pragmatic_distractor": "Me perfilo desde mi caja para mantener contacto visual con su área mientras regresa.",
       "evasive_distractor": "Le digo que yo tengo mucha fila y que le pregunte a la cajera de al lado.",
       "rationalized_distractor": "Lo cubro rápido, sabiendo que la entrega de sus llaves evita una emergencia mayor en su casa."
@@ -171,10 +171,10 @@
     "type": "options",
     "scenario": "La fila está detenida porque el sistema nos exige un doble escaneo de seguridad en todos los productos. El gerente me da la orden directa de saltarme ese paso hoy para desahogar la gente rápido. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le confirmo que el sistema corporativo requiere la doble validación para poder avanzar.",
+      "integrity_correct": "Le confirmo que el sistema de la empresa requiere la doble validación para poder avanzar.",
       "pragmatic_distractor": "Desactivo el segundo escaneo, pero apunto en una libreta las claves de los artículos para cuadrarlos al cierre.",
       "evasive_distractor": "Le paso el teclado al gerente diciéndole que su huella dactilar destraba más rápido la pantalla.",
-      "rationalized_distractor": "Omito el paso táctico, entendiendo que la directriz del gerente en momento de crisis pesa más que la máquina."
+      "rationalized_distractor": "Omito el paso, entendiendo que la orden del gerente en un momento de crisis pesa más que la máquina."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -184,7 +184,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "A mi compañero de la otra caja le urge dar cambio y no tiene morralla. Me pide cambiarle un billete de 500 directo de gaveta a gaveta sin esperar a que baje el supervisor con la libreta de registro corporativo. ¿Qué haces?",
+    "scenario": "A mi compañero de la otra caja le urge dar cambio y no tiene morralla. Me pide cambiarle un billete de 500 directo de gaveta a gaveta sin esperar a que baje el supervisor con la libreta de registro. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Le comento que el protocolo requiere la libreta del supervisor para cruzar fondos.",
       "pragmatic_distractor": "Le cruzo el cambio y dejo un post-it pegado bajo la pantalla para recordar avisarle al supervisor cuando baje.",
@@ -214,7 +214,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un promotor externo terminó su turno, pero lleva puesto el chaleco de trabajo corporativo. Me pide que le cobre rápido una galleta en mi caja sin tener que ir al baño a quitarse el chaleco primero, porque ya pasa su transporte de regreso. ¿Qué haces?",
+    "scenario": "Un promotor externo terminó su turno, pero lleva puesto el chaleco de trabajo. Me pide que le cobre rápido una galleta en mi caja sin tener que ir al baño a quitarse el chaleco primero, porque ya pasa su transporte de regreso. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Le confirmo que el sistema no permite consumos de personal portando prendas oficiales.",
       "pragmatic_distractor": "Le atiendo pero pidiéndole que coloque mi chamarra negra sobre su hombro apuntando a la cámara.",
@@ -231,9 +231,9 @@
     "type": "options",
     "scenario": "Mi compañera está atorada en el tráfico. Me manda mensaje pidiendo que inicie sesión en la computadora de atrás y le dé 'Play' a su curso para que el sistema le marque asistencia a tiempo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le contesto que es necesario que ella inicie su sesión presencialmente en el sistema corporativo.",
+      "integrity_correct": "Le contesto que es necesario que ella inicie su sesión presencialmente en el sistema de la empresa.",
       "pragmatic_distractor": "Pongo a correr el video sin audio para que el sistema avance y ella no pierda su bono de asistencia perfecta.",
-      "evasive_distractor": "Le contesto que el teclado de esa máquina falla bloqueando temporamente el inicio de sesión.",
+      "evasive_distractor": "Le contesto que el teclado de esa máquina falla bloqueando temporalmente el inicio de sesión.",
       "rationalized_distractor": "Inicio su sesión, sabiendo que el tráfico fue un accidente y ella siempre cubre mis horarios de comida."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 16",
@@ -246,9 +246,9 @@
     "type": "options",
     "scenario": "Llega la carne y el termómetro marca un grado por arriba de la norma, aunque se ve bien. El gerente me pide recibirla de todos modos porque es quincena y nos urge la venta. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Documento la desviación térmica en el sistema para ejecutar el rechazo formal de la carga.",
+      "integrity_correct": "Documento la temperatura fuera de norma en el sistema para rechazar la carga.",
       "pragmatic_distractor": "Recibo la mercancía y aplico enfriamiento acelerado inmediato para regresar la carne a la norma autorizada.",
-      "evasive_distractor": "Le indico al chofer que yo no tengo la firma autorizada en el sistema y que busque al gerente.",
+      "evasive_distractor": "Le digo al chofer que yo no tengo la firma autorizada en el sistema y que busque al gerente.",
       "rationalized_distractor": "Autorizo el ingreso rápido, apoyando la visión del supervisor de asegurar la venta crucial del día."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 17",
@@ -259,11 +259,11 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente muy terco exige el celular corporativo del director de zona. Mi compañero me dice al oído que le invente un número falso para que ya se vaya de la caja. ¿Qué haces?",
+    "scenario": "Un cliente muy terco exige el teléfono de la empresa del director de zona. Mi compañero me dice al oído que le invente un número falso para que ya se vaya de la caja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le proporciono exclusivamente la ficha de contacto del centro de atención a quejas corporativas.",
+      "integrity_correct": "Le proporciono exclusivamente la ficha de contacto del centro de atención a quejas.",
       "pragmatic_distractor": "Le anoto el conmutador general de quejas, diciéndole en confidencialidad que de ahí lo transfieren directo al director.",
-      "evasive_distractor": "Llamo discretamente por radio a la seguridad de la plaza para que ellos desescalen al cliente afuera.",
+      "evasive_distractor": "Llamo discretamente por radio a la seguridad de la plaza para que ellos calmen al cliente afuera.",
       "rationalized_distractor": "Le improviso un número falso rápido, valorando que liberar la fila masiva es el mejor servicio para todos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 18",
@@ -276,10 +276,10 @@
     "type": "options",
     "scenario": "Es sábado, la tienda aún no abre y hay mucha gente esperando bajo el sol. El gerente nos ordena a todos omitir la junta diaria de seguridad de 15 minutos para abrirles ya mismo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le indico al gerente que procederé a firmar la bitácora de asistencia a la junta de seguridad antes de activar mi caja.",
+      "integrity_correct": "Le digo al gerente que procederé a firmar la bitácora de asistencia a la junta de seguridad antes de activar mi caja.",
       "pragmatic_distractor": "Abro mi terminal para agilizar el cuello de botella, pero acuerdo con el gerente reponer la plática obligatoria durante el cambio de turno.",
       "evasive_distractor": "Me voy a hacer una revisión exhaustiva de cambio a la bóveda mientras ellos deciden si se abren o no las puertas.",
-      "rationalized_distractor": "Omito la plática temporalmente, entendiendo que el verdadero protocolo de servicio es atender al cliente bajo estrés térmico."
+      "rationalized_distractor": "Omito la plática temporalmente, entendiendo que el verdadero protocolo de servicio es atender al cliente bajo el calor."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -291,7 +291,7 @@
     "type": "options",
     "scenario": "Estamos haciendo el inventario nocturno y nadie trajo dinero para el agua. El equipo propone tomar los puntos de lealtad de una tarjeta que dejó olvidada un cliente en piso para comprarla. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Confirmo que el manual operativo prohíbe el uso interno de saldos de clientes y declino el canje comercial.",
+      "integrity_correct": "Confirmo que el manual operativo prohíbe el uso interno de saldos de clientes y me niego.",
       "pragmatic_distractor": "Acepto el canje de las aguas, firmando yo un vale de merma justificativo para reponer el inventario al día siguiente.",
       "evasive_distractor": "Me paso a limpiar muy calladamente la bodega trasera dejándoles la decisión del financiamiento del agua a ellos.",
       "rationalized_distractor": "Apoyo usar esos puntos sueltos, ya que la empresa omitió darnos viáticos y el equipo lo requiere para sostener la jornada."

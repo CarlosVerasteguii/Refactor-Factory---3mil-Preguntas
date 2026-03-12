@@ -10,7 +10,7 @@ import sys
 import argparse
 from pathlib import Path
 from datetime import datetime
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 # Configuración
 INPUT_ROOT = Path("02_final_artifacts/consolidated")
@@ -26,13 +26,11 @@ def log_trace(trace_file: Path, data: Dict[str, Any]) -> None:
         f.write(json.dumps(data, ensure_ascii=False) + '\n')
 
 def escape_php_string(text: str) -> str:
-    """Escapa string para uso seguro en PHP (comillas, backslashes)."""
+    """Escapa string para uso seguro en PHP dentro de comillas simples."""
     # Escapar backslashes primero
     text = text.replace('\\', '\\\\')
     # Escapar comillas simples
     text = text.replace("'", "\\'")
-    # Escapar comillas dobles
-    text = text.replace('"', '\\"')
     # Escapar $ para evitar interpolación
     text = text.replace('$', '\\$')
     return text
@@ -42,6 +40,7 @@ def transform_item(item: Dict[str, Any], row_num: int) -> Dict[str, Any]:
     item_id = item.get('id', 'UNKNOWN')
     module_id = item.get('module_id')
     item_type = item.get('type')
+    db_item_type = 'opciones' if item_type == 'options' else item_type
     
     # Obtener texto según tipo
     if item_type == 'video':
@@ -78,7 +77,7 @@ def transform_item(item: Dict[str, Any], row_num: int) -> Dict[str, Any]:
     # Estructura para insert
     return {
         'modulo': module_id,
-        'tipo': item_type,
+        'tipo': db_item_type,
         'texto': texto_escaped,
         'opciones': opciones_escaped,
         'idioma': 'es',
@@ -89,23 +88,63 @@ def transform_item(item: Dict[str, Any], row_num: int) -> Dict[str, Any]:
         '_opciones_chars': len(opciones)
     }
 
-def generate_seeder_php(items: List[Dict[str, Any]], chunk_size: int) -> str:
+def generate_seeder_php(
+    items: List[Dict[str, Any]],
+    chunk_size: int,
+    *,
+    class_name: str,
+    table_name: str,
+    with_uuid: bool,
+    nivel_operativo_clave: Optional[str],
+) -> str:
     """Genera el código PHP del seeder."""
-    
+
     # Dividir en chunks
     chunks = []
     for i in range(0, len(items), chunk_size):
         chunk = items[i:i + chunk_size]
         chunks.append(chunk)
-    
+
+    uses = [
+        "use Illuminate\\Database\\Seeder;",
+        "use Illuminate\\Support\\Facades\\DB;",
+    ]
+    if with_uuid:
+        uses.append("use Illuminate\\Support\\Str;")
+
+    setup_lines = []
+    closure_suffix = ""
+    helper_method = ""
+
+    if nivel_operativo_clave:
+        variable_name = f"${nivel_operativo_clave.lower()}Id"
+        setup_lines.append(
+            f"        {variable_name} = $this->resolveNivelOperativoId('{nivel_operativo_clave}');\n"
+        )
+        closure_suffix = f" use ({variable_name})"
+        helper_method = f"""
+
+    private function resolveNivelOperativoId(string $clave): int
+    {{
+        $id = DB::table('niveles_operativos')
+            ->where('clave', $clave)
+            ->value('id');
+
+        if ($id === null) {{
+            throw new \\RuntimeException("No se encontró niveles_operativos.clave={{$clave}} para {class_name}.");
+        }}
+
+        return (int) $id;
+    }}
+"""
+
     php_code = f"""<?php
 
 namespace Database\\Seeders;
 
-use Illuminate\\Database\\Seeder;
-use Illuminate\\Support\\Facades\\DB;
+{chr(10).join(uses)}
 
-class MiraPreguntasSeeder extends Seeder
+class {class_name} extends Seeder
 {{
     /**
      * Run the database seeds.
@@ -116,36 +155,46 @@ class MiraPreguntasSeeder extends Seeder
      */
     public function run()
     {{
-        DB::transaction(function () {{
+{''.join(setup_lines)}        DB::transaction(function (){closure_suffix} {{
 """
-    
+
     # Agregar cada chunk
     for chunk_idx, chunk in enumerate(chunks, 1):
         php_code += f"\n            // Chunk {chunk_idx}/{len(chunks)} ({len(chunk)} items)\n"
-        php_code += "            DB::table('mira_preguntas')->insert([\n"
-        
+        php_code += f"            DB::table('{table_name}')->insert([\n"
+
         for item_idx, item in enumerate(chunk):
             comma = "," if item_idx < len(chunk) - 1 else ""
-            php_code += f"""                [
-                    'modulo' => {item['modulo']},
-                    'tipo' => '{item['tipo']}',
-                    'texto' => '{item['texto']}',
-                    'opciones' => '{item['opciones']}',
-                    'idioma' => '{item['idioma']}',
-                    'created_at' => now(),
-                    'updated_at' => now(),
-                ]{comma}
-"""
-        
+            row_lines = [
+                "                [",
+            ]
+            if with_uuid:
+                row_lines.append("                    'uuid' => Str::uuid(),")
+            row_lines.extend([
+                f"                    'modulo' => {item['modulo']},",
+                f"                    'tipo' => '{item['tipo']}',",
+                f"                    'texto' => '{item['texto']}',",
+                f"                    'opciones' => '{item['opciones']}',",
+                f"                    'idioma' => '{item['idioma']}',",
+            ])
+            if nivel_operativo_clave:
+                row_lines.append(f"                    'nivel_operativo' => {variable_name},")
+            row_lines.extend([
+                "                    'created_at' => now(),",
+                "                    'updated_at' => now(),",
+                f"                ]{comma}",
+            ])
+            php_code += "\n".join(row_lines) + "\n"
+
         php_code += "            ]);\n"
-    
+
     php_code += """        });
         
         echo "Seeder completado. Items insertados: """ + str(len(items)) + """\\n";
-    }
+    }""" + helper_method + """
 }
 """
-    
+
     return php_code
 
 def main():
@@ -167,6 +216,10 @@ def main():
                         help='Nombre de la clase del seeder PHP (default: MiraPreguntasSeeder)')
     parser.add_argument('--table-name', default="mira_preguntas",
                         help='Nombre de tabla destino (default: mira_preguntas)')
+    parser.add_argument('--with-uuid', action='store_true',
+                        help='Incluye uuid => Str::uuid() en cada insert (estilo BD_Ingenia)')
+    parser.add_argument('--nivel-operativo-clave', default=None,
+                        help='Si se indica, agrega nivel_operativo resolviendo niveles_operativos.id por clave')
     args = parser.parse_args()
     INPUT_ROOT = Path(args.input_root)
     OUTPUT_ROOT = Path(args.output_root)
@@ -180,6 +233,8 @@ def main():
     print(f"Output: {OUTPUT_ROOT}")
     print(f"Logs:   {LOGS_ROOT}")
     print(f"Seeder: {args.seeder_filename} (class {args.class_name})")
+    print(f"UUID:   {'on' if args.with_uuid else 'off'}")
+    print(f"Nivel:  {args.nivel_operativo_clave or 'off'}")
     
     # Crear directorios
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
@@ -250,10 +305,14 @@ def main():
     print(f"   Total items: {len(all_transformed_items)}")
     print(f"   Chunks: {(len(all_transformed_items) + args.chunk_size - 1) // args.chunk_size}")
     
-    seeder_php = generate_seeder_php(all_transformed_items, args.chunk_size)
-    # Reemplazos de personalización (clase y tabla) manteniendo el template existente
-    seeder_php = seeder_php.replace("class MiraPreguntasSeeder extends Seeder", f"class {args.class_name} extends Seeder")
-    seeder_php = seeder_php.replace("DB::table('mira_preguntas')", f"DB::table('{args.table_name}')")
+    seeder_php = generate_seeder_php(
+        all_transformed_items,
+        args.chunk_size,
+        class_name=args.class_name,
+        table_name=args.table_name,
+        with_uuid=args.with_uuid,
+        nivel_operativo_clave=args.nivel_operativo_clave,
+    )
     
     # Guardar seeder
     seeder_file = OUTPUT_ROOT / args.seeder_filename

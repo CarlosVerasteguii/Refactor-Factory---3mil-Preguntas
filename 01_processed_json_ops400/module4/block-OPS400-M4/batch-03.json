@@ -6,10 +6,10 @@
     "type": "options",
     "scenario": "En el muelle, un conductor insiste en maniobrar marcha atrás sin guía para ganar tiempo porque “ya lo hizo mil veces”. Hay gente cerca y falta poco para cerrar. Si detienes la maniobra para pedir apoyo retrasas la salida, pero si lo dejas aumenta el riesgo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes la maniobra y solicitas apoyo para guiar, aceptando que esto generará demoras en la operación.",
-      "pragmatic_distractor": "Te colocas en posición segura para guiarlo tú mismo, agilizando el proceso sin perder control visual.",
-      "evasive_distractor": "Solicitas al conductor que espere hasta que llegue personal de apoyo, pausando la maniobra momentáneamente.",
-      "rationalized_distractor": "Permites la maniobra sin guía, confiando en la experiencia del conductor para no afectar los tiempos."
+      "integrity_correct": "Paro la maniobra y pido apoyo para guiarlo, aunque se atrase la operación.",
+      "pragmatic_distractor": "Me pongo en un lugar seguro para guiarlo yo mismo y agilizar.",
+      "evasive_distractor": "Le pido que espere hasta que llegue alguien de apoyo.",
+      "rationalized_distractor": "Lo dejo hacer la maniobra solo, confiando en su experiencia para no perder tiempo."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 1",
     "sot_checksum": "ops400_m4_options_v1"
@@ -19,12 +19,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el área de carga, huele a quemado y se enciende una alarma justo cuando el equipo está por cerrar el camión. Algunos dicen que es una falsa alarma para no perder la salida. Si paras la operación te reclamarán, pero ignorarlo es un riesgo. ¿Qué haces?",
+    "scenario": "En el área de carga, huele a quemado y suena una alarma justo cuando estamos por cerrar el camión. Algunos dicen que es falsa alarma para no perder la salida. Si paro la operación me van a reclamar, pero si lo ignoro hay riesgo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes la carga y reportas la anomalía, asumiendo que el cierre se retrasará por el protocolo de seguridad.",
-      "pragmatic_distractor": "Realizas una inspección visual rápida y continúas la carga si no detectas fuego, priorizando la salida.",
-      "evasive_distractor": "Buscas al supervisor para recibir instrucciones, manteniendo la operación en espera de su decisión.",
-      "rationalized_distractor": "Continúas el cierre ignorando la alarma, considerando que suele ser un error técnico y la prioridad es salir."
+      "integrity_correct": "Paro la carga y reporto el olor, aunque se atrase el cierre.",
+      "pragmatic_distractor": "Echo un ojo rápido para ver si hay fuego y si no veo nada sigo con la carga.",
+      "evasive_distractor": "Busco al supervisor para que él decida si seguimos o paramos.",
+      "rationalized_distractor": "Sigo cerrando el camión, porque casi siempre es un error de la alarma y hay que salir."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 2",
     "sot_checksum": "ops400_m4_options_v1"
@@ -34,12 +34,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En caja, un cliente quiere dividir un pago y exige rapidez porque tiene prisa, mientras la fila crece. Si revisas cada monto con calma el cliente se molestará, pero si aceptas sin verificar puedes generar un descuadre bajo tu responsabilidad. ¿Qué haces?",
+    "scenario": "En caja, un cliente quiere pagar con dos formas diferentes y me exige que le apure porque trae prisa, mientras la fila crece. Si reviso cada monto con calma se molesta, pero si acepto sin verificar puedo descuadrarme. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Verificas cada monto y medio de pago detalladamente, aceptando que la fila se detendrá durante el proceso.",
-      "pragmatic_distractor": "Procesas el pago dividido agilizando la verificación visual, equilibrando la fluidez de la fila con el control.",
-      "evasive_distractor": "Solicitas al cliente que espere un momento o utilice un solo medio, trasladando la resolución para después.",
-      "rationalized_distractor": "Aceptas la transacción sin verificación exhaustiva, confiando en que el sistema validará los montos automáticamente."
+      "integrity_correct": "Reviso cada monto y forma de pago despacio, aunque la fila se pare un rato.",
+      "pragmatic_distractor": "Proceso el pago dividido checando rápido con la vista, para no tardar tanto.",
+      "evasive_distractor": "Le pido al cliente que espere o use una sola forma de pago, y lo resuelvo después.",
+      "rationalized_distractor": "Acepto el pago sin revisarlo bien, confiando en que el sistema valida los montos solo."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 3",
     "sot_checksum": "ops400_m4_options_v1"
@@ -49,12 +49,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En control de ruta, notas fallas mecánicas en un camión, pero el conductor insiste en salir porque ya perdió tiempo. Detenerlo implica demora y quejas, pero dejarlo pasar aumenta el riesgo en carretera. ¿Qué haces?",
+    "scenario": "En control de ruta, veo que un camión tiene fallas mecánicas, pero el chofer insiste en salir porque ya perdió tiempo. Detenerlo implica demora y quejas, pero dejarlo pasar aumenta el riesgo en carretera. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes la unidad y solicitas revisión técnica, asumiendo que esto afectará los indicadores de salida.",
-      "pragmatic_distractor": "Autorizas la salida registrando la incidencia para mantenimiento posterior, evitando detener la logística actual.",
-      "evasive_distractor": "Solicitas a un supervisor que evalúe la condición, transfiriendo la decisión de autorizar la salida.",
-      "rationalized_distractor": "Permites el paso, considerando que la luz aún es visible y el ruido no impide la operación inmediata."
+      "integrity_correct": "Detengo la unidad y pido revisión, aunque afecte los tiempos de salida.",
+      "pragmatic_distractor": "Autorizo la salida anotando la falla para que la revisen después.",
+      "evasive_distractor": "Le pido al supervisor que revise la condición y él decida si sale.",
+      "rationalized_distractor": "Lo dejo pasar, porque la luz se ve y el ruido no impide que maneje."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 4",
     "sot_checksum": "ops400_m4_options_v1"
@@ -64,12 +64,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el área de preparación, tu compañero te pide saltar el doble conteo porque el turno termina y la cinta no se detiene. Si sigues el procedimiento frenas al equipo, pero si lo omites puedes enviar errores. ¿Qué haces?",
+    "scenario": "En preparación, mi compañero me pide saltarme el doble conteo porque ya se acaba el turno y la banda no para. Si sigo el procedimiento freno al equipo, pero si lo omito puedo mandar errores. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Ejecutas el doble conteo completo, aceptando que el turno se extenderá para asegurar la precisión del pedido.",
-      "pragmatic_distractor": "Realizas un conteo visual rápido para cumplir con la salida, equilibrando velocidad y verificación básica.",
-      "evasive_distractor": "Dejas ese pedido pendiente para revisión posterior, delegando el cierre de esa orden al siguiente turno.",
-      "rationalized_distractor": "Omites el segundo conteo, confiando en que la validación inicial fue correcta y priorizando el cierre a tiempo."
+      "integrity_correct": "Hago el doble conteo completo, aunque el turno se alargue para asegurar que el pedido esté bien.",
+      "pragmatic_distractor": "Cuento rápido con la vista para salir a tiempo sin perder todo el control.",
+      "evasive_distractor": "Dejo ese pedido pendiente para que lo revise el siguiente turno.",
+      "rationalized_distractor": "Me salto el segundo conteo, confiando en que el primero estuvo bien para poder salir a tiempo."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 5",
     "sot_checksum": "ops400_m4_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el mostrador, un cliente quiere realizar un trámite con un documento vencido y se molesta cuando le explicas que no es válido. Insiste en que siempre lo ha usado así y la fila crece. ¿Qué haces?",
+    "scenario": "En el mostrador, un cliente quiere hacer un trámite con un documento vencido y se molesta cuando le explico que no es válido. Insiste en que siempre lo ha usado así y la fila crece. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Rechazas el documento y explicas las opciones de renovación, aceptando la confrontación con el cliente.",
-      "pragmatic_distractor": "Verificas en el sistema si existe una excepción temporal aplicable, buscando una vía que permita avanzar.",
-      "evasive_distractor": "Derivas al cliente al área de documentación para que regularice su situación antes de volver.",
-      "rationalized_distractor": "Procesas el trámite con el documento vencido, considerando que la información sigue siendo la misma."
+      "integrity_correct": "Rechazo el documento y le explico cómo renovarlo, aunque se moleste.",
+      "pragmatic_distractor": "Checo en el sistema si hay alguna excepción que le aplique para poder avanzar.",
+      "evasive_distractor": "Lo mando al área de documentación para que arregle su situación primero.",
+      "rationalized_distractor": "Proceso el trámite con el documento vencido, porque la información sigue siendo la misma."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 6",
     "sot_checksum": "ops400_m4_options_v1"
@@ -94,12 +94,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En reparto, un perro suelto bloquea la entrada y el cliente te pide que cruces igual. Estás atrasado y necesitas terminar, pero si avanzas te expones a un riesgo físico. ¿Qué haces?",
+    "scenario": "En reparto, un perro suelto me tapa la entrada y el cliente me pide que pase de todos modos. Voy atrasado y necesito terminar, pero si avanzo me expongo a que me muerda. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Solicitas al cliente que asegure al animal antes de ingresar, aceptando el retraso en la ruta por seguridad.",
-      "pragmatic_distractor": "Dejas el paquete en un punto accesible sin cruzar el perímetro, gestionando la entrega sin exposición directa.",
-      "evasive_distractor": "Marcas la entrega como no exitosa por seguridad, postergando el intento para el siguiente recorrido.",
-      "rationalized_distractor": "Ingresas rápidamente, considerando que el animal no muestra agresividad y es necesario cumplir la entrega."
+      "integrity_correct": "Le pido al cliente que amarre al perro antes de entrar, aunque se atrase mi ruta.",
+      "pragmatic_distractor": "Dejo el paquete en un punto donde pueda alcanzarlo sin cruzar hacia el perro.",
+      "evasive_distractor": "Marco la entrega como fallida por seguridad y regreso otro día.",
+      "rationalized_distractor": "Entro rápido porque el perro no se ve agresivo y necesito completar la entrega."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 7",
     "sot_checksum": "ops400_m4_options_v1"
@@ -109,12 +109,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Conduces con carga y un animal aparece en la carretera. Frenar bruscamente puede dañar la carga o causar un alcance trasero, pero esquivarlo implica invadir el carril contrario. ¿Qué haces?",
+    "scenario": "Voy con carga y un animal se cruza en la carretera. Frenar de golpe puede dañar la carga o que me peguen atrás, pero esquivarlo implica meterme al carril contrario. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reduces velocidad progresivamente y detienes la marcha, asumiendo el impacto en los tiempos de entrega.",
-      "pragmatic_distractor": "Maniobras controladamente hacia el arcén para evitar el obstáculo sin invadir el carril contrario.",
-      "evasive_distractor": "Mantienes tu carril y velocidad, dejando que el animal se aparte por sí solo.",
-      "rationalized_distractor": "Esquivas rápidamente usando el carril contrario, confiando en que no viene tráfico de frente."
+      "integrity_correct": "Bajo la velocidad poco a poco y me detengo, aunque se me haga tarde la entrega.",
+      "pragmatic_distractor": "Maniobro con cuidado hacia la orilla para esquivarlo sin meterme al otro carril.",
+      "evasive_distractor": "Me quedo en mi carril y a mi velocidad, a ver si el animal se quita solo.",
+      "rationalized_distractor": "Me paso al carril contrario para esquivarlo, confiando en que no viene nadie de frente."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 8",
     "sot_checksum": "ops400_m4_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el muelle, recibes una carga con etiquetas dañadas. El conductor quiere descargar rápido y la fila presiona. Si no reetiquetas puedes perder trazabilidad, pero detenerte implica retrasar la operación. ¿Qué haces?",
+    "scenario": "En el muelle, recibo una carga con etiquetas dañadas. El chofer quiere descargar rápido y la fila presiona. Si no reetiqueto puedo perder el rastro del producto, pero si me paro atraso la operación. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes el proceso para reetiquetar la carga, asumiendo el impacto en los tiempos de descarga.",
-      "pragmatic_distractor": "Recibes la mercancía y programas la corrección administrativa después, agilizando la liberación del andén.",
-      "evasive_distractor": "Solicitas al encargado de inventarios que valide la recepción, transfiriendo la responsabilidad de las etiquetas.",
-      "rationalized_distractor": "Procesas la carga tal como está, confiando en que la información legible es suficiente para la trazabilidad."
+      "integrity_correct": "Paro para poner etiquetas nuevas, aunque se atrase la descarga.",
+      "pragmatic_distractor": "Recibo la mercancía y arreglo las etiquetas después, para desocupar el andén más rápido.",
+      "evasive_distractor": "Le pido al encargado de inventarios que valide la recepción y él decida qué hacer con las etiquetas.",
+      "rationalized_distractor": "Proceso la carga así, porque lo que se alcanza a leer debería ser suficiente."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 9",
     "sot_checksum": "ops400_m4_options_v1"
@@ -139,12 +139,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En caja, una clienta deja olvidada su billetera en el mostrador y ya salió de la tienda. Tienes fila y dejar tu puesto para alcanzarla va contra las reglas, pero si no actúas rápido podría perderla. ¿Qué haces?",
+    "scenario": "En caja, una clienta deja olvidada su cartera en el mostrador y ya salió de la tienda. Tengo fila y no puedo dejar mi puesto, pero si no actúo rápido la puede perder. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Resguardas la billetera y solicitas al supervisor que contacte a la clienta, aceptando que no la alcanzarás a tiempo.",
-      "pragmatic_distractor": "Pides a un compañero cercano que intente alcanzarla mientras continúas atendiendo la fila.",
-      "evasive_distractor": "Guardas la billetera en la caja fuerte y esperas a que la clienta regrese por su cuenta.",
-      "rationalized_distractor": "Sales brevemente del puesto para entregarla, considerando que es lo correcto y la fila puede esperar un momento."
+      "integrity_correct": "Guardo la cartera y le pido al supervisor que la contacte, aunque no la alcance a tiempo.",
+      "pragmatic_distractor": "Le pido a un compañero cercano que intente alcanzarla mientras sigo atendiendo.",
+      "evasive_distractor": "Guardo la cartera en la caja fuerte y espero a que ella regrese por su cuenta.",
+      "rationalized_distractor": "Salgo un momento de mi puesto para dársela, porque es lo correcto y la fila puede esperar tantito."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 10",
     "sot_checksum": "ops400_m4_options_v1"
@@ -154,12 +154,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En reparto, el cliente quiere abrir el paquete antes de firmar para verificar el contenido. Llevas retraso y el protocolo no permite abrir paquetes en campo, pero amenaza con rechazar la entrega. ¿Qué haces?",
+    "scenario": "En reparto, el cliente quiere abrir el paquete antes de firmar para ver qué trae. Llevo retraso y las reglas no permiten abrir paquetes en campo, pero amenaza con rechazar la entrega. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Explicas que la verificación se realiza tras la firma según protocolo, aceptando la posible negativa del cliente.",
-      "pragmatic_distractor": "Permites que el cliente inspeccione visualmente el exterior antes de firmar, buscando generar confianza sin abrir el paquete.",
-      "evasive_distractor": "Sugieres al cliente que contacte al remitente para confirmar el contenido, postergando la entrega.",
-      "rationalized_distractor": "Permites la apertura para cerrar la entrega, considerando que un cliente satisfecho no generará reclamo."
+      "integrity_correct": "Le explico que la revisión se hace después de firmar, aunque puede que no acepte.",
+      "pragmatic_distractor": "Le dejo que chece el exterior antes de firmar, para que tenga confianza sin abrir la caja.",
+      "evasive_distractor": "Le digo que llame al remitente para confirmar el contenido y dejamos la entrega para después.",
+      "rationalized_distractor": "Le dejo abrir el paquete para cerrar la entrega, porque un cliente contento no se queja."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 11",
     "sot_checksum": "ops400_m4_options_v1"
@@ -169,12 +169,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el almacén, detectas productos con fecha próxima a vencer mezclados con stock vigente en la zona de despacho. Separarlos tomará tiempo y el camión espera, pero enviarlos genera riesgo de reclamo. ¿Qué haces?",
+    "scenario": "En el almacén, encuentro productos próximos a vencerse mezclados con producto bueno en la zona de despacho. Separarlos toma tiempo y el camión espera, pero si los mando hay riesgo de queja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes el despacho para separar los productos vencidos, asumiendo que la salida se retrasará significativamente.",
-      "pragmatic_distractor": "Retiras los productos visiblemente próximos a vencer y autorizas el resto, agilizando el proceso de separación.",
-      "evasive_distractor": "Notificas al área de calidad sobre la mezcla, transfiriendo la decisión de despacho al responsable del lote.",
-      "rationalized_distractor": "Envías la carga completa, considerando que los productos aún están dentro de la fecha límite."
+      "integrity_correct": "Paro el despacho para separar los que están por vencerse, aunque la salida se atrase mucho.",
+      "pragmatic_distractor": "Retiro los más obvios que están por vencerse y dejo pasar el resto para agilizar.",
+      "evasive_distractor": "Le aviso al de calidad de la mezcla, que él decida si se despacha o no.",
+      "rationalized_distractor": "Mando toda la carga, porque todavía están dentro de la fecha límite."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 12",
     "sot_checksum": "ops400_m4_options_v1"
@@ -184,12 +184,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En caja, una clienta exige pagar menos porque el precio no coincide, mientras la fila crece y alguien comienza a grabar. Revisar el precio tomará tiempo, pero ceder sin verificar generará un descuadre. ¿Qué haces?",
+    "scenario": "En caja, una clienta exige pagar menos porque el precio no coincide, mientras la fila crece y alguien empieza a grabar. Revisar el precio toma tiempo, pero si le bajo sin verificar me descuadro. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Corroboras el precio en sistema y aplicas la corrección oficial, aceptando el tiempo adicional que esto requiere.",
-      "pragmatic_distractor": "Aplicas el precio marcado manualmente para resolver el conflicto, agilizando el flujo de la fila.",
-      "evasive_distractor": "Solicitas al cliente esperar a un supervisor, atendiendo a los siguientes mientras llega la autorización.",
-      "rationalized_distractor": "Modificas el cobro al precio exigido, asumiendo que es un error de etiquetado y priorizando la satisfacción del cliente."
+      "integrity_correct": "Checo el precio en el sistema y aplico la corrección oficial, aunque tome más tiempo.",
+      "pragmatic_distractor": "Le pongo el precio que dice ella para resolver el conflicto y que avance la fila.",
+      "evasive_distractor": "Le pido al cliente que espere al supervisor, mientras atiendo a los siguientes.",
+      "rationalized_distractor": "Le cobro al precio que pide, pensando que seguro la etiqueta está mal y para que quede contenta."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 13",
     "sot_checksum": "ops400_m4_options_v1"
@@ -199,12 +199,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Conduces en ruta con tráfico pesado y una moto se te cruza bruscamente; el conductor te grita. Llevas carga delicada y responder impulsivamente puede poner en riesgo la entrega. ¿Qué haces?",
+    "scenario": "Voy en ruta con tráfico pesado y una moto se me cruza feo; el de la moto me grita. Llevo carga delicada y si contesto impulsivamente puedo arriesgar la entrega. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Mantienes la distancia y continúas la marcha sin responder, aceptando la tensión acumulada para garantizar la seguridad.",
-      "pragmatic_distractor": "Utilizas la bocina brevemente para marcar presencia y continúas, gestionando el espacio sin detenerte.",
-      "evasive_distractor": "Reduces la velocidad permitiendo que se aleje, evitando cualquier interacción directa con el conductor.",
-      "rationalized_distractor": "Aceleras para dejar atrás el incidente, considerando que salir de esa zona reduce el riesgo de conflicto."
+      "integrity_correct": "Guardo distancia y sigo sin contestarle, aguantando la tensión para ir seguro.",
+      "pragmatic_distractor": "Le toco el claxon tantito para marcar mi espacio y sigo, cuidando mi carril.",
+      "evasive_distractor": "Bajo la velocidad para que se aleje, sin meterme en nada.",
+      "rationalized_distractor": "Acelero para dejarlo atrás, pensando que alejarme baja el riesgo de conflicto."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 14",
     "sot_checksum": "ops400_m4_options_v1"
@@ -214,12 +214,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el control de acceso, un camión llega fuera del horario autorizado alegando una urgencia. No hay registro de su visita y el encargado de turno no responde. Dejarlo entrar agiliza la operación, pero viola el protocolo. ¿Qué haces?",
+    "scenario": "En el control de acceso, un camión llega fuera del horario permitido diciendo que es urgencia. No hay registro de su visita y el encargado de turno no contesta. Dejarlo entrar agiliza la operación, pero rompe las reglas. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Rechazas el ingreso hasta confirmar la autorización, asumiendo que el conductor deberá esperar o regresar.",
-      "pragmatic_distractor": "Contactas al área de logística para validar la urgencia, buscando una autorización rápida que respalde el acceso.",
-      "evasive_distractor": "Indicas al conductor que estacione fuera y espere a que llegue personal autorizado para decidir.",
-      "rationalized_distractor": "Permites el ingreso registrando la hora, considerando que una carga urgente justifica la excepción."
+      "integrity_correct": "No lo dejo pasar hasta confirmar que tiene autorización, aunque tenga que esperar o regresar.",
+      "pragmatic_distractor": "Llamo al área de logística para validar la urgencia y conseguir una autorización rápida.",
+      "evasive_distractor": "Le digo al chofer que se estacione afuera y espere a que llegue alguien que pueda autorizar.",
+      "rationalized_distractor": "Lo dejo pasar anotando la hora, pensando que una carga urgente justifica la excepción."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 15",
     "sot_checksum": "ops400_m4_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En preparación, el lector falla y el jefe de línea te dice que sigas manualmente sin detener la cinta. Si paras para validar frenas a todos, pero si sigues puedes causar errores. ¿Qué haces?",
+    "scenario": "En preparación, el lector falla y mi jefe de línea me dice que siga a mano sin parar la banda. Si me paro a validar freno a todos, pero si sigo puedo mandar errores. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detienes la línea para validar manualmente cada ítem, asumiendo el impacto en la productividad del turno.",
-      "pragmatic_distractor": "Continúas el proceso validando visualmente, manteniendo el flujo de la cinta para cumplir la meta.",
-      "evasive_distractor": "Separas los productos no leídos para que soporte técnico los revise luego, evitando detener tu trabajo.",
-      "rationalized_distractor": "Sigues operando, confiando en tu conocimiento del producto para asegurar la corrección del pedido."
+      "integrity_correct": "Paro la línea para revisar cada artículo a mano, aunque afecte la productividad del turno.",
+      "pragmatic_distractor": "Sigo el proceso checando con los ojos, para mantener el flujo de la banda.",
+      "evasive_distractor": "Separo los productos que no leyeron para que los de sistemas los revisen después.",
+      "rationalized_distractor": "Sigo operando confiando en que me sé bien el producto para no equivocarme."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 16",
     "sot_checksum": "ops400_m4_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En reparto, un cliente te ofrece una propina para que lo atiendas primero y saltes las entregas anteriores en la ruta. Aceptar desordenaría la secuencia programada, pero rechazarlo podría generar una queja. ¿Qué haces?",
+    "scenario": "En reparto, un cliente me ofrece propina para que lo atienda primero y me salte las entregas anteriores de la ruta. Aceptar desordenaría mi secuencia, pero rechazarlo podría generar queja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Rechazas la propina y explicas el orden de la ruta, aceptando la posible molestia del cliente.",
-      "pragmatic_distractor": "Agradeces el gesto pero explicas que la ruta es fija, sugiriendo que contacte a soporte para agendar prioridad.",
-      "evasive_distractor": "Ignoras el ofrecimiento y continúas con la siguiente entrega según el orden establecido.",
-      "rationalized_distractor": "Aceptas reorganizar la ruta, considerando que atender primero a un cliente proactivo mejora la satisfacción general."
+      "integrity_correct": "Rechazo la propina y le explico el orden de la ruta, aunque se moleste.",
+      "pragmatic_distractor": "Le agradezco pero le explico que la ruta es fija, y le digo que llame a la base si quiere prioridad.",
+      "evasive_distractor": "Ignoro el ofrecimiento y sigo con la siguiente entrega según el orden que trae.",
+      "rationalized_distractor": "Reordeno la ruta para atenderlo primero, pensando que un cliente que quiere pagar más merece mejor servicio."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 17",
     "sot_checksum": "ops400_m4_options_v1"
@@ -259,12 +259,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el mostrador, una persona exige atención inmediata rechazando el procedimiento, mientras la fila crece. Seguir el proceso demorará la atención, pero saltarlo incumple la norma. ¿Qué haces?",
+    "scenario": "En el mostrador, una persona exige atención inmediata rechazando el procedimiento, mientras la fila crece. Si sigo el proceso me tardo, pero si me lo salto incumplo las reglas. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Sigues el protocolo de atención paso a paso, aceptando que esto aumentará el tiempo de espera de la fila.",
-      "pragmatic_distractor": "Propones una alternativa rápida que resuelva lo urgente, buscando calmar al usuario y liberar el mostrador.",
-      "evasive_distractor": "Solicitas al cliente que espere a un supervisor, derivando la atención para continuar con la fila.",
-      "rationalized_distractor": "Omites pasos administrativos no críticos, considerando que la prioridad es resolver el reclamo y bajar la tensión."
+      "integrity_correct": "Sigo los pasos de atención uno por uno, aunque aumente el tiempo de espera de la fila.",
+      "pragmatic_distractor": "Propongo una salida rápida que resuelva lo urgente, para calmar al usuario y desocupar el mostrador.",
+      "evasive_distractor": "Le pido al cliente que espere al supervisor, y lo dejo esperando para seguir con la fila.",
+      "rationalized_distractor": "Me salto pasos que no son urgentes, pensando que lo importante es resolver la queja y bajar la tensión."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 18",
     "sot_checksum": "ops400_m4_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el almacén, observas una zona de paso mojada sin señalización justo cuando termina tu turno. El equipo de limpieza no responde y el pasillo es muy transitado. ¿Qué haces?",
+    "scenario": "En el almacén, veo una zona de paso mojada sin señal justo cuando ya termina mi turno. El de limpieza no contesta y por ahí pasa mucha gente. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Colocas señalización y secas el área afectada, aceptando que deberás quedarte tiempo extra para terminar.",
-      "pragmatic_distractor": "Colocas cartones o avisos improvisados sobre la zona, mitigando el riesgo inmediato para poder salir.",
-      "evasive_distractor": "Reportas la filtración a mantenimiento por radio, dejando la limpieza física al personal correspondiente.",
-      "rationalized_distractor": "Dejas el área sin intervenir, considerando que el tránsito es bajo y el agua se secará naturalmente."
+      "integrity_correct": "Pongo señalización y seco el área, aunque me tenga que quedar más tiempo.",
+      "pragmatic_distractor": "Pongo cartones o avisos improvisados sobre la zona, para bajar el riesgo de momento y poder irme.",
+      "evasive_distractor": "Reporto la filtración a mantenimiento por radio, dejando que el personal indicado se encargue de limpiar.",
+      "rationalized_distractor": "Dejo el área así, pensando que casi no pasa gente y el agua se seca sola."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 19",
     "sot_checksum": "ops400_m4_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Conduces con un ayudante que se quedó dormido y la siguiente parada requiere dos personas para la descarga. Llevas retraso y despertarlo ahora le dará poco descanso, pero llegar sin apoyo retrasará la entrega. ¿Qué haces?",
+    "scenario": "Voy manejando con un ayudante que se quedó dormido y la siguiente parada necesita dos personas para descargar. Llevo retraso y si lo despierto ahora descansa poco, pero si llego sin apoyo se atrasa la entrega. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Despiertas a tu ayudante con anticipación para preparar la descarga, aceptando que esto reducirá su tiempo de descanso.",
-      "pragmatic_distractor": "Lo dejas descansar hasta minutos antes de la parada, equilibrando su recuperación con la necesidad operativa.",
-      "evasive_distractor": "Contactas a la central para solicitar apoyo adicional en la parada, transfiriendo la planificación de la descarga.",
-      "rationalized_distractor": "Intentas hacer la descarga solo para dejarlo dormir, considerando que puedes manejar la carga sin asistencia."
+      "integrity_correct": "Lo despierto con tiempo para preparar la descarga, aunque descanse menos.",
+      "pragmatic_distractor": "Lo dejo dormir hasta minutos antes de la parada, para que descanse un poco antes de trabajar.",
+      "evasive_distractor": "Llamo a la base para pedir que manden ayuda extra a la parada, que ellos organicen la descarga.",
+      "rationalized_distractor": "Intento descargar solo para dejarlo dormir, pensando que me las puedo arreglar sin ayuda."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 03 item 20",
     "sot_checksum": "ops400_m4_options_v1"

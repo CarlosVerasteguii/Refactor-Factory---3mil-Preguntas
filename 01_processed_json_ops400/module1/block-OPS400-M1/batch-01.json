@@ -187,7 +187,7 @@
     "scenario": "Olvidaste registrar tu salida de ruta varios días y el sistema marcó menos horas de las que realmente trabajaste. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Aviso al área de registros y pido que corrijan las horas con la evidencia que tengo.",
-      "pragmatic_distractor": "Le aviso a mi jefe y le mando las fotos de ruta para que gestione la corrección.",
+      "pragmatic_distractor": "Le aviso a mi jefe y le mando las fotos de ruta para que me ayude a corregir.",
       "evasive_distractor": "Espero al cierre de nómina y si hay diferencia lo señalo en ese momento.",
       "rationalized_distractor": "Registro la salida con la hora real porque el olvido fue mío y el tiempo trabajado es un hecho."
     },
@@ -216,7 +216,7 @@
     "type": "options",
     "scenario": "Un cliente te pide devolución sin recibo y dice que pagó con tarjeta. El encargado no está. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le explico que sin verificar la compra no puedo devolver y lo canalizo al proceso formal.",
+      "integrity_correct": "Le explico que sin verificar la compra no puedo devolver y le digo cómo hacer su devolución.",
       "pragmatic_distractor": "Busco la compra en el sistema para verificar si procede antes de decidir.",
       "evasive_distractor": "Le pido que regrese cuando esté el encargado para que él autorice la devolución.",
       "rationalized_distractor": "Encuentro el cargo en el sistema y proceso el reembolso; el monto está claro y así el cliente no vuelve."

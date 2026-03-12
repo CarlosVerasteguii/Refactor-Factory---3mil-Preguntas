@@ -4,12 +4,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, un cliente asegura que ayer se le cobró dos veces y hoy exige devolución inmediata, pero el sistema está lento y no puedes confirmar el movimiento en ese momento. Tu compañero dice que le devuelvas para evitar una escena, porque hay fila y todos miran. Si devuelves sin verificar puedes pagar algo indebido; si esperas, el cliente se enfurece. ¿Cómo procedes?",
+    "scenario": "Un cliente dice que ayer le cobraron dos veces y quiere su devolución ya, pero el sistema está lento y no puedo confirmar el movimiento. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras la incidencia y esperas a verificar antes de devolver, aceptando que esto generará tensión con el cliente y retrasará la fila momentáneamente.",
-      "pragmatic_distractor": "Buscas una validación rápida con un superior o método alternativo, equilibrando la atención al cliente con el control de caja.",
-      "evasive_distractor": "Solicitas al cliente que espere a un supervisor para la autorización, transfiriendo la decisión para no detener tú la operación.",
-      "rationalized_distractor": "Procedes con la devolución para agilizar el servicio, considerando que evitar un escándalo en la fila es prioritario para la operación."
+      "integrity_correct": "Le pido que espere unos minutos mientras verifico el cobro en el sistema.",
+      "pragmatic_distractor": "Le tomo sus datos y le digo que hoy le llamamos con la solución para no detener la fila.",
+      "evasive_distractor": "Le pido que traiga su estado de cuenta para hacer la devolución con evidencia.",
+      "rationalized_distractor": "Le devuelvo el monto y si no fue doble cobro se ajusta en su próxima visita."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -19,12 +19,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En reparto llegas a una dirección y quien recibe no coincide con el nombre de la guía. La persona dice que es familiar y te ofrece propina para no llamar ni reprogramar, porque tiene prisa. No tienes buena señal y vas retrasado, pero el paquete es caro y el remitente pidió verificación. ¿Qué haces?",
+    "scenario": "Llego a entregar un paquete caro y quien recibe no coincide con el nombre de la guía. Dice que es familiar y tiene prisa. No tengo buena señal. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Sigues el protocolo de verificación de identidad, rechazando la propina y asumiendo el retraso en la ruta ante la molestia del receptor.",
-      "pragmatic_distractor": "Solicitas un documento oficial o confirmación telefónica con el titular para entregar, gestionando la entrega sin omitir la seguridad básica.",
-      "evasive_distractor": "Marcas el paquete como no entregado por ausencia de titular y continúas, postergando la resolución para evitar confrontación directa.",
-      "rationalized_distractor": "Entregas el paquete confiando en la palabra del familiar, priorizando el cumplimiento de la ruta y la satisfacción inmediata del servicio."
+      "integrity_correct": "No entrego hasta confirmar la identidad con la persona que aparece en la guía.",
+      "pragmatic_distractor": "Le pido una identificación o que me comunique por teléfono con la persona que aparece en la guía.",
+      "evasive_distractor": "Lo marco como no entregado y sigo con mi ruta; que lo reprogramen después.",
+      "rationalized_distractor": "Se lo dejo porque es familiar y vive ahí; el paquete llega a la dirección correcta."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 2",
     "sot_checksum": "ops400_m3_options_v1"
@@ -34,12 +34,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén encuentras cajas con fecha muy próxima y el encargado dice que las mezcles con las nuevas para que “salgan” y no se reporten pérdidas. Si las separas habrá merma y te reclamarán por el costo; si las mezclas, clientes podrían llevarse producto a punto de vencer sin saber. El equipo está presionado por números. ¿Qué haces?",
+    "scenario": "Encuentro cajas con fecha muy próxima en almacén. El encargado me dice que las mezcle con las nuevas para que 'salgan'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Separas el producto y registras la merma real, aceptando la fricción con el encargado y el impacto en los indicadores del turno.",
-      "pragmatic_distractor": "Rotas el producto antiguo a una zona de salida prioritaria visible, gestionando su venta rápida sin mezclar lotes indebidamente.",
-      "evasive_distractor": "Dejas el producto donde está sin mezclarlo, esperando que el siguiente turno tome la decisión sobre cómo gestionarlo.",
-      "rationalized_distractor": "Accedes a mezclar los lotes para reducir la merma reportada, considerando que la venta fluida beneficia los números del equipo."
+      "integrity_correct": "Las separo, las marco con la fecha y aviso al encargado que las saque de exhibición.",
+      "pragmatic_distractor": "Les pongo un descuento especial y las pongo al frente para que se vendan rápido.",
+      "evasive_distractor": "Las dejo separadas y que el encargado de calidad decida qué hacer con ellas.",
+      "rationalized_distractor": "Las acomodo con las nuevas porque todavía tienen días y se venden rápido."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -49,12 +49,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el mostrador, un cliente pide datos del pedido de su pareja y se enoja cuando no se los das, diciendo que “vive con ella” y que es urgente. En pantalla ves dirección y detalles sensibles. Tu supervisor te presiona para resolver rápido porque hay fila. Si compartes, puede ser indebido; si no, habrá queja. ¿Qué haces?",
+    "scenario": "Un cliente pide datos del pedido de su pareja. Dice que vive con ella y es urgente. En pantalla veo dirección y datos sensibles. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Te niegas a compartir los datos y explicas la política de privacidad, asumiendo la queja del cliente y la presión del momento.",
-      "pragmatic_distractor": "Ofreces contactar tú al titular para verificar autorización, buscando una alternativa que calme al cliente sin vulnerar la seguridad.",
-      "evasive_distractor": "Indicas que el sistema no te permite acceso a esos datos y derivas al cliente, evitando ser tú quien niegue la solicitud directamente.",
-      "rationalized_distractor": "Proporcionas la información solicitada para calmar al cliente, considerando que resolver el conflicto en el mostrador es urgente."
+      "integrity_correct": "Le digo que no puedo darle información de otra persona sin autorización por escrito.",
+      "pragmatic_distractor": "Le doy solo cómo va el pedido sin datos personales ni dirección.",
+      "evasive_distractor": "Lo mando con servicio al cliente para que ahí le ayuden con la autorización.",
+      "rationalized_distractor": "Le doy la información porque es su pareja y puede verificarlo con comprobante de domicilio."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -64,12 +64,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un compañero se equivocó y entregó un pedido a otra persona. Te pide que no lo reportes y que entre ustedes repongan el producto para que no lo sancionen. Si lo reportas, él se enoja y el equipo te ve como desleal; si lo ocultas, se arregla rápido pero el error queda escondido. ¿Qué haces?",
+    "scenario": "Un compañero entregó un pedido a la persona equivocada. Me pide que no lo reporte y que entre los dos lo arreglemos. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reportas el error por el canal formal para su corrección, aceptando la incomodidad en la relación laboral con tu compañero.",
-      "pragmatic_distractor": "Ayudas a gestionar la recuperación del producto y corriges el sistema, asegurando que el error quede subsanado operativamente.",
-      "evasive_distractor": "Te mantienes al margen de la situación, dejando que tu compañero resuelva solo para no involucrarte en el reporte.",
-      "rationalized_distractor": "Omites el reporte formal y ayudas a reponer internamente, priorizando la cohesión del equipo sobre el protocolo administrativo."
+      "integrity_correct": "Lo reporto y dejo que el que sigan el procedimiento lo resuelva.",
+      "pragmatic_distractor": "Lo ayudo a recuperar el producto y lo anoto para que quede correcto.",
+      "evasive_distractor": "Le digo que lo reporte él mismo porque fue su error, no el mío.",
+      "rationalized_distractor": "Le ayudo a reponer con producto de reserva y ya no hace falta reportarlo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 5",
     "sot_checksum": "ops400_m3_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, una persona con prisa deja un billete de más sin darse cuenta. Tu compañero te dice que lo guardes porque “el cliente ni lo notará” y el turno está pesado. Si lo regresas, pierdes tiempo y te expones a comentarios; si lo guardas, te beneficia pero no es correcto. ¿Qué haces?",
+    "scenario": "Un cliente con prisa me deja un billete de más sin darse cuenta. Mi compañero me dice que me lo quede porque 'ni lo va a notar'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detienes al cliente para devolver el excedente, aceptando el retraso en la operación y la exposición del error propio.",
-      "pragmatic_distractor": "Apartas el excedente registrando la diferencia para el arqueo, asegurando la transparencia sin detener la fila en ese instante.",
-      "evasive_distractor": "Dejas el billete aparte sin registrar nada por el momento, postergando la decisión hasta el corte de caja.",
-      "rationalized_distractor": "Ingresas el sobrante a caja general para cubrir faltantes futuros, considerando que equilibra los errores comunes del turno."
+      "integrity_correct": "Salgo de la caja a alcanzar al cliente para regresarle el billete.",
+      "pragmatic_distractor": "Lo registro como sobrante en el sistema para que quede en el arqueo.",
+      "evasive_distractor": "Se lo doy a un compañero para que lo alcance mientras sigo atendiendo.",
+      "rationalized_distractor": "Lo dejo como fondo de cambio porque siempre falta suelto en el turno."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -94,12 +94,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la bodega, un compañero se lastima moviendo una caja y te pide decir que fue “fuera del trabajo” para evitar reporte porque teme que lo regañen. Si aceptas, lo proteges, pero el riesgo de seguridad queda oculto; si reportas, se enoja y te verán como quien lo expuso. ¿Qué haces?",
+    "scenario": "Un compañero se lastima en la bodega y me pide que diga que fue fuera del trabajo para que no lo reporten. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reportas el accidente laboral según protocolo, asumiendo la molestia del equipo por la investigación de seguridad que esto detona.",
-      "pragmatic_distractor": "Acompañas al compañero a servicio médico interno para valoración, gestionando la salud primero antes de formalizar el tipo de reporte.",
-      "evasive_distractor": "Evitas preguntar detalles sobre lo ocurrido y sigues trabajando, dejando que él decida cómo manejar su situación médica.",
-      "rationalized_distractor": "Apoyas su versión para evitarle problemas administrativos, considerando que la prioridad es que reciba atención sin sanciones."
+      "integrity_correct": "Aviso que se lastimó en la bodega y lleno el reporte de accidente como marca el proceso.",
+      "pragmatic_distractor": "Lo llevo al médico de la empresa primero y ya ahí que decidan cómo clasificar el accidente.",
+      "evasive_distractor": "Le digo que él decida qué reportar porque yo no vi cómo pasó.",
+      "rationalized_distractor": "Lo apoyo con su versión porque lo importante es que lo atiendan rápido, no el papeleo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -109,12 +109,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente se equivoca al pagar y te entrega una tarjeta que no es suya; al revisar ves el nombre diferente. El cliente está apurado y te pide que lo dejes pasar “porque no importa”. Si aceptas, resuelves rápido, pero puedes facilitar un abuso; si detienes, se enoja y la fila crece. ¿Qué haces?",
+    "scenario": "Un cliente me da una tarjeta para pagar pero el nombre no coincide. Me pide que lo deje pasar porque tiene prisa. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Rechazas el pago y solicitas una forma válida, aceptando la queja del cliente y el aumento del tiempo de atención.",
-      "pragmatic_distractor": "Solicitas una identificación oficial para validar la titularidad, equilibrando la seguridad financiera con la atención al cliente.",
-      "evasive_distractor": "Indicas que la terminal falla con esa tarjeta y pides otra, evitando confrontar directamente sobre la titularidad.",
-      "rationalized_distractor": "Procesas el cobro para agilizar la fila, confiando en que la transacción pasará y priorizando la velocidad del servicio."
+      "integrity_correct": "Le digo que no puedo cobrar con tarjeta de otro nombre y le pido otra forma de pago.",
+      "pragmatic_distractor": "Le pido una identificación para confirmar que el titular lo autorizó.",
+      "evasive_distractor": "Le digo que la terminal no acepta esa tarjeta y que intente con otra.",
+      "rationalized_distractor": "Lo cobro porque el cliente tiene el NIP y la tarjeta; si fuera robada no sabría la clave."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, un cliente te ofrece dinero para que lo registres como “entregado” en otra dirección, porque no quiere que su familia se entere. Si lo haces, ayudas al cliente y terminas rápido, pero el registro quedará falso y puede generar reclamo. Si te niegas, se enoja y amenaza con quejarse. ¿Qué haces?",
+    "scenario": "Un cliente me ofrece dinero para que registre la entrega en otra dirección porque no quiere que su familia sepa. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras la ubicación real de entrega, asumiendo la discusión con el cliente y el riesgo de una evaluación negativa.",
-      "pragmatic_distractor": "Acuerdas un punto de entrega oficial cercano, gestionando la satisfacción del cliente sin falsificar la geolocalización.",
-      "evasive_distractor": "Indicas que el sistema no te permite cerrar la orden ahí, transfiriendo la responsabilidad a la tecnología.",
-      "rationalized_distractor": "Realizas la entrega donde pide el cliente, considerando que completar el servicio es más importante que la precisión del registro."
+      "integrity_correct": "Registro la dirección real en la que estoy realizando la entrega en el sistema.",
+      "pragmatic_distractor": "Le propongo un punto de entrega oficial cercano que le dé más privacidad sin cambiar el registro.",
+      "evasive_distractor": "Le digo que el GPS del sistema no me deja cambiar la ubicación.",
+      "rationalized_distractor": "Registro donde me pide porque al final el paquete sí se entregó y el cliente está satisfecho."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -139,12 +139,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En inventario faltan piezas y el encargado sugiere ajustar el sistema para que cuadre, diciendo que luego “aparecen”. Si aceptas, evitas una revisión larga; si te niegas, detienes el cierre y todos se molestan. Sabes que ajustar sin evidencia oculta problemas reales. ¿Qué haces?",
+    "scenario": "En inventario faltan piezas y el encargado me dice que ajuste el sistema para que cuadre, que luego 'aparecen'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Te niegas a ajustar cifras y reportas el faltante real, aceptando que esto extenderá el horario de cierre para la investigación.",
-      "pragmatic_distractor": "Realizas un conteo cruzado rápido para descartar errores, buscando precisión operativa antes de determinar si hay pérdida.",
-      "evasive_distractor": "Te ocupas de otra área del almacén, dejando que el encargado realice el cierre de cifras bajo su criterio.",
-      "rationalized_distractor": "Ajustas el inventario para permitir el cierre a tiempo, considerando que las diferencias menores son operativamente aceptables."
+      "integrity_correct": "Reporto el faltante real en el sistema para que quede registrado el descuadre.",
+      "pragmatic_distractor": "Hago un conteo rápido cruzado para ver si es error de captura antes de reportar.",
+      "evasive_distractor": "Me hago a un lado y dejo que el encargado cierre como él quiera, es su responsabilidad.",
+      "rationalized_distractor": "Ajusto el sistema porque son pocas piezas y siempre aparecen al día siguiente."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -154,12 +154,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Ves a un cliente tomar un alimento y guardarlo sin pagar. Parece nervioso y va con un niño. Tu compañero dice que lo dejes ir para evitar problemas, pero si todos hacen eso, se afecta la tienda. Si lo detienes, puede haber conflicto público y te tocará manejarlo. ¿Qué haces?",
+    "scenario": "Veo a un cliente guardar un producto sin pagar. Va con un niño y se ve nervioso. Mi compañero me dice que lo deje ir. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Intervienes siguiendo el protocolo de seguridad, asumiendo la tensión del momento y la posible reacción adversa del entorno.",
-      "pragmatic_distractor": "Te acercas ofreciendo asistencia al cliente, disuadiendo el robo mediante presencia activa sin escalar a confrontación.",
-      "evasive_distractor": "Evitas mirar directamente y continúas tus tareas, dejando que seguridad o cámaras se encarguen si lo detectan.",
-      "rationalized_distractor": "Permites que se vaya sin intervenir, considerando que el costo del producto es menor al riesgo de un escándalo."
+      "integrity_correct": "Me acerco cortesmente y Le digo que pase a la caja a pagar el producto.",
+      "pragmatic_distractor": "Me acerco y le ofrezco ayuda como si fuera servicio al cliente para que sepa que lo vi.",
+      "evasive_distractor": "Aviso a seguridad por radio y dejo que ellos se encarguen.",
+      "rationalized_distractor": "Lo dejo ir porque es un alimento y va con un niño; no vale la pena el escándalo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -169,12 +169,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente mayor no entiende un cobro y te pide que le expliques con calma, pero la fila está larga y tu compañero te presiona para avanzar. Si lo atiendes bien, te atrasas y te reclaman; si lo despachas rápido, puede pagar algo que no comprendió. ¿Qué haces?",
+    "scenario": "Un cliente mayor no entiende un cobro y quiere que le explique con calma. La fila está larga y mi compañero me presiona. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Dedicas el tiempo necesario para explicar el cobro, aceptando la presión de la fila y el retraso en tus métricas de atención.",
-      "pragmatic_distractor": "Resumes los puntos clave del cobro y ofreces el ticket detallado, equilibrando la claridad para el cliente con el flujo de la fila.",
-      "evasive_distractor": "Solicitas a un compañero de apoyo que atienda las dudas, transfiriendo la atención para seguir cobrando a los demás.",
-      "rationalized_distractor": "Cobras rápidamente para liberar la caja, considerando que el flujo constante de clientes es la prioridad del negocio."
+      "integrity_correct": "Me tomo el tiempo que necesite para explicarle claramente el cobro realizado.",
+      "pragmatic_distractor": "Le explico lo más importante en pocas palabras y le doy el ticket para que lo revise con calma.",
+      "evasive_distractor": "Le pido a un compañero que le explique mientras yo sigo atendiendo la fila.",
+      "rationalized_distractor": "Le cobro y le digo que si tiene dudas regrese después con el ticket; la fila no puede esperar."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -184,12 +184,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el área de devoluciones, un cliente insiste en devolver un producto usado diciendo que “no lo ocupó”, y tu compañero sugiere aceptarlo para evitar pleito. Si lo aceptas, es injusto para el control y para otros clientes; si lo rechazas, se enoja y hace escándalo. ¿Qué haces?",
+    "scenario": "Un cliente quiere devolver un producto que ya usó. Dice que 'no lo ocupó'. Mi compañero me dice que lo acepte para evitar pleito. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Rechazas la devolución por incumplir políticas de calidad, asumiendo la confrontación con el cliente y la posible queja.",
-      "pragmatic_distractor": "Consultas con el supervisor una posible excepción o cambio parcial, buscando alternativas de servicio dentro del marco operativo.",
-      "evasive_distractor": "Informas que el sistema no autoriza la devolución, delegando la negativa a la validación automática.",
-      "rationalized_distractor": "Procesas la devolución para evitar conflictos, considerando que satisfacer al cliente asegura su retorno futuro."
+      "integrity_correct": "Le explico que por política no aplica devolución porque el producto ya fue usado.",
+      "pragmatic_distractor": "Consulto con el supervisor si puede haber un cambio parcial o crédito en tienda.",
+      "evasive_distractor": "Le digo que el sistema no me deja hacer la devolución y que hable con el gerente.",
+      "rationalized_distractor": "Se lo acepto porque retener al cliente es más importante que una devolución pequeña."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -199,12 +199,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, te das cuenta de que un paquete se dañó por cómo lo acomodaron. El cliente te pide que lo marques como “daño en origen” para que le cambien rápido y te ofrece propina. Si aceptas, el registro queda falso; si dices la verdad, el cliente se enoja y te toca iniciar un trámite más lento. ¿Qué haces?",
+    "scenario": "Un paquete se dañó en ruta por cómo lo acomodé. El cliente me pide que lo marque como 'daño en origen' para que le cambien rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reportas el daño con la causa real, aceptando que el trámite será más largo y generará molestia en el cliente.",
-      "pragmatic_distractor": "Gestionas el reclamo documentando el estado actual, buscando la vía más eficiente de resolución sin alterar los hechos.",
-      "evasive_distractor": "Le indicas que debe reportarlo directamente a servicio al cliente, evitando involucrarte en la clasificación del daño.",
-      "rationalized_distractor": "Registras el daño como solicita el cliente, priorizando una solución rápida para él sobre la exactitud administrativa."
+      "integrity_correct": "Aviso y tomo fotos de que el daño ocurrió durante el trayecto de la ruta.",
+      "pragmatic_distractor": "Tomo fotos del estado actual y abro el reclamo sin alterar la causa, para que resuelvan rápido.",
+      "evasive_distractor": "Le digo al cliente que lo reporte él directo al servicio al cliente con las fotos.",
+      "rationalized_distractor": "Lo marco como daño en origen porque al final el cliente va a recibir su cambio igual."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -214,12 +214,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Te piden priorizar el pedido de un conocido saltando a otros que llegaron antes. Dicen que “no pasa nada” y que es solo un favor. Si lo haces, quedas bien y ahorras discusión; si no, tu compañero se burla y el conocido se ofende. Sabes que es injusto para los demás clientes. ¿Qué haces?",
+    "scenario": "Un conocido me pide que le adelante su pedido saltando a otros que llegaron antes. Mi compañero dice que 'no pasa nada'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Mantienes el turno establecido y atiendes en orden, aceptando la molestia de tu conocido y la presión social.",
-      "pragmatic_distractor": "Revisas si puedes adelantar la preparación sin afectar la entrega de otros, optimizando el flujo para ayudar sin saltar turnos.",
-      "evasive_distractor": "Le dices que el sistema bloquea los pedidos por hora, transfiriendo la responsabilidad de la espera al software.",
-      "rationalized_distractor": "Atiendes a tu conocido primero, considerando que mantener buenas relaciones personales beneficia el ambiente laboral."
+      "integrity_correct": "Le pido que tome su lugar y espere su turno conforme al orden de llegada.",
+      "pragmatic_distractor": "Empiezo a preparar su pedido sin saltarme a nadie para tenerlo listo cuando le toque.",
+      "evasive_distractor": "Le digo que el sistema ordena por llegada y que no puedo cambiarlo yo.",
+      "rationalized_distractor": "Lo atiendo primero porque es rápido y nadie se va a dar cuenta."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 15",
     "sot_checksum": "ops400_m3_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el almacén, el termómetro del área fría marca fuera de rango por ratos. El encargado te pide anotar valores normales porque si no se pierde un lote y hoy no llega el técnico. Si lo haces, evitas pérdida y retraso; si reportas lo real, se detiene la salida y te culpan por el costo. ¿Qué haces?",
+    "scenario": "El termómetro del área fría marca fuera de rango por ratos. El encargado me pide anotar valores normales para no perder un lote. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registras la temperatura real y activas el protocolo de contingencia, asumiendo el riesgo de pérdida y la carga de trabajo extra.",
-      "pragmatic_distractor": "Verificas el sensor y ajustas la ventilación, buscando estabilizar la temperatura antes de tomar la lectura oficial.",
-      "evasive_distractor": "Omites el registro de esa hora, esperando que la temperatura se regularice para la siguiente medición.",
-      "rationalized_distractor": "Registras un valor dentro de rango, confiando en que el producto resiste y priorizando evitar una merma masiva."
+      "integrity_correct": "Anoto el valor real que marca el termómetro en la bitácora de temperatura.",
+      "pragmatic_distractor": "Reviso si el sensor está bien calibrado y ajusto la ventilación antes de tomar la lectura.",
+      "evasive_distractor": "No anoto nada esta hora y espero a que se estabilice para la siguiente medición.",
+      "rationalized_distractor": "Anoto el valor normal porque el producto aguanta y no vale la pena perder un lote entero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un cliente te pide que confirmes un servicio “hoy mismo” y tu compañero dice que prometas disponibilidad para asegurar la venta. Tú sabes que aún no está confirmado y que puede fallar, pero decir la verdad podría hacer que el cliente se vaya. Si prometes, creas expectativa falsa; si no, pierdes el caso. ¿Qué haces?",
+    "scenario": "Un cliente quiere que le confirme un servicio para hoy, pero aún no está disponible. Mi compañero me dice que le prometa para no perder la venta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Informas los tiempos reales de confirmación, aceptando el riesgo de perder la venta y la presión por los objetivos.",
-      "pragmatic_distractor": "Ofreces una reserva condicionada a confirmación, gestionando la expectativa del cliente sin prometer lo imposible.",
-      "evasive_distractor": "Dices que verificarás disponibilidad y tomas sus datos, postergando la respuesta para no decir no en el momento.",
-      "rationalized_distractor": "Confirmas la disponibilidad para asegurar el cliente, confiando en que operativa resolverá la entrega de alguna manera."
+      "integrity_correct": "Le explico los tiempos reales que requiere el sistema para la confirmación.",
+      "pragmatic_distractor": "Le ofrezco una reserva condicionada a confirmación para que no se comprometa sin garantía.",
+      "evasive_distractor": "Le tomo sus datos y le digo que le confirmo por teléfono más tarde.",
+      "rationalized_distractor": "Le confirmo porque seguro se va a liberar y si no, ya lo resolvemos después."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -259,12 +259,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la tienda, un cliente deja caer un producto y se rompe. Él dice que ya estaba así y quiere que se lo cambies sin pagar. Si lo aceptas, evitas pleito, pero puede ser injusto; si lo rechazas, se enoja y arma escándalo. Tu compañero te pide resolver rápido para que no se atasque la fila. ¿Qué haces?",
+    "scenario": "Un cliente tira un producto y se rompe. Dice que ya estaba así y quiere cambio gratis. Mi compañero me dice que lo resuelva rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Informas que el daño ocurrió en tienda y no aplica cambio, asumiendo la reacción negativa del cliente en público.",
-      "pragmatic_distractor": "Revisas si aplica algún descuento por daño accidental, buscando una solución comercial que no implique pérdida total.",
-      "evasive_distractor": "Llamas a seguridad o gerencia para que manejen el caso, retirándote de la interacción directa.",
-      "rationalized_distractor": "Cambias el producto como merma de almacén, considerando que es mejor absorber el costo que tener un cliente gritando."
+      "integrity_correct": "Le explico que el daño ocurrió dentro de la tienda y no procede un cambio gratis.",
+      "pragmatic_distractor": "Le ofrezco un descuento por daño accidental para que pague menos sin perder la venta.",
+      "evasive_distractor": "Llamo al gerente para que él decida si se cambia o no.",
+      "rationalized_distractor": "Se lo cambio como merma porque sale más caro el escándalo que el producto."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En reparto te asignan una entrega en una zona donde hoy hubo reportes de incidentes, y no hay acompañamiento. El cliente insiste por teléfono en recibir hoy y amenaza con queja. Si vas, cumples pero te expones; si reprogramas, pierdes tiempo y te reclaman por no cumplir. El coordinador no responde. ¿Qué haces?",
+    "scenario": "Me asignan una entrega en una zona donde hoy hubo reportes de inseguridad. No hay acompañamiento y el coordinador no contesta. El cliente insiste en recibir hoy. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Sigues el protocolo de seguridad y suspendes la entrega, asumiendo la queja del cliente y el impacto en tus métricas de cumplimiento.",
-      "pragmatic_distractor": "Contactas al cliente para coordinar entrega en un punto seguro limítrofe, equilibrando el servicio con tu integridad física.",
-      "evasive_distractor": "Marcas la zona como inaccesible en la app y continúas, dejando que despacho decida qué hacer después.",
-      "rationalized_distractor": "Realizas la entrega rápidamente, confiando en tu experiencia y priorizando no regresar con paquetes pendientes."
+      "integrity_correct": "Suspendo la entrega inmediata y paso el aviso de zona peligrosa.",
+      "pragmatic_distractor": "Le propongo al cliente un punto de entrega seguro cerca de la zona para no cancelar.",
+      "evasive_distractor": "Marco la zona como inaccesible en el sistema y que despacho decida qué hacer.",
+      "rationalized_distractor": "Voy rápido porque conozco la zona y no quiero regresar con paquetes pendientes."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te pide que le vendas un producto restringido aunque no cumple requisito, y te ofrece propina. Si accedes, ganas dinero y evitas discusión, pero rompes una regla que existe por seguridad. Si te niegas, se enoja y grita frente a otros. Estás cansado y la fila está larga. ¿Qué haces?",
+    "scenario": "Un cliente quiere que le venda un producto restringido sin cumplir el requisito. Me ofrece propina y hay fila. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Niegas la venta por falta de requisitos legales, aceptando la confrontación y la pérdida de la venta en un momento de alta demanda.",
-      "pragmatic_distractor": "Ofreces productos alternativos sin restricción, canalizando la necesidad del cliente hacia una opción permitida.",
-      "evasive_distractor": "Indicas que el sistema no te permite escanear ese código, evitando discutir la regla directamente.",
-      "rationalized_distractor": "Autorizas la venta para agilizar la fila, considerando que el riesgo es bajo y la prioridad es la fluidez del servicio."
+      "integrity_correct": "Le digo que sin el requisito indispensable no puedo procesar la venta.",
+      "pragmatic_distractor": "Le ofrezco productos similares que no tienen restricción para que no se vaya sin nada.",
+      "evasive_distractor": "Le digo que el sistema no me deja pasar ese código y que pregunte en otra sucursal.",
+      "rationalized_distractor": "Se lo vendo porque el riesgo es mínimo y la fila no puede esperar más."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 20",
     "sot_checksum": "ops400_m3_options_v1"
@@ -304,12 +304,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el piso de venta encuentras dinero tirado cerca de la caja. No hay nadie reclamándolo y tu compañero dice que lo guardes porque “si nadie lo vio, es tuyo”. Si lo reportas, pierdes tiempo y quizá sospechen de ti; si te lo quedas, te beneficia pero no es correcto. ¿Qué haces?",
+    "scenario": "Un compañero llega 20 minutos tarde y me pide que le diga al supervisor que él estaba en el baño, porque si no le descuentan el bono mensual por retardos. Si no lo apoyo, se va a enojar muchísimo conmigo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reportas el hallazgo y sigues el protocolo de resguardo, aceptando que el trámite administrativo extenderá tu jornada.",
-      "pragmatic_distractor": "Aseguras el dinero bajo custodia temporal y notificas a gerencia, equilibrando la seguridad del efectivo con la operación actual.",
-      "evasive_distractor": "Dejas el dinero en su lugar sin intervenir, transfiriendo la responsabilidad de la recolección al personal de limpieza o seguridad.",
-      "rationalized_distractor": "Conservas el efectivo, considerando que la falta de reclamo inmediato lo convierte en un hallazgo fortuito legítimo."
+      "integrity_correct": "Le digo al supervisor la hora real de llegada de mi compañero y continúo con mis actividades asignadas.",
+      "pragmatic_distractor": "Le digo a mi compañero que él invente su propia excusa pero que a mí no me meta en el tema.",
+      "evasive_distractor": "Me voy a bodega justo cuando entra el supervisor para no estar presente si pregunta por mi compañero.",
+      "rationalized_distractor": "Lo cubro diciendo que estaba en el baño porque lo más importante para tener un buen clima laboral es apoyarnos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -319,12 +319,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la bodega, un compañero te pide que le prestes tu usuario para registrar movimientos porque el suyo “no abre”. Dice que solo será hoy para no atrasarse. Si accedes, ayudas y avanzan; si no, se molesta y se pierde tiempo, pero el registro quedaría a tu nombre y se pierde trazabilidad. ¿Qué haces?",
+    "scenario": "Una compañera me pide que le pase la respuesta a la evaluación de seguridad por mensajería porque tiene demasiada carga y si no aprueba rápido, nos penalizan el bono de área. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas el préstamo de credenciales y solicitas soporte oficial, asumiendo la fricción que esto genera en el flujo de trabajo.",
-      "pragmatic_distractor": "Gestionas una autorización temporal o supervisas la operación directa, buscando desbloquear la tarea sin comprometer tu acceso personal.",
-      "evasive_distractor": "Indicas desconocimiento sobre cómo resolverlo y te retiras, dejando que el compañero gestione la solución por su cuenta.",
-      "rationalized_distractor": "Facilitas el acceso, priorizando la continuidad operativa inmediata sobre el cumplimiento estricto de la política de usuarios."
+      "integrity_correct": "Me niego a darle las respuestas directo del cuestionario de la evaluación de seguridad.",
+      "pragmatic_distractor": "Le paso un resumen rápido de la guía para que ella conteste sola sin darle la clave exacta directamente.",
+      "evasive_distractor": "Le digo al jefe del área que nos dé más tiempo a todos para terminarla bien sin presionarnos.",
+      "rationalized_distractor": "Le mando las respuestas rápido porque la prioridad es sacar la operación del piso hoy y mantener la paz."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 2",
     "sot_checksum": "ops400_m3_options_v1"
@@ -334,12 +334,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te pide que le aceptes una devolución sin comprobante y te dice que si no lo ayudas perderá su dinero. Te ofrece un “agradecimiento” en efectivo para que lo hagas pasar. Si aceptas, resuelves rápido, pero rompes el proceso; si rechazas, el cliente se enfurece y te arma escándalo. ¿Qué haces?",
+    "scenario": "Un cliente está gritando furioso porque el área técnica no empacó correctamente su equipo. La política dice que en piso de ventas nunca debemos hablar mal de reparación ni admitir fallos de proceso internos frente al cliente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la oferta y aplicas la normativa de devoluciones, enfrentando la molestia del cliente por la negativa.",
-      "pragmatic_distractor": "Buscas alternativas legítimas de servicio o cambio, canalizando la necesidad del cliente sin aceptar incentivos irregulares.",
-      "evasive_distractor": "Informas que no tienes autorización y sugieres volver en otro horario, postergando la resolución del conflicto.",
-      "rationalized_distractor": "Procesas la devolución, considerando que resolver el problema del cliente es la prioridad comercial en este momento."
+      "integrity_correct": "Sigo la política dando respuestas formales sobre nuestro cómo atendemos.",
+      "pragmatic_distractor": "Le doy la razón al cliente en voz baja y con empatía, buscando calmarlo sin dejar registro del problema interno.",
+      "evasive_distractor": "paso a de forma inmediata al cliente de regreso al área técnica para que ellos lidien con las consecuencias de su error.",
+      "rationalized_distractor": "Le digo abiertamente que fue culpa de los compañeros técnicos para ser honestos y que él se vaya con la verdad."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -349,12 +349,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, un cliente te pide dejar el paquete en un punto “oculto” y que lo marques como entregado, porque no estará. Tú sabes que la regla pide entrega directa y que si se pierde te culparán. Si no lo haces, tendrás que volver y te atrasas; si lo haces, terminas rápido pero arriesgas un reclamo. ¿Qué haces?",
+    "scenario": "Vamos súper atrasados en la ruta. Mi compañero sugiere saltarnos el horario de descanso que marca el manual para poder terminar la lista completa. Yo la verdad me siento con hambre y agotado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reprogramas la entrega según el protocolo oficial, asumiendo el impacto en los tiempos de tu ruta diaria.",
-      "pragmatic_distractor": "Contactas al cliente para coordinar un punto de entrega autorizado, buscando cumplir el servicio sin infringir la norma de seguridad.",
-      "evasive_distractor": "Marcas el envío como pendiente de entrega, evitando tomar la decisión de dejarlo sin supervisión.",
-      "rationalized_distractor": "Dejas el paquete en el punto solicitado, confiando en la instrucción del cliente para agilizar el cumplimiento de la ruta."
+      "integrity_correct": "Me detengo a tomar el tiempo de descanso que marca estrictamente la manual.",
+      "pragmatic_distractor": "Le propongo comprar algo en un autoservicio, comer rápido mientras manejamos y avanzar el doble la siguiente hora.",
+      "evasive_distractor": "Le digo que le confirme al monitor de base qué ruta haremos para ver si ellos autorizan saltarse los tiempos.",
+      "rationalized_distractor": "Acepto saltarme la comida hoy porque la lealtad al resultado y el cumplimiento del trabajo son lo más valioso."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -364,12 +364,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el almacén, detectas que un lote fue etiquetado con un código similar al correcto, pero no estás seguro. Si lo dejas, todo avanza, pero puede llegar producto equivocado a un cliente. Si detienes, atrasas el camión y te reclaman por frenar. El encargado quiere que salga a tiempo. ¿Qué haces?",
+    "scenario": "Un colega del turno anterior me entrega su área un poco desordenada, pero en la bitácora me pide que le firme de entregado 'correcto'. Su turno ya acabó y quiere irse. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Detienes el lote para una verificación exhaustiva, aceptando la responsabilidad por el retraso en la salida del transporte.",
-      "pragmatic_distractor": "Realizas un muestreo rápido para confirmar la coincidencia, equilibrando la necesidad de control con la urgencia del despacho.",
-      "evasive_distractor": "Permites que el proceso continúe, dejando que la validación final recaiga en el punto de recepción.",
-      "rationalized_distractor": "Autorizas la salida, considerando que la probabilidad de error es baja y la prioridad es cumplir los tiempos logísticos."
+      "integrity_correct": "En la bitácora dejo el registro de las condiciones exactas en las que estoy recibiendo el área.",
+      "pragmatic_distractor": "Le digo que lo firme y se vaya, luego yo le ayudo barriendo lo más vistoso para que nadie nos sancione.",
+      "evasive_distractor": "Espero a que llegue nuestro coordinador para que sea él quien revise las entregas y los formatos.",
+      "rationalized_distractor": "Le firmo que todo está bien y limpio porque aprecio a mis compañeros y no me gusta ser conflictivo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 5",
     "sot_checksum": "ops400_m3_options_v1"
@@ -379,12 +379,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un compañero te muestra cómo “ajustar” un cobro para que el cliente pague un poco menos y así te deje propina. Dice que nadie lo nota si se hace de vez en cuando. Si lo haces, ganas dinero, pero engañas al negocio; si no, te quedas fuera del grupo y te presionan. ¿Qué haces?",
+    "scenario": "Mi equipo de trabajo organizó una cuota de 200 pesos para la fiesta del jefe. A mí no me invitaron al inicio y no tengo ese dinero. Mis compañeros me presionan para que ponga para no dar una imagen de grupito envidioso. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la práctica y cobras el monto oficial, asumiendo la tensión social que esto genera con el equipo de trabajo.",
-      "pragmatic_distractor": "Propones estrategias legítimas de servicio para incentivar propinas, buscando mejorar ingresos sin manipular los cobros del sistema.",
-      "evasive_distractor": "Evitas responder a la propuesta y continúas con tu labor, manteniendo una postura neutral ante la sugerencia.",
-      "rationalized_distractor": "Aplicas el ajuste sugerido, considerando que la satisfacción del cliente y el ingreso extra compensan la desviación menor."
+      "integrity_correct": "Rechazo cortés pero directamente dar la cuota para la actividad fuera de mis posibilidades.",
+      "pragmatic_distractor": "Propongo apoyar en la logística o conseguir un descuento en el regalo en lugar de dar la cuota completa.",
+      "evasive_distractor": "Les digo que olvidé mi cartera esta semana y les doy largas hasta que la fecha del evento pase.",
+      "rationalized_distractor": "Pido dinero prestado a otro amigo para cooperar ahora y así demostrar que sí tengo actitud de compañerismo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -394,12 +394,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un cliente te pide que le muestres el historial de compras para “comprobar” algo con su pareja, pero la cuenta no está a su nombre. Tú ves datos privados en pantalla. Si lo muestras, resuelves rápido; si no, se altera y te acusa de no ayudar. El turno está tenso. ¿Qué haces?",
+    "scenario": "Llega un cliente exaltado quejándose de la pésima resolución que le dio mi compañero. Mi compañero, que lo vio entrar, se mete a la bodega asustado y me deja solo para lidiar con el reclamo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Proteges la información y explicas el protocolo de privacidad, enfrentando la insatisfacción inmediata del usuario.",
-      "pragmatic_distractor": "Ofreces información genérica sobre el proceso de consulta personal, ayudando al usuario sin exponer datos sensibles en pantalla.",
-      "evasive_distractor": "Solicitas que espere a un supervisor para esa consulta específica, transfiriendo la gestión del conflicto.",
-      "rationalized_distractor": "Muestras el historial brevemente, priorizando la calma en el área de servicio sobre la rigidez del protocolo de datos."
+      "integrity_correct": "Tomo el control del mostrador y escucho la solicitud del cliente para empezar el empezar a atenderlo.",
+      "pragmatic_distractor": "Le digo al cliente una mentira piadosa asegurando que mi compañero terminó su turno justo hace 10 minutos.",
+      "evasive_distractor": "Llamo al personal de seguridad para que escolten al cliente por la agresividad que presenta nuestro mostrador.",
+      "rationalized_distractor": "Exhibo a mi compañero diciéndole al cliente exactamente en qué lugar de la bodega se escondió recién llegó."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -409,12 +409,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En tienda, un cliente devuelve una caja sellada, pero al abrirla ves que el contenido no coincide. El cliente insiste en que así venía y exige reembolso. Si aceptas, pierdes producto y dinero; si rechazas, arma escándalo y amenaza con queja. Tú estás solo y hay fila. ¿Qué haces?",
+    "scenario": "Hay muchísima presión operativa. Un chofer externo lleva horas quejándose durísimo, gritando pestes del formato de nuestra tienda hasta contagiar estrés a mi personal asignado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Deniegas el reembolso tras la inspección física, aceptando gestionar la queja y el retraso en la atención de la fila.",
-      "pragmatic_distractor": "Documentas la discrepancia y ofreces una revisión técnica posterior, buscando una salida formal sin autorizar el pago inmediato.",
-      "evasive_distractor": "Indicas que el sistema no te permite procesarlo ahora y pides que regrese luego, evitando la confrontación directa.",
-      "rationalized_distractor": "Procesas el reembolso, considerando que evitar un escándalo público es más beneficioso para la imagen de la tienda."
+      "integrity_correct": "Hago una pausa en mi labor para pedir con respeto que modere su tono en el área de trabajo.",
+      "pragmatic_distractor": "Intento desarmar su frustración platicando con él sobre un tema cotidiano distinto para calmar el ritmo.",
+      "evasive_distractor": "Redacto un correo a su base quejándome de él para reportarlo y dejo que el turno siga con su queja presencial.",
+      "rationalized_distractor": "Le doy por su lado dándole la razón en todas sus quejas esperando que así concluya rápido su presencia en tienda."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -424,12 +424,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta encuentras un paquete con dirección ilegible. Tu compañero sugiere marcarlo como “cliente ausente” para no reportar y evitar seguimiento. Si lo haces, te ahorras gestiones; si reportas como dirección ilegible, habrá llamadas y quizá te pidan volver. El tiempo del día está justo. ¿Qué haces?",
+    "scenario": "En junta general de turno, el gerente nos regaña durísimo por el desorden en un pasillo. Yo sé exactamente que mi compañero fue quien dejó todo arrojado, pero él se queda completamente callado en la junta. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reportas la incidencia real de dirección ilegible, asumiendo la carga administrativa y las posibles gestiones adicionales.",
-      "pragmatic_distractor": "Intentas validar la dirección por teléfono antes de registrar, agotando recursos para entregar sin falsear el estatus.",
-      "evasive_distractor": "Dejas el paquete pendiente para el final del turno, postergando la decisión de registro hasta el último momento.",
-      "rationalized_distractor": "Registras como cliente ausente, priorizando el cumplimiento de los tiempos de ruta sobre la precisión administrativa."
+      "integrity_correct": "Asumo la llamada de atención en silencio como equipo durante la junta general del turno.",
+      "pragmatic_distractor": "Me acerco rápido a barrer disimuladamente lo más fuerte del pasillo en lo que el gerente voltea hacia otro lado.",
+      "evasive_distractor": "Interrumpo al gerente puntualizando frente a todo el auditorio exactamente quién estuvo de guardia en esa zona hoy.",
+      "rationalized_distractor": "Asumo el daño en voz alta echándome la culpa yo para proteger al compañero y cerrar más rápido el asunto en la junta."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -439,12 +439,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el área de alimentos, un cliente pregunta si un producto está cerca de vencer. Tu compañero te dice que no lo menciones para que se venda. Si eres honesto, quizá no lo compren y te reclamen por “espantar” ventas; si no lo dices, el cliente decide sin información. ¿Qué haces?",
+    "scenario": "Atiendo la llamada de un proveedor muy importante enojadísimo porque mi compañero olvidó enviarle unos documentos urgente en la mañana y ahora nos cobrará recargos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Informas la fecha real de caducidad, aceptando la posible pérdida de la venta y el desacuerdo con tu compañero.",
-      "pragmatic_distractor": "Sugieres un producto alternativo con mayor vida útil, gestionando la calidad de la venta sin confrontar directamente el dato.",
-      "evasive_distractor": "Respondes que desconoces el dato exacto en este momento, evitando comprometerte con una respuesta específica.",
-      "rationalized_distractor": "Omites el detalle de la fecha, confiando en que el producto aún es apto para consumo y priorizando la meta de ventas."
+      "integrity_correct": "Le informo la falla de envío y comienzo a juntar de inmediato los documentos en el sistema.",
+      "pragmatic_distractor": "Le invento que sufrimos una caída total del internet de la empresa para proteger a mi departamento para que no quedemos mal.",
+      "evasive_distractor": "Pongo en silencio la llamada dos minutos mientras empujo físicamente la extensión al compañero que se equivocó.",
+      "rationalized_distractor": "Le aseguro duramente al proveedor que yo no fui el culpable del error sino otra persona para cuidar mi propia imagen personal."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -454,12 +454,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te deja su número para avisarle cuando llegue un producto. Un compañero te sugiere usar ese número para ofrecerle cosas por tu cuenta y ganar propina. Si lo haces, puedes ganar dinero, pero usas datos de un cliente indebidamente. Si no, el compañero se burla y dice que pierdes oportunidades. ¿Qué haces?",
+    "scenario": "Un colega de otra tienda me pide por mensajería que le comparta el archivo privado de nuestra estrategia comercial para usarlo él. Si se lo niego, me dirá que soy un mal compañero. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Utilizas el contacto exclusivamente para el fin autorizado, aceptando dejar pasar la oportunidad de ingreso extra.",
-      "pragmatic_distractor": "Consultas al cliente si desea recibir otras ofertas, formalizando el canal de comunicación antes de cualquier iniciativa.",
-      "evasive_distractor": "Archivas el número sin tomar acción adicional, evitando entrar en la dinámica propuesta por el compañero.",
-      "rationalized_distractor": "Contactas al cliente con la oferta, considerando que se trata de un servicio proactivo que le aporta valor."
+      "integrity_correct": "Le informo que el documento es interno y cierro el tema declinando su solicitud de información.",
+      "pragmatic_distractor": "Le explico a grandes rasgos por nota de voz de qué trata la estrategia sin mandarle el documento oficial.",
+      "evasive_distractor": "Dejo su mensaje en 'leído' y no le contesto nada para evitar tener que decirle que no directamente.",
+      "rationalized_distractor": "Se lo comparto porque al final de cuentas ambos trabajamos para la misma empresa madre y debemos ayudarnos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -469,12 +469,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el cierre de caja, falta dinero y tu compañero insiste en que “seguro fue un error del sistema”. Te propone ajustar una venta para que cuadre y así no los investiguen. Si aceptas, se resuelve rápido pero se oculta el problema; si no, habrá revisión y tensión. ¿Qué haces?",
+    "scenario": "Ya es hora de salida y todos queremos alcanzar el último transporte. Faltó cuadrar un formato que toma 20 minutos. El equipo acuerda dejarlo así y que el turno de la mañana lo resuelva. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reportas el faltante real para su auditoría, aceptando la revisión administrativa y la tensión que esto conlleva.",
-      "pragmatic_distractor": "Realizas un recuento detallado y revisión de tickets, buscando identificar el error operativo antes de elevar el reporte.",
-      "evasive_distractor": "Te mantienes al margen y dejas que el compañero maneje el cierre, evitando participar en la decisión del ajuste.",
-      "rationalized_distractor": "Realizas el ajuste contable, priorizando cerrar el turno a tiempo y evitar procesos burocráticos de investigación."
+      "integrity_correct": "Me quedo los minutos adicionales que sean necesarios hasta terminar de cuadrar correctamente el formato.",
+      "pragmatic_distractor": "Dejo una nota súper detallada pegada en la mesa explicando exactamente qué faltó para que la mañana no sufra.",
+      "evasive_distractor": "Le marco rápido al coordinador de la mañana para pedirle permiso de dejárselo a él por la urgencia del camión.",
+      "rationalized_distractor": "Me voy con ellos porque el descanso del personal es prioritario y la empresa debe garantizar nuestros horarios de salida."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -484,12 +484,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, un cliente interno pide que le entregues un material sin registrarlo porque “luego lo anotan”. Si lo haces, avanzan rápido, pero el inventario pierde control y después puede parecer que faltó por tu culpa. Si te niegas, te dicen que no apoyas y se atrasan. ¿Qué haces?",
+    "scenario": "En almacén, un compañero de montacargas me pide que le libere una tarima sin hacer el lista de revisión de seguridad 'porque le urge subirla al camión que ya se va'. Si lo obligo al lista de revisión, su indicador de entregas caerá hoy. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Exiges el registro previo a la entrega, asumiendo la fricción con el solicitante y el retraso en su operación.",
-      "pragmatic_distractor": "Implementas un registro manual provisional inmediato, asegurando la trazabilidad mientras se regulariza el sistema.",
-      "evasive_distractor": "Delegas la atención a otro compañero disponible, transfiriendo la responsabilidad de autorizar esa salida irregular.",
-      "rationalized_distractor": "Entregas el material, confiando en la palabra del compañero y priorizando la agilidad del proyecto sobre el control."
+      "integrity_correct": "Freno el proceso de carga y exijo que se llene primero el lista de revisión de seguridad de esa tarima.",
+      "pragmatic_distractor": "Hago una inspección rápida solo visual en 10 segundos para asegurarme de que no se caiga nada y lo dejo pasar.",
+      "evasive_distractor": "Le digo que mejor busque a otro almacenista que le libere esa tarima porque yo no tengo tiempo de revisar ahora.",
+      "rationalized_distractor": "Le libero la tarima de inmediato porque entiendo la presión logística que tiene la tienda para sacar esa ruta a tiempo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -499,12 +499,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, una clienta te confiesa que no tiene dinero suficiente para un producto básico y te pide que le “hagas descuento” sin registrarlo. Te ofrece pagarte después o dejarte algo. Si aceptas, la ayudas, pero haces un trato indebido; si no, se va triste y te sientes culpable. ¿Qué haces?",
+    "scenario": "Ya bajamos cortinas de la tienda e iniciamos el corte. Un cliente habitual ruega por debajo de la puerta que lo dejemos entrar 'solo por un producto'. El grupo me grita desde la caja que ni loco lo deje pasar. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Mantienes el precio estipulado, asumiendo la dificultad emocional de negar la ayuda solicitada por la cliente.",
-      "pragmatic_distractor": "Buscas promociones aplicables o productos alternativos de menor costo, intentando ayudar dentro del marco de precios autorizados.",
-      "evasive_distractor": "Indicas que el sistema no permite modificaciones y te retiras, evitando prolongar la interacción incómoda.",
-      "rationalized_distractor": "Aplicas el descuento manual, considerando que la situación humanitaria justifica una excepción en la política de precios."
+      "integrity_correct": "Le digo formalmente al cliente desde la puerta que el servicio de venta ha terminado por hoy.",
+      "pragmatic_distractor": "Tomo el billete del cliente por debajo de la puerta, le acerco yo mismo su producto rápido y no rompemos el corte.",
+      "evasive_distractor": "Volteo hacia los pasillos fingiendo que no vi al cliente y dejo que el guardia de la puerta lidie con él.",
+      "rationalized_distractor": "Lo dejo pasar súper rápido porque la cultura de la empresa dice que nuestros clientes siempre son lo primero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -514,12 +514,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, se te cae un paquete y queda golpeado. Tu compañero dice que lo entregues igual y no lo menciones para no abrir trámite. Si lo ocultas, avanzas rápido, pero el cliente recibirá algo dañado sin saber. Si lo reportas, pierdes tiempo y pueden culparte. ¿Qué haces?",
+    "scenario": "Durante el inventario final, notamos que falta 1 sola pieza del producto más barato de la tienda. Volver a contar toda la sección nos tomará 2 horas extra. Mi compañero sugiere anotar que sí está completo porque 'a nadie le importa algo de 10 pesos'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reportas el incidente y sigues el proceso de mercancía dañada, aceptando las consecuencias administrativas del error.",
-      "pragmatic_distractor": "Informas al cliente sobre el estado del empaque al entregar, gestionando la expectativa para facilitar un reclamo transparente si es necesario.",
-      "evasive_distractor": "Entregas el paquete sin hacer comentarios, esperando que el daño sea superficial y no genere un reporte inmediato.",
-      "rationalized_distractor": "Completas la entrega, considerando que el contenido probablemente esté intacto y es mejor cumplir con la visita."
+      "integrity_correct": "Registro exactamente la pieza faltante en el sistema para que se reinicie el volver a contar.",
+      "pragmatic_distractor": "Anoto el faltante pero le propongo al equipo que solo revisemos la sección de atrás para no tardarnos las 2 horas completas.",
+      "evasive_distractor": "Le digo al gerente en turno lo que pasó para que sea él quien asuma el riesgo de autorizar el cierre con descuadre.",
+      "rationalized_distractor": "Anoto que está completo porque el costo de nuestras horas extra será mucho más alto para la empresa que ese producto de 10 pesos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 15",
     "sot_checksum": "ops400_m3_options_v1"
@@ -529,12 +529,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, una compañera te pide que le prestes dinero de la caja para “completar” y promete devolverlo en la tarde. Dice que es una emergencia y que nadie lo notará. Si aceptas, la ayudas, pero rompes el control; si no, te ve como poco solidario. ¿Qué haces?",
+    "scenario": "Para ganar el bono de sucursal nos urgen 5 encuestas de servicio buenas hoy. Mi gerente propone que nosotros mismos nos auto-contestemos las encuestas usando los teléfonos de la tienda. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas el uso de fondos de la empresa, asumiendo el deterioro de la relación personal con tu compañera.",
-      "pragmatic_distractor": "Ofreces ayuda financiera personal externa a la caja, separando la necesidad del compañero de los recursos del negocio.",
-      "evasive_distractor": "Dices que no tienes forma de abrir la caja ahora, evitando la confrontación directa sobre la solicitud.",
-      "rationalized_distractor": "Prestas el efectivo temporalmente, confiando en la devolución rápida y priorizando la solidaridad entre compañeros."
+      "integrity_correct": "Le recuerdo que las auto-encuestas van contra la política y continuo con mis pendientes.",
+      "pragmatic_distractor": "Les digo que mejor salgamos todos al pasillo a rogarle a 5 clientes reales que nos ayuden a contestarlas rápido.",
+      "evasive_distractor": "Le digo al gerente que no traje mi celular y me retiro a la bodega para no ser parte de la actividad.",
+      "rationalized_distractor": "Ayudo a contestar un par de encuestas porque todos trabajamos muy duro este mes y nos merecemos ese bono económico."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -544,12 +544,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, el encargado te pide que firmes recepción completa aunque faltan dos piezas, diciendo que “luego llegan”. Si firmas, la descarga avanza y evitan pleito con el proveedor; si no, se detiene y te reclaman por atrasar. Pero si luego faltan, el registro te compromete. ¿Qué haces?",
+    "scenario": "El proveedor llega a descargar mercancía, pero le faltan dos cajas. Mi supervisor me dice que le firme la recepción 'completa' de una vez porque el chofer promete regresar mañana temprano con lo que falta. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Registras únicamente lo recibido físicamente, aceptando la presión jerárquica y el posible conflicto con el proveedor.",
-      "pragmatic_distractor": "Documentas la recepción parcial con una nota de salvedad, buscando mantener el flujo sin comprometer tu firma en falso.",
-      "evasive_distractor": "Solicitas que sea otro quien valide esa recepción específica, transfiriendo la responsabilidad de la firma.",
-      "rationalized_distractor": "Firmas la recepción completa, confiando en la gestión del encargado y priorizando la relación comercial con el proveedor."
+      "integrity_correct": "Marco las dos cajas como mercancía faltante directamente en la validación del documento.",
+      "pragmatic_distractor": "Firmo completo pero me quedo con la credencial oficial del chofer retenida físicamente hasta que vuelva mañana con las cajas.",
+      "evasive_distractor": "Le digo al supervisor que mi pluma no sirve y que firme él directamente bajo su propio usuario del sistema.",
+      "rationalized_distractor": "Le firmo completo porque conozco al chofer de hace años, sé que es honesto y no quiero afectarle sus números de ruta de hoy."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -559,12 +559,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un cliente te pide que le digas qué compró otra persona “porque vive con él”. Tú reconoces el nombre y sabes que eso es información privada. Si lo dices, se va rápido y evitas pleito; si no, se enoja y te amenaza con queja. El turno está saturado. ¿Qué haces?",
+    "scenario": "Caché a un compañero consumiendo comida directo del mostrador sin pagarla. Él se da cuenta, se acerca y me pide llorando que no diga nada porque si lo corren se queda sin dinero para su familia. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Mantienes la confidencialidad de los datos, enfrentando la insistencia del cliente y la posible queja por falta de cooperación.",
-      "pragmatic_distractor": "Explicas el proceso para que el titular autorice la consulta, buscando canalizar la solicitud sin violar la privacidad.",
-      "evasive_distractor": "Respondes que no tienes acceso a esa información en tu sistema, cortando la interacción para evitar decidir.",
-      "rationalized_distractor": "Proporcionas la información, considerando que al ser familiares no existe riesgo real y agiliza la atención."
+      "integrity_correct": "Sigo el reglamento de la tienda reportando que presencié un consumo no pagado en área comercial.",
+      "pragmatic_distractor": "Lo obligo a acompañarme a la caja a pagar inmediatamente el producto de su propio bolsillo sin hacer un reporte formal al gerente.",
+      "evasive_distractor": "Hablo con mi supervisor para decirle que ando incómodo en mi puesto y pido que me cambien de área comercial.",
+      "rationalized_distractor": "Le guardo el secreto por pura compasión humana porque un producto de comida pesa menos que el sustento de toda una familia."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -574,12 +574,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la tienda, un compañero te propone que se lleven a casa productos dañados que iban a merma, diciendo que así “no se desperdicia”. Tú sabes que no está permitido. Si te niegas, te ven como el que no apoya; si aceptas, obtienes beneficio y nadie lo notaría, pero rompes la regla. ¿Qué haces?",
+    "scenario": "Van a hacer una auditoría fuerte mañana. Mi líder de zona nos confiesa que las bitácoras del mes pasado se perdieron y nos pide llenarlas hoy mismo de memoria 'solo para salir del apuro'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la propuesta y continúas con el proceso de merma, asumiendo la exclusión social por parte del grupo.",
-      "pragmatic_distractor": "Consultas sobre programas oficiales de donación o venta a empleados, buscando una vía legal para evitar el desperdicio.",
-      "evasive_distractor": "Te retiras del área sin emitir opinión, evitando involucrarte en la acción pero sin confrontar a los compañeros.",
-      "rationalized_distractor": "Aceptas los productos, considerando que aprovechar el recurso es preferible ética y ecológicamente a generar desperdicio."
+      "integrity_correct": "Indico que no tengo los datos reales para firmar la reconstrucción atrasadoa de esos documentos.",
+      "pragmatic_distractor": "Le sugiero firmar solo formatos 'en blanco' y ponerles una nota que diga 'Reconstruido preventivamente por extravío'.",
+      "evasive_distractor": "Le digo que yo no recuerdo absolutamente ninguna métrica de hace un mes y lo dejo llenar los formatos él solo.",
+      "rationalized_distractor": "Lo ayudo a firmarlas hoy porque en la empresa lo fundamental es que nuestro equipo muestre una imagen sólida ante los directivos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -589,12 +589,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te reclama un cobro, y para probarte te enseña una captura de pantalla de su cuenta con datos sensibles. Tu compañero te pide que le tomes foto “por si luego dice otra cosa”. Si lo haces, tienes evidencia, pero guardas datos privados; si no, puede quedar palabra contra palabra. ¿Qué haces?",
+    "scenario": "Es mi primer día guiando a un compañero nuevo y él comete un error gravísimo tirando una tarima completa de pantallas. Nadie más lo vio, pero él me ruega que digamos que 'así amaneció' para que no lo corran en su primer día. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Te abstienes de fotografiar datos sensibles y registras el reclamo formalmente, aceptando la falta de evidencia visual inmediata.",
-      "pragmatic_distractor": "Transcribes únicamente los datos relevantes para el caso, asegurando la información necesaria sin almacenar imágenes privadas.",
-      "evasive_distractor": "Omites la recolección de pruebas y esperas la validación del sistema, evitando manejar datos del cliente directamente.",
-      "rationalized_distractor": "Registras la evidencia fotográfica, priorizando el respaldo del negocio ante posibles disputas futuras sobre el reclamo."
+      "integrity_correct": "Activo el reporte por la merma real del accidente causado durante la tarea de acomodo de pantallas.",
+      "pragmatic_distractor": "Le digo que limpie todo rápido y yo invento que 'se cayó accidentalmente mientras acomodábamos material' para no manchar su nombre directo.",
+      "evasive_distractor": "Me alejo rápido del pasillo y lo obligo a ir él solo a confesar su error directamente a las oficinas centrales para no involucrarme.",
+      "rationalized_distractor": "Asumo yo la culpa frente al supervisor porque como yo soy empleado antiguo, a mí me perdonan más fácil un accidente que a un novato."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 20",
     "sot_checksum": "ops400_m3_options_v1"
@@ -604,12 +604,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la salida de ruta, ves que un compañero no hizo la revisión básica de la unidad y te pide que lo cubras diciendo que sí la hizo para no atrasar. Dice que “siempre está bien” y que si se pierde tiempo se arma problema. Si mientes, avanzan rápido; si te niegas, se enoja y todos se retrasan. ¿Qué haces?",
+    "scenario": "En la salida de ruta, noto que mi compañero no hizo el lista de revisión de frenos de la unidad. Él me dice que firme yo la hoja como 'revisado' porque si lo hacemos ahora perderemos 30 minutos valiosos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas confirmar la revisión falsa y solicitas realizarla, asumiendo que el proceso retrasará la salida y generará molestia.",
-      "pragmatic_distractor": "Realizas una inspección visual rápida de los puntos críticos y registras el hallazgo, equilibrando la seguridad con la urgencia de salida.",
-      "evasive_distractor": "Indicas que no puedes validar el estado de la unidad y te mantienes al margen, dejando que él asuma el registro.",
-      "rationalized_distractor": "Validas el registro para agilizar la operación, considerando que la unidad suele estar bien y el tiempo apremia."
+      "integrity_correct": "Le digo que el protocolo exige realizar la revisión física completa antes de iniciar el recorrido.",
+      "pragmatic_distractor": "Doy una vuelta visual rápida a las llantas por encimita en 1 minuto y firmo el documento para agilizar todo.",
+      "evasive_distractor": "Le digo al supervisor de aduana de salida que yo no sé llenar las hojas de revisión vehicular.",
+      "rationalized_distractor": "Firmo el documento porque conozco bien esa unidad, nunca falla de los frenos y lo principal es sacar las entregas rápido."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -619,12 +619,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Encuentras una identificación oficial olvidada en el piso de la tienda. Un compañero te dice que la guardes en tu mochila para entregarla “cuando aparezca” y así no hacer trámite. Si la pierdes, el daño para la persona es grande. Si la reportas, pierdes tiempo y quizá te cuestionen. ¿Qué haces?",
+    "scenario": "Me asomo al monitor de mi compañera de mostrador y noto que olvidó cerrar la sesión de un cliente anterior dejándola con tarjetas expuestas. Si la reporto con el gerente, sé que le tocará sanción severa en su bono. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Entregas la identificación al área correspondiente para su registro formal, aceptando que el trámite consumirá tiempo operativo.",
-      "pragmatic_distractor": "Resguardas el documento bajo llave y notificas a la gerencia para formalizar la entrega en cuanto baje la afluencia.",
-      "evasive_distractor": "Dejas la identificación en el lugar del hallazgo, evitando involucrarte en la custodia del documento.",
-      "rationalized_distractor": "La conservas temporalmente contigo, considerando que así garantizas su seguridad inmediata sin iniciar trámites complejos."
+      "integrity_correct": "Levanto el reporte de la error de seguridad directamente con la gerencia.",
+      "pragmatic_distractor": "Cierro la sesión en el teclado físicamente yo mismo sin avisarle a nadie para prevenir un problema mayor.",
+      "evasive_distractor": "Volteo la mirada rápido hacia otro lado y finjo estar sumamente ocupado acomodando mis propios papeles.",
+      "rationalized_distractor": "Solo le digo a ella en secreto que tenga más cuidado porque el mejor entrenamiento se da entre pares, no con reportes fríos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 2",
     "sot_checksum": "ops400_m3_options_v1"
@@ -634,12 +634,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente quiere devolver un producto y notas que está usado, pero él insiste en que “venía así”. Tu compañero te sugiere aceptarlo para evitar pleito y que la tienda lo absorba. Si lo aceptas, es injusto para el control; si lo rechazas, el cliente se enoja y te amenaza con queja. ¿Qué haces?",
+    "scenario": "Ya abrimos la sucursal y mi compañero de apertura me dice que no alcanzó a acomodar el frente de tienda ayer. Me pide que le ayude a ordenarlo ahora mismo mintiéndole al gerente de que 'los clientes ya lo desordenaron'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la devolución por incumplir la política de estado del producto, enfrentando la molestia del cliente y la demora en caja.",
-      "pragmatic_distractor": "Revisas el producto junto al cliente señalando los detalles de uso y escalas el caso, gestionando la negativa con respaldo.",
-      "evasive_distractor": "Informas al cliente que el sistema no permite el proceso ahora y sugieres volver, transfiriendo la resolución.",
-      "rationalized_distractor": "Procesas la devolución para liberar la fila, considerando que la satisfacción del cliente es prioritaria para la tienda."
+      "integrity_correct": "Me niego a mentir sobre las condiciones reales y Le digo que reporte el frente pendiente al jefe de piso.",
+      "pragmatic_distractor": "Lo ayudo a ordenar lo más escandaloso rapidísimo antes de que salga el gerente de la oficina trasera.",
+      "evasive_distractor": "Le digo que tengo muchísimas cancelaciones pendientes en el sistema que debo revisar justo ahorita.",
+      "rationalized_distractor": "Lo apoyo con el acomodo y con la historia a contar, porque el trabajo en equipo consiste en cubrirse las espaldas operativas."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -649,12 +649,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un amigo te pide que le pases tu descuento de empleado porque él no lo tiene y dice que “es solo hoy”. Si lo haces, lo ayudas y quedas bien, pero el beneficio es personal. Si te niegas, se ofende y se burla de ti. La fila está esperando y te presiona. ¿Qué haces?",
+    "scenario": "En la evaluación mensual del indicador de almacén estamos empatados con la sucursal Sur. Mi gerente me insinúa saltarnos el conteo de merma de hoy para no sumar defectuosos que nos hagan perder frente a la otra tienda. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas la aplicación del descuento personal, asumiendo la incomodidad del momento y la posible molestia de tu conocido.",
-      "pragmatic_distractor": "Buscas promociones públicas vigentes que puedan aplicarse a su compra, ofreciendo un beneficio legítimo sin infringir la norma.",
-      "evasive_distractor": "Indicas que no traes tu credencial o código en este momento, evitando la confrontación directa sobre la regla.",
-      "rationalized_distractor": "Aplicas el beneficio solicitado, considerando que es una excepción única para apoyar a una persona cercana."
+      "integrity_correct": "Realizo mis actividades obligatorias incluyendo el registro oficial de la merma dentro del sistema.",
+      "pragmatic_distractor": "Escaneo hoy solo la merma más barata para disimular y escondo en una gaveta el producto defectuoso caro para escaneos de mañana.",
+      "evasive_distractor": "Simulo tener un problema técnico con mi equipo escáner portátil para que alguien más asuma el registro.",
+      "rationalized_distractor": "Omito cargar las mermas el día de hoy porque un buen equipo cuida sus logros primero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -664,12 +664,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, un compañero propone cambiar la etiqueta de un producto caro por la de uno más barato para que un conocido lo compre. Dice que nadie revisa y que “solo es una vez”. Si aceptas, ayudas a tu compañero, pero es fraude; si te niegas, te aísla y te hace el turno difícil. ¿Qué haces?",
+    "scenario": "Para impresionar a su supervisor de oficinas centrales que acaba de llegar de visita, mi compañero me pide por mensajería interna que le preste mis registros de números altas para presentarlos como si los hubiera hecho toda el área. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas participar y reportas la intención, aceptando que esto generará tensión laboral con tu compañero.",
-      "pragmatic_distractor": "Te niegas firmemente a realizar el cambio y te retiras de la zona, marcando un límite claro ante la propuesta.",
-      "evasive_distractor": "Ignoras el comentario y continúas con tus tareas, evitando tomar partido en la acción de tu compañero.",
-      "rationalized_distractor": "Accedes a la petición, considerando que es un favor puntual y que el impacto en el inventario es menor."
+      "integrity_correct": "Señalo las resultados reales que me corresponden de manera precisa en los reportes que me tocan.",
+      "pragmatic_distractor": "Le comparto solo unas cuantas números intermedias mías para que luzca pero sin comprometer mi puntaje de excelencia total.",
+      "evasive_distractor": "Silencio la mensajería por el momento para fingir que no vi jamás su solicitud de préstamo de resultados.",
+      "rationalized_distractor": "Se los presto confiando en que el éxito individual no existe y que todas las validaciones son logros genuinamente de equipo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 5",
     "sot_checksum": "ops400_m3_options_v1"
@@ -679,12 +679,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En reparto, notas que una caja lleva una señal de frágil, pero tu compañero la avienta al final del vehículo para ahorrar espacio. Te dice que no exageres porque “igual llega”. Si lo señalas, se enoja y te hace la ruta pesada; si callas, el cliente puede recibirlo dañado. ¿Qué haces?",
+    "scenario": "Estamos retrasados en la entrega. Mi compañero me pide que baje las cajas marcadas como 'Frágil' rodándolas rápido por la rampa en lugar de cargarlas a mano para ahorrar 15 minutos vitales. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Exiges el reacomodo adecuado de la mercancía frágil, asumiendo que esto generará fricción y retraso en la ruta.",
-      "pragmatic_distractor": "Acomodas la caja personalmente en una zona segura, asegurando la integridad del envío sin entrar en disputa.",
-      "evasive_distractor": "Omites comentarios sobre el manejo de la carga, dejando que el compañero gestione el acomodo a su criterio.",
-      "rationalized_distractor": "Permites que la caja vaya allí, considerando que el embalaje debería resistir y la prioridad es salir a tiempo."
+      "integrity_correct": "Tomo las cajas frágiles y las descargo manualmente conforme al manual de manejo de carga.",
+      "pragmatic_distractor": "Deslizo las cajas frágiles por la rampa pero voy frenándolas con mi pie para que no agarren tanta velocidad.",
+      "evasive_distractor": "Le digo a mi compañero que me dio un jalón en la espalda y lo dejo descargar a él como mejor le parezca.",
+      "rationalized_distractor": "Las bajamos por la rampa porque recuperar el tiempo de la ruta es crucial para que no nos penalicen el bono de hoy."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -694,12 +694,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te pide que no aparezca un producto en el comprobante porque no quiere problemas en casa. Te ofrece propina si lo haces. Si aceptas, ayudas al cliente, pero alteras el registro de venta; si te niegas, se enoja y te hace un escándalo frente a la fila. ¿Qué haces?",
+    "scenario": "A un cliente furioso se le negó un cambio de mercancía por no traer su recibo. Mi supervisor de piso me dice en voz muy alta, enfrente del cliente, que mejor le hagamos el cambio 'usando el ticket de otra persona' para callarlo de una vez. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Registras todos los artículos conforme a procedimiento, enfrentando la molestia del cliente y rechazando la propina ofrecida.",
-      "pragmatic_distractor": "Ofreces procesar la compra en transacciones separadas para ayudarle con su comprobante, manteniendo el registro total de los productos.",
-      "evasive_distractor": "Indicas que el sistema no permite modificaciones manuales, transfiriendo la responsabilidad a la configuración de la caja.",
-      "rationalized_distractor": "Omites el registro del artículo en el ticket, considerando que ayudas al cliente a evitar un problema personal."
+      "integrity_correct": "Le digo al supervisor y al cliente que el sistema requiere el ticket original de la compra para procesar una devolución.",
+      "pragmatic_distractor": "Hago el cambio tal y como pidió el supervisor pero le pido al gerente que él ponga su clave de autorización directamente en caja.",
+      "evasive_distractor": "Le digo al supervisor que justamente mi caja se acaba de pasmar y que va a tener que operarlo en otra terminal distinta.",
+      "rationalized_distractor": "Proceso la devolución inventando un ticket porque un supervisor ya dio la orden directa delante del cliente y debe respetarse su jerarquía."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -709,12 +709,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En bodega, ves un pequeño derrame de un producto de limpieza. Tu compañero dice que lo dejen y sigan porque el camión ya espera. Si lo limpias, pierdes tiempo y te reclaman por atraso; si lo dejan, alguien puede resbalar y lastimarse. ¿Qué haces?",
+    "scenario": "A mi equipo se le derramó aceite en el pasillo lateral pero nuestro turno termina en 2 minutos. Mi compañero sugiere aventarle aserrín encima para que no se vea y que el turno que entra traiga la máquina lavadora. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Detienes la operación para realizar la limpieza adecuada, asumiendo la presión por el tiempo de espera del transporte.",
-      "pragmatic_distractor": "Colocas señalización de precaución inmediata y notificas limpieza, gestionando el riesgo sin frenar totalmente la carga.",
-      "evasive_distractor": "Continuas con la carga ignorando el derrame, dejando que el personal de limpieza lo atienda en su ronda.",
-      "rationalized_distractor": "Procedes con la operación, considerando que el derrame es menor y detener el camión afecta los indicadores."
+      "integrity_correct": "Me quedo los minutos necesarios para conseguir el equipo de limpieza adecuado y limpiar el pasillo correctamente.",
+      "pragmatic_distractor": "Le echo aserrín como dice mi compañero pero pongo unos conos preventivos muy visibles advirtiendo el riesgo al turno que entra.",
+      "evasive_distractor": "Marco por teléfono rápidamente al coordinador del turno entrante para avisarle del derrame en cuanto lleguen y me retiro.",
+      "rationalized_distractor": "Le echo aserrín y me voy, porque el equipo de limpieza principal de turno entra en el siguiente horario y es su función."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -724,12 +724,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Al cobrar, te das cuenta de que un producto caro pasó como uno barato por un error del lector. El cliente no lo notó y la fila está avanzando. Si corriges, se detiene todo y el cliente se molesta; si lo dejas, la tienda pierde y el inventario se afecta. ¿Qué haces?",
+    "scenario": "En mostrador, me doy cuenta que por error técnico, a todo el equipo de ventas le está marcando 0 pesos en la tasa de interés de los créditos que originan hoy. Si aviso a soporte técnico, mis compañeros se enojarán conmigo porque perderán esta ventaja desleal para cumplir la cuota del mes. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Corriges el precio antes de finalizar la transacción, enfrentando la posible queja del cliente por el aumento en el total.",
-      "pragmatic_distractor": "Suspendes el cobro para verificar el código y ajustar el precio, asegurando el cobro correcto antes de que el cliente pague.",
-      "evasive_distractor": "Procesas la venta con el precio marcado, evitando la discusión sobre la diferencia en el momento.",
-      "rationalized_distractor": "Mantienes el precio erróneo, considerando que respetar el cobro marcado evita una mala experiencia de servicio."
+      "integrity_correct": "Levanto de inmediato el aviso a soporte a soporte técnico reportando la falla en el cálculo de tasas.",
+      "pragmatic_distractor": "Hago una captura de pantalla del error y se lo mando por correo directo a mi jefe en privado pidiéndole anonimato total.",
+      "evasive_distractor": "Termino mi propio turno originando los menos créditos posibles pero no levanto la voz esperando que alguien más en el equipo lo note.",
+      "rationalized_distractor": "Guardo silencio el resto de hoy sobre el error técnico porque todos en el equipo necesitan ese estímulo económico en este momento de inflación."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -739,12 +739,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el grupo de mensajería del turno, un compañero comparte una foto de un cliente para burlarse de él. Te incomoda, pero si lo enfrentas puedes quedar como el aguafiestas y te aíslan. Si no dices nada, se normaliza el trato y el ambiente se vuelve más pesado. ¿Qué haces?",
+    "scenario": "En el chat grupal de los empleados del turno, los de cajas pesillas y almacén están insultando durísimo al gerente operativo nombrándolo con adjetivos discriminatorios. Algunos sugieren que no diga nada quien no los apoya. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Solicitas la eliminación de la imagen recordando la política de privacidad, asumiendo que esto te alejará del grupo social.",
-      "pragmatic_distractor": "Contactas al compañero en privado para sugerirle que retire la foto, gestionando la corrección sin exponerlo públicamente.",
-      "evasive_distractor": "Ignoras la notificación y borras el chat, evitando involucrarte en la dinámica del grupo.",
-      "rationalized_distractor": "Dejas pasar el incidente, considerando que es una forma de liberar el estrés del equipo y no hay mala intención."
+      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el buzón anónimo local.",
+      "pragmatic_distractor": "Me limito a escribirles un \"Pobrecito\" un poco sarcástico para participar en el chat sin decir un adjetivo directamente grueso.",
+      "evasive_distractor": "Simplemente 'archivo' el chat grupal para no estar viendo las notificaciones polémicas y mantenerme sumamente alejado del conflicto.",
+      "rationalized_distractor": "Borro los mensajes en mi celular para no dejar rastro, entendiendo que el chat de mensajería es un escape psicológico de la dura presión laboral operaria."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -754,12 +754,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente olvida una bolsa con compras y, antes de que regrese, tu compañero propone repartir los productos “porque seguro no vuelve”. Si lo reportas, hay registro y espera; si te lo quedas, ganas algo, pero es injusto. Además, el turno está saturado y nadie quiere trámites. ¿Qué haces?",
+    "scenario": "El mostrador está vacío y mi compañero tiene que ir un momento a la entrada a entregarle unas llaves a un familiar. Me pide que le eche un ojo a su caja 5 minutos sin avisar al supervisor. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Resguardas la bolsa para el inventario de objetos perdidos, aceptando la carga administrativa adicional que conlleva.",
-      "pragmatic_distractor": "Aseguras la bolsa en bodega y das aviso inmediato a supervisión, protegiendo el contenido hasta su registro formal.",
-      "evasive_distractor": "Te retiras del área sin intervenir, dejando que otros decidan el destino de los artículos olvidados.",
-      "rationalized_distractor": "Participas en la repartición, considerando que los perecederos se perderán si no se aprovechan de inmediato."
+      "integrity_correct": "Le digo que solicite su código de ausencia temporal al gerente antes de retirarse.",
+      "pragmatic_distractor": "Me perfilo desde mi caja para mantener contacto visual con su área mientras regresa.",
+      "evasive_distractor": "Le digo que yo tengo mucha fila y que le pregunte a la cajera de al lado.",
+      "rationalized_distractor": "Lo cubro rápido, sabiendo que la entrega de sus llaves evita una emergencia mayor en su casa."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -769,12 +769,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, te das cuenta de que un pedido salió incompleto pero el camión ya está a punto de irse. El encargado dice que lo dejes así y que “se manda después” sin avisar al cliente. Si lo haces, evitas atraso; si lo reportas, se detiene la salida y se enojan contigo. ¿Qué haces?",
+    "scenario": "La fila está detenida porque el sistema nos exige un doble escaneo de seguridad en todos los productos. El gerente me da la orden directa de saltarme ese paso hoy para desahogar la gente rápido. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reportas el faltante para notificar al cliente antes de la salida, enfrentando la presión por detener el despacho.",
-      "pragmatic_distractor": "Gestionas el envío como entrega parcial documentada, asegurando que el cliente sepa qué recibe y qué queda pendiente.",
-      "evasive_distractor": "Permites la salida del pedido tal cual, transfiriendo la responsabilidad de la aclaración al área de atención a clientes.",
-      "rationalized_distractor": "Envías el pedido incompleto, considerando que es preferible cumplir con el horario de salida y resolver el faltante después."
+      "integrity_correct": "Le confirmo que el sistema de la empresa requiere la doble validación para poder avanzar.",
+      "pragmatic_distractor": "Desactivo el segundo escaneo, pero apunto en una libreta las claves de los artículos para cuadrarlos al cierre.",
+      "evasive_distractor": "Le paso el teclado al gerente diciéndole que su huella dactilar destraba más rápido la pantalla.",
+      "rationalized_distractor": "Omito el paso, entendiendo que la orden del gerente en momento de crisis pesa más que la máquina."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -784,12 +784,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te pide que le guardes un artículo popular sin pagarlo, porque dice que vuelve en la tarde. Tu compañero te dice que lo hagas y así te deja propina. Si lo apartas, otros clientes se quedarán sin producto; si no, el cliente se enoja contigo. La fila está larga y no quieres pleito. ¿Qué haces?",
+    "scenario": "A mi compañero de la otra caja le urge dar cambio y no tiene morralla. Me pide cambiarle un billete de 500 directo de gaveta a gaveta sin esperar a que baje el supervisor con la libreta de registro. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Informas que no es posible apartar mercancía sin pago, asumiendo la pérdida de la propina y la molestia del cliente.",
-      "pragmatic_distractor": "Ofreces opciones de apartado o compra en línea con recolección, brindando una solución válida que asegure el producto.",
-      "evasive_distractor": "Colocas el producto en una zona menos visible, evitando decirle que no directamente, aunque sin garantizar el apartado.",
-      "rationalized_distractor": "Separas el artículo como pide el cliente, considerando que fidelizarlo con este favor beneficia futuras ventas."
+      "integrity_correct": "Le comento que el protocolo requiere la libreta del supervisor para cruzar fondos.",
+      "pragmatic_distractor": "Le cruzo el cambio y dejo un post-it pegado bajo la pantalla para recordar avisarle al supervisor cuando baje.",
+      "evasive_distractor": "Volteo la pantalla de mi sistema pretendiendo que estoy muy ocupado cerrando una membresía.",
+      "rationalized_distractor": "Hago el cambio al vuelo para no castigar al cliente con procesos internos ineficientes de nuestra tienda."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -799,12 +799,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, te das cuenta de que una entrega tiene instrucciones de “no dejar con vecinos” por seguridad, pero el cliente te llama y te pide que la dejes con el vecino porque no llegará. Si cumples, terminas rápido; si no, tendrás que regresar y te atrasas. Si se pierde, el reclamo caerá sobre ti. ¿Qué haces?",
+    "scenario": "A mi compañero se le resbala una caja y se abolla de una esquina, aunque el producto está intacto. Me sugiere ponerle cinta transparente y regresarla al estante para ahorrarnos todo el llenado del reporte logístico. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Cumples la instrucción de seguridad y no entregas, asumiendo el costo de tiempo que implica reprogramar la visita.",
-      "pragmatic_distractor": "Solicitas al cliente una confirmación formal o ubicación alterna autorizada, buscando concretar la entrega bajo protocolo.",
-      "evasive_distractor": "Indicas que intentarás resolverlo y continúas la ruta, postergando la decisión final sobre ese paquete.",
-      "rationalized_distractor": "Entregas el paquete al vecino, considerando que resolver la necesidad inmediata del cliente es lo más práctico."
+      "integrity_correct": "Ingreso el artículo a la jaula de averías para su captura en el reporte de merma del turno.",
+      "pragmatic_distractor": "Le coloco la cinta disimulada y lo rotamos al fondo del exhibidor esperando que se venda de noche.",
+      "evasive_distractor": "Le sugiero que le llame al proveedor directo para ver si él le cambia la caja mañana.",
+      "rationalized_distractor": "Sello la caja y la dejo en piso, valorando que es solo daño cosmético y detener el conteo es pérdida operativa."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -814,12 +814,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la tienda, un cliente te pide que le cobres un producto como otro más barato “porque está en mal estado”. No está en mal estado, pero insiste y te ofrece propina. Si aceptas, ganas dinero y evitas discusión; si no, se enoja y te grita frente a todos. ¿Qué haces?",
+    "scenario": "Un promotor externo terminó su turno, pero lleva puesto el chaleco de trabajo. Me pide que le cobre rápido una galleta en mi caja sin tener que ir al baño a quitarse el chaleco primero, porque ya pasa su transporte de regreso. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Cobras el precio regular del producto, enfrentando la confrontación con el cliente al negarle el descuento indebido.",
-      "pragmatic_distractor": "Verificas si aplica alguna promoción legítima o descuento por volumen, canalizando su intención de ahorro por vías oficiales.",
-      "evasive_distractor": "Solicitas la presencia del supervisor para que evalúe el precio, transfiriendo la decisión ante la presión del cliente.",
-      "rationalized_distractor": "Aplicas el descuento solicitado, considerando que evitar un escándalo en caja es preferible para la imagen de la tienda."
+      "integrity_correct": "Le confirmo que el sistema no permite consumos de personal portando prendas oficiales.",
+      "pragmatic_distractor": "Le atiendo pero pidiéndole que coloque mi chamarra negra sobre su hombro apuntando a la cámara.",
+      "evasive_distractor": "Pongo mi caja en código de retiro temporal y me voy a lavar las manos para no ver el cobro.",
+      "rationalized_distractor": "Lo proceso de inmediato, apoyando a un compañero agotado que necesita alcanzar su transporte urgente."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 15",
     "sot_checksum": "ops400_m3_options_v1"
@@ -829,12 +829,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un compañero te pide que lo cubras diciendo que llegó a tiempo, porque se atrasó y teme sanción. Te promete “hacerte un favor” después. Si lo cubres, lo ayudas, pero el registro queda falso; si no, se enoja contigo y se rompe la confianza. ¿Qué haces?",
+    "scenario": "Mi compañera está atorada en el tráfico. Me manda mensaje pidiendo que inicie sesión en la computadora de atrás y le dé 'Play' a su curso para que el sistema le marque asistencia a tiempo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Mantienes el registro real de asistencia, asumiendo que tu negativa afectará la relación personal con tu compañero.",
-      "pragmatic_distractor": "Le recomiendas notificar su retraso directamente al supervisor, impulsando que gestione su incidencia sin involucrarte en faltas.",
-      "evasive_distractor": "Evitas manipular el registro indicando que no tienes acceso, dejando que el sistema marque la hora real.",
-      "rationalized_distractor": "Ajustas el reporte de entrada, considerando que es un apoyo entre compañeros y que el trabajo salió adelante."
+      "integrity_correct": "Le contesto que es necesario que ella inicie su sesión presencialmente en el sistema de la empresa.",
+      "pragmatic_distractor": "Pongo a correr el video sin audio para que el sistema avance y ella no pierda su bono de asistencia perfecta.",
+      "evasive_distractor": "Le contesto que el teclado de esa máquina falla bloqueando temporamente el inicio de sesión.",
+      "rationalized_distractor": "Inicio su sesión, sabiendo que el tráfico fue un accidente y ella siempre cubre mis horarios de comida."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -844,12 +844,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la recepción de mercancía, el proveedor te ofrece una “cortesía” si aceptas la entrega sin contar todo. El camión está apurado y tu encargado quiere que termines rápido. Si aceptas, avanzas, pero luego pueden faltar piezas; si cuentas, te atrasas y te reclaman. ¿Qué haces?",
+    "scenario": "Llega la carne y el termómetro marca un grado por arriba de la norma, aunque se ve bien. El gerente me pide recibirla de todos modos porque es quincena y nos urge la venta. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Realizas el conteo detallado de la mercancía, aceptando la demora en la recepción y la impaciencia del proveedor.",
-      "pragmatic_distractor": "Inspeccionas los ítems de alto valor y verificas sellos, optimizando el tiempo de revisión sin omitir el control de calidad.",
-      "evasive_distractor": "Te retiras para atender otra tarea, dejando que otro compañero decida cómo recibir esa entrega.",
-      "rationalized_distractor": "Firmas la recepción agilizada, considerando que el proveedor es habitual y rara vez presenta diferencias."
+      "integrity_correct": "Documento la temperatura fuera de norma en el sistema para rechazar de la carga.",
+      "pragmatic_distractor": "Recibo la mercancía y aplico enfriamiento acelerado inmediato para regresar la carne a la norma autorizada.",
+      "evasive_distractor": "Le digo al chofer que yo no tengo la firma autorizada en el sistema y que busque al gerente.",
+      "rationalized_distractor": "Autorizo el ingreso rápido, apoyando la visión del supervisor de asegurar la venta crucial del día."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -859,12 +859,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un cliente te pide que le des el número personal de un repartidor porque quiere reclamarle directo. Tú sabes que eso expone al compañero. Si te niegas, el cliente se enfurece y amenaza con queja; si lo das, te quitas el problema pero pones en riesgo al repartidor. ¿Qué haces?",
+    "scenario": "Un cliente muy terco exige el teléfono de la empresa del director de zona. Mi compañero me dice al oído que le invente un número falso para que ya se vaya de la caja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Niegas la información personal y ofreces el canal oficial de quejas, asumiendo la frustración del cliente ante el proceso.",
-      "pragmatic_distractor": "Proporcionas el número de servicio al cliente y te ofreces a reportar el incidente internamente, gestionando la queja sin exponer datos.",
-      "evasive_distractor": "Indicas que no tienes acceso a esa información y lo diriges a gerencia, evitando manejar el conflicto directamente.",
-      "rationalized_distractor": "Proporcionas el contacto, considerando que facilitar la comunicación directa podría resolver el problema más rápido."
+      "integrity_correct": "Le proporciono exclusivamente la ficha de contacto del centro de atención a quejas.",
+      "pragmatic_distractor": "Le anoto el conmutador general de quejas, diciéndole en confidencialidad que de ahí lo transfieren directo al director.",
+      "evasive_distractor": "Llamo discretamente por radio a la seguridad de la plaza para que ellos calmen al cliente afuera.",
+      "rationalized_distractor": "Le improviso un número falso rápido, valorando que liberar la fila masiva es el mejor servicio para todos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -874,12 +874,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la tienda, notas que un cliente dejó olvidada su tarjeta en el mostrador. Tu compañero sugiere guardarla en un cajón para que nadie la vea y ya luego se la das. Si la reportas, hay proceso y registro; si no, se puede extraviar y causar un daño grande. Además, hay fila y todos están apurados. ¿Qué haces?",
+    "scenario": "Es sábado, la tienda aún no abre y hay mucha gente esperando bajo el sol. El gerente nos ordena a todos omitir la junta diaria de seguridad de 15 minutos para abrirles ya mismo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Entregas la tarjeta al área de valores para su resguardo formal, asumiendo el tiempo que requiere el llenado del acta.",
-      "pragmatic_distractor": "La guardas bajo llave inmediatamente y notificas a seguridad, asegurando el plástico mientras se formaliza el registro.",
-      "evasive_distractor": "La dejas sobre el mostrador a la espera de que el cliente regrese, evitando tomar custodia del objeto.",
-      "rationalized_distractor": "La guardas en el cajón temporalmente, considerando que es la forma más rápida de evitar que alguien la tome."
+      "integrity_correct": "Le digo al gerente que procederé a firmar la bitácora de asistencia a la junta de seguridad antes de activar mi caja.",
+      "pragmatic_distractor": "Abro mi terminal para agilizar el cuello de botella, pero acuerdo con el gerente reponer la plática obligatoria durante el cambio de turno.",
+      "evasive_distractor": "Me voy a hacer una revisión exhaustiva de cambio a la bóveda mientras ellos deciden si se abren o no las puertas.",
+      "rationalized_distractor": "Omito la plática temporalmente, entendiendo que el verdadero protocolo de servicio es atender al cliente bajo el calor."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -889,12 +889,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el cierre del día, te das cuenta de que registraste un pedido con datos incorrectos. Corregirlo implica quedarte más tiempo y quizá recibir reclamo por el error; dejarlo así evita el momento incómodo, pero puede afectar la entrega de mañana. Tu compañero dice que lo dejes y “ya verán”. ¿Qué haces?",
+    "scenario": "Estamos haciendo el inventario nocturno y nadie trajo dinero para el agua. El equipo propone tomar los puntos de lealtad de una tarjeta que dejó olvidada un cliente en piso para comprarla. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Corriges los datos en el sistema antes de salir, asumiendo la extensión de tu horario y la responsabilidad por el error.",
-      "pragmatic_distractor": "Ajustas los campos críticos para asegurar la entrega y reportas el resto, resolviendo la operatividad de forma eficiente.",
-      "evasive_distractor": "Cierras el sistema y dejas la corrección pendiente, esperando que se pueda ajustar en el turno siguiente.",
-      "rationalized_distractor": "Mantienes el registro actual, considerando que el equipo de reparto suele resolver esas inconsistencias en ruta."
+      "integrity_correct": "Confirmo que el manual operativo prohíbe el uso interno de saldos de clientes y me niego.",
+      "pragmatic_distractor": "Acepto el canje de las aguas, firmando yo un vale de merma justificativo para reponer el inventario al día siguiente.",
+      "evasive_distractor": "Me paso a limpiar muy calladamente la bodega trasera dejándoles la decisión del financiamiento del agua a ellos.",
+      "rationalized_distractor": "Apoyo usar esos puntos sueltos, ya que la empresa omitió darnos viáticos y el equipo lo requiere para sostener la jornada."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 20",
     "sot_checksum": "ops400_m3_options_v1"
@@ -904,12 +904,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el piso de venta ves que la etiqueta de precio en un estante es menor al precio real del sistema. Un cliente ya tomó varios productos y dice que quiere que se respete lo que vio. Si se lo corriges, se enoja y la fila se detiene; si lo dejas, es injusto para el control y puede repetirse. No hay encargado cerca. ¿Qué haces?",
+    "scenario": "Un cliente muy agresivo quiere devolver un artículo usado violando la política. El gerente de la sucursal, para evitarse el conflicto frontal, me dice en voz baja: 'Acéptale el producto para que se calle, pero documéntalo en el sistema bajo tu clave como si fuera excepción tuya'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Verificas el precio y procedes a la corrección o respeto según la política oficial, asumiendo la demora operativa y la gestión de la molestia del cliente.",
-      "pragmatic_distractor": "Validas la etiqueta y aplicas el ajuste correspondiente, equilibrando la satisfacción inmediata del cliente con el flujo de la fila.",
-      "evasive_distractor": "Sugieres al cliente acudir a servicio al cliente para aclarar el precio, transfiriendo la resolución fuera de tu caja.",
-      "rationalized_distractor": "Cobras el precio bajo de inmediato, priorizando evitar una discusión en caja sobre el control estricto del precio."
+      "integrity_correct": "Le digo al gerente que para procesar la excepción en contra de la política necesito que ingrese su clave de autorización directamente en mi terminal.",
+      "pragmatic_distractor": "Proceso la excepción con mi clave, pero anoto en los comentarios internos del ticket en mayúsculas 'Por instrucción directa de gerencia'.",
+      "evasive_distractor": "Le digo al cliente que para devoluciones especiales me acompañe a la caja principal para que lo atienda el gerente en persona.",
+      "rationalized_distractor": "La proceso bajo mi clave inmediatamente, entendiendo que el trabajo en equipo implica absorber la presión operativa cuando tu líder lo solicita."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -919,12 +919,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En reparto, un cliente te ofrece dinero para que lo marques como entregado aunque te pide dejar el paquete en la banqueta porque no quiere bajar. Si lo dejas, terminas rápido, pero puede perderse y el reclamo te cae. Si te niegas, se enoja y te retrasa. Además, vas tarde. ¿Qué haces?",
+    "scenario": "Faltan 10 minutos para el cierre y a mi compañero de caja se le trabó la terminal. Me pide que le cobre a sus últimos 5 clientes en mi caja usando su fondo de efectivo mezclado con el mío para que ambos podamos irnos a tiempo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la entrega irregular y solicitas recepción personal conforme al protocolo, aceptando el retraso en la ruta y la fricción con el cliente.",
-      "pragmatic_distractor": "Buscas una ubicación segura o un tercero autorizado para recibir, gestionando la entrega sin incumplir el requisito de seguridad.",
-      "evasive_distractor": "Marcas el intento como fallido y continúas tu ruta, postergando la entrega para evitar la confrontación directa.",
-      "rationalized_distractor": "Dejas el paquete donde pide el cliente, confiando en que su instrucción verbal exime de responsabilidad y permite avanzar."
+      "integrity_correct": "Me niego a mezclar los fondos de caja y Le digo que reporte la falla técnica para reubicar a sus clientes de forma ordenada.",
+      "pragmatic_distractor": "Le cobro a sus clientes en mi terminal pero exijo que los pagos se hagan exclusivamente con tarjeta para no mezclar dinero físico.",
+      "evasive_distractor": "Finjo que mi terminal también se está reiniciando y le digo a los clientes que pasen a la caja del supervisor en turno.",
+      "rationalized_distractor": "Mezclo el efectivo y lo ayudo a cobrar, porque la solidaridad en el cierre de turno es lo único que mantiene unido al equipo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 2",
     "sot_checksum": "ops400_m3_options_v1"
@@ -934,12 +934,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En caja, un cliente intenta pagar con una tarjeta que no coincide con su identificación y se irrita cuando le preguntas. Tu compañero te dice que lo dejes pasar porque hay fila y no quieres conflicto. Si lo aceptas, puede ser un abuso; si lo detienes, se arma un pleito. ¿Qué haces?",
+    "scenario": "Es el cumpleaños de mi compañero de piso y su familia le trajo un pastel de sorpresa. Él me pide que me quede yo solo cubriendo todo el frente de cajas mientras él se va a la zona restringida de comedor a festejar 30 minutos sin avisarle al gerente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Solicitas una identificación coincidente o un método alternativo, enfrentando la presión de la fila y la insistencia del cliente por seguridad.",
-      "pragmatic_distractor": "Pides amablemente otra forma de pago para agilizar, buscando cerrar la venta sin comprometer la seguridad de la transacción.",
-      "evasive_distractor": "Indicas que la terminal falló y sugieres otra caja, delegando la validación de la tarjeta a otro compañero.",
-      "rationalized_distractor": "Procesas el cobro para mantener el flujo, considerando que la responsabilidad final es del banco y no quieres detener la operación."
+      "integrity_correct": "Le digo que no puedo cubrir la zona completa sin la autorización explícita de la gerencia para que se ausente del piso.",
+      "pragmatic_distractor": "Le digo que vaya rápido pero que se lleve su radio encendido por si la fila crece y necesito que regrese corriendo.",
+      "evasive_distractor": "Le sugiero que mejor le pregunte al supervisor si lo deja ir, para yo no tener que decidir cancelar su mini festejo.",
+      "rationalized_distractor": "Lo cubro con gusto el tiempo que sea necesario, porque esos pequeños momentos de celebración fortalecen el compañerismo real."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -949,12 +949,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el almacén, una tarima se cae y rompe producto. Nadie lo vio, y tu compañero te dice que lo escondas para que no lo carguen a su turno. Si lo reportas, habrá revisión y tensión; si lo ocultas, evitas el problema hoy pero el control se falsea. El camión está por salir. ¿Qué haces?",
+    "scenario": "Durante el inventario cíclico, noto que mi compañero contó mal una tarima entera a propósito para acabar su pasillo antes. Me pide que yo no diga nada en mi revisión cruzada para que podamos irnos a comer ya porque está agotado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reportas el incidente y separas la mercancía dañada, aceptando que el proceso de merma requerirá tiempo y explicaciones adicionales.",
-      "pragmatic_distractor": "Limpias el área y documentas el daño brevemente, gestionando la merma de forma ágil para no afectar la salida del camión.",
-      "evasive_distractor": "Dejas la mercancía apartada sin reportar por ahora, postergando el registro del daño para otro momento.",
-      "rationalized_distractor": "Omites el reporte inmediato para no detener la operación, priorizando la salida del transporte sobre el control de inventario."
+      "integrity_correct": "Realizo mi conteo cruzado documentando la cantidad exacta que verifiqué físicamente en los artículos de la tarima.",
+      "pragmatic_distractor": "Cuadramos un número intermedio entre su conteo y el mío para que la diferencia en el sistema no resalte y podamos descansar.",
+      "evasive_distractor": "Le pido al auditor de inventario que me reasigne a otra zona alegando un fuerte dolor de cabeza repentino.",
+      "rationalized_distractor": "Valido su conteo falso porque someter a un compañero a un reconteo exhaustivo por cansancio rompe la confianza del equipo laboral."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -964,12 +964,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente te pide que le aceptes un comprobante de pago que se ve editado, pero insiste en que es real y amenaza con queja. Estás solo, la fila crece y el cliente levanta la voz. Si lo aceptas, te quitas el pleito pero puedes permitir un fraude; si lo rechazas, la tensión sube. ¿Qué haces?",
+    "scenario": "Un compañero nuevo está muy presionado porque no alcanza sus números semanales. Me pide que le pase un par de mis ventas importantes de hoy a su código de empleado para que no lo condicionen en la junta de resultados. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas el comprobante y solicitas la validación oficial, asumiendo la confrontación y el tiempo que tomará verificar el pago real.",
-      "pragmatic_distractor": "Consultas el sistema interno para validar el pago independientemente del papel, buscando resolver la duda con datos reales.",
-      "evasive_distractor": "Solicitas al cliente que espere al supervisor para autorizar, transfiriendo la decisión y el conflicto a un nivel superior.",
-      "rationalized_distractor": "Aceptas el comprobante para calmar al cliente, confiando en que si hay error se aclarará en la conciliación posterior."
+      "integrity_correct": "Mantengo mis ventas registradas bajo mi código de empleado y le digo que no.",
+      "pragmatic_distractor": "Le paso una sola venta mediana para que no se vaya en ceros, pero le advierto enfáticamente que es la primera y última vez.",
+      "evasive_distractor": "Le digo que el sistema del punto de venta está bloqueado desde sistemas y ya no permite cambiar códigos de comisionista.",
+      "rationalized_distractor": "Le transfiero mis ventas necesarias, ya que el liderazgo real de equipo se demuestra cediendo el éxito a los que van empezando."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 5",
     "sot_checksum": "ops400_m3_options_v1"
@@ -979,12 +979,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, un compañero te pide que uses gasolina de la unidad para llenar una garrafa “porque se quedó sin”. Dice que lo devolverá y que nadie se entera. Si aceptas, lo ayudas, pero usas un recurso del trabajo; si te niegas, se enoja y te deja solo en lo difícil. ¿Qué haces?",
+    "scenario": "Mi compañero y yo llevamos la camioneta de reparto vacía al final del turno. Él me pide que nos desviemos 15 kilómetros de la ruta oficial para dejar un mueble en casa de su mamá aprovechando el vehículo de la empresa. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas el uso del recurso corporativo y recuerdas la política, aceptando la tensión interpersonal y el enojo de tu compañero.",
-      "pragmatic_distractor": "Sugieres contactar a asistencia vial o usar recursos propios, buscando ayudar al compañero sin comprometer los bienes de la empresa.",
-      "evasive_distractor": "Dices que no tienes acceso o autorización, evitando involucrarte directamente en la solicitud del compañero.",
-      "rationalized_distractor": "Accedes a facilitar la gasolina, priorizando la solidaridad con el compañero sobre la normativa de uso de recursos."
+      "integrity_correct": "Me niego rotundamente a usar los vehículos de la empresa para mudanzas o traslados personales no autorizados.",
+      "pragmatic_distractor": "Le digo que lo ayudemos pero que él maneje en ese tramo para que, si hay un percance de seguro, él sea el responsable.",
+      "evasive_distractor": "Me bajo en la esquina de mi casa antes del desvío para no estar presente físicamente durante el uso indebido.",
+      "rationalized_distractor": "Accedo a hacer el desvío rápido porque la camioneta ya va vacía y usarla no le genera un gasto extra real a la compañía."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -994,12 +994,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, una clienta te pide que le digas el saldo o estado de un envío de otra persona porque dice que es su familia. Te muestra una foto del documento, pero no sabes si es legítima. Si compartes, resuelves rápido; si no, se enoja y te acusa de mal servicio. ¿Qué haces?",
+    "scenario": "Un cliente considerado 'VIP' en sucursal me exige en tono amenazante que le dé el celular personal de mi compañera de ventas que lo atendió ayer, alegando que ella le prometió llamarle hoy y no lo hizo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Deniegas la información solicitada hasta tener autorización verificada, asumiendo la molestia de la clienta por la barrera de privacidad.",
-      "pragmatic_distractor": "Explícas el proceso para que el titular autorice la consulta, equilibrando la ayuda al cliente con la protección de datos.",
-      "evasive_distractor": "Remites el caso a atención al cliente, transfiriendo la responsabilidad de validar la relación familiar.",
-      "rationalized_distractor": "Proporcionas el estatus del envío, considerando que al ser familia la intención es ayudar y agilizar el trámite."
+      "integrity_correct": "Me niego a proporcionar datos personales de cualquier colaborador y le ofrezco tomarle el recado de forma oficial.",
+      "pragmatic_distractor": "Le digo que el protocolo no me permite dárselo a él, pero que yo le marco a ella en este instante desde mi teléfono privado.",
+      "evasive_distractor": "Le digo que lamentablemente mi compañera es nueva y todavía no nos han compartido su número en el directorio.",
+      "rationalized_distractor": "Le doy el celular de ella con la condición de exclusividad, ya que el servicio a clientes de alto valor requiere saltarse las reglas."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1009,12 +1009,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente se equivoca al contar y te entrega menos dinero, pero tú lo notas y él ya tomó sus productos. Tu compañero te dice que lo dejes porque “él tuvo la culpa” y estás cansado de discutir. Si lo corriges, se enoja y se detiene la fila; si lo dejas, es injusto para el negocio. ¿Qué haces?",
+    "scenario": "Noto que mi compañera de caja tiene por tercer día consecutivo un faltante de 100 pesos exactos en su corte final. Ella me ruega que no se lo reporte al gerente hoy y que lo cubrirá con su pago de quincena mañana, asegurando que es un 'error de tipeo', no un robo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Detienes cortésmente al cliente para rectificar el pago, aceptando la incomodidad del momento y el retraso en la atención.",
-      "pragmatic_distractor": "Señalas el error rápidamente y facilitas el ajuste, gestionando la corrección de forma discreta para no avergonzar al cliente.",
-      "evasive_distractor": "Dejas pasar el error y continúas atendiendo, evitando la confrontación por una diferencia menor.",
-      "rationalized_distractor": "Ignoras el faltante para mantener el ritmo, considerando que el monto es bajo y no justifica detener la operación."
+      "integrity_correct": "Reporto la inconsistencia y el patrón de faltantes en caja directamente a la gerencia administrativa.",
+      "pragmatic_distractor": "Le exijo que ponga los 100 pesos hoy mismo pidiéndolos prestados a alguien más del turno, o de lo contrario sí la reporto.",
+      "evasive_distractor": "Fijo mi vista exclusivamente en mi propio corte de caja y hago como que nunca escuché su confesión financiera.",
+      "rationalized_distractor": "Le doy 24 horas de gracia sin reportarla, pensando que un error de tipeo no debe destruir el expediente de un colega honesto."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1024,12 +1024,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el almacén, un compañero propone usar cinta y etiquetas del trabajo para un envío personal, porque “sobran” y nadie lo controla. Si lo haces, te ahorras dinero; si te niegas, te dicen que exageras. Sabes que son recursos del trabajo y que si se normaliza, se pierde control. ¿Qué haces?",
+    "scenario": "La empresa nos dio vales de cafetería interna intransferibles como recompensa de productividad. Mi equipo me propone que los juntemos todos y se los vendamos a mitad de precio a los de mantenimiento que no recibieron el bono, para sacar 'efectivo real'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Te abstienes de usar el material y utilizas recursos propios, aceptando quedar fuera de la dinámica del grupo.",
-      "pragmatic_distractor": "Recomiendas usar el servicio de empaquetado oficial pagado, buscando una alternativa que cumpla las normas internas.",
-      "evasive_distractor": "Te retiras del área sin comentar nada, evitando entrar en conflicto con las prácticas de tus compañeros.",
-      "rationalized_distractor": "Utilizas el material disponible, considerando que el costo es insignificante comparado con el volumen que maneja la empresa."
+      "integrity_correct": "Rechazo participar en la reventa de prestaciones internas y conservo mi vale de despensa para uso estrictamente personal.",
+      "pragmatic_distractor": "Les digo que yo me gasto el mío pero si quieren yo les ayudo a promocionar los de ellos con los supervisores de limpieza.",
+      "evasive_distractor": "Les comento que desafortunadamente ya me gasté todo mi saldo de vales en mi desayuno de esta misma mañana.",
+      "rationalized_distractor": "Junto mis vales con el equipo para venderlos argumentando que el beneficio económico final nos pertenece y debemos maximizarlo juntos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1039,12 +1039,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente exige atención inmediata y te ofrece dinero para saltarse la fila. Tú sabes que eso es injusto para los demás y puede generar conflicto si lo notan. Si aceptas, ganas dinero y bajas su enojo; si no, se altera y hace escándalo. La fila está tensa. ¿Qué haces?",
+    "scenario": "El sistema de turnos de servicio al cliente tiene una fila de espera de una hora. Mi compañera de mostrador identifica a una amiga suya al final de la fila y me pide que presione en mi terminal el botón de 'Llamar cliente prioritario' para saltarla hasta el frente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas la dádiva y mantienes el turno establecido, asumiendo la reacción negativa del cliente ante la negativa.",
-      "pragmatic_distractor": "Declinas el dinero y agilizas la atención general, gestionando la ansiedad del cliente sin alterar el orden justo.",
-      "evasive_distractor": "Solicitas la presencia del supervisor para manejar la exigencia, transfiriendo la presión de decidir sobre la fila.",
-      "rationalized_distractor": "Atiendes al cliente de inmediato, priorizando evitar un escándalo en la sala sobre el protocolo de espera."
+      "integrity_correct": "Digo que no el uso del botón de prioridad para un caso personal y le pido que su amiga espere su turno regular.",
+      "pragmatic_distractor": "Le digo que presione ella el botón en su propia terminal para que quede el folio registrado bajo su responsabilidad exclusiva.",
+      "evasive_distractor": "Apago mi terminal de servicio rápidamente fingiendo que necesito ir urgentemente al baño justo en este segundo.",
+      "rationalized_distractor": "Presiono el botón de prioridad porque el sentido común dicta que las amistades directas del equipo merecen un trato diferencial en casa."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1054,12 +1054,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la entrega de un paquete, el cliente te pide firmar por él porque está en llamada. Dice que confía y que te apures. Si firmas, terminas rápido, pero falseas un comprobante; si te niegas, se enoja y te retrasa. Además, el día va justo de tiempo. ¿Qué haces?",
+    "scenario": "Es el cierre del turno y el camión de valores no puede llevarse el depósito porque mi gerente no firmó la papeleta. El gerente ya está camino a casa y me manda un mensaje: 'Ponle mi garabato rápido tú en la papeleta, te autorizo por este medio para que no se quede el dinero en tienda el fin de semana'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Esperas a que el cliente pueda firmar o reprogramas, aceptando el impacto en tus tiempos de entrega por cumplir la norma.",
-      "pragmatic_distractor": "Solicitas una confirmación válida alternativa o esperas brevemente, equilibrando el servicio con la necesidad de prueba de entrega.",
-      "evasive_distractor": "Marcas el paquete como no entregado y te retiras, evitando la responsabilidad de falsificar la firma.",
-      "rationalized_distractor": "Firmas en lugar del cliente por su instrucción, confiando en que su autorización verbal valida la entrega."
+      "integrity_correct": "Dejo el depósito seguro en la tómbola de la tienda y liquido al camión de valores sin entregar ese efectivo hoy.",
+      "pragmatic_distractor": "Imprimo el correo o mensaje con su autorización, anoto 'Por ausencia (PA)' y firmo yo para resolver la salida del dinero.",
+      "evasive_distractor": "Le pido al custodio de valores que espere el tiempo que sea necesario hasta que mi gerente regrese a firmar físicamente.",
+      "rationalized_distractor": "Le hago un trazo similar a su firma, ya que tengo su autorización directa por escrito y es más seguro que el dinero se vaya al banco."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1069,12 +1069,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En atención, un compañero te pide que le pases el acceso a un registro de clientes para “buscar un dato” porque él no lo tiene. Dice que es por servicio, pero tú no estás seguro de que lo necesite. Si se lo das, ayudas; si no, se enoja y te acusa de no apoyar. ¿Qué haces?",
+    "scenario": "Durante la fase más crítica de la venta dominical, mi terminal se queda sin batería. Un cliente muy molesto tiene prisa por pagar e irse. Mi compañero me arroja su terminal portátil lista con su sesión abierta para que yo le cobre a mi cliente ahí mismo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas el acceso directo y remites al procedimiento oficial, asumiendo la fricción con el compañero por proteger los datos.",
-      "pragmatic_distractor": "Consultas la información tú mismo y la entregas si procede, ayudando al compañero sin compartir tus credenciales.",
-      "evasive_distractor": "Indicas que estás ocupado y no puedes acceder ahora, postergando la respuesta para no negar directamente.",
-      "rationalized_distractor": "Compartes el acceso temporalmente, considerando que es para una tarea laboral y confías en el compañero."
+      "integrity_correct": "Cierro la sesión en la terminal de mi compañero y vuelvo a entrar con mi usuario y contraseña antes de cobrar.",
+      "pragmatic_distractor": "Proceso el cobro, pero le pido al cliente que firme doble el comprobante impreso para yo escribir una nota aclaratoria.",
+      "evasive_distractor": "Le devuelvo la terminal a mi compañero y le pido que sea él mismo quien ejecute toda la transacción de mi cliente.",
+      "rationalized_distractor": "Uso su sesión abierta para cobrar lo antes posible, pues la lo importante es desahogar la molestia del cliente."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1084,12 +1084,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el área de alimentos, un cliente te pregunta si un producto estuvo fuera del refrigerador un rato porque lo vio en un carrito. Tú no estás seguro, pero un compañero dice que no digas nada para venderlo. Si eres transparente, se puede perder la venta; si no, el cliente compra sin saber y puede haber riesgo. ¿Qué haces?",
+    "scenario": "Un proveedor local trajo 50 paquetes idénticos y el proceso nos exige escanear cara uno por separado. Él lleva prisa y sugiere: 'Escanea solo el código de barra de uno y mete manual en tu sistema que son 50 piezas, es lo mismo y nos ahorra media hora'. Ya antes nos ha entregado perfecto. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Retiras el producto para evaluación de calidad, asumiendo la posible merma y el trabajo extra por seguridad alimentaria.",
-      "pragmatic_distractor": "Verificas la temperatura del producto y decides con datos, equilibrando la prevención de desperdicio con la seguridad.",
-      "evasive_distractor": "Dejas el producto donde está para que otro decida, evitando tomar la responsabilidad de la merma.",
-      "rationalized_distractor": "Mantienes el producto en venta, considerando que el tiempo fuera parece mínimo y la prioridad es reducir pérdidas."
+      "integrity_correct": "Rechazo la sugerencia y escanear de manera unitaria y física cada uno de los 50 paquetes entregados.",
+      "pragmatic_distractor": "Tomo una muestra representativa, escaneo 15 paquetes salteados al azar y si todos coinciden, ingreso el resto manualmente.",
+      "evasive_distractor": "Le pido a un empleado auxiliar más nuevo que se encargue él solito de esta recepción en lo que yo voy por tarimas vacías.",
+      "rationalized_distractor": "Hago la recepción manual de las 50 unidades, porque agilizar la operatividad de nuestros proveedores de confianza los fideliza con nosotros."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1099,12 +1099,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente deja una queja agresiva y pide el nombre completo del trabajador que lo atendió para “ir a buscarlo”. Te piden que se lo des para calmarlo, pero tú sabes que eso expone a tu compañero. Si no lo das, el cliente se enfurece y amenaza con queja mayor. ¿Qué haces?",
+    "scenario": "La esposa de mi compañero de piso, con la que él ha estado teniendo conflictos personales muy fuertes, llega al mostrador llorando. Me suplica que, como un favor humano, le diga si él ya checó su salida desde hace dos horas o si sigue escondido laborando en el almacén. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Niegas la información personal y ofreces el canal formal de quejas, asumiendo la ira del cliente por proteger al equipo.",
-      "pragmatic_distractor": "Proporcionas el número de reporte o identificación de servicio, gestionando el reclamo sin exponer la identidad del compañero.",
-      "evasive_distractor": "Transfieres la situación al gerente de turno, delegando el manejo del cliente agresivo.",
-      "rationalized_distractor": "Proporcionas el nombre solicitado para desactivar el conflicto, considerando que el cliente tiene derecho a saber quién lo atendió."
+      "integrity_correct": "Le informo amablemente que, por reglas de la empresa, no estoy autorizado para corroborar estatus de asistencia de ningún empleado.",
+      "pragmatic_distractor": "Le pido que siéntese a esperar y me dirijo rápidamente al almacén para avisarle a mi compañero que salga a dar la cara.",
+      "evasive_distractor": "Solicito por radio al supervisor en turno que por favor se presente en el mostrador para manejar directamente a la señora.",
+      "rationalized_distractor": "Le rompo la regla y le digo la verdad sobre el estatus de su esposo, sabiendo que en crisis familiares la empatía va primero."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1114,12 +1114,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el cierre, detectas que a un cliente se le cobró de menos por un error y ya se fue. Tu compañero dice que no lo reportes para que no los culpen por un descuadre. Si lo reportas, puede haber revisión y tensión; si no, queda oculto y se repetirá. ¿Qué haces?",
+    "scenario": "Para terminar de asegurar las cajas del camión logístico, nos quedamos sin rollo de película plástica. Mi compañero sugiere 'pedir prestado' el material del casillero sellado del área de auditoría de mermas para terminar, asegurando que mañana lo repondrá a primera hora. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Registras el error en el corte de caja, aceptando la revisión administrativa y la afectación a tus indicadores.",
-      "pragmatic_distractor": "Anotas la incidencia para el cuadre final, gestionando la justificación del faltante con transparencia operativa.",
-      "evasive_distractor": "Dejas el tema pendiente hasta el conteo final, evitando reportar el problema anticipadamente.",
-      "rationalized_distractor": "Omites el reporte del error, considerando que compensarlo después es menos problemático que una sanción inmediata."
+      "integrity_correct": "Suspendo el proceso logístico de esas tarimas y dejo el registro formal en la bitácora del faltante de material operativo.",
+      "pragmatic_distractor": "Violamos el sello y tomamos la película, pero dejo una carta firmada por ambos detallando a qué hora nos llevamos el rollo.",
+      "evasive_distractor": "Le digo al compañero que él mismo abra el casillero sellado bajo su propia responsabilidad mientras yo acomodo la caja fuerte.",
+      "rationalized_distractor": "Tomo el rollo ajeno sin dudarlo, al final todo el material es propiedad de la misma compañía y la meta de embarque debe cumplirse hoy."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 15",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1129,12 +1129,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, un compañero propone “borrar” de la lista un faltante para que el pedido salga completo en el sistema y no les reclamen. Dice que luego lo reponen. Si lo hacen, el camión sale; si no, se detiene y el encargado se enoja. Pero borrar un faltante engaña al cliente. ¿Qué haces?",
+    "scenario": "Es hora de cerrar la sucursal y nos falta cuadrar una computadora de alto valor en el sistema, lo que nos obliga a quedarnos 2 horas extra a recontar. El supervisor general dice: 'Regístrala ahorita rápido como Traspaso a Bodega para que cuadre el sistema y nos vayamos, el lunes lo cancelamos y la buscamos bien'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Marcas el producto como faltante real, asumiendo el reclamo administrativo y el retraso en el despacho.",
-      "pragmatic_distractor": "Procesas el pedido con la novedad reportada, buscando notificar al cliente o ajustar la factura correctamente.",
-      "evasive_distractor": "Permites que el compañero maneje el registro, manteniéndote al margen de la manipulación del inventario.",
-      "rationalized_distractor": "Ajustas la lista para liberar el pedido, priorizando la entrega a tiempo sobre la exactitud del inventario."
+      "integrity_correct": "Me niego a realizar el registro ficticio de traspaso e inicio el conteo físico exhaustivo requerido.",
+      "pragmatic_distractor": "Hago el traspaso en sistema pero pongo una alarma y le dejo un post-it pegado al monitor del gerente para que no olvide revertirlo el lunes a primera hora.",
+      "evasive_distractor": "Le digo al supervisor que mi usuario no tiene los permisos suficientes para hacer traspasos de electrónicos de alto valor.",
+      "rationalized_distractor": "Realizo el traspaso temporal porque el bienestar y descanso del equipo tras una jornada de 12 horas es prioridad sobre una demora de sistema de 48 horas."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1144,12 +1144,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En la tienda, un cliente te pide que le des el descuento de otra persona diciendo que “nadie revisa” y que te deja propina. Si aceptas, ganas dinero y evitas discusión, pero es injusto para otros. Si te niegas, se enoja y te humilla frente a la fila. ¿Qué haces?",
+    "scenario": "Un cliente está furioso porque una promoción '3x2' venció ayer, pero el equipo de marketing olvidó quitar el letrero gigante en tienda. El director no contesta el teléfono. Mi cajera principal me ordena: 'Hazle el descuento manual para respetar el letrero y que deje de gritarnos'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Aplicas únicamente los precios vigentes sin excepciones, asumiendo la pérdida de la propina y el disgusto del cliente.",
-      "pragmatic_distractor": "Buscas ofertas aplicables legítimas para el cliente, intentando ofrecer un beneficio real sin infringir la política.",
-      "evasive_distractor": "Consultas con el supervisor la posibilidad de un descuento, transfiriendo la decisión de autorizar la excepción.",
-      "rationalized_distractor": "Aplicas el descuento solicitado, considerando que fidelizar al cliente es más valioso que la diferencia de precio."
+      "integrity_correct": "Me niego a aplicar un descuento manual vencido y Le digo al cliente las políticas comerciales vigentes en sistema.",
+      "pragmatic_distractor": "Le aplico el descuento manual por esta única ocasión, pero voy corriendo a arrancar el cartel de promoción inmediatamente después.",
+      "evasive_distractor": "Le digo al cliente que mi caja se bloqueó temporalmente y le pido a la cajera principal que lo atienda ella en su terminal.",
+      "rationalized_distractor": "Aplico la modificación manual en el precio porque el cliente jamás debe pagar económicamente por la incompetencia de nuestro equipo de marketing."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1159,12 +1159,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En ruta, un cliente te pide que le entregues un paquete que no está a su nombre porque dice que lo compró con otra cuenta. Te muestra una captura borrosa. Si entregas, evitas reprogramar y te ahorras tiempo; si no, el cliente se enfurece. Sin verificación clara, puedes entregar a quien no corresponde. ¿Qué haces?",
+    "scenario": "Un cliente importante clave, a quien conozco perfectamente desde hace años, viene a recoger mensajería confidencial de su compañía pero olvidó su gafete oficial en la oficina. Me suplica que le entregue los sobres porque su director lo despedirá si no llega con ellos a su junta en 10 minutos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Retienes la entrega hasta tener identificación oficial clara, aceptando la presión del cliente y la reprogramación.",
-      "pragmatic_distractor": "Solicitas una validación adicional o contactas al titular, gestionando la entrega de forma segura sin bloquearla totalmente.",
-      "evasive_distractor": "Indicas que no puedes entregar y continúas la ruta, evitando discutir sobre la validez de la captura.",
-      "rationalized_distractor": "Entregas el paquete confiando en la captura, priorizando completar la ruta y evitar conflictos."
+      "integrity_correct": "Le niego la entrega de la mensajería confidencial indicando que el protocolo exige la identificación oficial física sin excepciones.",
+      "pragmatic_distractor": "Le pido que abra su correo de la empresa frente a mí en su celular y lo uso como identificación alternativa para entregarle.",
+      "evasive_distractor": "Le digo que justo hace 5 minutos pasó la valija de recolección y se llevaron todo a la bóveda central temporalmente.",
+      "rationalized_distractor": "Le entrego el sobre porque lo reconozco a la perfección y salvar el empleo de un buen cliente vale más que una regla cuadrada."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1174,12 +1174,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el área de recepción, un proveedor te pide firmar de recibido sin revisar porque “así se ahorra tiempo”. Te ofrece un regalo pequeño si lo haces. Si aceptas, avanzas y ganas el regalo, pero si hay faltantes se los cargan a tu turno. Si revisas, se enoja y se atrasa la descarga. ¿Qué haces?",
+    "scenario": "Llega el camión con el suministro de hielo para el fin de semana, pero el enfriador falló y los empaques están sudando, aunque el hielo no se ha derretido por completo. El control de calidad marca rechazo. Mi gerente me llama al celular: 'Recíbelo completo o no tendremos ventas este sábado, fírmalo como bueno'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazas el obsequio y realizas el conteo físico, asumiendo la demora en la recepción y la molestia del proveedor.",
-      "pragmatic_distractor": "Realizas una inspección aleatoria eficiente y firmas, equilibrando el control de calidad con los tiempos de descarga.",
-      "evasive_distractor": "Solicitas a otro compañero que reciba la carga, evitando la confrontación con el proveedor.",
-      "rationalized_distractor": "Firmas la recepción rápidamente, confiando en la buena relación con el proveedor y agilizando el proceso."
+      "integrity_correct": "Hago el protocolo de calidad marcando el rechazo total del cargamento por ruptura de las políticas de temperatura.",
+      "pragmatic_distractor": "Reviso físicamente el camión y acepto únicamente las tarimas que venían más al centro y se mantuvieron más frías.",
+      "evasive_distractor": "Le pido al conductor que dé una vuelta a la manzana para ganar tiempo y le digo a mi gerente que el camión nunca llegó.",
+      "rationalized_distractor": "Firmo de recibido como exige el gerente, bajo la lógica de que un inventario subóptimo en fin de semana es mejor que tener los estantes vacíos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -1189,12 +1189,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el mostrador, un cliente te pregunta si su paquete contiene un artículo caro porque teme que se lo roben. Tú puedes ver el detalle en sistema, pero es información sensible y no sabes si es el dueño. Si respondes, lo calmas; si no, se enoja y dice que escondes información. Hay fila y presión por avanzar. ¿Qué haces?",
+    "scenario": "Un proveedor indispensable de materiales me llama desesperado porque el portal externo de pagos se cayó y le urge meter su factura hoy. Me suplica que le regale la extensión interna directa de soporte TI, la cual está estrictamente prohibida para uso externo, o nos cortará el suministro el lunes. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Resguardas la información del contenido hasta validar al titular, asumiendo la insistencia y desconfianza del cliente.",
-      "pragmatic_distractor": "Informas sobre los seguros y garantías de envío sin revelar el contenido, gestionando la tranquilidad del cliente profesionalmente.",
-      "evasive_distractor": "Diriges al cliente a servicio postventa para consultas, evitando confirmar datos sensibles en mostrador.",
-      "rationalized_distractor": "Confirmas el contenido para calmar su preocupación, considerando que el cliente necesita seguridad sobre su envío."
+      "integrity_correct": "Le niego categóricamente la extensión interna y Le digo que debe monitorear los canales oficiales externos.",
+      "pragmatic_distractor": "No le doy el número directo, pero entro yo a mi sistema interno y le levanto un ticket de TI con prioridad extrema a su nombre.",
+      "evasive_distractor": "Finjo que se corta la llamada de repente y le mando un correo automático con la liga pública de preguntas frecuentes.",
+      "rationalized_distractor": "Le paso el número rápido en secreto, porque si nos corta el material la próxima semana perderemos líneas de producción completas."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 20",
     "sot_checksum": "ops400_m3_options_v1"

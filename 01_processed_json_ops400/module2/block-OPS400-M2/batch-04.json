@@ -34,12 +34,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Me asignan a un jefe nuevo que pide registrar cada paso de nuestro proceso manual, lo cual me parece mucha burocracia. ¿Qué es lo primero que haces?",
+    "scenario": "Me asignan a un jefe nuevo que pide registrar cada paso de nuestro proceso manual, lo cual me parece mucho papeleo. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Empiezo a realizar los registros de cada paso tal como me lo pidió mi nuevo jefe.",
       "pragmatic_distractor": "Aprovecho una junta para proponerle agrupar varios registros en uno solo para no perder tiempo.",
       "evasive_distractor": "Mantengo mi forma de trabajo actual las primeras semanas para ver si realmente se pone estricto con los registros.",
-      "rationalized_distractor": "Le pido que revisemos los indicadores operativos reales antes de implementar registros que frenen a la operación."
+      "rationalized_distractor": "Le pido que revisemos los números reales antes de meter registros que frenen la operación."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 04 item 3",
     "sot_checksum": "ops400_m2_options_v1"
@@ -52,7 +52,7 @@
     "scenario": "Nos indican cambiar nuestra forma de atención y ahora debo hacer una promoción extra a cada cliente, pero eso alarga la fila. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le ofrezco la promoción a cada cliente que atiendo, sin importar de qué tamaño esté la fila.",
-      "pragmatic_distractor": "Analizo el perfil del cliente rápidamente con base en su edad para no ofrecer promociones irrelevantes y ahorrar tiempo.",
+      "pragmatic_distractor": "Veo qué tipo de cliente es rápidamente con base en su edad para no ofrecer promociones irrelevantes y ahorrar tiempo.",
       "evasive_distractor": "Me organizo con mi coordinador para solo ofrecer la promoción cuando haya apoyo en el empacado.",
       "rationalized_distractor": "Dejo de decir la promoción durante la hora pico para evitar que los clientes que llevan prisa se molesten."
     },
@@ -68,8 +68,8 @@
     "options_structured": {
       "integrity_correct": "Integro al compañero a mis tareas y le explico el proceso aunque eso reduzca temporalmente mi productividad.",
       "pragmatic_distractor": "Le indico las tareas más sencillas que él pueda hacer solo sin arriesgarnos a cometer errores el día de hoy.",
-      "evasive_distractor": "Hablo con mi jefe directo para revisar si es posible asignarle a un colaborador que tenga menos carga hoy.",
-      "rationalized_distractor": "Le sugiero al compañero que observe primero cómo trabajo para no retrasar los indicadores del turno."
+      "evasive_distractor": "Hablo con mi jefe directo para revisar si es posible asignarle a un compañero que tenga menos carga hoy.",
+      "rationalized_distractor": "Le sugiero al compañero que observe primero cómo trabajo para no retrasar los números del turno."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 04 item 5",
     "sot_checksum": "ops400_m2_options_v1"
@@ -114,7 +114,7 @@
       "integrity_correct": "Capturo la información siguiendo todos los pasos nuevos hasta dominar bien la aplicación.",
       "pragmatic_distractor": "Identifico cuáles son los campos urgentes y dejo los datos secundarios para capturarlos al final del turno.",
       "evasive_distractor": "Aviso a mi equipo que me tengan paciencia porque la aplicación nueva no me deja avanzar rápido.",
-      "rationalized_distractor": "Omito los pasos adicionales durante las horas pico para que mi servicio no colapse por burocracia."
+      "rationalized_distractor": "Omito los pasos adicionales durante las horas pico para que mi servicio no colapse por papeleo."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 04 item 8",
     "sot_checksum": "ops400_m2_options_v1"
@@ -156,8 +156,8 @@
     "type": "options",
     "scenario": "Por un error del sistema nuevo, mi rendimiento aparece más bajo este mes y el encargado me cuestiona. Siento que no es justo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le muestro mis registros manuales al encargado y le pido auditar el sistema juntos.",
-      "pragmatic_distractor": "Acepto la retroalimentación rápido para no discutir y me enfoco en subir los números reales de hoy.",
+      "integrity_correct": "Le muestro mis registros manuales al encargado y le pido revisar el sistema juntos.",
+      "pragmatic_distractor": "Acepto lo que me dice rápido para no discutir y me enfoco en subir los números reales de hoy.",
       "evasive_distractor": "Dejo que Asistencia Técnica identifique el error del sistema antes de pelear mis números.",
       "rationalized_distractor": "Bajo mi esfuerzo operativo ya que el sistema de todas formas no está midiendo mi trabajo real."
     },
@@ -199,9 +199,9 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian la política y ahora debo pedirle doble identificación a clientes que se ven molestos o agresivos. Me da miedo que me insulten. ¿Qué es lo primero que haces?",
+    "scenario": "Cambian la política y ahora debo pedirles dos identificaciones a clientes que se ven molestos o agresivos. Me da miedo que me insulten. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Pido las dos identificaciones a la primera persona que cumpla con el perfil de la regla.",
+      "integrity_correct": "Pido las dos identificaciones a la primera persona que cumpla con los criterios de la regla.",
       "pragmatic_distractor": "Paso la indicación a vigilancia para que ellos pidan la identificación antes de que el cliente llegue a mi caja.",
       "evasive_distractor": "Llamo siempre a mi supervisor cuando veo un perfil de riesgo para que él haga la solicitud.",
       "rationalized_distractor": "Pido solo una identificación firme si siento que solicitar la segunda va a provocar un conflicto violento."
@@ -274,7 +274,7 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Implementan un indicador de rapidez personal que me pone mucha presión. Siento que si me apuro voy a descuidar los detalles finos de mi trabajo. ¿Qué es lo primero que haces?",
+    "scenario": "Ahora miden mi rapidez personal y eso me pone mucha presión. Siento que si me apuro voy a descuidar los detalles finos de mi trabajo. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Comienzo mi turno intentando ajustarme al nuevo tiempo meta que se exige.",
       "pragmatic_distractor": "Reviso qué partes de mi proceso puedo empezar a hacer en bloque para recuperar tiempo sin perder calidad.",

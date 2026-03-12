@@ -4,13 +4,15 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Implementan un cambio: ahora debo tomar fotos y llenar un registro por cada entrega. Siento que esto me va a retrasar mucho en la ruta. ¿Qué es lo primero que haces?",
+    "scenario": "Ponen una regla nueva: ahora debo tomar fotos y llenar un registro por cada entrega. Siento que esto me va a retrasar mucho en la ruta. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Empiezo con el nuevo registro desde la primera entrega, aceptando que iré más lento mientras me acostumbro.",
       "pragmatic_distractor": "Tomo las fotos de todas las entregas y lleno los datos en los tiempos muertos para no atrasar la ruta.",
       "evasive_distractor": "Lleno el registro solo en las paradas más tranquilas para ir agarrando práctica sin presionar los tiempos.",
       "rationalized_distractor": "Le pregunto al compañero más rápido cómo le hace él para cumplir con el registro sin perder velocidad."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 1",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q022",
@@ -19,11 +21,13 @@
     "type": "options",
     "scenario": "Me rotan a una tarea nueva en almacén. El método es distinto y siento que mi ritmo de trabajo bajó a la mitad. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Sigo el nuevo método al pie de la letra, aceptando que mi productividad bajará hoy mientras aprendo.",
+      "integrity_correct": "Sigo el nuevo método al pie de la letra, aceptando que voy a rendir menos hoy mientras aprendo.",
       "pragmatic_distractor": "Propongo al encargado una forma de combinar mi método viejo con el nuevo para no afectar los tiempos del turno.",
       "evasive_distractor": "Le pido a un compañero que me ayude con lo más difícil de la nueva tarea para no atrasar al equipo.",
       "rationalized_distractor": "Me enfoco en dominar primero la parte más importante de la tarea y dejo los detalles para después."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 2",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q023",
@@ -36,7 +40,9 @@
       "pragmatic_distractor": "Propongo al encargado de la nueva sucursal un horario de entrada más flexible por mi tiempo de traslado.",
       "evasive_distractor": "Pido a un compañero que me explique las rutas más rápidas para llegar sin cansarme tanto.",
       "rationalized_distractor": "Busco la forma de que mis tareas en la nueva sucursal sean menos pesadas físicamente mientras me acostumbro."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 3",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q024",
@@ -49,7 +55,9 @@
       "pragmatic_distractor": "Hablo con el supervisor para explicarle mi situación y ver si podemos rotar los horarios con otros.",
       "evasive_distractor": "Me adapto al nuevo horario pero busco tomar pausas breves de un minuto cuando el ritmo baje.",
       "rationalized_distractor": "Observo si el nuevo orden realmente mejora el trabajo antes de pedir que me regresen a mi horario anterior."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 4",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q025",
@@ -58,11 +66,13 @@
     "type": "options",
     "scenario": "Cometí un error en una entrega y el encargado me llama la atención frente a mi equipo. Siento que fue algo injusto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Escucho la retroalimentación sin interrumpir y pregunto qué paso específico debo corregir.",
-      "pragmatic_distractor": "Espero a que termine el turno para hablar con él en privado y aclarar los factores externos que causaron el error.",
+      "integrity_correct": "Escucho lo que me dice sin interrumpir y pregunto qué paso específico debo corregir.",
+      "pragmatic_distractor": "Espero a que termine el turno para hablar con él en privado y aclarar qué pasó.",
       "evasive_distractor": "Acepto el error pero menciono que el sistema también falló para que no vuelva a ocurrir.",
       "rationalized_distractor": "Pido a un compañero que me ayude a revisar mis siguientes procesos para asegurar que no se repita el fallo."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 5",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q026",
@@ -74,8 +84,10 @@
       "integrity_correct": "Me siento con él para acordar un plan de trabajo antes de empezar el turno.",
       "pragmatic_distractor": "Nos dividimos el trabajo de forma que cada quien use su estilo sin estorbarse.",
       "evasive_distractor": "Dejo que él tome la iniciativa en las tareas que prefiere para evitar conflictos.",
-      "rationalized_distractor": "Le pido al encargado que nos defina roles específicos para no tener discusiones operativas."
-    }
+      "rationalized_distractor": "Le pido al encargado que nos defina roles específicos para no tener discusiones."
+    },
+    "notes": "OPS400 M2 batch02 item 6",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q027",
@@ -88,7 +100,9 @@
       "pragmatic_distractor": "Hago mis propias anotaciones sobre lo que no funciona para proponer una mejora después.",
       "evasive_distractor": "Busco la forma de organizar mi zona para que el nuevo orden no me quite velocidad.",
       "rationalized_distractor": "Pregunto a los compañeros que ya lo usan si tienen algún truco para no tardar tanto."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 7",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q028",
@@ -101,7 +115,9 @@
       "pragmatic_distractor": "Reviso el material por mi cuenta para saber lo más importante sin que me distraigan las burlas.",
       "evasive_distractor": "Tomo el curso y después explico a mis compañeros por qué esos puntos sí son útiles.",
       "rationalized_distractor": "Pregunto si puedo tomar el curso en un horario más tranquilo para concentrarme mejor."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 8",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q029",
@@ -114,7 +130,9 @@
       "pragmatic_distractor": "Le pido que me observe trabajar primero y después lo voy soltando poco a poco.",
       "evasive_distractor": "Hablo con el encargado para ver si alguien puede cubrir una parte de mi carga mientras entreno.",
       "rationalized_distractor": "Le doy las tareas más sencillas para que aprenda solo mientras yo saco lo urgente."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 9",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q030",
@@ -127,7 +145,9 @@
       "pragmatic_distractor": "Hablo con el encargado para ver si puedo rotar mi tiempo extra con otros compañeros.",
       "evasive_distractor": "Me enfoco en terminar mi trabajo normal lo más rápido posible para que el tiempo extra sea ligero.",
       "rationalized_distractor": "Reviso mis pendientes para ver si puedo sacar lo más pesado antes de que el cansancio pegue."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 10",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q031",
@@ -140,7 +160,9 @@
       "pragmatic_distractor": "Integro las palabras clave del guion en mi propio estilo para sonar más natural.",
       "evasive_distractor": "Escucho cómo lo dicen mis compañeros para que se me pegue el tono correcto.",
       "rationalized_distractor": "Practico el nuevo guion primero con mis compañeros antes de usarlo con clientes."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 11",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q032",
@@ -153,7 +175,9 @@
       "pragmatic_distractor": "Salgo con precaución y voy probando los controles en las paradas más tranquilas.",
       "evasive_distractor": "Le pido a un compañero que me explique rápido los cambios más importantes de esta unidad.",
       "rationalized_distractor": "Reviso el manual de la unidad mientras espero a que terminen de cargar mi mercancía."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 12",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q033",
@@ -166,7 +190,9 @@
       "pragmatic_distractor": "Hablo con el equipo para dividirnos las tareas más pesadas mientras nos acostumbramos.",
       "evasive_distractor": "Dejo las tareas más difíciles para el inicio del turno cuando tengo más energía.",
       "rationalized_distractor": "Pregunto a los que ya hacen turno nocturno qué trucos usan para no sentirse tan cansados."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 13",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q034",
@@ -179,20 +205,24 @@
       "pragmatic_distractor": "Comparo la ruta del sistema con la que yo conozco y elijo el camino más seguro.",
       "evasive_distractor": "Le pido al coordinador que me explique por qué el sistema eligió ese camino nuevo.",
       "rationalized_distractor": "Ajusto la ruta solo en los puntos donde el sistema me mande por calles cerradas o prohibidas."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 14",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q035",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Me asignan trabajar con una pareja para una tarea pesada, pero siento que avanzo más si trabajo solo. ¿Qué es lo primero que haces?",
+    "scenario": "Me asignan trabajar en pareja para una tarea pesada, pero siento que avanzo más si trabajo solo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Acuerdo con mi pareja cómo nos vamos a dividir antes de empezar la tarea.",
+      "integrity_correct": "Acuerdo con mi compañero cómo nos vamos a dividir antes de empezar la tarea.",
       "pragmatic_distractor": "Cada quien avanza por su cuenta en lo que sabe hacer y nos juntamos para lo pesado.",
-      "evasive_distractor": "Le pido a mi pareja que me diga qué parte prefiere hacer él para evitar roces.",
+      "evasive_distractor": "Le pido a mi compañero que me diga qué parte prefiere hacer él para evitar roces.",
       "rationalized_distractor": "Propongo que uno dirija y el otro apoye para que no haya dos mandos en la misma tarea."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 15",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q036",
@@ -205,20 +235,24 @@
       "pragmatic_distractor": "Me enfoco solo en las tareas más importantes del día para no desgastarme de más.",
       "evasive_distractor": "Busco pequeños momentos durante el turno para desconectarme y recuperar energía.",
       "rationalized_distractor": "Reviso mi forma de trabajar para ver qué procesos puedo simplificar y cansarme menos."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 16",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q037",
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Ahora piden una junta breve al inicio para ajustar prioridades. Me incomoda hablar en grupo porque siento que me van a señalar. ¿Qué es lo primero que haces?",
+    "scenario": "Ahora piden una junta breve al inicio para organizar qué va primero. Me incomoda hablar en grupo porque siento que me van a señalar. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Participo en la junta y digo lo que necesito para sacar mi trabajo.",
       "pragmatic_distractor": "Llevo mis puntos anotados para que mi participación sea rápida y directa.",
       "evasive_distractor": "Escucho primero lo que dicen los demás para entender el tono de la junta y luego participar.",
       "rationalized_distractor": "Le digo mis dudas al compañero que habla más para que él las mencione en la junta."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 17",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q038",
@@ -231,7 +265,9 @@
       "pragmatic_distractor": "Pido ayuda a un supervisor solo cuando el cliente se ponga muy agresivo para no perder tiempo.",
       "evasive_distractor": "Trato de ser muy amable y rápido para que al cliente no le moleste tanto dar su identificación.",
       "rationalized_distractor": "Observo si otros compañeros han encontrado una forma más fácil de pedirla sin que la gente se enoje."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 18",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q039",
@@ -244,7 +280,9 @@
       "pragmatic_distractor": "Hago un poco de acomodo entre clientes para que no se me junte todo al final.",
       "evasive_distractor": "Le propongo al encargado un ajuste en las tareas si veo que este orden realmente no funciona.",
       "rationalized_distractor": "Me apuro más en la atención al cliente para tener el mismo tiempo de antes para el acomodo."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 19",
+    "sot_checksum": "ops400_m2_options_v3"
   },
   {
     "id": "block-OPS400-M2-q040",
@@ -257,6 +295,8 @@
       "pragmatic_distractor": "Me enfoco en cumplir con mis tareas básicas para no tener problemas, pero sin dar extras por ahora.",
       "evasive_distractor": "Escucho las quejas de mis compañeros pero trato de no participar para no ganarme una mala fama.",
       "rationalized_distractor": "Propongo al equipo buscar formas de compensar ese beneficio con mejoras en nuestro horario o tareas."
-    }
+    },
+    "notes": "OPS400 M2 batch02 item 20",
+    "sot_checksum": "ops400_m2_options_v3"
   }
 ]

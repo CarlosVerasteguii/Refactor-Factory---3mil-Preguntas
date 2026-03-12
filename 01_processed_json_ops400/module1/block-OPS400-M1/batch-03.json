@@ -9,7 +9,7 @@
       "integrity_correct": "No tomo nada y dejo que el proceso de desecho siga como está establecido.",
       "pragmatic_distractor": "Pregunto al encargado si hay un programa de donación o aprovechamiento para esos productos.",
       "evasive_distractor": "Me retiro de la zona y dejo que los demás decidan; prefiero no meterme.",
-      "rationalized_distractor": "Me llevo algunos porque de todos modos los van a tirar y es mejor que se aprovechen a que se desperdicien."
+      "rationalized_distractor": "Me llevo algunos porque de todos modos los van a tirar y es mejor que se aprovechen antes de que se desperdicien."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 1",
     "sot_checksum": "ops400_m1_options_v1"
@@ -66,10 +66,10 @@
     "type": "options",
     "scenario": "Moviendo tarimas golpeas una estantería y caen dos productos, uno se rompe. Nadie lo vio y el área está apurada por terminar. Podrías acomodarlo y seguir para evitar reporte, o informar para que se registre la merma. Si reportas, perderás tiempo y quizá te culpen; si no, ocultas el incidente. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Informas el incidente y procesas la merma correspondiente, asumiendo la responsabilidad del error y el tiempo de limpieza.",
-      "pragmatic_distractor": "Despejas el riesgo de seguridad inmediato y tomas evidencia rápida para generar el reporte al finalizar la tarea crítica.",
-      "evasive_distractor": "Limpias el área discretamente y continúas con la operación, evitando detener el flujo de trabajo del equipo.",
-      "rationalized_distractor": "Desechas el producto dañado rápidamente para cumplir con la meta de tiempo, considerando que el accidente fue menor."
+      "integrity_correct": "Aviso del incidente y registro el producto dañado, aunque me culpen del error y pierda tiempo.",
+      "pragmatic_distractor": "Quito el riesgo y tomo foto rápida para hacer el reporte al terminar lo urgente.",
+      "evasive_distractor": "Limpio el área discretamente y sigo con la operación, sin detener al equipo.",
+      "rationalized_distractor": "Tiro el producto dañado rápido para cumplir con el tiempo, total fue un accidente menor."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 5",
     "sot_checksum": "ops400_m1_options_v1"
@@ -82,7 +82,7 @@
     "scenario": "Un cliente me pide dos paquetes pero en mi lista solo aparece uno. Un compañero me dice que marque el faltante como entregado para evitar el reclamo. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Entrego solo el paquete que tengo listado y reporto la diferencia en el sistema.",
-      "pragmatic_distractor": "Checo el estado del segundo paquete en el sistema frente al cliente para darle información real.",
+      "pragmatic_distractor": "Reviso el estado del segundo paquete en el sistema frente al cliente para darle información real.",
       "evasive_distractor": "Le digo al cliente que voy a revisar el caso en la base y me retiro sin comprometerme.",
       "rationalized_distractor": "Marco los dos como entregados para que el cliente no se queje; el sistema lo ajusta después."
     },
@@ -113,7 +113,7 @@
     "options_structured": {
       "integrity_correct": "Le digo que tengo que registrar todos los pagos y proceso el cobro normal.",
       "pragmatic_distractor": "Le explico que el sistema audita los ingresos y que no hay forma de omitirlo.",
-      "evasive_distractor": "Le digo que el sistema no me deja saltarme el registro para no darle un no directo.",
+      "evasive_distractor": "Le digo que el sistema no me deja saltarme el registro para no decirle que no directamente.",
       "rationalized_distractor": "Acepto porque al final el servicio sí se cobró y el cliente queda satisfecho."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 8",
@@ -249,7 +249,7 @@
       "integrity_correct": "Paro la entrega y verifico todos los datos del paquete antes de dejarlo.",
       "pragmatic_distractor": "Cotejo rápido el número de orden o teléfono para confirmar que es el correcto.",
       "evasive_distractor": "Entrego en la dirección que coincide y si hay error, el cliente podrá reclamar.",
-      "rationalized_distractor": "Lo entrego porque la dirección sí coincide y el apellido está casi igual; si fuera error el cliente avisa."
+      "rationalized_distractor": "Lo entrego porque la dirección sí coincide y el apellido está casi igual; si hubiera un error, el cliente avisaría."
     },
     "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 03 item 17",
     "sot_checksum": "ops400_m1_options_v1"

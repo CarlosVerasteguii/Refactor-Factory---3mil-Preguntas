@@ -232,7 +232,7 @@
     "scenario": "En tienda encuentro un producto con el empaque roto, pero el contenido parece bien. Un compañero me dice que lo selle y lo venda como nuevo para no reportar merma. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Lo retiro de piso y lo registro como dañado para que se procese según política.",
-      "pragmatic_distractor": "Verifico si aplica como open box o liquidación, etiquetando su condición real con descuento autorizado.",
+      "pragmatic_distractor": "Verifico si aplica como caja abierta o liquidación, etiquetando su condición real con descuento autorizado.",
       "evasive_distractor": "Lo dejo apartado para que lo revise calidad después y sigo con la operación.",
       "rationalized_distractor": "Le acomodo el empaque y lo saco como nuevo; al final el producto funciona."
     },
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "En la ruta puedo tomar una vía sin caseta para ahorrar tiempo. Un compañero me dice que igual reporte el peaje como si lo hubiera pagado para cobrarlo. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registro solo los peajes realmente pagados y documento la ruta que sí recorrí.",
+      "integrity_correct": "Registro solo los peajes realmente pagados y anoto la ruta que sí recorrí.",
       "pragmatic_distractor": "Si conviene la vía libre, la tomo y reporto tiempos y kilómetros reales sin cargar peaje.",
       "evasive_distractor": "Mantengo la ruta con caseta para no entrar en discusión y cerrar rápido el reporte.",
       "rationalized_distractor": "Tomo la vía libre y reporto la caseta estándar; al final el gasto operativo existe."
@@ -276,7 +276,7 @@
     "type": "options",
     "scenario": "Un cliente devuelve un producto sellado, pero al abrirlo veo que dentro hay otro diferente. Exige su dinero y el encargado no está cerca. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Detengo la devolución, documento la inconsistencia y la canalizo a revisión formal.",
+      "integrity_correct": "Detengo la devolución, anoto lo que no cuadra y paso el caso a que lo revisen.",
       "pragmatic_distractor": "Reviso ticket, lote/serial y estado del empaque antes de definir si procede.",
       "evasive_distractor": "Le pido que vuelva cuando esté el encargado para que él tome la decisión.",
       "rationalized_distractor": "Proceso la devolución porque el ticket coincide y no me corresponde investigar si hubo fraude."

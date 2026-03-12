@@ -19,7 +19,7 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Implementan un nuevo registro de incidencias y ahora debo anotar cada pequeño problema. Me da miedo que parezca que cometo muchos errores. ¿Qué es lo primero que haces?",
+    "scenario": "Implementan un nuevo registro de problemas y ahora debo anotar cada pequeño problema. Me da miedo que parezca que cometo muchos errores. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Empiezo a anotar cada falla que detecto, tal como lo pide el nuevo proceso.",
       "pragmatic_distractor": "Anoto solo los problemas que realmente afecten al cliente para no llenar el registro de detalles.",
@@ -82,7 +82,7 @@
     "scenario": "Me mueven a un área nueva donde debo usar un sistema de registro que no conozco bien. Siento que voy a atrasar a todos. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Empiezo a usar el nuevo sistema paso a paso, aunque mi ritmo sea mucho más lento hoy.",
-      "pragmatic_distractor": "Le pido al compañero más cercano que me enseñe los atajos para no ser un cuello de botella.",
+      "pragmatic_distractor": "Le pido al compañero más cercano que me enseñe los atajos para no atrasar a todos.",
       "evasive_distractor": "Aviso al equipo que pido paciencia porque voy a tardar más durante mis primeros días.",
       "rationalized_distractor": "Avanzo primero con las tareas físicas y dejo los registros en el sistema para cuando haya menos fila."
     },
@@ -189,7 +189,7 @@
       "integrity_correct": "Lo incluyo en mis tareas desde el inicio del turno para que empiece a trabajar con el equipo.",
       "pragmatic_distractor": "Hablo con el resto del equipo para pedirles que dejen de excluirlo por el bien del trabajo.",
       "evasive_distractor": "Le doy un par de consejos en privado sobre cómo se trabaja aquí para que cometa menos errores.",
-      "rationalized_distractor": "Le sugiero al supervisor que le asigne un 'tutor' que tenga más paciencia para enseñarle."
+      "rationalized_distractor": "Le sugiero al supervisor que le asigne a alguien que tenga más paciencia para enseñarle."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 03 item 13",
     "sot_checksum": "ops400_m2_options_v1"
@@ -201,7 +201,7 @@
     "type": "options",
     "scenario": "Habrá rotación de encargados y hay mucha incertidumbre en el equipo. Me da ansiedad no saber cómo va a quedar mi puesto. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me concentro en cumplir con mis métricas de atención y orden actuales.",
+      "integrity_correct": "Me concentro en cumplir con lo que me piden y mantener el orden.",
       "pragmatic_distractor": "Pregunto al gerente si habrá reuniones individuales para conocer la nueva forma de trabajo.",
       "evasive_distractor": "Platico con mis compañeros para ver qué saben o qué han escuchado sobre los nuevos perfiles.",
       "rationalized_distractor": "Reviso mis resultados de los últimos meses para tener mis números listos por si el nuevo jefe pregunta."
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "Me programaron la capacitación obligatoria sobre el nuevo sistema justo hoy que tenemos muchísima carga de trabajo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me organizo y asisto a la capacitación en la hora que me indicaron.",
+      "integrity_correct": "Me organizo y asisto a la capacitación a la hora que me indicaron.",
       "pragmatic_distractor": "Le pido al gerente que me la cambie para un día más tranquilo en la sucursal.",
       "evasive_distractor": "Platico con mis compañeros para ver si alguno puede cubrir mi área un rato.",
       "rationalized_distractor": "Atiendo mis tareas urgentes primero y llego un poco tarde a la capacitación."

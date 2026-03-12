@@ -36,9 +36,9 @@
     "type": "options",
     "scenario": "Un cliente está gritando furioso porque el área técnica no empacó correctamente su equipo. La política dice que en piso de ventas nunca debemos hablar mal de reparación ni admitir fallos de proceso internos frente al cliente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Sigo la política dando respuestas institucionales sobre nuestro proceso general de atención.",
+      "integrity_correct": "Sigo la política dando respuestas formales sobre cómo atendemos.",
       "pragmatic_distractor": "Le doy la razón al cliente en voz baja y con empatía, buscando calmarlo sin dejar registro del problema interno.",
-      "evasive_distractor": "Canalizo de forma inmediata al cliente de regreso al área técnica para que ellos lidien con las consecuencias de su error.",
+      "evasive_distractor": "Paso de forma inmediata al cliente de regreso al área técnica para que ellos lidien con las consecuencias de su error.",
       "rationalized_distractor": "Le digo abiertamente que fue culpa de los compañeros técnicos para ser honestos y que él se vaya con la verdad."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 3",
@@ -49,9 +49,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Vamos súper atrasados en la ruta. Mi compañero sugiere saltarnos el horario de break que marca el manual para poder terminar la lista completa. Yo la verdad me siento con hambre y agotado. ¿Qué decides hacer?",
+    "scenario": "Vamos súper atrasados en la ruta. Mi compañero sugiere saltarnos el horario de descanso que marca el manual para poder terminar la lista completa. Yo la verdad me siento con hambre y agotado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me detengo a tomar el tiempo de descanso que marca estrictamente la norma corporativa.",
+      "integrity_correct": "Me detengo a tomar el tiempo de descanso que marca estrictamente el manual.",
       "pragmatic_distractor": "Le propongo comprar algo en un autoservicio, comer rápido mientras manejamos y avanzar el doble la siguiente hora.",
       "evasive_distractor": "Le digo que le confirme al monitor de base qué ruta haremos para ver si ellos autorizan saltarse los tiempos.",
       "rationalized_distractor": "Acepto saltarme la comida hoy porque la lealtad al resultado y el cumplimiento del trabajo son lo más valioso."
@@ -81,7 +81,7 @@
     "type": "options",
     "scenario": "Mi equipo de trabajo organizó una cuota de 200 pesos para la fiesta del jefe. A mí no me invitaron al inicio y no tengo ese dinero. Mis compañeros me presionan para que ponga para no dar una imagen de grupito envidioso. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazo cortés pero directamente dar la cuota para la actividad fuera de mis posibilidades.",
+      "integrity_correct": "Rechazo dar la cuota, cortés pero directamente, porque está fuera de mis posibilidades.",
       "pragmatic_distractor": "Propongo apoyar en la logística o conseguir un descuento en el regalo en lugar de dar la cuota completa.",
       "evasive_distractor": "Les digo que olvidé mi cartera esta semana y les doy largas hasta que la fecha del evento pase.",
       "rationalized_distractor": "Pido dinero prestado a otro amigo para cooperar ahora y así demostrar que sí tengo actitud de compañerismo."
@@ -96,10 +96,10 @@
     "type": "options",
     "scenario": "Llega un cliente exaltado quejándose de la pésima resolución que le dio mi compañero. Mi compañero, que lo vio entrar, se mete a la bodega asustado y me deja solo para lidiar con el reclamo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Tomo el control del mostrador y escucho la solicitud del cliente para empezar el trámite de inicio.",
+      "integrity_correct": "Tomo el control del mostrador y escucho la solicitud del cliente para empezar a atenderlo.",
       "pragmatic_distractor": "Le digo al cliente una mentira piadosa asegurando que mi compañero terminó su turno justo hace 10 minutos.",
-      "evasive_distractor": "Llamo al personal de seguridad para que escolten al cliente por la agresividad que presenta nuestro mostrador.",
-      "rationalized_distractor": "Exhibo a mi compañero diciéndole al cliente exactamente en qué lugar de la bodega se escondió recién llegó."
+      "evasive_distractor": "Llamo al personal de seguridad para que escolten al cliente por la agresividad que presenta en el mostrador.",
+      "rationalized_distractor": "Exhibo a mi compañero diciéndole al cliente exactamente en qué lugar de la bodega se escondió apenas llegó."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -111,7 +111,7 @@
     "type": "options",
     "scenario": "Hay muchísima presión operativa. Un chofer externo lleva horas quejándose durísimo, gritando pestes del formato de nuestra tienda hasta contagiar estrés a mi personal asignado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Hago una pausa en mi labor para pedir formal y educadamente que modere su tono en el piso de trabajo.",
+      "integrity_correct": "Hago una pausa en mi labor para pedir con respeto que modere su tono en el área de trabajo.",
       "pragmatic_distractor": "Intento desarmar su frustración platicando con él sobre un tema cotidiano distinto para calmar el ritmo.",
       "evasive_distractor": "Redacto un correo a su base quejándome de él para reportarlo y dejo que el turno siga con su queja presencial.",
       "rationalized_distractor": "Le doy por su lado dándole la razón en todas sus quejas esperando que así concluya rápido su presencia en tienda."
@@ -139,10 +139,10 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Atiendo la llamada de un proveedor muy importante enojadísimo porque mi compañero olvidó enviarle unos documentos urgente en la mañana y ahora nos cobrará recargos corporativos. ¿Qué decides hacer?",
+    "scenario": "Atiendo la llamada de un proveedor muy importante enojadísimo porque mi compañero olvidó enviarle unos documentos urgente en la mañana y ahora nos cobrará recargos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le informo la falla de envío y comienzo a recopilar de inmediato la información solicitada en el sistema.",
-      "pragmatic_distractor": "Le invento que sufrimos una caída total del internet institucional para proteger a mi departamento a nivel reputacional.",
+      "integrity_correct": "Le informo la falla de envío y comienzo a juntar de inmediato los documentos en el sistema.",
+      "pragmatic_distractor": "Le invento que sufrimos una caída total del internet de la empresa para proteger a mi departamento para que no quedemos mal.",
       "evasive_distractor": "Pongo en silencio la llamada dos minutos mientras empujo físicamente la extensión al compañero que se equivocó.",
       "rationalized_distractor": "Le aseguro duramente al proveedor que yo no fui el culpable del error sino otra persona para cuidar mi propia imagen personal."
     },
@@ -154,7 +154,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un colega de otra tienda me pide por mensajería que le comparta el archivo privado de nuestra estrategia comercial para usarlo él. Si se lo niego, me dirá que soy un mal compañero corporativo. ¿Qué decides hacer?",
+    "scenario": "Un colega de otra tienda me pide por mensajería que le comparta el archivo privado de nuestra estrategia comercial para usarlo él. Si se lo niego, me dirá que soy un mal compañero. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Le informo que el documento es interno y cierro el tema declinando su solicitud de información.",
       "pragmatic_distractor": "Le explico a grandes rasgos por nota de voz de qué trata la estrategia sin mandarle el documento oficial.",
@@ -184,9 +184,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En almacén, un compañero de montacargas me pide que le libere una tarima sin hacer el check-list de seguridad 'porque le urge subirla al camión que ya se va'. Si lo obligo al check-list, su indicador de entregas caerá hoy. ¿Qué decides hacer?",
+    "scenario": "En almacén, un compañero de montacargas me pide que le libere una tarima sin hacer la lista de revisión de seguridad 'porque le urge subirla al camión que ya se va'. Si lo obligo a hacer la lista de revisión, su indicador de entregas caerá hoy. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Freno el proceso de carga y exijo que se llene primero el check-list de seguridad de esa tarima.",
+      "integrity_correct": "Freno el proceso de carga y exijo que se llene primero la lista de revisión de seguridad de esa tarima.",
       "pragmatic_distractor": "Hago una inspección rápida solo visual en 10 segundos para asegurarme de que no se caiga nada y lo dejo pasar.",
       "evasive_distractor": "Le digo que mejor busque a otro almacenista que le libere esa tarima porque yo no tengo tiempo de revisar ahora.",
       "rationalized_distractor": "Le libero la tarima de inmediato porque entiendo la presión logística que tiene la tienda para sacar esa ruta a tiempo."
@@ -216,7 +216,7 @@
     "type": "options",
     "scenario": "Durante el inventario final, notamos que falta 1 sola pieza del producto más barato de la tienda. Volver a contar toda la sección nos tomará 2 horas extra. Mi compañero sugiere anotar que sí está completo porque 'a nadie le importa algo de 10 pesos'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Registro exactamente la pieza faltante en el sistema para que se reinicie el protocolo de conteo de zona.",
+      "integrity_correct": "Registro exactamente la pieza faltante en el sistema para que se reinicie el conteo.",
       "pragmatic_distractor": "Anoto el faltante pero le propongo al equipo que solo revisemos la sección de atrás para no tardarnos las 2 horas completas.",
       "evasive_distractor": "Le digo al gerente en turno lo que pasó para que sea él quien asuma el riesgo de autorizar el cierre con descuadre.",
       "rationalized_distractor": "Anoto que está completo porque el costo de nuestras horas extra será mucho más alto para la empresa que ese producto de 10 pesos."
@@ -231,7 +231,7 @@
     "type": "options",
     "scenario": "Para ganar el bono de sucursal nos urgen 5 encuestas de servicio buenas hoy. Mi gerente propone que nosotros mismos nos auto-contestemos las encuestas usando los teléfonos de la tienda. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le recuerdo que las auto-encuestas van contra la política y continuo con mis pendientes.",
+      "integrity_correct": "Le recuerdo que las auto-encuestas van contra la política y continúo con mis pendientes.",
       "pragmatic_distractor": "Les digo que mejor salgamos todos al pasillo a rogarle a 5 clientes reales que nos ayuden a contestarlas rápido.",
       "evasive_distractor": "Le digo al gerente que no traje mi celular y me retiro a la bodega para no ser parte de la actividad.",
       "rationalized_distractor": "Ayudo a contestar un par de encuestas porque todos trabajamos muy duro este mes y nos merecemos ese bono económico."
@@ -249,7 +249,7 @@
       "integrity_correct": "Marco las dos cajas como mercancía faltante directamente en la validación del documento.",
       "pragmatic_distractor": "Firmo completo pero me quedo con la credencial oficial del chofer retenida físicamente hasta que vuelva mañana con las cajas.",
       "evasive_distractor": "Le digo al supervisor que mi pluma no sirve y que firme él directamente bajo su propio usuario del sistema.",
-      "rationalized_distractor": "Le firmo completo porque conozco al chofer de hace años, sé que es honesto y no quiero afectarle sus métricas de ruta de hoy."
+      "rationalized_distractor": "Le firmo completo porque conozco al chofer de hace años, sé que es honesto y no quiero afectarle sus números de ruta de hoy."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 02 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -274,9 +274,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Van a hacer una auditoría fuerte corporativa mañana. Mi líder de zona nos confiesa que las bitácoras del mes pasado se perdieron y nos pide llenarlas hoy mismo de memoria 'solo para salir del apuro'. ¿Qué decides hacer?",
+    "scenario": "Van a hacer una auditoría fuerte mañana. Mi líder de zona nos confiesa que las bitácoras del mes pasado se perdieron y nos pide llenarlas hoy mismo de memoria 'solo para salir del apuro'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Indico que no tengo los datos reales para firmar la reconstrucción retroactiva de esos documentos.",
+      "integrity_correct": "Indico que no tengo los datos reales para firmar la reconstrucción atrasada de esos documentos.",
       "pragmatic_distractor": "Le sugiero firmar solo formatos 'en blanco' y ponerles una nota que diga 'Reconstruido preventivamente por extravío'.",
       "evasive_distractor": "Le digo que yo no recuerdo absolutamente ninguna métrica de hace un mes y lo dejo llenar los formatos él solo.",
       "rationalized_distractor": "Lo ayudo a firmarlas hoy porque en la empresa lo fundamental es que nuestro equipo muestre una imagen sólida ante los directivos."

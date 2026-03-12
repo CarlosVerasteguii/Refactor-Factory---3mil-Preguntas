@@ -21,7 +21,7 @@
     "type": "options",
     "scenario": "Ya es tarde. Tu compañero sugiere dejar 15 paquetes juntos en la caseta del fraccionamiento sin pedir firma de cada vecino. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Exijo contactar uno por uno a los destinatarios para recabar firma en el dispositivo electrónico de recepción.",
+      "integrity_correct": "Insisto en que cada vecino firme en la terminal antes de dejarle su paquete.",
       "pragmatic_distractor": "Le tomo foto a todos los paquetes amontonados junto al guardia de la caseta para tener evidencia de entrega.",
       "evasive_distractor": "Le marco base para que me digan si hoy aplican excepciones de entrega centralizada por horario.",
       "rationalized_distractor": "Los dejamos todos ahí; el guardia del coto funciona como representante legal tácito de los inquilinos."
@@ -36,10 +36,10 @@
     "type": "options",
     "scenario": "Al cajero nuevo se le hizo bolas el cambio y el cliente le está gritando '¡Ratero!'. Si vas a ayudar, descuidas tu propia caja. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Cierro sesión en mi terminal, bloqueo mi gaveta y acudo a realizar el arqueo ciego de su caja.",
+      "integrity_correct": "Cierro mi caja, guardo mi gaveta y voy a revisar el dinero con él.",
       "pragmatic_distractor": "Saco rápido 50 pesos de mi propia caja y se los doy al cliente para que ya se vaya y no haga escándalo.",
       "evasive_distractor": "Toco el timbre de alerta tres veces para que venga la jefa de cajas a cuadrarle el corte.",
-      "rationalized_distractor": "Me sigo cobrando; en el retail todos pasamos por esa novatada y la presión forja carácter."
+      "rationalized_distractor": "Me sigo cobrando; en la tienda todos pasamos por esa novatada y la presión forja carácter."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 04 item 3",
     "sot_checksum": "ops400_m5_options_v1"
@@ -51,7 +51,7 @@
     "type": "options",
     "scenario": "Una compañera de devoluciones se está agarrando a gritos en pleno piso de ventas con una señora. Si te metes, te ganas un reporte. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Intervengo aplicando el guion de apaciguamiento estandarizado y desvío al cliente hacia la gerencia de guardia.",
+      "integrity_correct": "Me meto para calmar las cosas y llevo al cliente con el gerente de guardia.",
       "pragmatic_distractor": "Me pongo junto a mi compañera y le digo a la señora que si sigue gritando no le vamos a hacer su trámite.",
       "evasive_distractor": "Me voy caminando rapidísimo a bodega a hacer como que busco un producto para no salir en el video del pleito.",
       "rationalized_distractor": "Las dejo solas; ella originó el problema y el manual dice que cada asesor es dueño de su caso."
@@ -66,7 +66,7 @@
     "type": "options",
     "scenario": "Faltan cinco tarimas para cerrar el tráiler. Tu equipo quiere encimar de a tres cajas pesadas aunque el límite sean dos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Prohíbo la maniobra y exijo el desarmado del tercer estibado para cumplir con la norma oficial de carga.",
+      "integrity_correct": "No los dejo y exijo que bajen la tercera caja para cumplir con la regla de carga.",
       "pragmatic_distractor": "Nada más dejamos que pongan tres camas al fondo de la caja del tráiler donde la cámara del andén no alcanza a grabar.",
       "evasive_distractor": "Me volteo a llenar mi bitácora de salida para que no se vea que yo ayudé a armar esa torre.",
       "rationalized_distractor": "Encimarlas de tres es seguro mientras los bultos de abajo sean los más pesados y las llantas del camión aguanten."
@@ -81,7 +81,7 @@
     "type": "options",
     "scenario": "A tu compañero se le descompuso la terminal y quiere surtir 'de memoria' porque el de sistemas no contesta. Si le prestas la tuya, no acabas. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Comparto mi dispositivo oficial y alternamos el logueo para asegurar la trazabilidad digital de ambos surtidos.",
+      "integrity_correct": "Le presto mi terminal y nos turnamos para que quede registrado el surtido de los dos.",
       "pragmatic_distractor": "Le digo que se traiga un marcador y le raye una paloma a las cajas que ya sacó para escanearlas después.",
       "evasive_distractor": "Le digo que mejor se ponga a barrer el pasillo en lo que el de sistemas baja a cambiarle la máquina.",
       "rationalized_distractor": "Que surta de memoria, al fin que lleva años en este pasillo y ya se sabe el acomodo con los ojos cerrados."
@@ -96,7 +96,7 @@
     "type": "options",
     "scenario": "Es temporada alta. Tu compañero te pide que cobres en su caja durante su descanso porque ya no aguanta y no ha comido. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Tomo el relevo de su módulo bajo mi propia sesión, asumiendo la reducción de mi propio tiempo de comida.",
+      "integrity_correct": "Le cubro su caja con mi sesión, aunque se me recorte mi tiempo de comida.",
       "pragmatic_distractor": "Le digo que ponga un letrero de 'Caja Cerrada' y que si la gente se enoja, les diga que el sistema se cayó.",
       "evasive_distractor": "Le digo a la jefa de cajas que este turno está pesadísimo y que necesitamos a los flotantes ya mismo.",
       "rationalized_distractor": "Me sigo en mi caja; a todos nos pega la temporada y regalar mi descanso es fomentar que la tienda no contrate a más gente."
@@ -111,7 +111,7 @@
     "type": "options",
     "scenario": "Es inventario anual. Todos acordaron saltarse el reconteo del techo porque es muy peligroso subir de madrugada. Si te aferras, se quedan hasta el amanecer. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Exijo la utilización de la canastilla de seguridad para realizar el escrutinio físico de las posiciones superiores.",
+      "integrity_correct": "Insisto en usar la canastilla de seguridad para contar lo que está arriba.",
       "pragmatic_distractor": "Tomo los binoculares de vigilancia para contar las tarimas de hasta arriba sin tener que subirnos en la oscuridad.",
       "evasive_distractor": "Firmo bajo protesta anotando en las observaciones que la empresa no garantizó la iluminación para realizar la tarea.",
       "rationalized_distractor": "Lo dejamos en blanco para que el sistema arrastre el inventario del mes pasado; es pura mercancía de lento movimiento."
@@ -126,7 +126,7 @@
     "type": "options",
     "scenario": "El chico nuevo no puede armar la tarima de pantallas e inclina todo el peso hacia un lado. Si paras a ayudarlo, tu pedido sale tarde. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Freno mis maniobras e intervengo físicamente para reestructurar la consolidación de electrónicos bajo estándar de peso.",
+      "integrity_correct": "Paro lo que estoy haciendo y le ayudo a reacomodar las pantallas para que no se caigan.",
       "pragmatic_distractor": "Le aviento dos rollos completos de playo (plástico) para que amarre eso tan duro que ni un temblor lo tire.",
       "evasive_distractor": "Le marco por radio al supervisor de línea para que venga a capacitar al nuevo antes de que tire algo.",
       "rationalized_distractor": "Me voy por mi lado; los errores cuestan y es la única forma de que se le quite lo verde en el almacén."
@@ -141,7 +141,7 @@
     "type": "options",
     "scenario": "En clasificación hay docenas de bolsas de sustrato mal selladas derramando tierra. Tu compañero dice que las avientes así a la banda. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detengo el transportador y ejecuto el sellado de contención térmica en cada unidad antes de liberarlas.",
+      "integrity_correct": "Paro la banda y sello bien cada bolsa antes de dejarlas pasar.",
       "pragmatic_distractor": "Las pongo todas boca arriba en la banda para que la tierra no se les salga con el movimiento.",
       "evasive_distractor": "Voy a mantenimiento por una escoba grande para tenerla lista cuando todo eso ensucie nuestra área al final.",
       "rationalized_distractor": "Las aviento rápido; es tierra para plantas, si se tira poquita dentro del camión hasta les sirve de abono a los de patio."
@@ -154,9 +154,9 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "Un chavo de picking regó cajas sueltas en el pasillo porque se equivocó de pasillo. Si te quedas a ayudarle, no acabas tu pedido. ¿Qué haces?",
+    "scenario": "Un chavo de surtido regó cajas sueltas en el pasillo porque se equivocó de pasillo. Si te quedas a ayudarle, no acabas tu pedido. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detengo la recolección de mi pedido mercantil para ayudarle a reacomodar sus productos a la ubicación correcta en sistema.",
+      "integrity_correct": "Paro de surtir mi pedido para ayudarle a acomodar sus productos donde deben ir.",
       "pragmatic_distractor": "Le echo sus cajas al fondo del hueco de atrás de la estantería para que el montacargas las encuentre mañana.",
       "evasive_distractor": "Le hablo al chavo de Control de Calidad para que él baje con un carrito a levantar la merma.",
       "rationalized_distractor": "Rodeo el pasillo; los errores de recolección se le rebajan a él de su bono y así aprende a leer bien."
@@ -171,7 +171,7 @@
     "type": "options",
     "scenario": "Faltan cinco minutos para cerrar el andén. Tu compañero propone cargar dos tarimas que visiblemente traen humedad. Si las revisas, se demoran muchísimo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Rechazo físicamente la carga y la aparto para ejecutar el protocolo completo de inspección de daño a la propiedad.",
+      "integrity_correct": "No las subo y las aparto para revisarlas bien antes de meterlas.",
       "pragmatic_distractor": "Nos apuramos a meterlas hasta el fondo del camión con la otra mercancía enfrente para que en el recibo no las vean.",
       "evasive_distractor": "Le hablo al guardia de prevención y pérdidas para que sea él quien pelee y frene al chofer del camión.",
       "rationalized_distractor": "Se van así, casi siempre es agua de condensación de lluvia que se seca solita con el aire del viaje."
@@ -186,7 +186,7 @@
     "type": "options",
     "scenario": "Tu compañero es el último cajero abierto y la fila da la vuelta al pasillo. Si abres tu caja para ayudarlo, pierdes tu hora de salida. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Suspendo mi conteo de cierre de valores y aperturo mi módulo para desahogar la afluencia de clientes.",
+      "integrity_correct": "Dejo de contar, abro mi caja y empiezo a cobrar para bajar la fila.",
       "pragmatic_distractor": "Abro rápido mi caja pero nomás en 'Solo Tarjeta' para cobrar pura venta rápida y no deshacer mi acomodo de billetes.",
       "evasive_distractor": "Toco el timbre tres veces seguidas para que la asistente administrativa del subgerente se vea obligada a salir a cobrar.",
       "rationalized_distractor": "Me apresuro a apagar mi luz; si le abro la caja, toda su fila se me va a venir encima y nunca saldré."
@@ -201,7 +201,7 @@
     "type": "options",
     "scenario": "Tu compañero de reparto se quedó sin gasolina a medio camino. Si vas a llevarle un bidón, tú perderás tus métricas de entrega perfecta. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Desvío mi unidad operativa temporalmente para suministrarle combustible, asumiendo el retraso automático en mis marcadores de entrega a tiempo.",
+      "integrity_correct": "Me desvío para llevarle gasolina, aunque me baje la métrica de entregas a tiempo.",
       "pragmatic_distractor": "Le compro el bidón en la gasolinera pero se lo mando en un Uber moto pagándolo a medias para no salirme de mi ruta.",
       "evasive_distractor": "Le marco al jefe de monitoreo de flotilla para que manden al mecánico del taller a llevársela ellos mismos.",
       "rationalized_distractor": "Sigo mi ruta; el reglamento dice que la carga de diésel es obligación de cada chofer al salir y me multarían a mí por desvío."
@@ -216,7 +216,7 @@
     "type": "options",
     "scenario": "La practicante nueva en Atención al Cliente se trabó con el sistema frente a un usuario súper grosero. Si la ayudas, pausas a tus propios clientes. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Interrumpo momentáneamente mis métricas de atención técnica para dictarle el paso a paso del protocolo de sistema a la practicante.",
+      "integrity_correct": "Dejo mis clientes un momento para explicarle paso a paso los pasos del sistema a la practicante.",
       "pragmatic_distractor": "Me meto a su computadora por arriba de su hombro, presiono el atajo 'F5' que salta el aviso y le saco el ticket rápido.",
       "evasive_distractor": "Le hago señas desde mi escritorio al subgerente para que baje volando a desbloquearle la máquina a la de nuevo ingreso.",
       "rationalized_distractor": "Me concentro en la pantalla; si yo le resuelvo todo, los clientes van a preferir hacer siempre la fila conmigo que con las nuevas."
@@ -231,7 +231,7 @@
     "type": "options",
     "scenario": "Todos en inventario están de acuerdo en saltarse el conteo de la jaula de mermas para ya irse a dormir. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Me niego a firmar el cierre de turno y procedo a aperturar la jaula para el conteo unitario de los rescoldos.",
+      "integrity_correct": "No firmo el cierre y abro la jaula para contar todo lo que hay adentro.",
       "pragmatic_distractor": "Sumamos el valor total que dice el sistema que hay ahí adentro y lo dividimos a ojo entre las cajas que se ven.",
       "evasive_distractor": "Les digo que yo no vi nada y me voy rápido a entregar mi chaleco para que el problema sea de ellos.",
       "rationalized_distractor": "Cerramos el acta; esa jaula es pura merma que de todas formas se va a destruir, no vale la pena contar basura."
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "Tu compañero de empaque se está durmiendo de pie por fiebre pero no se quiere ir para no perder el bono. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Freno mi producción, reporto su estado de deterioro y asumo parte de su línea hasta que lo releven.",
+      "integrity_correct": "Paro de empacar, aviso que está mal y le echo la mano con su línea hasta que lo releven.",
       "pragmatic_distractor": "Le traigo una coca bien fría y unas pastillas de mi casillero para que levante y aguante hasta la salida.",
       "evasive_distractor": "Le digo al analista de calidad que venga a revisar el empaque de mi compañero porque está aventando todo al revés.",
       "rationalized_distractor": "Lo dejo estar; a mí no me pagan por ser enfermero y si lo mando a su casa hoy no come mañana."
@@ -261,7 +261,7 @@
     "type": "options",
     "scenario": "El equipo de devoluciones quiere sellar las licuadoras devueltas sin abrirlas para checar accesorios, porque 'traen el fleje de fábrica'. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Detengo el flujo, corto los flejes originarios y exijo la validación visual de los componentes internos de cada caja.",
+      "integrity_correct": "Paro todo, abro las cajas y reviso que estén completas por dentro.",
       "pragmatic_distractor": "Las sacudo pegando la oreja a la caja a ver si suena algo suelto como cristal roto y si no suenan las paso.",
       "evasive_distractor": "Pido cambio de área argumentando que soy alérgico al polvo de las licuadoras viejas para no firmar eso.",
       "rationalized_distractor": "Las sellamos así; si el cliente anterior dice que no la abrió y trae el fleje, a nosotros nos ampara la garantía del proveedor."
@@ -276,7 +276,7 @@
     "type": "options",
     "scenario": "Un maniobrista nuevo está jalando las tarimas con un diablito de manera peligrosísima para él y los demás, pero a ti te urge cargar. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Interrumpo mis maniobras de estibado para retirarlo temporalmente de la zona y corregir su técnica ergonómica.",
+      "integrity_correct": "Paro lo que estoy cargando para sacarlo de ahí y enseñarle cómo jalar bien el diablito.",
       "pragmatic_distractor": "Me le acerco trotando, le acomodo la carga de un empujón rápido y le digo '¡aguas!' antes de seguir corriendo a lo mío.",
       "evasive_distractor": "Le grito al guardia de la pluma que no deje entrar al de recursos humanos para que no vea al nuevo regándola.",
       "rationalized_distractor": "Me alejo de ahí; si me meto a enseñarle a cargar se va a ofender porque los albañiles son muy orgullosos."
@@ -291,7 +291,7 @@
     "type": "options",
     "scenario": "Se apagó la terminal de cobro. Tu compañero sugiere irle cobrando en efectivo a los clientes y apuntar la cuenta en un papelito. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Bloqueo inmediatamente las islas, levanto un cerco humano e informo a los clientes sobre la suspensión total temporal del servicio.",
+      "integrity_correct": "Cierro las cajas, pongo una barrera y les aviso a los clientes que no podemos cobrar hasta que vuelva el sistema.",
       "pragmatic_distractor": "Hacemos cuentas rapidísimo con la calculadora del celular, cobramos exacto sin dar cambio y vaciamos la fila en cinco minutos.",
       "evasive_distractor": "Le digo al guardia de la entrada que baje la cortina de metal a la mitad para decir que ya estamos cerrados.",
       "rationalized_distractor": "Cobramos en papel; en un comercio minorista el cliente manda y hacerlos esperar por un sistema caprichoso rompe la fidelidad."

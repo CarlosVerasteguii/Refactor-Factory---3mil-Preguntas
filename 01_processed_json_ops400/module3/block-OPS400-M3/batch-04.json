@@ -6,7 +6,7 @@
     "type": "options",
     "scenario": "Un cliente muy agresivo quiere devolver un artículo usado violando la política. El gerente de la sucursal, para evitarse el conflicto frontal, me dice en voz baja: 'Acéptale el producto para que se calle, pero documéntalo en el sistema bajo tu clave como si fuera excepción tuya'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le indico al gerente que para procesar la excepción en contra de la política necesito que ingrese su clave de autorización directamente en mi terminal.",
+      "integrity_correct": "Le digo al gerente que para procesar la excepción en contra de la política necesito que ingrese su clave de autorización directamente en mi terminal.",
       "pragmatic_distractor": "Proceso la excepción con mi clave, pero anoto en los comentarios internos del ticket en mayúsculas 'Por instrucción directa de gerencia'.",
       "evasive_distractor": "Le digo al cliente que para devoluciones especiales me acompañe a la caja principal para que lo atienda el gerente en persona.",
       "rationalized_distractor": "La proceso bajo mi clave inmediatamente, entendiendo que el trabajo en equipo implica absorber la presión operativa cuando tu líder lo solicita."
@@ -21,7 +21,7 @@
     "type": "options",
     "scenario": "Faltan 10 minutos para el cierre y a mi compañero de caja se le trabó la terminal. Me pide que le cobre a sus últimos 5 clientes en mi caja usando su fondo de efectivo mezclado con el mío para que ambos podamos irnos a tiempo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me niego a mezclar los fondos de caja y le indico que reporte la falla técnica para reubicar a sus clientes de forma ordenada.",
+      "integrity_correct": "Me niego a mezclar los fondos de caja y le digo que reporte la falla técnica para reubicar a sus clientes de forma ordenada.",
       "pragmatic_distractor": "Le cobro a sus clientes en mi terminal pero exijo que los pagos se hagan exclusivamente con tarjeta para no mezclar dinero físico.",
       "evasive_distractor": "Finjo que mi terminal también se está reiniciando y le digo a los clientes que pasen a la caja del supervisor en turno.",
       "rationalized_distractor": "Mezclo el efectivo y lo ayudo a cobrar, porque la solidaridad en el cierre de turno es lo único que mantiene unido al equipo."
@@ -36,7 +36,7 @@
     "type": "options",
     "scenario": "Es el cumpleaños de mi compañero de piso y su familia le trajo un pastel de sorpresa. Él me pide que me quede yo solo cubriendo todo el frente de cajas mientras él se va a la zona restringida de comedor a festejar 30 minutos sin avisarle al gerente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le indico que no puedo cubrir la zona completa sin la autorización explícita de la gerencia para que se ausente del piso.",
+      "integrity_correct": "Le digo que no puedo cubrir la zona completa sin la autorización explícita de la gerencia para que se ausente del piso.",
       "pragmatic_distractor": "Le digo que vaya rápido pero que se lleve su radio encendido por si la fila crece y necesito que regrese corriendo.",
       "evasive_distractor": "Le sugiero que mejor le pregunte al supervisor si lo deja ir, para yo no tener que decidir cancelar su mini festejo.",
       "rationalized_distractor": "Lo cubro con gusto el tiempo que sea necesario, porque esos pequeños momentos de celebración fortalecen el compañerismo real."
@@ -64,9 +64,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un compañero nuevo está muy presionado porque no alcanza sus métricas semanales. Me pide que le pase un par de mis ventas importantes de hoy a su código corporativo para que no lo condicionen en la junta de resultados. ¿Qué decides hacer?",
+    "scenario": "Un compañero nuevo está muy presionado porque no alcanza sus números semanales. Me pide que le pase un par de mis ventas importantes de hoy a su código de empleado para que no lo condicionen en la junta de resultados. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Mantengo mis ventas registradas bajo mi código corporativo y declino su solicitud de transferencia de resultados.",
+      "integrity_correct": "Mantengo mis ventas registradas bajo mi código de empleado y le digo que no.",
       "pragmatic_distractor": "Le paso una sola venta mediana para que no se vaya en ceros, pero le advierto enfáticamente que es la primera y última vez.",
       "evasive_distractor": "Le digo que el sistema del punto de venta está bloqueado desde sistemas y ya no permite cambiar códigos de comisionista.",
       "rationalized_distractor": "Le transfiero mis ventas necesarias, ya que el liderazgo real de equipo se demuestra cediendo el éxito a los que van empezando."
@@ -81,7 +81,7 @@
     "type": "options",
     "scenario": "Mi compañero y yo llevamos la camioneta de reparto vacía al final del turno. Él me pide que nos desviemos 15 kilómetros de la ruta oficial para dejar un mueble en casa de su mamá aprovechando el vehículo de la empresa. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me niego rotundamente a usar los vehículos corporativos para mudanzas o traslados personales no autorizados.",
+      "integrity_correct": "Me niego rotundamente a usar los vehículos de la empresa para mudanzas o traslados personales no autorizados.",
       "pragmatic_distractor": "Le digo que lo ayudemos pero que él maneje en ese tramo para que, si hay un percance de seguro, él sea el responsable.",
       "evasive_distractor": "Me bajo en la esquina de mi casa antes del desvío para no estar presente físicamente durante el uso indebido.",
       "rationalized_distractor": "Accedo a hacer el desvío rápido porque la camioneta ya va vacía y usarla no le genera un gasto extra real a la compañía."
@@ -96,10 +96,10 @@
     "type": "options",
     "scenario": "Un cliente considerado 'VIP' en sucursal me exige en tono amenazante que le dé el celular personal de mi compañera de ventas que lo atendió ayer, alegando que ella le prometió llamarle hoy y no lo hizo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me niego a proporcionar datos personales de cualquier colaborador y le ofrezco tomarle el recado institucionalmente.",
+      "integrity_correct": "Me niego a proporcionar datos personales de cualquier colaborador y le ofrezco tomarle el recado de forma oficial.",
       "pragmatic_distractor": "Le digo que el protocolo no me permite dárselo a él, pero que yo le marco a ella en este instante desde mi teléfono privado.",
       "evasive_distractor": "Le digo que lamentablemente mi compañera es nueva y todavía no nos han compartido su número en el directorio.",
-      "rationalized_distractor": "Le doy el celular de ella con la condición de exclusividad, ya que el servicio a clientes de alto valor requiere saltarse las métricas cuadradas."
+      "rationalized_distractor": "Le doy el celular de ella con la condición de exclusividad, ya que el servicio a clientes de alto valor requiere saltarse las reglas."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -126,7 +126,7 @@
     "type": "options",
     "scenario": "La empresa nos dio vales de cafetería interna intransferibles como recompensa de productividad. Mi equipo me propone que los juntemos todos y se los vendamos a mitad de precio a los de mantenimiento que no recibieron el bono, para sacar 'efectivo real'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazo participar en la reventa de prestaciones internas y conservo mi vale corporativo para uso estrictamente personal.",
+      "integrity_correct": "Rechazo participar en la reventa de prestaciones internas y conservo mi vale de despensa para uso estrictamente personal.",
       "pragmatic_distractor": "Les digo que yo me gasto el mío pero si quieren yo les ayudo a promocionar los de ellos con los supervisores de limpieza.",
       "evasive_distractor": "Les comento que desafortunadamente ya me gasté todo mi saldo de vales en mi desayuno de esta misma mañana.",
       "rationalized_distractor": "Junto mis vales con el equipo para venderlos argumentando que el beneficio económico final nos pertenece y debemos maximizarlo juntos."
@@ -141,7 +141,7 @@
     "type": "options",
     "scenario": "El sistema de turnos de servicio al cliente tiene una fila de espera de una hora. Mi compañera de mostrador identifica a una amiga suya al final de la fila y me pide que presione en mi terminal el botón de 'Llamar cliente prioritario' para saltarla hasta el frente. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Declino el uso del botón de prioridad para un caso personal y le pido que su amiga espere su turno regular.",
+      "integrity_correct": "Me niego a usar el botón de prioridad para un caso personal y le pido que su amiga espere su turno regular.",
       "pragmatic_distractor": "Le digo que presione ella el botón en su propia terminal para que quede el folio registrado bajo su responsabilidad exclusiva.",
       "evasive_distractor": "Apago mi terminal de servicio rápidamente fingiendo que necesito ir urgentemente al baño justo en este segundo.",
       "rationalized_distractor": "Presiono el botón de prioridad porque el sentido común dicta que las amistades directas del equipo merecen un trato diferencial en casa."
@@ -171,10 +171,10 @@
     "type": "options",
     "scenario": "Durante la fase más crítica de la venta dominical, mi terminal se queda sin batería. Un cliente muy molesto tiene prisa por pagar e irse. Mi compañero me arroja su terminal portátil lista con su sesión abierta para que yo le cobre a mi cliente ahí mismo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Cierro la sesión en la terminal de mi compañero y vuelvo a loguearme con mis propias credenciales antes de cobrar.",
+      "integrity_correct": "Cierro la sesión en la terminal de mi compañero y vuelvo a entrar con mi usuario y contraseña antes de cobrar.",
       "pragmatic_distractor": "Proceso el cobro, pero le pido al cliente que firme doble el comprobante impreso para yo escribir una nota aclaratoria.",
       "evasive_distractor": "Le devuelvo la terminal a mi compañero y le pido que sea él mismo quien ejecute toda la transacción de mi cliente.",
-      "rationalized_distractor": "Uso su sesión abierta para cobrar lo antes posible, pues la prioridad transversal de la tienda es desahogar la molestia del cliente."
+      "rationalized_distractor": "Uso su sesión abierta para cobrar lo antes posible, pues lo importante es desahogar la molestia del cliente."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 04 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -184,9 +184,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un proveedor local trajo 50 paquetes idénticos y el proceso nos exige escanear cara uno por separado. Él lleva prisa y sugiere: 'Escanea solo el código de barra de uno y mete manual en tu sistema que son 50 piezas, es lo mismo y nos ahorra media hora'. Ya antes nos ha entregado perfecto. ¿Qué decides hacer?",
+    "scenario": "Un proveedor local trajo 50 paquetes idénticos y el proceso nos exige escanear cada uno por separado. Él lleva prisa y sugiere: 'Escanea solo el código de barra de uno y mete manual en tu sistema que son 50 piezas, es lo mismo y nos ahorra media hora'. Ya antes nos ha entregado perfecto. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Rechazo la sugerencia y procedo a escanear de manera unitaria y física cada uno de los 50 paquetes entregados.",
+      "integrity_correct": "Rechazo la sugerencia y escaneo de manera unitaria y física cada uno de los 50 paquetes entregados.",
       "pragmatic_distractor": "Tomo una muestra representativa, escaneo 15 paquetes salteados al azar y si todos coinciden, ingreso el resto manualmente.",
       "evasive_distractor": "Le pido a un empleado auxiliar más nuevo que se encargue él solito de esta recepción en lo que yo voy por tarimas vacías.",
       "rationalized_distractor": "Hago la recepción manual de las 50 unidades, porque agilizar la operatividad de nuestros proveedores de confianza los fideliza con nosotros."
@@ -201,8 +201,8 @@
     "type": "options",
     "scenario": "La esposa de mi compañero de piso, con la que él ha estado teniendo conflictos personales muy fuertes, llega al mostrador llorando. Me suplica que, como un favor humano, le diga si él ya checó su salida desde hace dos horas o si sigue escondido laborando en el almacén. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le informo amablemente que, por procedimientos corporativos, no estoy autorizado para corroborar estatus de asistencia de ningún empleado.",
-      "pragmatic_distractor": "Le pido que siéntese a esperar y me dirijo rápidamente al almacén para avisarle a mi compañero que salga a dar la cara.",
+      "integrity_correct": "Le informo amablemente que, por reglas de la empresa, no estoy autorizado para corroborar estatus de asistencia de ningún empleado.",
+      "pragmatic_distractor": "Le pido que se siente a esperar y me dirijo rápidamente al almacén para avisarle a mi compañero que salga a dar la cara.",
       "evasive_distractor": "Solicito por radio al supervisor en turno que por favor se presente en el mostrador para manejar directamente a la señora.",
       "rationalized_distractor": "Le rompo la regla y le digo la verdad sobre el estatus de su esposo, sabiendo que en crisis familiares la empatía va primero."
     },
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "Un cliente está furioso porque una promoción '3x2' venció ayer, pero el equipo de marketing olvidó quitar el letrero gigante en tienda. El director no contesta el teléfono. Mi cajera principal me ordena: 'Hazle el descuento manual para respetar el letrero y que deje de gritarnos'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Me niego a aplicar un descuento manual vencido y le indico al cliente las políticas comerciales vigentes en sistema.",
+      "integrity_correct": "Me niego a aplicar un descuento manual vencido y le digo al cliente las políticas comerciales vigentes en sistema.",
       "pragmatic_distractor": "Le aplico el descuento manual por esta única ocasión, pero voy corriendo a arrancar el cartel de promoción inmediatamente después.",
       "evasive_distractor": "Le digo al cliente que mi caja se bloqueó temporalmente y le pido a la cajera principal que lo atienda ella en su terminal.",
       "rationalized_distractor": "Aplico la modificación manual en el precio porque el cliente jamás debe pagar económicamente por la incompetencia de nuestro equipo de marketing."
@@ -259,10 +259,10 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente corporativo clave, a quien conozco perfectamente desde hace años, viene a recoger mensajería confidencial de su compañía pero olvidó su gafete oficial en la oficina. Me suplica que le entregue los sobres porque su director lo despedirá si no llega con ellos a su junta en 10 minutos. ¿Qué decides hacer?",
+    "scenario": "Un cliente clave, a quien conozco perfectamente desde hace años, viene a recoger mensajería confidencial de su compañía pero olvidó su gafete oficial en la oficina. Me suplica que le entregue los sobres porque su director lo despedirá si no llega con ellos a su junta en 10 minutos. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Le niego la entrega de la mensajería confidencial indicando que el protocolo exige la identificación oficial física sin excepciones.",
-      "pragmatic_distractor": "Le pido que abra su correo corporativo institucional frente a mí en su celular y lo uso como identificación alternativa para entregarle.",
+      "pragmatic_distractor": "Le pido que abra su correo de la empresa frente a mí en su celular y lo uso como identificación alternativa para entregarle.",
       "evasive_distractor": "Le digo que justo hace 5 minutos pasó la valija de recolección y se llevaron todo a la bóveda central temporalmente.",
       "rationalized_distractor": "Le entrego el sobre porque lo reconozco a la perfección y salvar el empleo de un buen cliente vale más que una regla cuadrada."
     },
@@ -276,7 +276,7 @@
     "type": "options",
     "scenario": "Llega el camión con el suministro de hielo para el fin de semana, pero el enfriador falló y los empaques están sudando, aunque el hielo no se ha derretido por completo. El control de calidad marca rechazo. Mi gerente me llama al celular: 'Recíbelo completo o no tendremos ventas este sábado, fírmalo como bueno'. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Ejecuto el protocolo de calidad marcando el rechazo total del cargamento por ruptura de las políticas de temperatura.",
+      "integrity_correct": "Hago el protocolo de calidad marcando el rechazo total del cargamento por ruptura de las políticas de temperatura.",
       "pragmatic_distractor": "Reviso físicamente el camión y acepto únicamente las tarimas que venían más al centro y se mantuvieron más frías.",
       "evasive_distractor": "Le pido al conductor que dé una vuelta a la manzana para ganar tiempo y le digo a mi gerente que el camión nunca llegó.",
       "rationalized_distractor": "Firmo de recibido como exige el gerente, bajo la lógica de que un inventario subóptimo en fin de semana es mejor que tener los estantes vacíos."
@@ -291,8 +291,8 @@
     "type": "options",
     "scenario": "Un proveedor indispensable de materiales me llama desesperado porque el portal externo de pagos se cayó y le urge meter su factura hoy. Me suplica que le regale la extensión interna directa de soporte TI, la cual está estrictamente prohibida para uso externo, o nos cortará el suministro el lunes. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le niego categóricamente la extensión interna y le indico que debe monitorear los canales oficiales externos.",
-      "pragmatic_distractor": "No le doy el número directo, pero entro yo a mi intranet corporativa y le levanto un ticket de TI con prioridad extrema a su nombre.",
+      "integrity_correct": "Le niego categóricamente la extensión interna y le digo que debe monitorear los canales oficiales externos.",
+      "pragmatic_distractor": "No le doy el número directo, pero entro yo a mi sistema interno y le levanto un ticket de TI con prioridad extrema a su nombre.",
       "evasive_distractor": "Finjo que se corta la llamada de repente y le mando un correo automático con la liga pública de preguntas frecuentes.",
       "rationalized_distractor": "Le paso el número rápido en secreto, porque si nos corta el material la próxima semana perderemos líneas de producción completas."
     },

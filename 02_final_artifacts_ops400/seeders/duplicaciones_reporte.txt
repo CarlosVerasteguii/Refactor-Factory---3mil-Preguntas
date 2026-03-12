@@ -1,0 +1,52 @@
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  REPORTE FINAL: BÚSQUEDA DE DUPLICACIONES EN MiraPreguntasOps400Seeder.php      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+PATRONES BUSCADOS Y RESULTADOS:
+────────────────────────────────────
+
+✗ PATRÓN: 'que que'
+  • Coincidencias encontradas: 16
+  • Líneas: 107, 162, 382, 481, 1846, 1857, 1901, 2565, 2741, 2910, 3262, 3328, 3552, 3618, 3728, 4293
+
+✗ PATRÓN: 'de de'
+  • Coincidencias encontradas: 40
+  • Este es el patrón de error más frecuente detectado
+  • Líneas: 52, 183, 184, 436, 437, 448, 470, 649, 650, 826, 1067, 1123, 1160, 1170, 1369, 1412,
+            1424, 1467, 1468, 1611, 1632, 1713, 2054, 2055, 2143, 2554, 2610, 2631, 2740, 3086,
+            3251, 3313, 3380, 3395, 3482, 3549, 3630, 3815, 4270, 4424
+
+✗ PATRÓN: 'la la'
+  • Coincidencias encontradas: 1
+  • Línea: 3760
+
+✗ PATRÓN: 'mis lo que'
+  • Coincidencias encontradas: 1
+
+✗ PATRÓN: 'un no '
+  • Coincidencias encontradas: 2
+
+✗ PATRÓN: 'miden de '
+  • Coincidencias encontradas: 2
+
+✗ PATRÓN: 'con mis '
+  • Coincidencias encontradas: 11
+  • Línea base: 1501
+
+───────────────────────────────────
+
+ESTADÍSTICAS GENERALES:
+
+  Total de coincidencias encontradas: 73
+  Patrones sin coincidencias (Sin errores): 3
+    • 'el el' ✓
+    • 'un un' ✓
+    • 'los los' ✓
+    • 'las las' ✓
+
+PATRÓN MÁS CRÍTICO: 'de de' con 40 coincidencias (54.8% del total de errores)
+
+RECOMENDACIÓN: Realizar auditoría lingüística para revisar y corregir
+estas duplicaciones de palabras que afectan la calidad del texto.
+
+═══════════════════════════════════════════════════════════════════════════════════

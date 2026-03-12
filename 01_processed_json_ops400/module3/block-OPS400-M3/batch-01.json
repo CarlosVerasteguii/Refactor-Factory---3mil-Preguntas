@@ -8,7 +8,7 @@
     "options_structured": {
       "integrity_correct": "Le pido que espere unos minutos mientras verifico el cobro en el sistema.",
       "pragmatic_distractor": "Le tomo sus datos y le digo que hoy le llamamos con la solución para no detener la fila.",
-      "evasive_distractor": "Le pido que traiga su estado de cuenta para procesar la devolución con evidencia.",
+      "evasive_distractor": "Le pido que traiga su estado de cuenta para hacer la devolución con evidencia.",
       "rationalized_distractor": "Le devuelvo el monto y si no fue doble cobro se ajusta en su próxima visita."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 1",
@@ -66,8 +66,8 @@
     "type": "options",
     "scenario": "Un compañero entregó un pedido a la persona equivocada. Me pide que no lo reporte y que entre los dos lo arreglemos. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Lo reporto y dejo que el proceso formal de recuperación lo resuelva.",
-      "pragmatic_distractor": "Lo ayudo a recuperar el producto y actualizo el registro para que quede correcto.",
+      "integrity_correct": "Lo reporto y dejo que se siga el procedimiento para resolverlo.",
+      "pragmatic_distractor": "Lo ayudo a recuperar el producto y lo anoto para que quede correcto.",
       "evasive_distractor": "Le digo que lo reporte él mismo porque fue su error, no el mío.",
       "rationalized_distractor": "Le ayudo a reponer con producto de reserva y ya no hace falta reportarlo."
     },
@@ -141,7 +141,7 @@
     "type": "options",
     "scenario": "En inventario faltan piezas y el encargado me dice que ajuste el sistema para que cuadre, que luego 'aparecen'. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto el faltante real en el sistema de inventario para que quede registrado el descuadre.",
+      "integrity_correct": "Reporto el faltante real en el sistema para que quede registrado el descuadre.",
       "pragmatic_distractor": "Hago un conteo rápido cruzado para ver si es error de captura antes de reportar.",
       "evasive_distractor": "Me hago a un lado y dejo que el encargado cierre como él quiera, es su responsabilidad.",
       "rationalized_distractor": "Ajusto el sistema porque son pocas piezas y siempre aparecen al día siguiente."
@@ -156,7 +156,7 @@
     "type": "options",
     "scenario": "Veo a un cliente guardar un producto sin pagar. Va con un niño y se ve nervioso. Mi compañero me dice que lo deje ir. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Me acerco cortesmente y le indico que pase a la caja a pagar el producto.",
+      "integrity_correct": "Me acerco cortesmente y le digo que pase a la caja a pagar el producto.",
       "pragmatic_distractor": "Me acerco y le ofrezco ayuda como si fuera servicio al cliente para que sepa que lo vi.",
       "evasive_distractor": "Aviso a seguridad por radio y dejo que ellos se encarguen.",
       "rationalized_distractor": "Lo dejo ir porque es un alimento y va con un niño; no vale la pena el escándalo."
@@ -188,7 +188,7 @@
     "options_structured": {
       "integrity_correct": "Le explico que por política no aplica devolución porque el producto ya fue usado.",
       "pragmatic_distractor": "Consulto con el supervisor si puede haber un cambio parcial o crédito en tienda.",
-      "evasive_distractor": "Le digo que el sistema no me deja procesar la devolución y que hable con el gerente.",
+      "evasive_distractor": "Le digo que el sistema no me deja hacer la devolución y que hable con el gerente.",
       "rationalized_distractor": "Se lo acepto porque retener al cliente es más importante que una devolución pequeña."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 01 item 13",
@@ -201,7 +201,7 @@
     "type": "options",
     "scenario": "Un paquete se dañó en ruta por cómo lo acomodé. El cliente me pide que lo marque como 'daño en origen' para que le cambien rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto y documento gráficamente que el daño ocurrió durante el trayecto de la ruta.",
+      "integrity_correct": "Aviso y tomo fotos de que el daño ocurrió durante el trayecto de la ruta.",
       "pragmatic_distractor": "Tomo fotos del estado actual y abro el reclamo sin alterar la causa, para que resuelvan rápido.",
       "evasive_distractor": "Le digo al cliente que lo reporte él directo al servicio al cliente con las fotos.",
       "rationalized_distractor": "Lo marco como daño en origen porque al final el cliente va a recibir su cambio igual."
@@ -231,7 +231,7 @@
     "type": "options",
     "scenario": "El termómetro del área fría marca fuera de rango por ratos. El encargado me pide anotar valores normales para no perder un lote. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Anoto el valor real que marca el termómetro en la bitácora de control de temperatura.",
+      "integrity_correct": "Anoto el valor real que marca el termómetro en la bitácora de temperatura.",
       "pragmatic_distractor": "Reviso si el sensor está bien calibrado y ajusto la ventilación antes de tomar la lectura.",
       "evasive_distractor": "No anoto nada esta hora y espero a que se estabilice para la siguiente medición.",
       "rationalized_distractor": "Anoto el valor normal porque el producto aguanta y no vale la pena perder un lote entero."
@@ -246,7 +246,7 @@
     "type": "options",
     "scenario": "Un cliente quiere que le confirme un servicio para hoy, pero aún no está disponible. Mi compañero me dice que le prometa para no perder la venta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le informo objetivamente los tiempos reales que requiere el sistema para la confirmación.",
+      "integrity_correct": "Le explico los tiempos reales que requiere el sistema para la confirmación.",
       "pragmatic_distractor": "Le ofrezco una reserva condicionada a confirmación para que no se comprometa sin garantía.",
       "evasive_distractor": "Le tomo sus datos y le digo que le confirmo por teléfono más tarde.",
       "rationalized_distractor": "Le confirmo porque seguro se va a liberar y si no, ya lo resolvemos después."
@@ -261,7 +261,7 @@
     "type": "options",
     "scenario": "Un cliente tira un producto y se rompe. Dice que ya estaba así y quiere cambio gratis. Mi compañero me dice que lo resuelva rápido. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le explico formalmente que el daño ocurrió dentro de la tienda y no procede un cambio gratis.",
+      "integrity_correct": "Le explico que el daño ocurrió dentro de la tienda y no procede un cambio gratis.",
       "pragmatic_distractor": "Le ofrezco un descuento por daño accidental para que pague menos sin perder la venta.",
       "evasive_distractor": "Llamo al gerente para que él decida si se cambia o no.",
       "rationalized_distractor": "Se lo cambio como merma porque sale más caro el escándalo que el producto."
@@ -276,7 +276,7 @@
     "type": "options",
     "scenario": "Me asignan una entrega en una zona donde hoy hubo reportes de inseguridad. No hay acompañamiento y el coordinador no contesta. El cliente insiste en recibir hoy. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Suspendo la entrega inmediata y paso el reporte de seguridad por zona de riesgo.",
+      "integrity_correct": "Suspendo la entrega inmediata y paso el aviso de zona peligrosa.",
       "pragmatic_distractor": "Le propongo al cliente un punto de entrega seguro cerca de la zona para no cancelar.",
       "evasive_distractor": "Marco la zona como inaccesible en el sistema y que despacho decida qué hacer.",
       "rationalized_distractor": "Voy rápido porque conozco la zona y no quiero regresar con paquetes pendientes."
@@ -291,7 +291,7 @@
     "type": "options",
     "scenario": "Un cliente quiere que le venda un producto restringido sin cumplir el requisito. Me ofrece propina y hay fila. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le indico firmemente que sin el requisito indispensable no puedo procesar la venta.",
+      "integrity_correct": "Le digo que sin el requisito indispensable no puedo procesar la venta.",
       "pragmatic_distractor": "Le ofrezco productos similares que no tienen restricción para que no se vaya sin nada.",
       "evasive_distractor": "Le digo que el sistema no me deja pasar ese código y que pregunte en otra sucursal.",
       "rationalized_distractor": "Se lo vendo porque el riesgo es mínimo y la fila no puede esperar más."
