@@ -24,7 +24,7 @@
       "integrity_correct": "Mido cada pieza nueva antes de usarla y ajusto mis cálculos sobre la marcha.",
       "pragmatic_distractor": "Hago una tabla rápida con las diferencias para no tener que andar midiendo cada vez.",
       "evasive_distractor": "Le pregunto al supervisor si ya hay una guía actualizada con las medidas del proveedor nuevo.",
-      "rationalized_distractor": "Uso las piezas como si fueran del tamaño anterior porque la diferencia es mínima."
+      "rationalized_distractor": "Arranco con las piezas nuevas usando mis cálculos de referencia y voy corrigiendo si algo no encaja."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 2",
     "sot_checksum": "ops400_m2_options_v6"
@@ -54,7 +54,7 @@
       "integrity_correct": "Reacomodo mi semana para dejar los lunes libres de otras tareas y hacer el inventario bien.",
       "pragmatic_distractor": "Adelanto lo que puedo el viernes para que el lunes el inventario sea más ligero.",
       "evasive_distractor": "Le pregunto al coordinador si hay margen para seguir haciéndolo el viernes hasta fin de mes.",
-      "rationalized_distractor": "Lo hago el domingo en la tarde con calma y lo cargo al sistema como si fuera lunes."
+      "rationalized_distractor": "Sigo haciéndolo el viernes por ahora; si nadie dice nada en las primeras semanas, veo si vale la pena cambiar."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 4",
     "sot_checksum": "ops400_m2_options_v6"
@@ -69,7 +69,7 @@
       "integrity_correct": "Registro mi huella cada vez que llego y reporto las fallas al área de sistemas.",
       "pragmatic_distractor": "Llego cinco minutos antes para tener margen si la máquina me falla otra vez.",
       "evasive_distractor": "Le pido al encargado que él anote mi hora de llegada en lo que arreglan el checador.",
-      "rationalized_distractor": "Firmo en la bitácora de papel y dejo que sistemas se encargue cuando quiera."
+      "rationalized_distractor": "Firmo en la bitácora de papel cada que llego; así queda constancia y no dependo de que la máquina funcione."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 5",
     "sot_checksum": "ops400_m2_options_v6"
@@ -114,7 +114,7 @@
       "integrity_correct": "Hago mi checklist completa aunque los demás no la hagan.",
       "pragmatic_distractor": "Le propongo al equipo dividir los puntos de la lista para que sea más rápido y todos la completen.",
       "evasive_distractor": "Le comento al encargado lo que vi para que él decida si interviene.",
-      "rationalized_distractor": "Limpio mi zona a fondo pero no lleno la checklist porque total nadie la revisa."
+      "rationalized_distractor": "Limpio mi zona bien y lleno la checklist cuando ya tengo todo en orden; si el área quedó limpia, el orden del registro es lo de menos."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 8",
     "sot_checksum": "ops400_m2_options_v6"
@@ -128,7 +128,7 @@
     "options_structured": {
       "integrity_correct": "Voy a las 8 como dice el sistema y si no me abren lo registro como intento fallido.",
       "pragmatic_distractor": "Reacomodo la ruta para pasar por ahí a las 10 y meto las otras entregas primero.",
-      "evasive_distractor": "Llamo al cliente un día antes para confirar a qué hora puedo entregarle.",
+      "evasive_distractor": "Llamo al cliente un día antes para confirmar a qué hora puedo entregarle.",
       "rationalized_distractor": "Lo dejo para el final de la ruta; si llego después de las 10 el cliente sí me recibe y no marco intento fallido."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 9",
@@ -174,7 +174,7 @@
       "integrity_correct": "Le explico la nueva política con calma y le digo los precios que sí puedo ofrecerle hoy.",
       "pragmatic_distractor": "Le ofrezco la promoción vigente para que se lleve algo y no se vaya enojado sin comprar.",
       "evasive_distractor": "Lo paso con el gerente para que él decida si le autoriza una excepción.",
-      "rationalized_distractor": "Le respeto el precio viejo para no perder la venta; ya después regularizo el ticket."
+      "rationalized_distractor": "Le aplico el precio viejo esta vez para no perderlo; si se va a la competencia es peor para todos."
     },
     "notes": "OPS400 Modulo 2 Options OPS400-M2 batch 06 item 12",
     "sot_checksum": "ops400_m2_options_v6"
@@ -262,7 +262,7 @@
     "scenario": "Me piden revisar la temperatura del refrigerador cada hora y anotarla en una bitácora. Antes solo la checaba al abrir y al cerrar. Me parece demasiado.",
     "options_structured": {
       "integrity_correct": "Pongo una alarma cada hora y anoto la temperatura exacta en la bitácora.",
-      "pragmatic_distractor": "La reviso cada dos horas y si los números están estables anoto como si fuera cada hora.",
+      "pragmatic_distractor": "La reviso cada hora pero solo la anoto si cambia; si está igual dejo la última lectura repetida.",
       "evasive_distractor": "Le pregunto al encargado si realmente necesitan el dato cada hora o si es solo por temporada.",
       "rationalized_distractor": "Checo una vez por la mañana y otra por la tarde; si no hay variación no tiene caso repetir."
     },
