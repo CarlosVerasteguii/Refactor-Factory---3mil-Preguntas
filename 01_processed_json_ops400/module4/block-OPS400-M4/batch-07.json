@@ -8,7 +8,7 @@
     "options_structured": {
       "integrity_correct": "Le busco un candado nuevo en el almacén y lo registro en bitácora, perdiendo minutos valiosos.",
       "pragmatic_distractor": "La amarro fuerte con un alambre grueso para que no se abra brincando en el viaje y sigo apurándome.",
-      "evasive_distractor": "Le digo al guardia de la salida que anote que así venía rota esa caja desde antes.",
+      "evasive_distractor": "Le digo al supervisor que la caja no cierra y le dejo a él que decida si salgo así o espero.",
       "rationalized_distractor": "Arranco así abierto, total casi nadie se roba herramienta pesada porque no da tiempo en los semáforos."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 1",
@@ -49,12 +49,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "La barredora grande pasó dejando un charco de líquido muy muy resbaloso ahí cruzando la zona corta de surtido. Traigo ordenes exprés atrasadísimas de sacar antes de corte de camión.",
+    "scenario": "La barredora grande pasó dejando un charco muy resbaloso en la zona de surtido. Traigo órdenes exprés atrasadas que tengo que sacar antes del corte de camión.",
     "options_structured": {
-      "integrity_correct": "Amarro mis pedidos temporal y busco los conos naranjas a mano para tapar seco la mancha liza.",
-      "pragmatic_distractor": "Le doy al patín jalando dando pasos lentitos como pingüino abrazando la caja para no caer chueco.",
-      "evasive_distractor": "Ahí le chiflo recio fuerte al compa de limpieza que va doblando lejos y lo espero firme clavado.",
-      "rationalized_distractor": "Me cruzo confiado recargándome al riel de metal, pues ya todo mi equipo se la sabe que lavaron hoy."
+      "integrity_correct": "Dejo las órdenes un momento y busco los conos de señalización para marcar el charco antes de seguir.",
+      "pragmatic_distractor": "Paso por el charco muy despacio, pegado al riel, cargando la caja cerca del cuerpo para no perder el equilibrio.",
+      "evasive_distractor": "Le chiflo al compañero de limpieza que va pasando y lo espero a que seque el piso.",
+      "rationalized_distractor": "Paso normal porque todo el equipo ya sabe que lavaron hoy y nadie se ha caído en toda la mañana."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 4",
     "sot_checksum": "ops400_m4_options_v1"
@@ -64,12 +64,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "El lector de códigos láser portátil mío parpadea alerta roja crítica de carga. Apenas ando a tres filas de sellar mi tarima lista y mi base de carga está a quinientos metros.",
+    "scenario": "El lector de códigos portátil parpadea alerta roja de batería baja. Me faltan tres filas para terminar de sellar la tarima y la base de carga está a 500 metros.",
     "options_structured": {
-      "integrity_correct": "Camino hasta el módulo cargador principal perdiendo todo el vuelo jalador asumiendo mi retraso general formal.",
-      "pragmatic_distractor": "Picándole le bajo el brillo manual al display para que resbale un rato más de energía logrando palomear mi última parte.",
-      "evasive_distractor": "Suelto los empaques pidiéndole compa vecino que tire sus pistolazos rápidos al mío dictándole números claves libres.",
-      "rationalized_distractor": "La aferro dándole clics constantes pesados porque esas cosas rojas siempre traen como veinte minutos fantasma."
+      "integrity_correct": "Dejo la tarima a medias y camino a cargar el lector, aunque pierda el avance y me atrase.",
+      "pragmatic_distractor": "Le bajo el brillo a la pantalla para ahorrar batería y termino de escanear las tres filas que faltan.",
+      "evasive_distractor": "Le pido al compañero de al lado que me preste su lector un momento para palomear lo que me falta.",
+      "rationalized_distractor": "Sigo escaneando porque esas alertas rojas siempre salen antes de tiempo y el lector todavía rinde un rato más."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 5",
     "sot_checksum": "ops400_m4_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Rodando recio en la interestatal el calorón está duro, mi aguja de grados de motor trepa pasando la mitad sin piedad. Frenarme media hora me anula completamente el bono pago por puntualidad perfecta.",
+    "scenario": "Voy en la interestatal y la aguja de temperatura del motor empieza a subir. Ya pasó la mitad del marcador y sigue subiendo. Si me detengo a enfriar el motor pierdo el bono de puntualidad de este mes.",
     "options_structured": {
-      "integrity_correct": "Le busco gasolinera pronta y planto freno apagando máquina total asumiendo sacrificar mi efectivo extra final.",
-      "pragmatic_distractor": "Le machaco apagar clima personal bajando ventanillas sudando fuerte intentando bajar revoluciones sin salir de ruta.",
-      "evasive_distractor": "Meto auricular pidiendo al taller satelital que chequen mis sensores remotos pa que ellos decreten freno rudo.",
-      "rationalized_distractor": "Piso normal puro llano derecho, confiando que el calurón del mediodía solo descalibra los marcadores eléctricos viejos."
+      "integrity_correct": "Me orillo en la próxima gasolinera, apago el motor y reporto la falla antes de seguir.",
+      "pragmatic_distractor": "Apago el aire acondicionado y bajo las ventanas para quitarle carga al motor, a ver si la aguja baja sola.",
+      "evasive_distractor": "Marco al taller de la empresa para que ellos me digan si puedo seguir o tengo que detenerme.",
+      "rationalized_distractor": "Sigo a mi velocidad normal porque en los viajes largos el marcador siempre sube un rato y luego baja solo."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 6",
     "sot_checksum": "ops400_m4_options_v1"
@@ -94,12 +94,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Llegando a una calle de brecha lodo muy inclinado resbaloso pesado. Si clavo mi camioneta de 3 toneladas hasta el portón del socio tal vez no halle buena tracción reversa al rato salir.",
+    "scenario": "Llego a la última entrega y la calle de acceso es brecha lodosa con pendiente. Si meto la camioneta hasta el portón del cliente quizá no pueda salir en reversa. Pero dejarla en la carretera y bajar la carga a pie es tiempo extra que no tengo.",
     "options_structured": {
-      "integrity_correct": "Tomo lugar pavimentado liso arriba soltando diablito y me hundo patinando botuda caja por caja gastando pulmón feo.",
-      "pragmatic_distractor": "Le meto hasta adentro a puro patinazo lento esquivando frenones brucos logrando llegar seco y listo para huir.",
-      "evasive_distractor": "Tiro reporte rápido en app marcando acceso quebrado físico regresando ruta asfalto dejando éste paquete colgando.",
-      "rationalized_distractor": "Caigo directo hasta el zaguán con todo porque esta máquina fiera trae motorzote pa lograr repechazos sin dolor."
+      "integrity_correct": "La dejo en terreno firme y bajo las cajas a pie hasta el portón, aunque tarde más.",
+      "pragmatic_distractor": "Me meto despacio probando la tracción, listo para salir de reversa si noto que se empieza a hundir.",
+      "evasive_distractor": "Marco el domicilio como inaccesible en la app y regreso el paquete a la base para reprogramar.",
+      "rationalized_distractor": "Entro directo hasta el portón porque esta camioneta tiene buena tracción y ya he salido de peores barrizales."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 7",
     "sot_checksum": "ops400_m4_options_v1"
@@ -109,12 +109,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Un velador terco privado berrinchudo encasquetado pide que le suelte mi gafete y licencia original si quiero acceso entregar ahí. Manual estricto prohíbe soltar originales a nadie núnca.",
+    "scenario": "El guardia privado del edificio me pide que le deje mi licencia de manejo original como garantía para darme acceso. Las reglas de la empresa prohíben entregar documentos originales a terceros.",
     "options_structured": {
-      "integrity_correct": "Rechazo tajante, le digo gracias, me volteo aguantando irme perdiendo esa entrega completa oficial.",
-      "pragmatic_distractor": "Buscando rápido le aviento una ID vieja chueca caduca de mi otro jale logrando librar tranca fácil callado.",
-      "evasive_distractor": "Echo telefonazo ruidoso desde mi lona pidiéndole al comprador que forcejee interno su guardia de volada duro.",
-      "rationalized_distractor": "Suelto licencia pasiva porque todos hacen ceder a todos así en estos condominios fresas blindados de hoy."
+      "integrity_correct": "Le digo que no puedo dejar documentos originales y me retiro registrando la entrega como fallida por acceso negado.",
+      "pragmatic_distractor": "Le llamo al cliente para que él le indique al guardia que me deje pasar sin necesidad de dejar nada.",
+      "evasive_distractor": "Marco la entrega como pendiente y aviso a la base para que ellos coordinen el acceso con el edificio.",
+      "rationalized_distractor": "Le dejo la licencia porque en estos edificios todos los repartidores lo hacen y siempre se la regresan al salir."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 8",
     "sot_checksum": "ops400_m4_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Mapa oficial logístico marca una izquierda clavada ciega necesaria. Llegas y alguien le colgó un disco rojo de 'No girar' nuevo fresco. Llevo puro atraso de dos horas colapsando.",
+    "scenario": "Mi ruta marca dar vuelta a la izquierda aquí, pero hay un disco de 'No girar' que no estaba la semana pasada. Llevo dos horas de retraso y dar la vuelta por otro lado me cuesta otros 15 minutos.",
     "options_structured": {
-      "integrity_correct": "Le cruzo derecho y sigo buscando nudo de retorno formal tragándome más tiempo lento sumado en reloj rojo.",
-      "pragmatic_distractor": "Enciendo mi destellador ámbar, me recargo chueco orilla pegado izquierda calculando el cruce limpio abusado sin pegar.",
-      "evasive_distractor": "Le freno al borde acotado prendiendo radio a mesa central llorando si es bronca de app chafa y pa dónde pico.",
-      "rationalized_distractor": "Hago vuelta marcada porque mi GPS institucional blindado seguro le gana a un disco chueco vecinal puesto raro."
+      "integrity_correct": "Sigo derecho y busco el retorno más próximo para llegar por otra calle, aunque me atrase más.",
+      "pragmatic_distractor": "Le pregunto a alguien en la calle si el disco es permanente o si hay vuelta permitida un poco más adelante.",
+      "evasive_distractor": "Le marco a la base para que actualicen la ruta en el sistema y me indiquen por dónde seguir.",
+      "rationalized_distractor": "Hago la vuelta de todos modos porque el disco lo puso algún vecino y mi ruta oficial le gana a eso."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 9",
     "sot_checksum": "ops400_m4_options_v1"
@@ -139,12 +139,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Frente a la puerta del cliente de una tele fina gigante, resulta que mi cartón bajado lateral está todo picoteado arrugado desde matriz gacha vieja. El señor al verlo revienta furioso en gritos.",
+    "scenario": "Llego a entregar una tele grande y el cliente ve que el cartón exterior está golpeado y arrugado. Se enoja mucho y no quiere firmar hasta saber si la tele está dañada adentro.",
     "options_structured": {
-      "integrity_correct": "Cargo silencioso tele pa atrás soltando hoja negativa de retorno ahí, aguantando la furia pura del don sin defender pleitos.",
-      "pragmatic_distractor": "Pego cinta transparente dura envolvente exprés y le digo amable que toque adentro lo sano íntegro negándose a firmar peor.",
-      "evasive_distractor": "Fuerzo rayar acuse en 'condición visual dudosa' obligándole al ruco llamar ya mismo call center para mi paz pronta huyendo.",
-      "rationalized_distractor": "Desmiento su coraje pidiéndole paz, porque la caja de lomo grueso fue fabricada exacto aguantar madrazos de ruta pelada larga."
+      "integrity_correct": "Regreso la tele sin entregarla, genero el reporte de devolución por daño en empaque y le doy al cliente el número de seguimiento.",
+      "pragmatic_distractor": "Le propongo que abra la caja juntos para revisar si la tele está bien y, si está buena, que firme de recibido.",
+      "evasive_distractor": "Le pido que anote 'recibido con daño en empaque' en la firma y que llame al servicio al cliente para el reclamo.",
+      "rationalized_distractor": "Le explico que el cartón exterior aguanta los golpes del viaje para eso y que la tele adentro seguramente está bien."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 10",
     "sot_checksum": "ops400_m4_options_v1"
@@ -157,9 +157,9 @@
     "scenario": "Mi portal escaner cayó rudo crímen cibernético. Señora cliente pesada VIP carga tres talones de vales que caducan a punta hoy noche, pide a gritos meterlos a mano directo. La cola da chiflando por fin.",
     "options_structured": {
       "integrity_correct": "Niego pase del vale aguantándome reclamos pesados asumiendo ser tachado como villano cobrando normal sin margen liso real.",
-      "pragmatic_distractor": "Meto código forzado universal empleado fantasma haciendo magia contable temporal cuadrando su bronca apagando chispero feo gordo.",
+      "pragmatic_distractor": "Marco los tres vales en el campo de ajuste manual de cortesía que tengo habilitado para excepciones de sistema, anotando el folio y el monto en la bitácora de turno.",
       "evasive_distractor": "Detengo paso, apago banda, jalo por gerencia formal lejana ruda a que destrabe la doña pelionera con corbatas superiores.",
-      "rationalized_distractor": "Paso saldo liso calculando que en tienda nosotros cargamos la bronca falla tonta de sistema dejándola sin chance legal válido."
+      "rationalized_distractor": "Los proceso a mano total porque si el sistema falló en plena fecha límite, la responsabilidad es de la empresa y no de la cliente."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 11",
     "sot_checksum": "ops400_m4_options_v1"
@@ -187,9 +187,9 @@
     "scenario": "La regaste pesada pasando caja sin trozar sensor gris de plástico rígido en camisa. Cliente asustado de alarmas regresa exigiendo trato VIP, corte liso urgente y obsequio dulce de paz.",
     "options_structured": {
       "integrity_correct": "Remuevo clip duro disculpándome fuerte seco pero negando claro botines extras porque regla lo prohibe claro sin excepción.",
-      "pragmatic_distractor": "Libero prenda obsequiándole un chocoretillo sordo de barra frontal mía propia sin scan paliando sus corajes rojos listos pasados.",
+      "pragmatic_distractor": "Libero la prenda en mi estación y anoto el incidente en el formato de error de caja, ofreciéndole disculpa formal sin extra.",
       "evasive_distractor": "Paso bronca a poli prevención clamando ceguera sorda temporal evadiendo culpa clara para no embarrarse yo lodo gris de pleitos.",
-      "rationalized_distractor": "Le quiebro sensor a pura mano brusca allá afuera brincándome chequeo y pase de caja para no meterlo en fila lenta ruda tonta."
+      "rationalized_distractor": "Retiro el sensor rapidísimo sin hacer escándalo porque el error fue mío y montar todo el proceso formal solo va a encremar más al cliente y frenar mi fila."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 13",
     "sot_checksum": "ops400_m4_options_v1"
@@ -219,7 +219,7 @@
       "integrity_correct": "Traigo bolsa regresando paquete exigiendo sello código rosa impreso frenando secamente caja por falta ticket oficial asador.",
       "pragmatic_distractor": "Capturo menú 'Area Abierta Genérica' clavándole 99 pesos aproximados para soltarlo salir rápido evitando humear enfriar el pollo caliente lindo.",
       "evasive_distractor": "Grito 'Jefe clave de supervisor ocupo' botándole la bronca a líder superior rojo liso evadiendo meter mi dedo firme mal metido chueco.",
-      "rationalized_distractor": "Tomo precio de aire sugerido amarrándolo ralo libre porque el total pagado recae justo neto limpio sumando ganancia cajera al final total real final liso."
+      "rationalized_distractor": "Le meto el precio que me grita porque al final el efectivo que cobro cuadra igual en mi corte y el pollo no se va a ir sin pagar."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 15",
     "sot_checksum": "ops400_m4_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Repartiendo pesado en nave tu tanque verde industrial arriba traquetea fugando un chorrito ralo hacia tarima chica abajo repleta en abarrotes sensibles secos limpios.",
+    "scenario": "Estoy moviendo mercancía en la nave y noto que un tanque industrial de arriba está goteando sobre una tarima de abarrotes secos. No es mucho pero ya está cayendo.",
     "options_structured": {
-      "integrity_correct": "Apago máquina verde luda pidiendo apoyo bloque tramo moviendo mercancía libre de mancharse parando reloj firme mío seco.",
-      "pragmatic_distractor": "Meto un bote chato vacío atrapando las fugas goteadoras chicas arrastrando mis montacargas lento despacio liso sacando carga sana.",
-      "evasive_distractor": "Lanzo WhatsApp texto mudo a técnicos chillones diciendo de mangueras lloronas para que arreglen lueguito bajando yo mi bronca sucia verde.",
-      "rationalized_distractor": "Recorro tramo jalando fiero normal pensando lógicamente que cubiertas chiquita plásticas transparentes protegen el producto harto bien del moje ralo."
+      "integrity_correct": "Paro la operación, muevo la tarima de abarrotes a zona limpia y reporto la fuga antes de seguir.",
+      "pragmatic_distractor": "Pongo un contenedor abajo para atrapar el goteo y sigo moviendo la carga con cuidado.",
+      "evasive_distractor": "Le aviso al de mantenimiento por mensaje y sigo trabajando mientras ellos llegan a revisar.",
+      "rationalized_distractor": "Sigo normal porque el goteo es muy chico y el empaque de los abarrotes aguanta un poco de humedad."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 16",
     "sot_checksum": "ops400_m4_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Malla tapada de bodega oscura acapara un gas grueso pesado tonto azulado soltado por un diablillo a diésel ruco. Chofer bota carga tosiendo cerrando fuerte prometiendo pitar salida lueguito.",
+    "scenario": "Un camión de diésel descargando en bodega está soltando humo azulado espeso. La bodega está cerrada y el chofer ya está tosiendo. Faltan paletas por bajar.",
     "options_structured": {
-      "integrity_correct": "Saco al conductor necio tirando motor asfixiante jalando él manual el palet restante lento frenando rudo la operación general fría.",
-      "pragmatic_distractor": "Dejo portón trabado a tope alto rejas sueltas corriendo puro viento aireando ciego logrando bajar toxinas rápidas con motor vivo furioso.",
-      "evasive_distractor": "Abandono liso lugar negro humeante caminando lejos reportando 'nube venenosa loca' dejando humo estático cerrado atado.",
-      "rationalized_distractor": "Mastique corto el respiro porque camiones viejos negros feos sueltan ese humo siempre sin ser rudo venenoso letal corto chato."
+      "integrity_correct": "Paro la descarga, saco al chofer, abro las puertas para ventilar y reporto antes de continuar.",
+      "pragmatic_distractor": "Abro el portón trasero al máximo para que entre aire y seguimos bajando las paletas que faltan.",
+      "evasive_distractor": "Salgo de la bodega y le aviso al supervisor para que él decida si siguen o esperan a que se ventile.",
+      "rationalized_distractor": "Sigo porque los camiones viejos siempre humean un poco al estar parados y no es para tanto."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 17",
     "sot_checksum": "ops400_m4_options_v1"
@@ -259,12 +259,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Ruta frenética fin de semana quincenal loco. El bajadón carretero sin fin rudo marea olores fritos a fierro en gomas. No quieres ni imaginarte frenar ralo perdiendo vuelo pesado libre tenso.",
+    "scenario": "Voy bajando una carretera larga con carga pesada y empieza a oler a frenos quemados. Si me detengo pierdo tiempo y me afecta el bono de puntualidad.",
     "options_structured": {
-      "integrity_correct": "Pico luces previas saliendo acotamiento seguro bajando ancla manual revisando rines perdiendo de hachazo todo mi bono largo rico.",
-      "pragmatic_distractor": "Clavo cajas bajas de velocidad dejando chillido lento quemando puros motores sin lamer piso a pedales para salir vivo de la fosa larga fea.",
-      "evasive_distractor": "Interrumpo radio liso marcando caseta preguntando miedoso si es lícito pararse ciego perdiendo minutos pa lavarme manos sudadas frías locas.",
-      "rationalized_distractor": "Me suelto fiero llano porque olores metálicos calientes quemados resbalan clásico siempre al castigar frenos en curvas pesadas rudas brutales."
+      "integrity_correct": "Me orillo en el acotamiento, dejo enfriar los frenos y los reviso antes de seguir, aunque pierda el bono.",
+      "pragmatic_distractor": "Meto marcha más baja para bajar el resto de la pendiente usando el freno motor en lugar de los frenos.",
+      "evasive_distractor": "Le marco a la base para reportar el olor y que ellos me digan si paro o sigo.",
+      "rationalized_distractor": "Sigo bajando normal porque ese olor es típico cuando los frenos trabajan duro en pendiente y no es señal de peligro real."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 18",
     "sot_checksum": "ops400_m4_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Un güerco chavalo auxiliar cansado tira moda botando gorda paquetería menor por aire hasta tus brazos pesados listos diciendo: 'cacha wey pa rendir', rompiendo feo ley seca frágil lisa nuestra.",
+    "scenario": "Mi auxiliar está aventando paquetes por el aire hacia donde estoy yo para agilizar la carga. Algunos son frágiles. Me dice: 'cacha para rendir más'.",
     "options_structured": {
-      "integrity_correct": "Regaño firme fiero deteniendo juego volador loco ordenando trasteo pesado formal cargado uno de uno sudado callado recto real.",
-      "pragmatic_distractor": "Me le acerco rebotando casi cachete de plataforma recibiendo seco cortito suave las puras cajas parando caídas ruidosas largas feas lerdas.",
-      "evasive_distractor": "Giro ignorante sordo viendo folios de notas apartándome lejos del tiro libre que trae pa no salir manchado de videos malos tontos.",
-      "rationalized_distractor": "Cacho feliz rebotando cosas porque ropa tela suéter nunca chilla cruje rompe si tiran bajo vuelo corto suave sin peso de fierros chicos gachos."
+      "integrity_correct": "Le paro el juego y le digo que los paquetes se pasan a mano uno por uno, aunque tardemos más.",
+      "pragmatic_distractor": "Me acerco para reducir la distancia del vuelo y lo cacho suave, sin que los paquetes peguen duro.",
+      "evasive_distractor": "Me hago a un lado y le aviso al supervisor para que él le llame la atención.",
+      "rationalized_distractor": "Sigo cachándolos porque el vuelo es corto y los paquetes llevan empaque que los protege del golpe."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 19",
     "sot_checksum": "ops400_m4_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Te cae salubridad gubernamental recia ruda fina estricta. Jefe asustado blanco pelado pide escondas rejas carniceras lamosas chuecas debajo bodegas húmedas pa saltar multas pesadas feas de ciego.",
+    "scenario": "Acaba de llegar una inspección de salubridad. Mi jefe, muy nervioso, me pide que meta las rejas de carnicería sucias debajo de una tarima antes de que los inspectores lleguen a esa área.",
     "options_structured": {
-      "integrity_correct": "Niego ceder tonto y planto bote clorofibra ruda rascando limpio yo parando labor general asumiendo pendejada en cara de auditores finos lerdos.",
-      "pragmatic_distractor": "Meto las fierras empalmadas con hule secante cartón limpio fingiendo estibado en uso de tarado logrando ganar tiempo de limpiar lavando post visita rara loka.",
-      "evasive_distractor": "Pateo las parrillas dándole chiste a chavo botero diciendo 'hazme esquina perdiendo estas por allá' zafándome loco sin mancha en nómina propia lícita ruda.",
-      "rationalized_distractor": "Jalo cajas tapando bultos ciego leal asumiendo salubridades rateras clavan uñas por pendejaditas rociando multas letales al bono liso nuestro."
+      "integrity_correct": "No las escondo. Le digo a mi jefe que no puedo hacer eso y las dejo donde están.",
+      "pragmatic_distractor": "Las llevo rápido al área de lavado para que al menos estén en proceso de limpieza cuando pasen los inspectores.",
+      "evasive_distractor": "Le digo a mi jefe que ahorita no puedo porque me llamaron del andén, y me voy para no ser el que las mueva.",
+      "rationalized_distractor": "Las meto debajo de la tarima porque salubridad siempre busca el pretexto más pequeño para levantar una multa y no vale la pena arriesgar el bono del área."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 07 item 20",
     "sot_checksum": "ops400_m4_options_v1"
