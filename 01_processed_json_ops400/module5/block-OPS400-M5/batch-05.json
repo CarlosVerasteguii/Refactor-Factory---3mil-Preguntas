@@ -66,7 +66,7 @@
     "type": "options",
     "scenario": "Faltan tarimas para armar la exhibición. Un compañero sugiere desarmar las de la competencia porque igual mañana se las llevan. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Me opongo tajantemente y voy hasta la bodega trasera a buscar nuestras tarimas oficiales.",
+      "integrity_correct": "Le digo que no y camino hasta la bodega trasera a buscar nuestras tarimas oficiales, aunque tardemos más en armar.",
       "pragmatic_distractor": "Les ponemos una funda o cartulina encima para que no se vea el logotipo de la marca rival y armamos rápido.",
       "evasive_distractor": "Le digo al gerente encargado que si no nos proveen material de inmediato no podemos ser responsables de esa isla.",
       "rationalized_distractor": "Las usamos provisionalmente; en piso de venta todos toman prestadas las herramientas de todos durante la madrugada."
@@ -128,8 +128,8 @@
     "options_structured": {
       "integrity_correct": "Llevo mis primeros tres bultos hasta el contenedor externo e invito a los demás a ir uno por uno.",
       "pragmatic_distractor": "Las pisoteamos entre todos usando las botas de seguridad para que queden aplastadas y roben menos espacio en el pasillo.",
-      "evasive_distractor": "Llamo al líder logístico comentando que nuestro perímetro de flujo peatonal no está siendo desahogado correctamente.",
-      "rationalized_distractor": "Las dejamos ahí apiladas; bloquear ese acceso nunca es un accidente mientras el portón frontal siga libre en las madrugadas."
+      "evasive_distractor": "Le aviso al supervisor de piso que hay cartón acumulado bloqueando una salida para que él decida qué hacer.",
+      "rationalized_distractor": "Las apilamos ahí nomás por esta noche; esa puerta trasera no la usa nadie en el turno y mañana en la mañana el equipo de limpieza las saca."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 9",
     "sot_checksum": "ops400_m5_options_v1"
@@ -142,7 +142,7 @@
     "scenario": "Una compañera nueva del módulo no sabe cancelar un cobro y su clienta se pone a insultarla a gritos en pleno piso de sucursal. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Pongo pausa con mis clientes y me voy al módulo de la nueva a procesarle su cancelación frente a la persona violenta.",
-      "pragmatic_distractor": "Les digo a los usuarios de mi fila que ignoren los gritos para que esa señora no altere los humores de mi propia caja.",
+      "pragmatic_distractor": "Desde mi caja le grito en voz baja la secuencia de teclas para cancelar y así no abandono a mis propios clientes formados.",
       "evasive_distractor": "Aviso con la luz a prevención y pérdidas para que manden al guardia directo contra la señora abusiva.",
       "rationalized_distractor": "Dejo que la nueva afronte los corajes; parte de la inducción retail exige curtirse y saber callar a clientes majaderos."
     },
@@ -174,7 +174,7 @@
       "integrity_correct": "No dejo salir las tarimas, abro el sistema y me dedico yo a teclear a mano las guías oficiales para cada una.",
       "pragmatic_distractor": "Doy luz verde a usar las hojas, pero les anoto con marcador rojo muy grande el folio escrito a mano para que los reconozcan lejos.",
       "evasive_distractor": "Voy hasta el tercer piso al departamento técnico exigiendo a algún ingeniero que baje a revivir esa máquina.",
-      "rationalized_distractor": "Que se vayan los bultos blancos; los lectores de los de auditoría de paso en el hub son potentes y leen directamente del celofán empacado."
+      "rationalized_distractor": "Que se vayan así; en el hub siempre revisan físico cuando llega carga sin etiqueta y los recepcionistas ya están acostumbrados a eso."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 12",
     "sot_checksum": "ops400_m5_options_v1"
@@ -217,9 +217,9 @@
     "scenario": "Se atascó la barra lectora. Tus compañeros deciden escanear en masa todos los cupones pasándolos debajo del rayo de la misma terminal de caja exprés. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Detengo ese cobro y capturo folio por folio a mano de todos los clientes para que el descuento sea legítimo por ticket.",
-      "pragmatic_distractor": "Pego dos cupones espalda con espalda y los corro con doble rayo manual calculando a ojo para agilizar sin saturar tanto el sensor rojo.",
+      "pragmatic_distractor": "Paso los cupones despacio de uno en uno con la mano bien plana para que el rayo los alcance aunque el lector esté parcialmente atorado.",
       "evasive_distractor": "Cuelgo mi letrero y voy al departamento de cobranzas a que reseteen el parche informático que mandan siempre tarde a cajas.",
-      "rationalized_distractor": "Sigo cobrando así; los sistemas centralizados toleran hasta catorce escaneos simultáneos y empatan la suma solitos a final de la quincena."
+      "rationalized_distractor": "Sigo cobrando así; si el sistema los acepta sin rechazar, es que los está procesando bien y el reporte cuadra en el cierre."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 15",
     "sot_checksum": "ops400_m5_options_v1"
@@ -234,7 +234,7 @@
       "integrity_correct": "Bajo las escaleras por la llave y les recuerdo que el cuarto debe ser contabilizado caja por caja.",
       "pragmatic_distractor": "Veo por la rejilla y cuento los lomos de las pilas a la distancia alumbrando el cuarto con la lámpara de un celular fuerte.",
       "evasive_distractor": "Aviso al gerente al otro lado del pasillo con el micrófono del audífono que un área crítica ha quedado desatendida.",
-      "rationalized_distractor": "Saltamos la C; esos teléfonos vienen asegurados de fábrica contra daño por derrumbe, no se merman por no asomarnos nosotros a la rejilla hoy."
+      "rationalized_distractor": "Saltamos la C; el sistema ya tiene el registro de esa bodega del conteo anterior y los movimientos de celulares pasan por factura, no por conteo físico."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 16",
     "sot_checksum": "ops400_m5_options_v1"
@@ -249,7 +249,7 @@
       "integrity_correct": "Agarro yo los primeros dos bolsas de basura para echarlos a la compactadora parando mi recolección de pasillo cinco minutos.",
       "pragmatic_distractor": "Las empato bien derechas sobre los exhibidores bajos pegadas contra el rack para que por lo menos pasen los carritos chicos bien.",
       "evasive_distractor": "Envío radio de limpieza con prioridad roja para que limpien o nadie saca las ventas de sus islas a tiempo.",
-      "rationalized_distractor": "Aprovecho el muro de plástico y lo sorteo rápido; un almacén se valora por lo que produce y no por las funciones secundarias de trapeadores."
+      "rationalized_distractor": "Sigo con mi recolección rodeando lo que puedo; mover basura ajena no está en mi descripción de puesto y al final llega el turno de limpieza."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 17",
     "sot_checksum": "ops400_m5_options_v1"
@@ -277,8 +277,8 @@
     "scenario": "Tu compañera de cajas se le olvidó poner la clave en un cobro en efectivo y todo se congeló. Si metés tú tu usuario para cubrirla en ese corte, arruinas tu récord de cancelaciones libres mensual. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Pongo mi clave asumiendo el impacto para autorizarlo rápido y que ese señor con los tres refrigeradores no nos deje plantados ahí sin pagar.",
-      "pragmatic_distractor": "Le doy duro a las teclas cancelando sin usuario y paso el ticket como merma genérica para que todo vuelva a arrancar fresco y salir ileso.",
-      "evasive_distractor": "Llamo al control general de ventas de tarjetas comentando que la registradora quince sufrió ataques de fallo cibernético repentino de cobro.",
+      "pragmatic_distractor": "Le grito su clave de acceso desde acá para que ella misma meta la autorización y yo no aparezca en el log de esa cancelación.",
+      "evasive_distractor": "Llamo al jefe de cajas diciéndole que la registradora quince está congelada y que baje a destrabarla él antes de que el cliente se vaya.",
       "rationalized_distractor": "Le indico que reinicie el cajón; arriesgar un bono por cuidar el trabajo desordenado de alguien no es redituable ni a largo plazo."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 19",
@@ -293,7 +293,7 @@
     "options_structured": {
       "integrity_correct": "Bajo de inmediato mis cajas pesadas y corro por una escalera de aluminio exigiéndole que descienda de forma segura del aparato encendido de inmediato.",
       "pragmatic_distractor": "Le ofrezco nomás encaramarse recargando sus rodillas en unos huacales fuertes acomodados ahí improvisados para que ya llegue sin pararse en fierros sueltos resbalosos.",
-      "evasive_distractor": "Le aviento una piedra amarilla chica al compañero que fuma junto a la ventana pidiéndole mudo que lo rescate a él de su tontería.",
+      "evasive_distractor": "Le grito desde donde estoy al operador del montacargas que apague el motor mientras alguien más le busca una escalera al nuevo.",
       "rationalized_distractor": "Sigo armando cajas, los chavos así pesan muy poquito y las aspas hidráulicas resisten arriba de seiscientos kilos por horquilla siempre seguros de origen."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 05 item 20",
