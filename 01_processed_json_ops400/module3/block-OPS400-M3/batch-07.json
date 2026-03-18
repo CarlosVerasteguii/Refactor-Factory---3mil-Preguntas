@@ -8,8 +8,8 @@
     "options_structured": {
       "integrity_correct": "Le aclaro que por política de tienda no podemos romper el sello hasta tener registrado el pago formal.",
       "pragmatic_distractor": "Le ofrezco enseñarle un equipo de exhibición igual para que lo pruebe sin tener que rasgar el producto nuevo de nuestro inventario.",
-      "evasive_distractor": "Le sugiero al cliente marcar al teléfono general de piso para ver si algún coordinador superior le da permiso especial de abrir cajas caras.",
-      "rationalized_distractor": "Se lo destapo con mucho cuidado porque es mejor asegurar una venta de electrónica buena en vez de perderla por un simple cartón."
+      "evasive_distractor": "Le digo que esa decisión la tiene que autorizar un coordinador y que yo no puedo hacer nada sin esa validación.",
+      "rationalized_distractor": "Se lo destapo con mucho cuidado porque es mejor asegurar una venta de electrónica buena que perderla por un simple cartón."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -21,10 +21,10 @@
     "type": "options",
     "scenario": "Un proveedor llegó a recoger cajas vacías de reciclaje y pide llevarse también unas tarimas de plástico que sobraron en la carga. El señor dice que el turno de mañana siempre se las da. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Resguardo las tarimas valiosas en su lugar y solo le paso el cartón clasificado estrictamente como basura general.",
-      "pragmatic_distractor": "Le pido que me firme rápido una libreta interna anotando el préstamo para que haya rastro si mi gerente pregunta quién la sacó mañana.",
-      "evasive_distractor": "Le contesto en corto que yo no soy el encargado del patio trasero y que tiene que buscar a logística de afuera forzosamente en vez de mí hoy.",
-      "rationalized_distractor": "Dejo que el transportista logístico suba el plástico vacío a la unidad pesada ya que nos estorban bastante a nosotros quitando un bloque sucio de patio valioso en estacionar gratis."
+      "integrity_correct": "Resguardo las tarimas en su lugar y solo le paso el cartón clasificado como basura.",
+      "pragmatic_distractor": "Le pido que me firme una libreta interna anotando el préstamo para que haya rastro si mi gerente pregunta mañana.",
+      "evasive_distractor": "Le digo que las tarimas no son mi responsabilidad y que tiene que hablar con el encargado de logística.",
+      "rationalized_distractor": "Le dejo llevarse las tarimas porque de todas formas estorban en el patio y el turno de mañana las hubiera dado igual."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 2",
     "sot_checksum": "ops400_m3_options_v1"
@@ -34,12 +34,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Por una falla temporal interna, las básculas del mostrador están pesando de menos. Mi compañero sugiere cobrar así mientras regresa el de sistemas para no hacer más fila hacia la caja contigua. ¿Qué decides hacer?",
+    "scenario": "Por una falla temporal, las básculas del mostrador están pesando de menos. Mi compañero sugiere cobrar así mientras regresa el de sistemas para no hacer fila en la caja de al lado. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Detengo el cobro de la fruta a granel y canalizo las compras formadas hasta calibrar el escáner del peso real sin mermas de cobros.",
-      "pragmatic_distractor": "Calculo aproximado de manera natural el extra que pesa físicamente y se lo anoto por kilo a cobrar más cerca en dinero total evitando colas.",
-      "evasive_distractor": "Invento avisarme el de seguridad de limpieza veloz por mi intercomunicador radio forzando cierres por mi necesidad biológica hasta que mi colega opere el desquite cobrando él el equipo mal fallado solo.",
-      "rationalized_distractor": "Contabilizo a la gente tal cual con su kilo porque nuestro cliente común confía sin revisar facturas por nuestra rapidez fluida compensando la espera grande general del error principal del servidor comercial central hoy."
+      "integrity_correct": "Detengo la venta a granel y dirijo a los clientes a la caja contigua hasta que la báscula esté calibrada.",
+      "pragmatic_distractor": "Peso los productos en la báscula del almacén de atrás y anoto el resultado manualmente para no parar el cobro.",
+      "evasive_distractor": "Le digo a mi compañero que él decida porque yo no soy el responsable del equipo y no quiero firmar nada.",
+      "rationalized_distractor": "Cobro con la báscula fallada porque la diferencia es mínima y el cliente no va a notar unos gramos menos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -49,12 +49,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente se confundió de sucursal para recoger su pedido especial en línea. Exige en nuestra recepción dar su dinero físico de nuestra bodega de exhibidor para no manejar o gastar en pasaje local. ¿Qué haces?",
+    "scenario": "Un cliente se confundió de sucursal para recoger su pedido en línea. Exige que le entreguemos el producto desde nuestra tienda para no tener que ir a la sucursal correcta ni gastar en pasaje. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le expongo francamente la necesidad de cancelar digital la orden ya que por norma interna nuestro equipo físico no libera sin cobro.",
-      "pragmatic_distractor": "Capturo una clave interna directa realizando ventas cruzadas pasando aquí sus pagos evitando el pleito y despachándole de exhibición su equipo final sin mucho sistema extra lento y engorroso burocráticamente.",
-      "evasive_distractor": "Marco extensión canalizándolo ciegos todos a matriz remota de ayuda al cliente general de envíos donde él se trate quejoso del lugar foráneo equivoco a sus datos mal llenados pidiéndolo sin mí más problemas cerca en mostrador físico directo cara de enfrente al cliente desesperado veloz.",
-      "rationalized_distractor": "Corro de bodega la pantalla despistándolo dándosela para nosotros marcar entrega oficial buena garantizando felicidad comercial del consumidor final fiel antes que reglas."
+      "integrity_correct": "Le explico que el pedido solo puede liberarse en la sucursal donde está registrado y le doy el número para coordinar el cambio.",
+      "pragmatic_distractor": "Llamo a la sucursal destino para ver si pueden transferir la orden a nuestra tienda y se la entregamos aquí sin que tenga que moverse.",
+      "evasive_distractor": "Le digo que llame al centro de atención nacional porque ese tipo de cambios no los manejo yo desde mostrador.",
+      "rationalized_distractor": "Le saco el producto de exhibición para no perder al cliente; total, el sistema lo ajustamos después entre sucursales."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -64,12 +64,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Revisando prendas dejadas por el turno previo en almacén devoluciones, faltan registros vitales tomando media hora en captura de escaneo exactas mi tiempo manual. Colegas dicen subir en una remisión global nuestra merma para ir pronto y acabar turnos temprano ahora. ¿Qué decides hacer?",
+    "scenario": "Al revisar las prendas dejadas por el turno anterior en devoluciones, noto que faltan registros. Capturarlos uno por uno me tomaría media hora extra. Mis colegas dicen que las subamos todas como merma en un solo movimiento para salir a tiempo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Empleo el ratito largo completo uno por uno acomodando folios cruzados dejando limpio oficial los registros verdaderos reales sin prisa mentirosa extra sobre la labor asignada global oficial.",
-      "pragmatic_distractor": "Guardo únicamente electrónicos costosos tecleados al escáner lento dejando suertes pequeñas varías bultosas ropas juntas para pasar basura en nuestra zona por merma grupal veloz del de limpieza último nocturno aquí.",
-      "evasive_distractor": "Doy media vuelta fingiendo llamadas dejándole la paca roja intacta al nuevo tercer encargado matutino mañana para no sacrificar de volada ninguno mis tres minutitos libres hoy en mi hora oficial del adiós personal y salida exacta al camión obrero puntual normal.",
-      "rationalized_distractor": "Asocio toda paca en merma libre rápida ganando salud laboral relajada sin batallar cosas mal heredadas con fallos sin yo ser líder nato y cobrador real ni causante de la negligencia previa general ajena original a mi trabajo de piso aquí."
+      "integrity_correct": "Me quedo la media hora necesaria y registro cada prenda por separado para dejar el inventario cuadrado.",
+      "pragmatic_distractor": "Capturo solo las prendas de mayor valor y agrupe las de bajo costo en una nota aclaratoria para que el turno siguiente las complete.",
+      "evasive_distractor": "Dejo todo como está y le paso el problema al encargado del turno de mañana con una nota de que el turno anterior no entregó bien.",
+      "rationalized_distractor": "Las subo todas como merma porque el error fue del turno anterior, no mío, y no tengo por qué quedarme tiempo extra arreglando lo que otros dejaron mal."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 5",
     "sot_checksum": "ops400_m3_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Vamos manejando la ruta de pedidos y la avenida principal se atoró por la lluvia de carros. Mi conductor amigo decide tomar sentido ilegal de la banqueta izquierda brincando banqueta vecinal para cruces pronto aliviando en corto cuarenta entregas. ¿Qué haces?",
+    "scenario": "Vamos en la ruta de entregas y la avenida principal está bloqueada por el tráfico. Mi conductor decide meterse en sentido contrario por el carril izquierdo para avanzar más rápido y llegar a las cuarenta entregas pendientes. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reclamo enfáticamente la detención absoluta sobre esa práctica prohibidísima y pido el reingreso al asfalto de carril reglamentado como cualquier coche seguro civil decente al lado mío.",
-      "pragmatic_distractor": "Miro el mapeo GPS del teléfono logrando apuntar cuadra alternativa más despoblada donde evitamos bacheos de leyes sin que nos atrapen fotomultas visuales por el paso feo en corto de terracería mala y callejones raros.",
-      "evasive_distractor": "Observo ciego el manual de mi asiento agachado para aparentar lectura formal sin notarle mal sus volantes de rebote así tampoco salúndolo él cómplice mío visual hoy aquí frente.",
-      "rationalized_distractor": "Acepto el camino trucho aguantándome la caída brincos y baches para asegurar llegar a la meta corporativa en medallas en base a cuota rápida ganando elogios monetizables de patrón lejano que adora métrica fría a fin contable simple y duro total logístico superior ciego exitoso puntual en papeles."
+      "integrity_correct": "Le pido que se detenga y regrese al carril correcto, aunque eso signifique más tiempo en ruta.",
+      "pragmatic_distractor": "Busco en el mapa una calle lateral menos transitada donde podamos avanzar sin exponernos a una multa.",
+      "evasive_distractor": "Me pongo los audífonos y miro el teléfono para no tener que opinar sobre cómo conduce.",
+      "rationalized_distractor": "Lo dejo seguir porque el bloqueo no es nuestra culpa y cumplir la cuota de entregas es lo que nos evalúan al final del día."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -94,12 +94,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "La colaboradora vecina llora triste pues se olvidó escanear mercancía de un boleto grande del paseante. Si no lo cuadra le pegan castigo pecuniario y pide fondo positivo mío cubriendo mentira suya de hoy en su bolsa contable hoy antes de caja de llave cierre final diario jefe. ¿Qué decides hacer?",
+    "scenario": "Una compañera me dice llorando que olvidó escanear un artículo caro y ahora tiene un faltante en caja. Me pide que le preste dinero de mi fondo para cubrirlo antes del cierre, sin reportarlo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Digo claro a ella no alterar fondos revueltos obligándola triste firmar sus actas rojas directos asumiendo los faltantes que corresponden al protocolo y sus responsabilidades solas individuales frente a supervisor estricto aquí mismo hoy de testigo natural firme.",
-      "pragmatic_distractor": "Retiro varos míos caros particulares metiéndole alivio monetario personal disimulando yo su deuda particular por buen compañerismo para salir sin manchar papeles comerciales formales feos burocráticos sucios frente líder alto local hoy.",
-      "evasive_distractor": "Río con risa y corro mi silla argumentando dolor gástrico excusándome baño diez minuitos cediéndole la bronca a auditor sin mí involucración ni llantos de apoyo moral cercano ninguno hoy allí en mis cercos ni la defiendo libre nada ante auditor jefe grande a ella sola.",
-      "rationalized_distractor": "Le extiendo puros billetes robando a la empresa fondos sobrantes previos sin bronca ni reporte dado apoyo entre equipo fiel es ley dorada pura sin duele castigar fallas raras accidentales."
+      "integrity_correct": "Le digo que no puedo prestarle mi fondo y le sugiero reportar el faltante al supervisor para seguir el procedimiento correspondiente.",
+      "pragmatic_distractor": "Le presto el dinero de mi bolsillo personal para que cuadre su caja, con la condición de que me lo devuelva mañana.",
+      "evasive_distractor": "Le digo que tengo que atender a un cliente y me alejo para no estar presente cuando llegue el supervisor a hacer el cierre.",
+      "rationalized_distractor": "Le ayudo a cubrir el faltante con el fondo porque fue un error accidental, y sería injusto que le descuenten el sueldo por un descuido sin mala intención."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -109,12 +109,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Al ir maniobrando, derribé sin testigos cajas frágiles con roturas visuales mías puras totales, ensuciando pisos limpios de ventas con químicos líquidos feos resbalosos malos sin que me vean solos en cruces solos fríos del pasillo trasero. Perdería bono extra de cuidado 100% de esta área si me evidencio con mi acta personal del mes perfecto. ¿Qué decides hacer?",
+    "scenario": "Estaba maniobrando en el pasillo trasero y sin testigos derrumbé unas cajas frágiles. Hay producto roto y líquido derramado en el piso. Si lo reporto, pierdo el bono de cuidado de área que tenía intacto este mes. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Declaro frontal al jefe reportando incidencia verdadera del daño accidental personal realizando labores protocolarias amplias de sanitizar zona entera de forma pública total responsable.",
-      "pragmatic_distractor": "Junto astillas veloces metiendo al fondo cartón sin mermas tirado disimulado sacando trapeado reluciente marcando los químicos caducos faltados a camión no míos sino ajenos.",
-      "evasive_distractor": "Me choco solo marchándome velozmente a charlar largo comedor para dejar desatendido hasta que intendente lo marque sin saber que soy yo el real causante único encubierto libre.",
-      "rationalized_distractor": "Niego daños en todo lado ocultísimo porque mi récord es ejemplarísimo de por sí, siendo exagerado de gerentes y RH mancharme mi dinero premiado total para sustento de puras fallas raras únicas casi nunca."
+      "integrity_correct": "Reporto el incidente al supervisor, limpio la zona y levanto el acta correspondiente aunque pierda el bono.",
+      "pragmatic_distractor": "Recojo los restos, tiro el material roto al camión de mermas y trapeo el piso antes de que alguien pase por el pasillo.",
+      "evasive_distractor": "Me voy al comedor a tomar un descanso y espero a que el equipo de intendencia descubra el derrame sin que nadie sepa que fui yo.",
+      "rationalized_distractor": "No lo reporto porque fue un accidente aislado; mi historial de cuidado habla por sí solo y no tiene sentido perder el bono por un evento que no se va a repetir."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Supervisor rápido exige garabato de firma mío pasando falsa presencial lista de un deudor de tiempos extra ayer de amigo común mío de piso, así evitamos sanción fuerte y actas graves suyas de ausencias malas que ensucian RH área y su paga quincenal familiar suya de por vida hoy. ¿Qué decides hacer?",
+    "scenario": "El supervisor me pide que firme la lista de asistencia en el espacio de un compañero que no vino ayer, para evitarle una falta que le afectaría el pago quincenal. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le informo directo y rotundo a él alto al delito en mentir no estampando caligrafía porque es estricto en reglamento falsear nombres a corporación.",
-      "pragmatic_distractor": "Dejo tinta borrosa ilegible falsa no mía para evadir broncas apoyando a la vista del líder alto en caso remoto de revisión ocular ajena del equipo.",
-      "evasive_distractor": "Salto para atrás argumentando vómitos para ir al piso del médico del inmueble grande y evitar el formato oficial tenso frente al líder de recursos humanos y personal duro sin que yo pelee rudo.",
-      "rationalized_distractor": "Garabateo bien porque el compañero fiel desquitando cuotas largas compensadoramente en la jornada extra paga facturas sin flojera real de vagos irresponsables que fallan por vagancia pura real y él no falla más así feo por mal intencional mala fe nunca jamás hoy en el mes laboral presente completo ahora diario."
+      "integrity_correct": "Le digo al supervisor que no puedo firmar en nombre de alguien que no estuvo, porque falsificar la lista es una falta grave.",
+      "pragmatic_distractor": "Firmo con una rúbrica diferente a la mía para que no quede evidencia directa de que fui yo quien la puso.",
+      "evasive_distractor": "Le digo que no me siento bien y me voy a la enfermería para no estar presente cuando se llene la lista.",
+      "rationalized_distractor": "Firmo porque mi compañero siempre cumple y una falta no refleja su desempeño real; es más justo cubrirlo que dejarlo sin pago por un día."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -139,12 +139,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Cliente suelta en mesa billete propina amable extra particular de quejas felices, mi compadre guarda al pantalón bolsillo rápido de lado 'reparto para tí lueguito en cuarto de aseo' rápido su comentario susurrando disimulado ante cámaras arriba nuestro. ¿Qué decides hacer?",
+    "scenario": "Un cliente deja una propina en la mesa después de que lo atendí en el área de quejas. Mi compañero la guarda en su bolsillo y me susurra que me la repartirá luego en el cuarto de descanso. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Le exijo rotundo regresar propina porque el rol nos indica fondo prohibido de cobrar en atención especialidad quejas sin lucro personal escondido sucucho malo robado.",
-      "pragmatic_distractor": "Aviso guardarlo comprar garrafón de agua pura nosotros o cunas de café común área, dándole disimulo bondadoso de equipo social de uso sin rastro billete en bolsillo oculto oscuro ladrón mío encubierto.",
-      "evasive_distractor": "Miro lejos apuntando papeleando en silencio a máquina mía como ciego completo deslindado de broncas sin aceptar y tampoco negarle o pedir parte al señor ciego sordo mudo frente suyo compadre.",
-      "rationalized_distractor": "Agarro la mitad aceptada porque es muy cansado aquí tratar gente dura todos contentos felices así y no ofendo a señora al desechar su donativo noble bondadoso solidario humilde sin darnos cuenta el gran alto."
+      "integrity_correct": "Le digo a mi compañero que devuelva la propina al cliente o la entregue al supervisor, porque el reglamento no permite recibir gratificaciones en esta área.",
+      "pragmatic_distractor": "Le digo que si la vamos a guardar, es mejor usarla para algo del área como café o agua, para que no parezca que nos la quedamos.",
+      "evasive_distractor": "Sigo con mi trabajo como si no hubiera visto nada; ni acepto ni rechazo la parte que me ofrecen.",
+      "rationalized_distractor": "Acepto mi parte porque el cliente la dejó voluntariamente y sería una falta de respeto rechazarla; además, el trabajo en quejas es desgastante y no hay otro reconocimiento."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -154,12 +154,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Por la reja nocturna el inspector público sorpresivo federal quiere documentos a auditar sin aviso formal de papeles. Mi gerente grita pálido que por favor gane largo tiempo deteniendo oficial frente al zaguán. ¿Qué decides hacer?",
+    "scenario": "Un inspector federal llega sin aviso a la entrada para auditar documentos de la empresa. Mi gerente me pide en voz baja que lo entretenga en la reja el mayor tiempo posible mientras él acomoda papeles adentro. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Abro cordial para direccionar de volada oficial del gobierno recto y directo hasta despachos sin parones tramposos falsos para ganar burocracias a favor interno oscuro lento y malo intencional hoy.",
-      "pragmatic_distractor": "Brindo vaso hidratante a funcionario público con sonrisas largas pidiendo espere sentados largos en salita VIP inventando que mi gerente alto está muy lejísimos sin bloquearle libremente el camino visual pero tardando sutil cortesito social educado muy cordial ameno en todo rato de espera de favor a él sin agresión formal verbal alguna de rechazo directo frontal fuerte grosero y rudo en la puerta o cristal templado grueso del lugar.",
-      "evasive_distractor": "Grito espanto pánico retirándome falso baño inventado cólicos sueltos dejando que alguien secundario lidie con el pase de ley a federal para no ser yo multado.",
-      "rationalized_distractor": "Pregunto necedades sobre sus placas distrayendo porque líder gerente me debe aumento a favor leal si encubro fallos de sistema logrando gran ganancia personal laboral cuidándole las grandes espaldas suyas a jefazo bueno al cien leal noble siempre puro en labores pesadas duras de piso frío oscuro del mal almacén grande y sucio pesado del final final real siempre sin dudarlo firme aquí trabajando rudo."
+      "integrity_correct": "Le abro la reja al inspector de inmediato y lo guío directamente al área de documentos, sin demoras.",
+      "pragmatic_distractor": "Lo hago pasar a una sala de espera diciéndole que el responsable viene en dos minutos, ganando unos diez minutos sin negarlo directamente.",
+      "evasive_distractor": "Me retiro al baño y le digo a un compañero que él atienda al inspector porque yo no sé nada de auditorías.",
+      "rationalized_distractor": "Lo entretengo unos minutos porque si el gerente necesita tiempo es porque tiene algo legítimo que ordenar, y cubrirle la espalda es parte del trabajo en equipo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -169,12 +169,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Veo a compañero cerrar cajas de herramientas probadas clientes abriendo regresándolas sucias sellando nuevamente falsos adhesivos de origen como nuevos intactos de almacén de matriz de fábrica pura legal sin mancha de usos ni nada gastaditas por clientes de ayer mal hechos. ¿Qué decides hacer?",
+    "scenario": "Veo a mi compañero tomar cajas de herramientas que clientes devolvieron usadas, limpiarlas y volverlas a sellar con etiquetas de fábrica para colocarlas en el pasillo como producto nuevo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Cojo la caja apartando de góndolas para remitir a pasillos de rechazos usados y faltantes no venta engañosos en caja sin engaños reales.",
-      "pragmatic_distractor": "Pego listón amarillo avisando con ganchos al público visible rotulado usado descontado remate para ventas legal sin engaños frontales, vendiendo suertes igual al jefe.",
-      "evasive_distractor": "Doy vuelta y voy por tarimas para dejarle total decisión mala solo a compañero para dejar a cliente quejoso bronca en turno siguiente.",
-      "rationalized_distractor": "Acepto lo selle fuerte y venda pues de hecho gasta tiempo tirar y despiezar taladro funcionando perfecto al 100 sin mancha evidente real de engaños tontos porque el corporativo prohíbe altos despilfarros de máquinas con caja gastadísima por una mosca mínima aquí hoy."
+      "integrity_correct": "Separo las cajas del piso de venta y las envío al área de rechazos o devoluciones conforme al protocolo.",
+      "pragmatic_distractor": "Les pego una etiqueta de 'usado / precio especial' bien visible y las ubico en la sección de remate para que se vendan sin engaño.",
+      "evasive_distractor": "Me voy a acomodar tarimas en otro pasillo y dejo que sea el encargado del siguiente turno quien decida qué hacer con esas cajas.",
+      "rationalized_distractor": "Lo dejo pasar porque la herramienta funciona igual de bien y tirar producto en buen estado solo por la caja es un desperdicio que la empresa no puede permitirse."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -184,12 +184,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Jefe ordenándome en turno final rudo nocturno de pesados materiales estufa de gran pesaje directo soltados de bodega en corredores peatonales principales libres nocturnos de tránsito saltando bodega de robo adentro perimetrada fuerte para apurar tempranas de madrugador armador veloz extra mañanero mañana temprano y rendir todos fuerte. ¿Qué acomodo das?",
+    "scenario": "Mi jefe me pide que deje las estufas y electrodomésticos grandes en el corredor principal de clientes esta noche, fuera de la bodega asegurada, para que el equipo madrugador los encuentre listos y arme el piso más rápido. ¿Qué acomodo das?",
     "options_structured": {
-      "integrity_correct": "Ingreso metiendo artículos grandes caros directo rejas fuertes interiores formales de alto candado siguiendo manual contra robos aunque sea tardado extra personal duro pesado hoy mío para evitar desastres logísticos peligrosos caros al negocio matriz de central por capricho nocturno aquí nuestro mal intencionado.",
-      "pragmatic_distractor": "Enchufo tarimas esquinándolas arrinconadas paredes fondo para que librar cámaras y guardias pero lograr ventaja matutina mañana igual en mi área al tope ganando medalla por rápido armado visual.",
-      "evasive_distractor": "Salgo silbando puerta y dejo que intendencia mueva sus escobas chocadas donde sea la estufa en su rato de él sabrá dónde poner a salvo o no la lavadora fuerte nueva de la carga pasada por mí en rincón del estante de ventas principal de aquí afuera a la vista de pasaje de pasillo suelto librando broncas mis propias horas cumplidas laborales formales reales ya y fin." ,
-      "rationalized_distractor": "Afirmo dejar piso de clientes sueltas estufas grandes logrando adelantar al equipo general logístico comercial para reponer energía mañana ya que la ganancia ventas altas excusan protocolos rígidos y tontos burócratas centrales sin piso rudo ni noción comercial agresiva de nosotros aquí que ganamos reales premios a ellos diarios."
+      "integrity_correct": "Ingreso toda la mercancía a la bodega con candado, como indica el manual de seguridad, aunque me tome más tiempo terminar el turno.",
+      "pragmatic_distractor": "Los acomodo en el corredor trasero de empleados, fuera de la vista del público, y le aviso al guardia nocturno que los vigile hasta la mañana.",
+      "evasive_distractor": "Dejo las estufas donde están y me retiro al marcarme salida, sin reportar nada, asumiendo que intendencia o el guardia decidirá qué hacer con ellas.",
+      "rationalized_distractor": "Los dejo en el corredor porque adelantar el armado del piso sube las ventas del día siguiente, y eso vale más que un protocolo de bodega que nadie revisa de noche."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -199,12 +199,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Cajera de al lado ruega pase mi tarjeta plástica superior particular confidencial de anulación de sistema porque fila crece llorando clientela esperando horas con su pase perdido de gafete propio de autorización que no trajo desde su carro hoy temprano por olvidar mochila gris pesada personal. ¿Qué decides hacer?",
+    "scenario": "La cajera de al lado me ruega que le preste mi credencial de supervisor para poder procesar operaciones porque olvidó la suya en el carro. La fila de clientes ya lleva varios minutos esperando. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Digo definitivo negándole gafete intransferible con mi sello de supervisor por ley de banco pidiéndole que baje jefe y llame con radios a coordinador o supervisor base general total hoy pronto él no yo en este rato.",
-      "pragmatic_distractor": "Gasto minutos de piso parándome a ella tecleando mis números rápido para desquitar ventas y luego retirar gafete para yo mismo vigilar sus usos raros pero ayudando clientes de volada amables aquí todos juntos.",
-      "evasive_distractor": "Bajo mirada al bote de escaneo mintiendo ciego fingido de mis mermas caídas que no la eschuco su llorar desesperación evitando regalarme broncas y peleas.",
-      "rationalized_distractor": "Presto colgada oficial gafete porque personal en mostrador estresado debe uniones fraternas salvar de cliente gentes furiosas para sacar las ventas grandes sin formalismos duros egoístas corporaciones tontas malas y rígidas y cuadradas hoy a fuerza sin fin real noble de compañeros buenos de batalla aquí en tienda de todos fuertes día con día al parejo juntos sin egoísmos siempre de por vida total aquí mismo."
+      "integrity_correct": "Le digo que no puedo prestarle mi credencial y le pido que llame por radio al coordinador para que él autorice o resuelva el acceso.",
+      "pragmatic_distractor": "Me paso a su caja y proceso yo mismo las operaciones pendientes con mi credencial, sin dársela, hasta que llegue alguien con autorización.",
+      "evasive_distractor": "Bajo la mirada y finjo estar ocupado contando mi fondo para no meterme en la bronca de ella con los clientes.",
+      "rationalized_distractor": "Le presto la credencial porque con la fila creciendo no hay tiempo para burocracia, y entre compañeros hay que resolverlo rápido."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -214,12 +214,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Chofer de entrega carne cruda dice en rampa descarga ruda de asfalto caliente que sus grados láser subieron tres extra pero la carne sirve y me presiona que firme recibido libre sin broncas bajando temperatura de refrigerantes allá adentro. ¿Qué decides hacer?",
+    "scenario": "El chofer de reparto me trae carne cruda en la rampa de descarga. Al medir con el termómetro, la temperatura está tres grados por encima del límite permitido. El chofer me presiona para que firme la recepción diciendo que adentro del furgón está bien fría. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Devuelvo cargamento y sello acta oficial de cadena fría rota sobre manual de alimentos estrictos para humanos no recibiendo nada malo jamás de entrada ni de risa por si intoxica gente y pagamos vidas aquí por falla nuestra.",
-      "pragmatic_distractor": "Ingreso quince minutos cuartos hielos resguardo crudos probando termómetros segunda toma bajando normal para firmar en calma legal recibo oficial sano puro completo sin rebotar envíos a él gratis al fin.",
-      "evasive_distractor": "Canto radiofrecuencias carnicerías jefes forzando subidas ellos de carne libre de res recibos y firmen mis jefes broncas mías saltándome procesos sin firma propia asustada.",
-      "rationalized_distractor": "Apruebo la forma rápida para un carnicero feliz de comida ya que furgones sudan chapopote a mediodía soleado justificando falla en grados leves termómetro loco falso loco mal de calor y radiación del lugar de las calientes rampas sucias ardientes fuertes del sol de ahorita."
+      "integrity_correct": "Rechazo el cargamento y levanto el acta de cadena fría rota conforme al manual de recepción de alimentos, sin firmar la entrada.",
+      "pragmatic_distractor": "Le pido al chofer que espere quince minutos con las puertas del furgón cerradas y tomo una segunda lectura antes de decidir si firmo o rechazo.",
+      "evasive_distractor": "Le digo que yo no tengo autoridad para rechazar un pedido de esa magnitud y llamo al gerente para que sea él quien firme o decida.",
+      "rationalized_distractor": "Firmo la recepción porque la rampa estaba a pleno sol y el termómetro seguramente marcó alto por el calor del ambiente, no porque la carne esté en mal estado."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 15",
     "sot_checksum": "ops400_m3_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Repartidor ajeno foráneo de pan de dulce en mostrador lateral me mete 4 panques escondidos extra gratuitos detrás gratis mías regalo a mí familiar si dejo cruzar sus zonas marca con mis abarrotes locales libres de fletes suyos. ¿Qué decides hacer?",
+    "scenario": "Un repartidor ajeno me ofrece dejarme cuatro panes de dulce gratis para mi familia si le permito exhibir sus productos en mi zona de abarrotes sin autorización del planograma. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Ordeno quitar premios de regalo pan dulces míos manteniendo rejas fijas legales abarrotes zonas justas planograma de gerente rígido en plano comercial justo sin sobornos ridículos por cajas gratis para llevar gordo a casa escondido de mi moral aquí real fuerte y entera siempre y firme frontal rudo a su mal comportamiento obvio de él.",
-      "pragmatic_distractor": "Siento pastelitos míos pasando gratis compartidos pasillos sala de café en empleados dividiendo sobornos leves cediendo a rejas frente a cajas por que lucen vistosas bonitas a público comprador de hambre y pan fino rico aquí todos a uno en venta conjunta y rápida y general igual a todos felices siempre parejo.",
-      "evasive_distractor": "Invento guardia llamar radio falso desviando proveedor su regalos al pasillo dos ajeno para no cargar mi regalo y yo no firmar cóctel ilícito en estantes frente mí visual sin tocarme y fin de la plática absurda con él hoy aquí en corto fuerte final real de historia suya mafiosa menor de repartidor falso foráneo mentiroso de hoy de ahorita del momento feo. ",
-      "rationalized_distractor": "Como galleta aceptada dándole acomodo frente porque son ricas, marcas top 1 grandes empresas líderes ventas locales garantizando ganancia libre del patrón en venta local impulsando venta fina dulce buena de antojos con regalías sanas libres sin reportar robo a corporativas puras sin pérdida y felices a la larga familia mía cena dulce y buena a fin de cuenta real sin desfalco alto robado jamás de caja principal."
+      "integrity_correct": "Le devuelvo los panes y le explico que no puedo autorizar exhibición fuera del planograma sin aprobación del gerente.",
+      "pragmatic_distractor": "Acepto los panes pero le digo que pase con el gerente mañana para que autorice el espacio de manera formal.",
+      "evasive_distractor": "Llamo a seguridad por radio para que ellos atiendan al repartidor y yo no quede involucrado en la decisión.",
+      "rationalized_distractor": "Le doy espacio porque son marcas conocidas, se van a vender bien y al final el beneficio es para la tienda."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -244,12 +244,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Banda de donación escolar y veo libretón y compañero metiendo para hijo útiles tres cajitas de libretas disimulando sin facturar venta propia donada suéter de mochila a fin y final de día de caridad escolar. ¿Qué decides hacer?",
+    "scenario": "Durante la campaña de donación escolar de la tienda, veo a un compañero meterse tres paquetes de libretas en la mochila sin pagarlos. Me dice que son para donarlos a una escuela pública. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Señalo inmediato faltas al protocolo exigiéndole soltar artículo puro caridad sacando robo oficial de bolsas grandes porque es caritativo en caja formal general grande la cuenta sin sustraer uno al mil jamás él o denuncia lo haré directo alto allí mismo por ratero encubierto vil en su turno local bajo su cargo libre personal real aquí a la luz de los focos grandes del pasillo largo este oscuro sin luces plenas que no ven en el domo de cámara dos y tres del local matriz nuestro.",
-      "pragmatic_distractor": "Rujo bajo pedirle solo robo de una sola pluma libre sin libretas muy evidentes obvios sin broncas reportadas por peso porque así kilo libras justas a carritos sin tanto problema faltante a las pesas grandotas contables del auditor grande de turno dos pesado de ojos águilas hoy mañana que venga a revisar en grande mi labor oficial sin castigo a mí por encubrir rudo tan grande el bulto robado.",
-      "evasive_distractor": "Aparto visual fijando mis ojos empaque sellado cintas rápido evitando contacto a cara y vista suyo fingir ignorancias amplias totales salvándome reporte robos a mí ser mudo al crimen minúsculo compañero hoy y callando al por vida de por mil secretos grandes de pasillos solos sin luz ni gerentes duros en rondas aquí hoy en ratitos libres como ahorita aquí abajo en suelo sucio del patio.",
-      "rationalized_distractor": "Cubro silencio solidario noble porque fin de la donación escolar regalar libretas niños pobres escuelas es igual a hijo pobre amigo necesitado obrero nuestro local y matriz central aprueba apoyo familiar sin formalidades robadas feas feas siempre."
+      "integrity_correct": "Le digo que pare, que los artículos deben salir por la caja de donaciones con registro, y lo reporto al encargado de turno.",
+      "pragmatic_distractor": "Le pido que los saque de la mochila y los ponga en la caja de donación oficial para que quede registrado y no haya problema.",
+      "evasive_distractor": "Finjo que no vi nada y me concentro en mi área; si lo descubren, que él explique.",
+      "rationalized_distractor": "Me callo porque donar útiles a una escuela pobre es lo correcto aunque sea sin registro; la empresa debería aplaudir eso, no castigarlo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -259,13 +259,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Instalador equipo foráneo técnico y llego local casa rural lejos perro feroz bravísimo gigante bloquea caja fuerte pared poste cables para equipo fibra mío conectiva hoy forzando al cliente dueño decirme 'entre no muerde jamás lo juro técnico de confianza, instale y vámonos a dormir ya o lo califico en ceros al app hoy'. ¿Qué decides hacer?",
+    "scenario": "Llego a instalar equipo de fibra en una casa rural y un perro grande y agresivo bloquea el acceso al poste. El cliente me dice 'entre, no muerde, lo juro' y amenaza con calificarme con cero en la app si no instalo hoy. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Digo de no, de cancelar orden directo avisando al base riesgo animal fuerte grave de físico, no expongo al técnico de trabajo manual al no seguro ambiente real a la fuerza canina brava local en patio ni por app ceros falsos.",
-      "pragmatic_distractor": "Arreglo rápido ventana lejos pasando enchufe sin tocar suelo canino con mi brazo largo para conectar cablecito corto con clavo disimulado para aliviar queja al jefe y salvar bono app de ceros falsos de su ruego del dueño enojado.",
-      "evasive_distractor": "Digo falso excuso rápido olvido herramienta base huyendo de colonia peligrosa en camioneta sin mi retorno hasta reasigno central logran mandar rudo valiente y atrevido técnico tonto alternativo valiente perrero gratis en mi gran excusa falsa del hoy.",
-      "rationalized_distractor": "Voy confiando paso firme a perro bravísimo asumiendo cero daño porque amarrado dice su amo y mi bono y chamba vale app diez estrellas arriesgando mordelo por dar plus servicio logrando cliente fiel fuerte heroico a toda prueba en empresa local de valores plenos integrales unidos gigantes valientes en calle siempre solos hoy en ruteos duros bajo sol de las dos aquí en ruta de las cuatro y pico lejos de centrales de seguro social de obrero hoy real.",
-      "sot_checksum": "ops400_m3_options_v1"
+      "integrity_correct": "Cancelo la orden, aviso a base sobre el riesgo animal y no entro al predio; ninguna calificación vale exponerme a una mordida.",
+      "pragmatic_distractor": "Paso el cable por la ventana lateral sin entrar al patio y conecto el equipo desde afuera para evitar el contacto con el perro.",
+      "evasive_distractor": "Le digo al cliente que olvidé una herramienta clave y que mañana regresa otro técnico; me retiro sin reportar el incidente real.",
+      "rationalized_distractor": "Entro confiando en la palabra del dueño porque el perro está amarrado; perder el bono y las estrellas en la app no vale la pena por un susto."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -275,12 +274,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Líder pide fingir conos amarrillos de piso mojado en la bitácora tras resbalón real ajeno que no puso él con un cliente piso de mármol que casi va al suelo por error de mi jefe de área directa hoy que no anduvo en supervisor limpio, yo sin testigos en cruz pasillos grandes vi falta del plástico a la caída real limpia y sola. ¿Qué decides hacer?",
+    "scenario": "Mi jefe me pide que anote en la bitácora que sí había un cono de piso mojado cuando un cliente casi se cae. Yo vi el resbalón y no había ningún cono. No hay testigos. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Reporto la verdad que es cero conito previniendo faltas al área local accidente grave omitido irresponsable del líder principal general y mío, dando verdad directa en hoja actas de accidente de clientes.",
-      "pragmatic_distractor": "Coloco el tripié veloz y pongo ambiguo el acta disimulando 'área prevenida sí' engañando en papel tiempos de caída a tiempos de colocar mi cono amarillo de forma gris blanda difusa suave amoldada general.",
-      "evasive_distractor": "Declaro excusa urgente médica personal rápida saliendo a patio de bodega quejando migrañas forzando gerente a llenar acta solos sus mentiras sin meterme a encubrir en firmas feas mi puño falso sucio malo y mentiroso real al fin hoy a matriz corporativa mía pura legal sin manchas en cien años mías nunca.",
-      "rationalized_distractor": "Miento hoja firmas de jefe apoyando jefe amado puro noble compadre falso conito para saldar al líder mío de castigos rudos crueles centrales corporativos forasteros insensibles inhumanos que despiden a todos sin misericordia humana o aprecio sindical de nuestro frente real unido protector fuerte nuestro local y local nada más hoy."
+      "integrity_correct": "Anoto en el acta lo que vi: no había cono, y reporto el incidente tal como ocurrió.",
+      "pragmatic_distractor": "Pongo el cono de inmediato y lleno el acta anotando que el área ya estaba señalizada, sin precisar el horario exacto.",
+      "evasive_distractor": "Me invento una urgencia y salgo del área para que el gerente llene el acta solo; yo no firmo nada.",
+      "rationalized_distractor": "Firmo con lo que pide el jefe porque corporativo siempre castiga sin contexto, y él es el responsable del área, no yo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -290,12 +289,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Veinte piezas en refacciones cajitas chicas no descritas llegaron libres gratis ocultas fondo foráneo camión gran carga al almacén en mi recibir hoy en piso oscuro. El coordinador exige vender diez secretas robos libres bajo a los clientes cash libre de registro para ganancia mutua dividida fifty cincuenta nuestra libre para la posada fiesta equipo año sin nadie note falta central porque viene gratis del envío perdido allá arriba corporativo gigante de ciudad lejana capital con sobras sin uso que dan por merma local y central ya libres igual aquí y allá hoy. ¿Qué decides hacer?",
+    "scenario": "Al recibir una carga grande, encuentro veinte piezas de refacción que no vienen en la remisión. El coordinador me pide vender diez en efectivo sin registrarlas y repartirnos el dinero. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Obligo alta de remisión oficial sistema base tecleando los extra sobrantes sobrantes a stock logístico final matriz sin encubrir mi líder, no aceptando pactos oscuros malos sobornos sucios tristes reales libres corruptos de aquí a la fecha penal penalizando líder al cien con auditor legal penal final serio y fuerte de la tienda grande nuestra matriz original aquí general en el sur o norte donde sea igual de firme e íntegro sin dudas puras.",
-      "pragmatic_distractor": "Librero y alejo piezas diciendo escondidas bodega alta oscura disculpando vender robos por si central llama llorando rastreo cajitas de regreso a camión reverso mañana, no venderlas ni delatar sobornos rudos callados míos hoy solos en rincón del estante fondo ciego cctv roto o falso del techo dos del piso seis sin ver.",
-      "evasive_distractor": "Invento ciego falso turno fin pidiendo relevar salir hoy huyendo bronca al dejar jefe libre vendiendo robo foráneo suizo a libre de testigos mío escapando impune mi vista y ser oír hablar mudos mis miedos callos finos falsos libres legales falsos hoy aquí de piso rudo pero sordo y ciego en mi vida civil y libre y formal e informal en corporativo inmenso grandote como este falso de los todos felices contentos hoy cobrando su sueldo de los doce días.",
-      "rationalized_distractor": "Sigo pactando repartir libre ganancias buenas pues matriz grandota no checara falta extra en paca de millones pesotes y ganancias suelditos sueltos nos suben ánimo buen a de los buenos jefes compadres nuestros aquí batalladores que los ganadores dueños capitalinos gordos ricos de lejos y fin de la triste y ruda y falsa historia aquí abajo que no duele a jefes grandes millonarios ausentes sin caras reales que ni nombres saben nuestros reales."
+      "integrity_correct": "Doy de alta las veinte piezas en el sistema como sobrante de embarque y le informo al área de logística para que queden en inventario oficial.",
+      "pragmatic_distractor": "Separo las piezas en bodega y le aviso al coordinador que no las muevo hasta que llegue una remisión complementaria que las justifique.",
+      "evasive_distractor": "Me salgo a cubrir otra área y dejo que el coordinador decida qué hacer; yo no toco las piezas ni firmo nada relacionado.",
+      "rationalized_distractor": "Dejo el asunto para mañana porque el embarque llegó por error de corporativo y sin remisión no tengo cómo registrarlas hoy en el sistema."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 07 item 20",
     "sot_checksum": "ops400_m3_options_v1"
