@@ -61,11 +61,13 @@ Marca para corrección cualquier opción que:
 `evasive_distractor`
 - Debe desplazar o posponer la decisión de forma creíble.
 - No debe ser huida absurda.
+- **Nunca debe pedirle explícitamente a alguien más que mienta o encubra.** Eso delata el rol de inmediato. La evasión debe ser pasiva, ambigua o por delegación neutral, no una instrucción de complicidad.
 
 `rationalized_distractor`
 - Debe sonar a autojustificación realista.
 - Puede doblar criterio, pero no debe cruzar a delito descarado.
 - No debe ser algo que el lector descarte de inmediato como "eso ya es robar" o "eso ya es falsificar".
+- **Nunca debe confesar el mal intento como razón.** Si la opción dice "para que no me identifiquen", "para que no quede rastro", "para no tener que responder" o similar, falla. El mal intento debe estar disfrazado de eficiencia, pragmatismo, justicia o lógica operativa. Pregúntate: ¿alguien podría elegir esto creyendo que tiene razón? Si no, es `REWRITE`.
 
 ## Reescritura
 
