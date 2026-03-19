@@ -41,4 +41,4 @@ Regla maestra:
 - [x] M5 batch-05
 - [x] M5 batch-06
 - [x] M5 batch-07
-- [ ] M5 batch-08
+- [x] M5 batch-08
