@@ -20,11 +20,25 @@ Regla maestra:
 - [x] M1 batch-08
 
 ### Module 2
-- [ ] M2 batch-05
-- [ ] M2 batch-06
-- [ ] M2 batch-07
-- [ ] M2 batch-08
+- [x] M2 batch-05
+- [x] M2 batch-06
+- [x] M2 batch-07
+- [x] M2 batch-08
 
-## Extender Más Adelante
+### Module 3
+- [x] M3 batch-05
+- [x] M3 batch-06
+- [x] M3 batch-07
+- [x] M3 batch-08
 
-Cuando existan batches nuevos de expansión para M3-M5, agrégalos aquí antes de lanzar la auditoría.
+### Module 4
+- [x] M4 batch-05
+- [x] M4 batch-06
+- [x] M4 batch-07
+- [x] M4 batch-08
+
+### Module 5
+- [x] M5 batch-05
+- [x] M5 batch-06
+- [x] M5 batch-07
+- [ ] M5 batch-08
