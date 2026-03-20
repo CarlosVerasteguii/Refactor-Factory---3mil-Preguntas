@@ -38,8 +38,11 @@ Si hay conflicto, mandan los batches 01-04 del modulo.
 ## Flujo obligatorio
 
 1. Leer `OPS400_Expansion_Checklist.md`.
-2. Detectar el siguiente batch pendiente.
-3. Identificar:
+2. Determinar el batch objetivo:
+   - Si el usuario paso un batch especifico como argumento (ej. `M3 batch-12`), usar ese directamente.
+   - Si no paso argumento, buscar la primera linea con `- [ ]` (ignorar `- [x]` completados y `- [~]` en progreso).
+3. Inmediatamente marcar esa linea como `- [~]` en el checklist y guardar el archivo. Esto reserva el batch para esta sesion y evita que otra terminal lo tome.
+4. Identificar:
    - modulo
    - `block_id`
    - archivo destino
@@ -72,7 +75,7 @@ Si hay conflicto, mandan los batches 01-04 del modulo.
 - Nunca marques checklist antes de persistir el batch final.
 - Nunca aceptes un bloque solo porque "ya se parece".
 - Nunca escales a otro batch en la misma corrida.
-- Si el batch no queda bien, no lo guardes y no actualices el checklist.
+- Si el batch no queda bien, no lo guardes, devuelve la marca de `- [~]` a `- [ ]` en el checklist y no escales.
 
 ## Contrato con el generador
 
@@ -124,7 +127,7 @@ Cuando el batch pase:
 
 - guarda el JSON final en la carpeta correcta del bloque
 - relee el archivo escrito
-- actualiza el checklist
+- cambia la marca del batch en el checklist de `- [~]` a `- [x]`
 - reporta modulo, batch completado y siguiente pendiente
 
 ## Estilo de trabajo
