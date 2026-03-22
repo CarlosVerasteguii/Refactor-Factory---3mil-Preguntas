@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M4-q221",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Un compañero olvidó su credencial de acceso a la zona restringida de electrónica y me pide que le preste la mía un momento para resolver una urgencia. Yo tengo que terminar mi turno. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No le presto mi credencial y le digo que llame a su supervisor para que gestionen un acceso temporal oficial, aunque pierda su tiempo de urgencia.",
+      "pragmatic_distractor": "Se la presto solo por ese momento y le pido que me la devuelva en cuanto salga.",
+      "evasive_distractor": "Le digo al jefe de turno que mi compañero necesita acceso y que ellos lo gestionen.",
+      "rationalized_distractor": "Se la presto porque ambos tenemos el mismo nivel de acceso; solo olvidó la tarjeta física, no el permiso."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 1",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q222",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Encuentro un contenedor de tamaño mediano sin etiqueta en el pasillo principal del almacén. No hay quien lo reclame y hay operativos pasando seguido. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Cierro el paso por ese tramo y reporto el contenedor como material no identificado antes de que alguien lo manipule, aunque interrumpa el flujo.",
+      "pragmatic_distractor": "Le pongo una etiqueta provisional de 'REVISAR' y lo empujo a una esquina para que no estorbe el tráfico.",
+      "evasive_distractor": "Le tomo foto y la mando al responsable de seguridad para que venga a identificarlo.",
+      "rationalized_distractor": "Lo dejo en su lugar porque si estuviera peligroso, ya alguien lo hubiera movido o señalizado antes."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 2",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q223",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Mi compañero me dice que va a reportar una falla mecánica falsa en su unidad para que lo manden a base antes de tiempo. Me pide que si preguntan lo cubra. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no lo puedo cubrir y que no voy a participar en reportar una falla falsa, aunque quede la tensión entre nosotros.",
+      "pragmatic_distractor": "No digo nada directamente, pero tampoco confirmo nada si alguien me pregunta, para no involucrarme.",
+      "evasive_distractor": "Le digo que haga lo que quiera, pero que no me involucre en nada de lo que pase.",
+      "rationalized_distractor": "Lo dejo pasar porque si la unidad tiene algún detalle menor, el reporte no es del todo falso y él sabrá hasta dónde llega."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 3",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q224",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El portillón de la caja del camión cierra pero traquetea fuerte con el movimiento del motor. Llevo carga y tengo dos horas de ruta por delante. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No arranco hasta que revisen y aseguren el portillón correctamente, aunque retrase la salida.",
+      "pragmatic_distractor": "Le pongo un candado extra para que aunque vibre no se abra durante el camino.",
+      "evasive_distractor": "Le aviso al jefe de patio y espero a que alguien venga a revisarlo antes de salir.",
+      "rationalized_distractor": "Arranco porque el traqueteo es normal en unidades de carga y el portillón sí cierra; si fuera problema ya no cerraría."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 4",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q225",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Veo que el cinturón lumbar de un compañero tiene la correa lateral rota y queda mal ajustado. Me dice que fue aprobado en la última inspección y que tiene mucho trabajo pendiente. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no use ese cinturón y que reporte el equipo dañado para conseguir uno nuevo, aunque se incomode y se atrase.",
+      "pragmatic_distractor": "Le amarro la correa rota con un nudo provisional para que aguante el turno de hoy.",
+      "evasive_distractor": "Le recuerdo que con la correa rota el cinturón no protege bien y que él decida si lo sigue usando.",
+      "rationalized_distractor": "Lo dejo porque si pasó la inspección es que esa correa no era parte crítica del funcionamiento del cinturón."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 5",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q226",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El cliente dice que el paquete es para su esposa y que él puede firmar de recibido en nombre de ella ya que viven ahí. La guía pide firma del destinatario. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No acepto que firme como otra persona. Registro el intento fallido o le pido que la destinataria esté presente, aunque el cliente se moleste.",
+      "pragmatic_distractor": "Le permito firmar con su propio nombre y anoto 'recibió familiar en el domicilio' en la guía.",
+      "evasive_distractor": "Le marco a la base para preguntar si puedo hacer la entrega a un familiar sin presencia del destinatario.",
+      "rationalized_distractor": "Lo dejo firmar como ella porque viven en la misma casa; si hay problema, la destinataria puede reportarlo directamente."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 6",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q227",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Tengo que maniobrar en reversa en un callejón sin visibilidad y no hay banderero disponible. El cliente urge la descarga porque tiene una cita después. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No hago la reversa sin banderero. Espero o busco a alguien que me guíe antes de maniobrar, aunque el cliente se desespere.",
+      "pragmatic_distractor": "Uso los espejos al máximo, activo la cámara de reversa y avanzo muy despacio pitando seguido.",
+      "evasive_distractor": "Le pido al cliente que baje y me guíe desde afuera para poder hacer la maniobra.",
+      "rationalized_distractor": "He hecho esa reversa antes sin banderero y el callejón se ve bastante bien con los espejos; no ha pasado nada."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 7",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q228",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al sacar un paquete de la unidad noto que el fondo está aplastado aunque la etiqueta dice 'frágil - este lado arriba'. Me faltan dos entregas más. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No entrego el paquete, lo separo, levanto reporte de daño y lo devuelvo a base, aunque baje mi porcentaje de entregas del día.",
+      "pragmatic_distractor": "Entrego el paquete y le aviso al cliente que lo recibió con el daño visible para que él haga su reclamación.",
+      "evasive_distractor": "Le tomo foto al daño y llamo a la base para que me digan si lo entrego o lo devuelvo.",
+      "rationalized_distractor": "Lo entrego porque no sé si el contenido está dañado; el aplastamiento es de la caja exterior y el cliente puede reclamar directamente al vendedor."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 8",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q229",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El cliente abre el paquete frente a mí y nota que falta uno de los dos artículos del pedido. Se pone agresivo y me dice que yo me lo robé. Tengo tres paradas más. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Mantengo la calma, levanto el reporte de faltante con foto, no acepto la acusación y llamo a la base para el proceso formal, aunque me tarde y el cliente siga agresivo.",
+      "pragmatic_distractor": "Le ofrezco al cliente que llame él mismo a la base para que gestionen el faltante y me voy a mis otras paradas.",
+      "evasive_distractor": "Le digo que llame a servicio al cliente del vendedor porque yo solo hago la entrega y no tengo acceso al contenido.",
+      "rationalized_distractor": "Firmo la entrega con nota de 'faltante reportado por cliente' y me voy para no perder las otras paradas."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 9",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q230",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El celular con la app de entregas se quedó sin batería en la penúltima parada. No puedo confirmar la última entrega ni escanear la guía. Me quedan cuarenta minutos de autonomía en la unidad. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No hago la entrega sin poder registrarla en el sistema. Regreso a base y reporto la situación, aunque cuente como entrega fallida del día.",
+      "pragmatic_distractor": "Le pido el celular al cliente para tomar foto de la guía como evidencia y completo la entrega con registro manual.",
+      "evasive_distractor": "Le llamo por radio a la base para que ellos registren la entrega de su lado mientras yo la hago.",
+      "rationalized_distractor": "Entrego el paquete y que el cliente firme la guía impresa; cuando cargue el celular subo la foto y ya tengo respaldo."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 10",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q231",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al revisar el fondo de mi caja al inicio del turno encuentro tres billetes que no están registrados en el inventario inicial. El cajero del turno anterior ya se fue. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Reporto el sobrante al supervisor antes de abrir operación, aunque tenga que esperar y el primer cliente espere.",
+      "pragmatic_distractor": "Anoto los billetes en mi libreta con hora y descripción y los dejo en el fondo para reportarlo al cierre del turno.",
+      "evasive_distractor": "Le mando mensaje al cajero anterior para preguntarle si sabe a qué corresponden esos billetes.",
+      "rationalized_distractor": "Los dejo en la caja porque seguro son un sobrante del turno anterior que quedó registrado en algún lado o es parte del fondo oficial."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 11",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q232",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Un cliente está grabando con el celular y exige hablar con el gerente por un cobro que según él está mal. El gerente no está disponible por veinte minutos y la fila ya murmura. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Sigo el proceso de atención a quejas paso a paso mientras espero al gerente, aunque el cliente siga grabando y la fila me juzgue.",
+      "pragmatic_distractor": "Le aplico el precio que pide el cliente para que deje de grabar y se vaya antes de que llegue el gerente.",
+      "evasive_distractor": "Le digo al cliente que el gerente llega en veinte minutos y que espere o regrese cuando esté disponible.",
+      "rationalized_distractor": "Le doy una atención preferencial sin cobrarle lo cuestionado para que el video no salga en redes y cause un problema mayor a la empresa."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 12",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q233",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Un cliente insiste en que vio un precio de oferta en el anaquel pero el sistema cobra el precio regular. Hay gente esperando. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le aplico el precio del sistema y le explico el proceso para reclamar el precio del anaquel, aunque el cliente se vaya enojado.",
+      "pragmatic_distractor": "Voy al anaquel a verificar el precio antes de cobrar, aunque tarde dos minutos y la fila espere.",
+      "evasive_distractor": "Le pido al supervisor que vaya al anaquel a verificar el precio y cobro lo que diga el supervisor.",
+      "rationalized_distractor": "Le cobro el precio que dice el cliente porque si hay una etiqueta que lo confundió, la empresa tiene la obligación de respetarlo."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 13",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q234",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al procesar la devolución de un artículo de tres que compró el cliente, el sistema registra la devolución como total y muestra en pantalla el reembolso completo de la compra. El cliente ya lo vio. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Detengo la transacción, la cancelo y la rehago correctamente antes de dar cualquier efectivo, aunque el cliente se confunda y tome tiempo.",
+      "pragmatic_distractor": "Completo la transacción con el monto total que mostró el sistema y anoto la diferencia en mi bitácora para reportarlo al cierre.",
+      "evasive_distractor": "Llamo al supervisor antes de dar el efectivo para que él autorice cómo proceder.",
+      "rationalized_distractor": "Doy el reembolso total que el sistema registró porque si lo procesó así, la empresa tiene cómo revertirlo si es un error."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 14",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q235",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Un cliente con aspecto nervioso quiere pagar una compra grande con muchos billetes arrugados de distintas denominaciones. La fila está larga y está contando lento. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Cuento todos los billetes con calma usando el proceso normal, anoto la transacción con detalle y si hay indicios de que algo no está bien lo reporto al supervisor antes de finalizar.",
+      "pragmatic_distractor": "Cuento los billetes de mayor denominación primero para agilizar y acepto si el total cuadra.",
+      "evasive_distractor": "Le digo al cliente que solo acepto en denominaciones mayores para poder agilizar la fila.",
+      "rationalized_distractor": "Acepto el pago rápido porque los billetes se ven normales y no es mi responsabilidad investigar de dónde viene el dinero."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 15",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q236",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al detener la unidad en una rampa con ligera pendiente noto que el freno de estacionamiento no la sostiene bien: se mueve lento cuando apago el motor. Tengo una entrega que hacer ahí mismo. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No bajo de la unidad hasta conseguir cuñas u otro aseguramiento, aunque tarde más en hacer la entrega.",
+      "pragmatic_distractor": "Dejo la unidad en primera con el freno de mano apretado al máximo y bajo rápido a hacer la entrega.",
+      "evasive_distractor": "Le aviso al receptor para que alguien se quede vigilando la unidad mientras yo bajo el paquete.",
+      "rationalized_distractor": "La pendiente es poca y el freno al máximo más la primera son suficientes para los minutos que tarda la entrega."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 16",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q237",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al aminorar velocidad para llegar a la parada, un pasajero abre la puerta y baja antes de que la camioneta de personal se detenga por completo. El resto de los pasajeros va adentro. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Paro la unidad de inmediato, me aseguro de que el pasajero esté bien y hago un llamado general sobre la regla de no bajar antes de parar, aunque lleguen tarde.",
+      "pragmatic_distractor": "Termino de frenar, veo que el pasajero está bien y le llamo la atención para que no lo vuelva a hacer.",
+      "evasive_distractor": "Me aseguro de que el pasajero esté bien y sigo la ruta sin hacer más mención del incidente.",
+      "rationalized_distractor": "Si el pasajero ya bajó y está bien, detener la unidad ahora solo alarma a los demás; lo mejor es seguir y decirle algo al final del viaje."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 17",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q238",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Por radio mi compañero me avisa que hay un accidente que bloquea mi ruta y me dice que conoce a alguien del ayuntamiento que puede bajar el semáforo en ese cruce para que pase sin esperar. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Espero en la ruta oficial o llamo a la base para que me den instrucciones de desvío autorizado, sin aceptar la intervención del semáforo.",
+      "pragmatic_distractor": "Le digo al compañero que primero consulte a la base si esa opción es viable antes de hacer la llamada.",
+      "evasive_distractor": "Espero en la ruta sin responder al compañero y veo cuánto tarda en despejarse el accidente solo.",
+      "rationalized_distractor": "Acepto que el compañero haga la llamada porque es solo bajar un semáforo que nadie va a ver y nos ahorra una hora de retraso."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 18",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q239",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al arrancar la unidad noto un olor claro a gasolina. El tablero no marca ninguna falla. El supervisor me dice que revise si hay goteo debajo antes de salir. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Apago el motor y reporto el olor como posible fuga antes de revisar nada yo mismo, porque una revisión con motor encendido y posible fuga es riesgo de incendio.",
+      "pragmatic_distractor": "Me bajo, reviso debajo del motor si hay goteo visible y si no encuentro nada evidente arranco.",
+      "evasive_distractor": "Le pido al mecánico que venga a oler el motor antes de que yo toque algo.",
+      "rationalized_distractor": "Si el tablero no marca nada no hay fuga crítica; el olor puede ser de gasolina derramada externamente que no afecta la operación."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 19",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q240",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Maniobrando en el patio rozo con la esquina de mi unidad una columna y le dejo una rayadura pequeña. No hay testigos visibles y nadie parece haberlo notado. Tengo que salir a ruta en diez minutos. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Reporto el incidente antes de salir a ruta aunque nadie lo haya visto y aunque me puedan cargar el costo del daño.",
+      "pragmatic_distractor": "Le tomo foto al raspon y se la mando al supervisor por mensaje antes de salir, para que quede algún registro.",
+      "evasive_distractor": "Salgo a mi ruta y al regresar hago el reporte con más calma y tiempo.",
+      "rationalized_distractor": "No reporto porque el raspon es mínimo y si nadie lo vio no tiene consecuencias operativas para nadie."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 12 item 20",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]
