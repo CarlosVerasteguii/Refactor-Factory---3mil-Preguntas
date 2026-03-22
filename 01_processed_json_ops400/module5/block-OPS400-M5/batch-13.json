@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M5-q241",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Tu compañero cargó por error el pedido de otra tienda en tu camión. Si lo regresas al andén a corregirlo, la ruta se atrasa más de una hora. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Regreso al andén para descargar el pedido equivocado y cargar el correcto, aunque la ruta se atrase y me pierda la hora de comida.",
+      "pragmatic_distractor": "Le marco al chofer de la otra ruta para ver si nos encontramos a medio camino y nos intercambiamos los pedidos.",
+      "evasive_distractor": "Le aviso a control de tráfico que el pedido está cruzado para que ellos decidan si lo reprograman o lo resolvemos en ruta.",
+      "rationalized_distractor": "Lo entrego en la otra tienda de paso y ya que ellos lo redireccionen al destino correcto; es más rápido que regresar al andén."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 1",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q242",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Llegas al turno y descubres que la máquina de corte tiene el candado de seguridad roto. Tu compañero quiere operarla así para sacar los cortes del día. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No dejo que la prendan y levanto el reporte de falla para que mantenimiento venga a repararla, aunque los cortes se atrasen todo el día.",
+      "pragmatic_distractor": "Le amarro un alambre grueso al mecanismo de seguridad para que funcione como traba provisional mientras sale la reparación.",
+      "evasive_distractor": "Le mando mensaje al jefe de mantenimiento y me voy a otra área hasta que llegue alguien a revisarla.",
+      "rationalized_distractor": "La máquina lleva años así y nunca ha pasado nada; el candado es un mecanismo extra que no afecta el corte directo."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 2",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q243",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "En el GPS del camión notas que tu compañero se desvió veinte minutos para ir a dejar a su hijo a la escuela. Te pide que no digas nada porque no afectó ninguna entrega. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que eso queda registrado en el sistema y que tiene que reportarlo antes de que lo detecten en monitoreo, aunque se enoje conmigo.",
+      "pragmatic_distractor": "Le digo que la próxima vez avise al coordinador antes de la salida para que le ajusten la ruta sin esconderlo.",
+      "evasive_distractor": "Me hago el que no vi la pantalla y sigo con lo mío sin meterme en el tema del GPS.",
+      "rationalized_distractor": "No afectó ninguna entrega ni el horario; penalizar algo que no tuvo consecuencia es castigar por castigar."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 3",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q244",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "El equipo nocturno dejó pendiente la fumigación del área de abarrotes. El encargado quiere que surtas ese pasillo sin esperarte a que terminen. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Me niego a surtir hasta que la fumigación termine y el pasillo esté liberado, aunque el encargado me presione y la meta se atrase.",
+      "pragmatic_distractor": "Empiezo a surtir por el extremo más lejano del pasillo donde el químico ya se secó para ir avanzando algo.",
+      "evasive_distractor": "Le pido al encargado que me asigne otro pasillo temporal y que sea él quien decida cuándo está listo el de abarrotes.",
+      "rationalized_distractor": "El producto viene empacado y sellado; el químico de fumigación no penetra el empaque y la ventilación del local lo disipa en minutos."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 4",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q245",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "En la junta rápida de inicio de turno, tu compañero se atribuye una idea de mejora que tú le diste ayer en el comedor. Si lo corriges frente a todos se va a armar un problema. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Menciono con calma que esa idea la platicamos juntos ayer para que quede claro, aunque se ponga incómodo el ambiente.",
+      "pragmatic_distractor": "Lo dejo pasar en la junta y después le digo en privado que la próxima vez me incluya cuando presente algo que surgió entre los dos.",
+      "evasive_distractor": "Me quedo callado y después le comento al encargado en corto que yo fui quien propuso eso originalmente.",
+      "rationalized_distractor": "No importa quién la dijo primero; lo que cuenta es que la idea se aplique y el equipo mejore, no quién se lleve el crédito."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 5",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q246",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "El refrigerador de la isla de lácteos marca cuatro grados más de lo permitido. Tu compañero quiere seguir acomodando el producto porque 'ya viene el técnico a arreglarlo en un rato'. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Saco el producto del refrigerador y lo guardo en la cámara fría hasta que el técnico lo repare, aunque la isla quede vacía frente a los clientes.",
+      "pragmatic_distractor": "Pongo bolsas de hielo del área de congelados alrededor de los lácteos para bajar la temperatura mientras llega el técnico.",
+      "evasive_distractor": "Le mando mensaje al jefe de perecederos para que él decida si dejamos el producto ahí o lo movemos a la cámara.",
+      "rationalized_distractor": "Son cuatro grados por un par de horas; los lácteos sellados aguantan bien y el técnico ya viene en camino, no hace falta mover todo."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 6",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q247",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Tu compañero infló las horas extra del reporte semanal y te pide que firmes como testigo de que sí las trabajaron. Dice que el encargado nunca revisa esos papeles. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo firmar algo que no fue cierto y que reporte las horas que realmente trabajó, aunque se enoje y diga que le estoy fallando.",
+      "pragmatic_distractor": "Le sugiero que ajuste el número a algo más cercano a lo real para que no se vea tan inflado si alguien lo revisa.",
+      "evasive_distractor": "Le digo que busque a otro compañero que sí haya estado presente esas horas y que con él firme su reporte.",
+      "rationalized_distractor": "El encargado nos debe horas de tiempo extra de meses pasados que nunca nos pagó; inflar un poco este reporte solo empata lo que la empresa ya nos debe."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 7",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q248",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Al revisar la unidad antes de salir, ves que el nivel de aceite del motor está por debajo del mínimo. Tu compañero dice que así aguanta la ruta de hoy. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No salgo hasta que le pongamos aceite o la lleven a servicio, aunque la ruta se retrase y el coordinador nos reclame.",
+      "pragmatic_distractor": "Le pido que paremos en la primera gasolinera de la ruta y le metamos un litro antes de agarrar carretera.",
+      "evasive_distractor": "Aviso a flotilla por sistema que la unidad necesita revisión y que ellos decidan si nos autorizan la salida o no.",
+      "rationalized_distractor": "El camión ya hizo esta ruta con el mismo nivel la semana pasada y no pasó nada; es un motor robusto y un poco abajo del mínimo no lo daña."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 8",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q249",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Tu compañero está tomando producto del anaquel para comer en su descanso sin pasar por caja, prometiendo que lo paga al rato. Ya lo ha hecho antes. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo directamente que primero tiene que pagar en caja antes de consumir el producto, aunque me vea como el que arruina la convivencia.",
+      "pragmatic_distractor": "Le digo que al menos saque el ticket desde su app para que quede registrado el cobro aunque lo consuma antes de pasar a caja.",
+      "evasive_distractor": "Me salgo del comedor sin decirle nada para no ser testigo y dejo que sea su responsabilidad si lo atrapan.",
+      "rationalized_distractor": "Si al final del turno siempre paga, no hay diferencia entre pagar antes o después; lo importante es que el dinero entre a caja."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 9",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q250",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "En la entrega de un refrigerador, el cliente te pide que lo conecten y lo prueben. Tu compañero quiere dejarlo solo desempacado y salir corriendo para alcanzar las demás entregas del día. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Conecto el refrigerador y verifico que funcione frente al cliente aunque eso me atrase veinte minutos en la ruta.",
+      "pragmatic_distractor": "Le explico al cliente cómo conectarlo él solo con las instrucciones del manual que viene en la caja y le dejo mi número por si falla.",
+      "evasive_distractor": "Le digo al cliente que llame a servicio al cliente si tiene problemas porque la prueba no está incluida en la entrega estándar.",
+      "rationalized_distractor": "El aparato viene sellado de fábrica con garantía de encendido; si falla, el cliente levanta su caso y le mandan técnico en veinticuatro horas."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 10",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q251",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Descubres que el compañero del turno anterior dejó documentada una temperatura de cámara que no coincide con lo que marca el termómetro ahora. Si lo reportas se arma una investigación larga. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Registro la temperatura real que estoy viendo y reporto la discrepancia al encargado aunque eso genere una investigación incómoda para el otro turno.",
+      "pragmatic_distractor": "Anoto la temperatura actual y le mando un mensaje al compañero del turno anterior para que él aclare su lectura antes de que escale.",
+      "evasive_distractor": "Dejo la lectura del turno anterior como está y solo anoto la mía; si hay diferencia que la detecte el sistema de monitoreo.",
+      "rationalized_distractor": "El termómetro analógico tiene un margen de error amplio; la diferencia puede ser solo la variación normal entre turnos y no vale la pena armar un caso."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 11",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q252",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Un compañero lleva tres días usando el mismo mandil sin lavarlo en el área de preparación de alimentos. Cuando se lo mencionas dice que ya no huele y que no tiene otro limpio. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le consigo un mandil limpio del almacén de uniformes y le digo que no puede seguir operando con uno sucio, aunque se ofenda.",
+      "pragmatic_distractor": "Le rocío desinfectante de cocina al mandil encima para que al menos esté descontaminado mientras consigue uno limpio.",
+      "evasive_distractor": "Le digo al encargado de higiene que revise los uniformes del turno para que él decida quién necesita cambio.",
+      "rationalized_distractor": "El mandil cubre ropa, no toca producto directo; mientras use guantes y cofia, el mandil es más estético que sanitario."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 12",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q253",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "El equipo está descargando un camión contra reloj. Tu compañero revienta una caja de vinos y quiere barrer los vidrios rápido al borde del andén sin reportar la merma. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Paro la descarga un momento, limpio bien los vidrios con guantes y levanto el reporte de merma antes de seguir, aunque perdamos tiempo.",
+      "pragmatic_distractor": "Le ayudo a barrer los vidrios al contenedor de basura del andén y le digo que al menos anote las botellas rotas en la libreta de incidencias.",
+      "evasive_distractor": "Le digo al encargado de recibo que hubo una caja rota para que él registre la merma mientras nosotros seguimos descargando.",
+      "rationalized_distractor": "Son tres botellas de un cargamento de doscientas; la merma por descarga es esperada y el proveedor la absorbe en el seguro de transporte."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 13",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q254",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Una compañera nueva tiene pánico de usar el montacargas para bajar cajas del rack alto. El equipo le dice que si no lo usa, que se salga de la cuadrilla. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le ofrezco enseñarle la operación paso a paso y bajo las primeras cajas con ella aunque eso atrase a la cuadrilla media hora.",
+      "pragmatic_distractor": "Le digo que se quede abajo recibiendo las cajas y yo bajo todo con el montacargas para que ella no se paralice.",
+      "evasive_distractor": "Le sugiero que hable con el instructor de capacitación para que le repita el entrenamiento antes de volver a intentarlo.",
+      "rationalized_distractor": "Si no se siente lista para operar el equipo, no debería estar en esta cuadrilla; presionarla es peor porque pone en riesgo a todos."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 14",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q255",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "El extintor del pasillo de electrónicos está vencido y tu compañero le puso una hoja encima para tapar la fecha. Dice que el de seguridad nunca revisa esa zona. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Quito la hoja, reporto el extintor vencido y le pido al encargado de seguridad que lo cambie, aunque mi compañero diga que estoy exagerando.",
+      "pragmatic_distractor": "Mando la foto del extintor vencido al grupo de WhatsApp del turno para que alguien de seguridad lo vea y actúe sin que yo tenga que escalar.",
+      "evasive_distractor": "Dejo la hoja donde está y mando un correo a la empresa de mantenimiento de extintores para que ellos pasen a revisarlo.",
+      "rationalized_distractor": "El extintor tiene polvo químico dentro todavía; la fecha de vencimiento es un trámite de certificación, no significa que el aparato dejó de funcionar."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 15",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q256",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Tu compañero recibió una devolución de una pantalla y la metió directo al anaquel de venta sin revisar si el contenido de la caja está completo. Ya la puso en exhibición. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Bajo la caja del anaquel, la abro para verificar que el contenido esté completo y en buen estado, aunque mi compañero diga que es perder el tiempo.",
+      "pragmatic_distractor": "Le pido que al menos pese la caja para compararla con el peso original y confirmar que no faltan piezas adentro.",
+      "evasive_distractor": "Le aviso al encargado de devoluciones que hay una pantalla sin revisión en piso para que él decida si la bajan o la dejan.",
+      "rationalized_distractor": "La caja viene con el sello de fábrica intacto; si el cliente devolvió sin abrir, no tiene sentido abrirla nosotros y arriesgarnos a dañarla."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 16",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q257",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Tu compañero quiere mandar un correo al corporativo quejándose del gerente y te pide que firmes junto con él. Si pones tu nombre, puedes ganarte represalias. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Si la queja es legítima, le digo que sí pongo mi nombre y que lo mandemos por el canal oficial de denuncias para que quede protegido.",
+      "pragmatic_distractor": "Le digo que mejor lo mande anónimo por el buzón de ética para que la queja llegue sin que nos identifiquen.",
+      "evasive_distractor": "Le digo que yo no firmo pero que tampoco lo voy a detener; que haga lo que crea correcto sin meterme a mí.",
+      "rationalized_distractor": "Firmar algo así sin pruebas sólidas solo nos pone en la mira a los dos; es mejor aguantar un rato y juntar más evidencia antes de dar ese paso."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 17",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q258",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Es cambio de turno y notas que la bitácora de seguridad del andén tiene tres horas sin registro. El guardia saliente te dice que no pasó nada y que la llenes tú con lo que creas. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no voy a llenar algo que no presencié y le pido que él complete su parte antes de irse, aunque se retrase su salida.",
+      "pragmatic_distractor": "Le escribo en la bitácora 'sin novedad' en las horas vacías y le pongo mi firma solo a partir de la hora en que yo empecé.",
+      "evasive_distractor": "Le aviso al coordinador de seguridad que la bitácora tiene horas sin llenar para que él decida qué procede con el guardia saliente.",
+      "rationalized_distractor": "Si no pasó nada, poner 'sin novedad' no es mentir; es completar un trámite administrativo que refleja lo que realmente ocurrió: nada."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 18",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q259",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Un compañero de surtido pone las cajas más pesadas hasta arriba del anaquel y las ligeras abajo, al revés de como dice el protocolo, para acabar más rápido. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le pido que reacomode poniendo las pesadas abajo como indica el protocolo, aunque tengamos que deshacer lo que ya puso.",
+      "pragmatic_distractor": "Le ayudo a mover las más pesadas al segundo nivel para que al menos no estén en el más alto y sea menos riesgo de que caigan.",
+      "evasive_distractor": "Le digo al encargado de pasillo que revise el acomodo de esa sección para que sea él quien le pida el reacomodo.",
+      "rationalized_distractor": "El anaquel está diseñado para aguantar el peso en cualquier nivel; ponerlas arriba no cambia la resistencia de la estructura."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 19",
+    "sot_checksum": "ops400_m5_options_v1"
+  },
+  {
+    "id": "block-OPS400-M5-q260",
+    "module_id": 5,
+    "block_id": "OPS400-M5",
+    "type": "options",
+    "scenario": "Terminas tu turno y al salir ves que un compañero del turno entrante está estacionando la camioneta de reparto encima de la rampa de acceso para sillas de ruedas. Si lo corriges, llegas tarde a tu casa. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Me regreso a decirle que mueva la camioneta de la rampa aunque eso me haga perder el transporte de regreso.",
+      "pragmatic_distractor": "Le mando un mensaje rápido al grupo del turno entrante avisando que la rampa está bloqueada para que alguien lo mueva.",
+      "evasive_distractor": "Le digo al guardia de caseta que hay un vehículo mal estacionado para que él lo resuelva mientras yo me voy.",
+      "rationalized_distractor": "La camioneta va a estar ahí solo un rato mientras descarga; a esa hora ya no hay clientes en silla de ruedas y al terminar la va a mover."
+    },
+    "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 13 item 20",
+    "sot_checksum": "ops400_m5_options_v1"
+  }
+]
