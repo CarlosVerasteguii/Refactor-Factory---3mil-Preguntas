@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M1-q261",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Tuviste que desviarte de tu ruta por un asunto personal y llegaste tarde a dos entregas. Tu compañero te dice que anotes en la bitácora que hubo tráfico intenso para que no te descuenten el tiempo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Anoto la causa real del retraso en la bitácora, aunque me penalicen el tiempo.",
+      "pragmatic_distractor": "Anoto 'imprevisto de ruta' sin especificar y al llegar a base le explico al encargado lo que pasó.",
+      "evasive_distractor": "Dejo la causa en blanco y espero que el encargado me pregunte para contárselo personalmente.",
+      "rationalized_distractor": "Pongo tráfico porque igual me retrasé, la causa da lo mismo para el registro y así no abro una investigación sin necesidad."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 1",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q262",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "En el área de producción te avisan que la materia prima del siguiente lote tiene fecha de uso vencida desde ayer. El encargado te dice que la uses igual porque el reabasto no llega hasta mañana y parar la línea cuesta más. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Me niego a usar la materia prima vencida y pido que paren la línea hasta que llegue el reabasto correcto.",
+      "pragmatic_distractor": "Le aviso al área de calidad para que evalúen si el vencimiento de un día afecta el producto antes de continuar.",
+      "evasive_distractor": "Le digo al encargado que la decisión es suya y que la tome él; yo proceso lo que me autoricen formalmente.",
+      "rationalized_distractor": "La uso porque venció apenas ayer, el producto ya salió de líneas peores y parar nos cuesta a todos el bono."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 2",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q263",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al entregar un paquete el cliente te dice que no sabe firmar y te pide que pongas tú su nombre en el acuse. Vas con tiempo justo y él insiste en que ya lo recibió. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo firmar por él y le ofrezco que imprima su huella o que autorice a alguien de su domicilio.",
+      "pragmatic_distractor": "Le muestro que puede poner una cruz o una marca personal para que quede constancia del recibo.",
+      "evasive_distractor": "Marco el intento como fallido y lo reprogramo; si no puede firmar no puedo cerrar la entrega.",
+      "rationalized_distractor": "Firmo con sus datos porque él ya tiene el paquete en las manos y cualquier reclamación queda descartada."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 3",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q264",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Necesitas consultar un módulo del sistema al que tu perfil no tiene acceso. Tu jefe directo te da sus credenciales y te dice que entres tú porque él está en junta y el reporte es urgente. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo usar sus credenciales aunque me las dé él mismo y le pido que salga un momento o que nos esperen.",
+      "pragmatic_distractor": "Le pido que acceda desde su teléfono en la junta y que me comparta solo el dato que necesito.",
+      "evasive_distractor": "Espero a que salga de la junta para que él mismo haga la consulta con su acceso.",
+      "rationalized_distractor": "Entro con sus credenciales porque él me lo autorizó, es urgente y no voy a modificar nada, solo consultar."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 4",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q265",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Recibes un pedido del proveedor y al contarlo te faltan 4 piezas, pero el encargado te dice que firmes la recepción completa porque el sistema de cierre ya no acepta cambios y el proveedor va a reponer mañana. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No firmo como completo; registro las piezas que físicamente recibí aunque el sistema proteste o tenga que escalar.",
+      "pragmatic_distractor": "Hago una nota de diferencia firmada por mí y por el encargado para que quede registrado el faltante aunque el sistema marque completo.",
+      "evasive_distractor": "Le digo al encargado que él firme la recepción bajo su responsabilidad; yo no pongo mi nombre en algo que no está completo.",
+      "rationalized_distractor": "Firmo completo porque el proveedor lo repone mañana, es un trámite de cierre y la diferencia se va a corregir de todas formas."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 5",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q266",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Un conocido tuyo llega sin gafete y necesita entrar a una zona de acceso controlado. Te pide que le prestes tu chaleco de la empresa para que parezca personal y lo dejen pasar. Dice que tarda diez minutos. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo prestarle el chaleco y que si necesita entrar tiene que tramitar su acceso por el canal correcto.",
+      "pragmatic_distractor": "Lo llevo al módulo de visitas para que gestione un pase temporal con identificación.",
+      "evasive_distractor": "Le digo que no traigo el chaleco conmigo aunque sí lo tenga, para salirme del tema sin confrontarlo.",
+      "rationalized_distractor": "Se lo presto porque lo conozco, son diez minutos y nadie va a revisar quién entró con chaleco puesto."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 6",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q267",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al pesar la carga en andén, el camión sale 200 kilos arriba del límite autorizado. El operador te dice que ajustes la báscula 'un poco' para que el número quede dentro del rango y no tengas que descargar y rearmar. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Me niego a tocar la báscula y le digo que hay que descargar lo necesario para que el peso quede dentro del límite real.",
+      "pragmatic_distractor": "Llamo al encargado de logística para ver si hay un margen de tolerancia documentado antes de tomar cualquier decisión.",
+      "evasive_distractor": "Le digo que yo no sé cómo ajustar la báscula y que él hable con mantenimiento si quiere cambiar algo.",
+      "rationalized_distractor": "Ajusto porque 200 kilos en un camión de varios toneladas es una diferencia mínima que los frenos aguantan de sobra."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 7",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q268",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al cerrar un evento especial en el punto de venta te sobran 350 pesos en caja que no cuadran con ningún cobro registrado. Tu compañero dice que los repartamos entre los que trabajamos el evento porque 'seguro fue propina de los clientes'. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Reporto el sobrante al encargado para que quede registrado y se investigue antes de cerrarse el corte.",
+      "pragmatic_distractor": "Anoto el sobrante con hora y monto en el registro del evento y espero instrucciones del encargado.",
+      "evasive_distractor": "Dejo los billetes en el cajón con una nota y me retiro; el encargado que los encuentre los resolverá.",
+      "rationalized_distractor": "Los repartimos porque trabajamos el evento, el sobrante no tiene dueño claro y la empresa no los va a buscar."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 8",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q269",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "En ruta un cliente te llama para pedirte que le entregues en una dirección diferente a la de la guía porque está en otro lado. Ya vas a media ruta. El sistema no tiene actualización y la nueva dirección está fuera de tu zona. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le explico que no puedo cambiar la dirección sin actualizarla en el sistema y le digo cómo solicitarlo por el canal correcto.",
+      "pragmatic_distractor": "Lo contacto con el área de soporte para que actualicen la guía en tiempo real y me den autorización para el desvío.",
+      "evasive_distractor": "Sigo a la dirección original y si no hay nadie marco intento fallido; que el sistema lo reprograme al día siguiente.",
+      "rationalized_distractor": "Me desvío porque el cliente ya me lo pidió directamente y así cierro la entrega hoy sin que quede fallida en mi registro."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 9",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q270",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al regresar a base notas que la camioneta tiene un golpe lateral que no tenía al salir. Tu compañero que manejó dice que fue un tope en una bodega y te pide que en el reporte pongas que el golpe ya estaba cuando la recibieron para que no lo culpen a él. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo firmar un reporte con una versión que sé que no es verdad y que el golpe tiene que reportarse como ocurrió hoy.",
+      "pragmatic_distractor": "Le aconsejo que reporte él mismo el incidente con la versión correcta; así el proceso es más leve que si lo descubren después.",
+      "evasive_distractor": "Dejo que él llene el reporte solo; si pone algo falso es su firma, no la mía.",
+      "rationalized_distractor": "Pongo que ya estaba porque fue un accidente sin intención y si lo culpan a él puede perder el empleo por algo menor."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 10",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q271",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Un cliente trae a devolver un artículo electrónico diciendo que nunca funcionó. Al revisarlo notas que tiene arañazos internos y señales claras de uso. Él insiste en que así venía y pide reembolso completo. El encargado no está. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo procesar la devolución con el daño visible y le explico que tiene que esperar al encargado para que evalúe el caso.",
+      "pragmatic_distractor": "Tomo fotos del estado del artículo y anoto las observaciones en el sistema para que el encargado decida cuando llegue.",
+      "evasive_distractor": "Le pido que regrese otro día cuando esté el encargado para que él resuelva; yo no tomo esa decisión.",
+      "rationalized_distractor": "Le hago la devolución porque si no levanta una queja y la empresa termina haciendo el reembolso igual, pero con peor imagen."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 11",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q272",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al armar un pedido de última hora no encuentras el artículo exacto en almacén. Un compañero te sugiere que pongas uno similar de otra marca sin avisar al cliente y lo registres con el código del original para que la guía cuadre. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No sustituyo el artículo sin autorización; reporto el faltante y espero instrucciones antes de cerrar el pedido.",
+      "pragmatic_distractor": "Contacto al cliente para ofrecerle el sustituto y si acepta lo registro con el código correcto del producto que realmente va.",
+      "evasive_distractor": "Cierro el pedido como pendiente y lo paso a soporte para que ellos busquen el artículo o hablen con el cliente.",
+      "rationalized_distractor": "Pongo el sustituto porque es casi igual, el cliente no va a notar la diferencia y así el pedido sale en tiempo."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 12",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q273",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Un compañero te pide que lo cubras media hora en su estación porque tiene una diligencia personal urgente. No hay permiso registrado y el supervisor no sabe que se va a ir. Te dice que es solo por hoy y que luego te cubre a ti. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo cubrirlo sin que el supervisor lo sepa; que él avise antes de irse.",
+      "pragmatic_distractor": "Le digo que le ayudo mientras él va a avisar al supervisor para que quede registrado.",
+      "evasive_distractor": "Me quedo cerca de su estación pero sin asumir formalmente su puesto para no comprometerme.",
+      "rationalized_distractor": "Lo cubro en silencio porque es media hora, nadie lo va a notar y yo también voy a necesitar favores después."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 13",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q274",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al cerrar caja te falta un monto pequeño que no lograste cuadrar. Tu compañero te dice que lo absorba el corte porque levantar un reporte por esa diferencia solo va a generar preguntas y retrasar a todos. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Levanto el reporte de la diferencia aunque me pregunten y se retrase el cierre.",
+      "pragmatic_distractor": "Reviso mis cobros del turno rápidamente para ubicar el error antes de cerrar; si no lo encuentro, lo reporto.",
+      "evasive_distractor": "Anoto la diferencia en el registro interno y dejo que el siguiente turno la detecte en su apertura.",
+      "rationalized_distractor": "Absorbo la diferencia porque es un monto mínimo, el reporte solo va a generar un proceso largo y todos queremos irnos a tiempo."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 14",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q275",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Ves que tu compañero está operando maquinaria pesada sin el casco ni los guantes requeridos porque dice que se le olvidaron y la tarea tarda poco. Te pide que no lo reportes para no hacerle problema. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puede operar sin el equipo y que avise al encargado; si sigue, lo reporto.",
+      "pragmatic_distractor": "Le digo que pare hasta conseguir el equipo y le busco rápido en el área de seguridad si hay disponibles.",
+      "evasive_distractor": "Me retiro del área para no ser testigo; si hay un accidente, no estuve presente.",
+      "rationalized_distractor": "No digo nada porque la tarea es corta, él sabe lo que hace y reportarlo por una maquinaria que ya conoce parece exagerado."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 15",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q276",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Llegaste tarde tres veces esta quincena y esos minutos te afectan el registro. Un compañero te dice que anotes horas extras en días que sí estuviste para compensar y que nadie lo va a cruzar porque el sistema de control no está integrado. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No anoto horas extras que no trabajé; asumo el descuento por las llegadas tarde.",
+      "pragmatic_distractor": "Hablo con el encargado para ver si hay algún mecanismo oficial para compensar tiempo dentro del mismo periodo.",
+      "evasive_distractor": "Dejo el registro como está y espero que en nómina no me hagan ajuste; si lo hacen, hablo entonces.",
+      "rationalized_distractor": "Anoto las horas porque el tiempo real que le dedico a la empresa siempre es más del que registro y esto solo lo empareja."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 16",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q277",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al cobrar, el detector marca el billete como falso. El cliente se molesta mucho y dice que no sabe que era falso, que lo recibió de cambio en otro lado. Te pide que lo pases igual porque él no tiene más efectivo. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "No acepto el billete y le explico al cliente que no puedo recibirlo aunque él no lo supiera; le ofrezco opciones de pago alternativas.",
+      "pragmatic_distractor": "Le ofrezco otras formas de pago disponibles mientras le explico que el billete tiene que reportarse.",
+      "evasive_distractor": "Llamo al encargado para que él le explique al cliente y tome la decisión sobre el billete.",
+      "rationalized_distractor": "Lo paso porque el cliente claramente no es el responsable y rechazarlo solo genera una escena que perjudica a todos."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 17",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q278",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Notas que un compañero marca entregas como completadas en el sistema sin haber salido de almacén. Cuando le preguntas te dice que esos clientes siempre están y que los va a ver mañana para 'cuadrar'. Te pide que no digas nada. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le aviso al supervisor lo que está pasando para que se corrijan los registros antes de que los clientes reclamen.",
+      "pragmatic_distractor": "Le digo a mi compañero que corrija los registros él mismo hoy, antes de que los clientes noten que el paquete no llegó.",
+      "evasive_distractor": "Me enfoco en mi ruta y no me meto; si los clientes reclaman, que él lo explique.",
+      "rationalized_distractor": "No digo nada porque él los conoce, los va a ver mañana y si corrige los registros a tiempo nadie se entera del orden en que pasó."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 18",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q279",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Un cliente corporativo llega sin su representante usual y te pide que le apliques el precio especial que tiene su cuenta. No tienes la autorización en el sistema y el encargado no está. El cliente tiene prisa. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le cobro el precio de lista y le explico que el precio especial requiere que su representante lo autorice o que llamen al encargado.",
+      "pragmatic_distractor": "Contacto al encargado para que autorice remotamente el precio especial antes de procesar la venta.",
+      "evasive_distractor": "Le digo que regrese cuando esté su representante o el encargado para que lo atiendan correctamente.",
+      "rationalized_distractor": "Le aplico el precio especial porque la cuenta existe, él lo va a pagar de todos modos y así no pierdo al cliente por un trámite."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 19",
+    "sot_checksum": "ops400_m1_options_v14"
+  },
+  {
+    "id": "block-OPS400-M1-q280",
+    "module_id": 1,
+    "block_id": "OPS400-M1",
+    "type": "options",
+    "scenario": "Al surtir el anaquel encuentras que un compañero del turno anterior reimprimió etiquetas de caducidad para que productos próximos a vencer parezcan más frescos. Te pide que no lo reportes porque 'igual se venden hoy'. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Retiro los productos con etiqueta alterada del anaquel y aviso al encargado de lo que encontré.",
+      "pragmatic_distractor": "Separo los productos y le digo al encargado que hay un lote próximo a vencer para que decida si salen a precio reducido.",
+      "evasive_distractor": "No los toco y sigo con mi surtido; si alguien más los ve, que lo reporte.",
+      "rationalized_distractor": "Los dejo porque igual se van a vender hoy y si los retiro se genera merma que el equipo tiene que justificar."
+    },
+    "notes": "OPS400 Modulo 1 Options OPS400-M1 batch 14 item 20",
+    "sot_checksum": "ops400_m1_options_v14"
+  }
+]
