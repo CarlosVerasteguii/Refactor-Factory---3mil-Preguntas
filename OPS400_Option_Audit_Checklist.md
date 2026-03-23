@@ -18,27 +18,37 @@ Regla maestra:
 - [x] M1 batch-06
 - [x] M1 batch-07
 - [x] M1 batch-08
+- [ ] M1 batch-13
+- [ ] M1 batch-14
 
 ### Module 2
 - [x] M2 batch-05
 - [x] M2 batch-06
 - [x] M2 batch-07
 - [x] M2 batch-08
+- [ ] M2 batch-13
+- [ ] M2 batch-14
 
 ### Module 3
 - [x] M3 batch-05
 - [x] M3 batch-06
 - [x] M3 batch-07
 - [x] M3 batch-08
+- [ ] M3 batch-13
+- [ ] M3 batch-14
 
 ### Module 4
 - [x] M4 batch-05
 - [x] M4 batch-06
 - [x] M4 batch-07
 - [x] M4 batch-08
+- [ ] M4 batch-13
+- [ ] M4 batch-14
 
 ### Module 5
 - [x] M5 batch-05
 - [x] M5 batch-06
 - [x] M5 batch-07
 - [x] M5 batch-08
+- [ ] M5 batch-13
+- [ ] M5 batch-14
