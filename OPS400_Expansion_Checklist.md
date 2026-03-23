@@ -20,6 +20,8 @@ Regla maestra:
 - [x] M1 batch-10
 - [x] M1 batch-11
 - [x] M1 batch-12
+- [x] M1 batch-13
+- [x] M1 batch-14
 
 ## Module 2
 - [x] M2 batch-05
@@ -30,6 +32,8 @@ Regla maestra:
 - [x] M2 batch-10
 - [x] M2 batch-11
 - [x] M2 batch-12
+- [x] M2 batch-13
+- [x] M2 batch-14
 
 ## Module 3
 - [x] M3 batch-05
@@ -40,6 +44,8 @@ Regla maestra:
 - [x] M3 batch-10
 - [x] M3 batch-11
 - [x] M3 batch-12
+- [x] M3 batch-13
+- [x] M3 batch-14
 
 ## Module 4
 - [x] M4 batch-05
@@ -50,6 +56,8 @@ Regla maestra:
 - [x] M4 batch-10
 - [x] M4 batch-11
 - [x] M4 batch-12
+- [x] M4 batch-13
+- [x] M4 batch-14
 
 ## Module 5
 - [x] M5 batch-05
@@ -60,3 +68,5 @@ Regla maestra:
 - [x] M5 batch-10
 - [x] M5 batch-11
 - [x] M5 batch-12
+- [x] M5 batch-13
+- [x] M5 batch-14
