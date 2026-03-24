@@ -1,0 +1,15 @@
+{
+  "id": "block-OPS400-M1-q374",
+  "module_id": 1,
+  "block_id": "OPS400-M1",
+  "type": "options",
+  "scenario": "Un cliente que compra mucho me pide que le haga precio especial sin factura para ahorrarse el IVA. Dice que si le ayudo seguirá trayendo más gente. ¿Qué hago?",
+  "options_structured": {
+    "integrity_correct": "Le digo que no puedo vender sin factura y le cobro normal aunque se enoje.",
+    "pragmatic_distractor": "Le explico que hay programas de descuento para clientes frecuentes por la vía correcta.",
+    "evasive_distractor": "Le digo que hable con el gerente porque yo no tengo autorización para cambiar precios.",
+    "rationalized_distractor": "Le aplico un descuento manual para que pague menos sin alterar el precio del sistema; el margen lo absorbe la empresa."
+  },
+  "notes": "OPS400 M1 batch19 item 14",
+  "sot_checksum": "ops400_m1_options_v4"
+}

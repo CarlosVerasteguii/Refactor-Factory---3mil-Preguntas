@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M3-q361",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Mi gerente me pide que en el corte de caja de hoy anote un fondo inicial mayor al real para que el sistema cuadre sin marcar el faltante de 800 pesos que tuvimos. Dice que mañana lo ajustamos. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Registro el fondo inicial exacto y reporto el faltante de 800 pesos en el sistema de corte.",
+      "pragmatic_distractor": "Le pido al gerente que me dé por escrito su autorización para registrar el fondo alterado antes de hacerlo.",
+      "evasive_distractor": "Le digo al gerente que mi usuario no permite modificar el fondo inicial y que lo haga él directamente con su clave.",
+      "rationalized_distractor": "Anoto el fondo mayor porque el faltante es pequeño, el gerente ya dio su palabra de arreglarlo y no quiero retrasar el cierre del turno."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 1",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q362",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "El supervisor me pide que firme la bitácora de mantenimiento de la semana pasada que nunca se llenó, porque mañana hay auditoría y nos van a sancionar a todos. Me dice que ponga cualquier fecha. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Me niego a firmar la bitácora con datos falsos y le digo al supervisor que asuma el hallazgo en auditoría.",
+      "pragmatic_distractor": "Firmo la bitácora pero con la fecha de hoy y una nota que dice 'Registro tardío por extravío del formato físico'.",
+      "evasive_distractor": "Le digo que yo no tengo los datos de mantenimiento de la semana pasada y que mejor la firme quien sí estuvo ese turno.",
+      "rationalized_distractor": "La firmo con la fecha que me pide porque si nos sancionan a todos por un papel, el ambiente laboral se pone peor para toda la tienda."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 2",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q363",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Estamos agotados después de un turno de 10 horas. El gerente nos dice que marquemos en el sistema el inventario cíclico como 'completo' aunque nos faltó revisar dos pasillos, para que todos podamos irnos ya. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Me quedo a terminar los dos pasillos pendientes y registro el inventario como completado hasta que realmente lo esté.",
+      "pragmatic_distractor": "Marco como completo pero le digo al gerente que en cuanto llegue el turno de mañana yo regreso personalmente a revisar los dos pasillos.",
+      "evasive_distractor": "Le digo al gerente que yo ya terminé mi sección asignada y que los pasillos que faltan son responsabilidad del compañero de almacén.",
+      "rationalized_distractor": "Marco completo porque los dos pasillos que faltan son de baja rotación y la probabilidad de diferencia es mínima en conteos pasados."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 3",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q364",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Llega un embarque urgente de 200 cajas y el gerente me ordena firmar la recepción completa sin contar, porque el chofer se va y nos quedamos sin mercancía para el fin de semana. Me dice: 'Confía, siempre traen lo correcto'. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Detengo la firma y realizo al menos un conteo por muestreo antes de autorizar la recepción en el sistema.",
+      "pragmatic_distractor": "Firmo pero le pido al chofer que me firme un documento adicional donde se compromete a regresar mañana si falta algo.",
+      "evasive_distractor": "Le digo al gerente que yo no tengo autorización para recepciones sin conteo y que él firme directamente con su usuario.",
+      "rationalized_distractor": "Firmo de una vez porque el proveedor tiene años entregándonos bien y perder el embarque sería un desastre para las ventas."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 4",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q365",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "El gerente me pide que en el reporte de horas extra de hoy anote 3 horas para todo el equipo aunque solo trabajamos una, para 'compensar' que la quincena pasada nos pagaron de menos. Dice que así se arregla el error de nómina. ¿Qué decides hacer?",
+    "options_structured": {
+      "integrity_correct": "Registro solo la hora real trabajada y le digo al gerente que el error de nómina debe resolverse por el canal oficial de recursos humanos.",
+      "pragmatic_distractor": "Anoto las 3 horas pero le pido al gerente que me dé un correo de autorización firmado para respaldar el registro alterado.",
+      "evasive_distractor": "Le digo que yo no sé cómo se llenan los reportes de horas extra y que mejor lo haga el supervisor de turno.",
+      "rationalized_distractor": "Anoto las 3 horas total ya saben que nos deben y si reporto solo una igual no pasa nada."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 5",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q366",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el montacargas, mi compañero se salta el checklist de seguridad porque lleva prisa. Me dice que nadie lo hace y que no sea el único que se atrasa. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que lo tengo que hacer porque si pasa algo nos cargan a ambos, aunque se encabrone.",
+      "pragmatic_distractor": "Hago yo el checklist rápido por los dos para que cumpla sin detenerlo.",
+      "evasive_distractor": "Hago como que no escucho y reviso el mío, que él vea lo suyo.",
+      "rationalized_distractor": "Me lo salto también total ya me lo sé de memoria cada mañana."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 6",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q367",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un compañero me pasa un producto sin revisar el sello de calidad. Dice que ya lo checó antes y que si lo regreso nos atrasamos otra vez. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Lo reviso aunque nos atrase, porque si sale mal el producto la culpa es compartida.",
+      "pragmatic_distractor": "Le pido que me muestre dónde quedó su revisión para yo solo confirmar lo del sello.",
+      "evasive_distractor": "Le digo que lo pase a la siguiente estación si él ya lo checó, no es mi área.",
+      "rationalized_distractor": "Lo paso ya llevamos rato bien y ahorita hay fila de producto esperando."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 7",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q368",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "El supervisor me pide que firme la hoja de capacitación aunque no la recibí. Dice que luego nos ponemos al corriente y que no quiere ver el reporte incompleto. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo firmar algo que no hice y que mejor vemos cuándo la completo de verdad.",
+      "pragmatic_distractor": "Le digo que firmo pero que necesito la capacitación antes de fin de semana para cumplir.",
+      "evasive_distractor": "Me hago a un lado y le digo que la firme él si quiere, no me meto en eso.",
+      "rationalized_distractor": "Firmo porque es solo una formalidad y cuando toque la capacitación ya la voy a tener."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 8",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q369",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Durante el recorrido de seguridad, mi compañero se salta una zona porque 'siempre está bien'. Me pide que firmemos juntos como si la revisamos completa. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Insisto en revisar la zona aunque retrase el recorrido, porque para eso es el checklist.",
+      "pragmatic_distractor": "Le digo que mínimo chequemos las áreas críticas juntos y ya lo firmamos.",
+      "evasive_distractor": "Me deslindo y le digo que yo firmo solo lo que revisé, lo suyo que lo firme él.",
+      "rationalized_distractor": "Firmo total siempre está igual y ya voy de salida."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 9",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q370",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En la línea, un compañero me dice que el protocolo nuevo es pura burocracia y que el de antes funcionaba. Me pide que lo sigamos como antes porque el jefe no se da cuenta. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que uso el protocolo nuevo porque si hay una auditoría el que se lleva la quemada soy yo también.",
+      "pragmatic_distractor": "Le digo que usemos el nuevo pero adaptando lo que sí funcionaba del anterior.",
+      "evasive_distractor": "Le digo que él haga como quiera pero que yo uso el nuevo para no tener pedos.",
+      "rationalized_distractor": "Sigo el de antes porque ya lo dominamos y el nuevo solo ha causado más errores."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 10",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q371",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Vamos tarde con las entregas y si no llegamos a tiempo nos quitan el bono. Mi compañero me dice que use la van de la empresa para recoger su carga que está lejos, total 'no pasa nada'. Las reglas dicen que el vehículo solo se usa para la ruta asignada. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Me niego a usar la van fuera de ruta y sigo el procedimiento, aunque pierda el bono y mi compañero se encabrone conmigo todo el día.",
+      "pragmatic_distractor": "Uso la van pero solo para un trayecto corto y regreso rápido, minimizando el riesgo sin descartar por completo la opción.",
+      "evasive_distractor": "Le digo que pregunte al supervisor primero y que él autorice, quitándome la presión de decidir.",
+      "rationalized_distractor": "Uso la van porque si no cumplimos el horario la empresa pierde el contrato y todos nos quedamos sin chamba."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 11",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q372",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Mi compañero de ruta se quedó sin transporte y me pide que lo espere con la camioneta para que juntos lleguemos a la base. El reglamento prohíbe llevar personas ajenas al servicio. Ya me llamaron la atención una vez por eso. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo y que busque otra forma de llegar, aunque se empute y me deje de hablar semanas.",
+      "pragmatic_distractor": "Lo llevo pero solo hasta una parada cercana donde pueda tomar transporte, así no lo dejo tirado sin violar tanto la regla.",
+      "evasive_distractor": "Le digo que llame a la base para que manden otra unidad por él y yo sigo mi ruta.",
+      "rationalized_distractor": "Lo llevo porque es mi cuate y si lo dejo ahí se queda varado, total que no es como que le esté cobrando."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 12",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q373",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el almacén, un compañero de otro turno me dice que saque un repuesto sin firmar la requisición porque 'se lo debemos' de la vez que nos ayudó con una urgencia. El procedimiento pide registrar todo retiro de material. Si lo reporto se arma un problema gordo con el supervisor de ese turno. ¿Qué decides?",
+    "options_structured": {
+      "integrity_correct": "Registro el repuesto como marca el procedimiento y le explico que no puedo saltarme los pasos, aunque se arme bronca y perdamos el apoyo de ese compañero.",
+      "pragmatic_distractor": "Le doy el repuesto pero pido que después firme la requisición para cuadrar todo, así no pierdo la relación ni me meto en problemas legales.",
+      "evasive_distractor": "Le digo que hable con su supervisor para que él lo autorice formalmente, y yo no me meto en ese rollo.",
+      "rationalized_distractor": "Le suelto el repuesto porque entre compañeros hay que apoyarse, y si lo registro ahora va a quedar como que él se lo robó."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 13",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q374",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "En el estacionamiento veo a un compañero llenando unas garrafas con gasolina de la camioneta de la empresa. Me dice que no alcanza con el sueldo y que si le tapo, me da un poco. El reglamento es claro: uso indebido de combustible es falta grave. Pero si lo reporto me gano un enemigo y vamos juntos todos los días. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Lo reporto como dice el reglamento, aunque me toque ir con él todos los días sabiendo que lo corrieron por mi culpa.",
+      "pragmatic_distractor": "Le digo que se le va a caer si sigue así y lo convenzo de que deje las garrafas, sin meter un reporte formal.",
+      "evasive_distractor": "Finjo que no vi nada y me voy rápido, así no me involucro ni para bien ni para mal.",
+      "rationalized_distractor": "No digo nada porque si lo corren a él me dejan solo con más trabajo, y al rato contratan a alguien que ni sabe operar."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 14",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q375",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Mi supervisor me pide que le ayude a llevar herramientas de la empresa a su casa el fin de semana para un trabajo personal. Me dice que el lunes las regresamos y nadie se entera. El reglamento prohíbe sacar equipo de las instalaciones. Si le digo que no, sé que me puede ver feo en las evaluaciones. ¿Qué haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo que no puedo porque el equipo tiene que quedarse en la empresa, aunque sé que me lo va a hacer sentir en la siguiente evaluación.",
+      "pragmatic_distractor": "Le ofrezco ayudarle el fin de semana con herramientas mías propias para no involucrar el equipo de la empresa.",
+      "evasive_distractor": "Le digo que mejor pida permiso por correo al gerente para que quede autorizado, así yo no cargo con eso.",
+      "rationalized_distractor": "Le ayudo porque es mi jefe y si me llevo bien con él todo me va mejor, total las herramientas se regresan el lunes sin que nadie note."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 15",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q376",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un cliente se pone al tú por tú y me exige saber cuánto gano al mes. Dice que si no le contesto se queja con el gerente de que lo traté con prepotencia. Hay fila y todos voltean. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que mi salario es información confidencial y continúo atendiéndolo con calma sin importar la fila.",
+      "pragmatic_distractor": "Le doy un rango genérico tipo 'nos pagan lo mínimo' para que se le quite la curiosidad sin dar dato exacto.",
+      "evasive_distractor": "Le pido al de seguridad que lo escolte fuera porque ya está haciendo escándalo en el mostrador.",
+      "rationalized_distractor": "Le contesto lo que quiere oír para que se calme y se vaya rápido, que al final no pierdo nada con decirle."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 16",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q377",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Para entrar a la sucursal, la política exige credencial de acceso. Un conocido de mi compañero llega sin credencial y me pide que lo pase 'por esta vez'. Mi compañero me respalda y dice que sí se puede. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que sin credencial vigente no puedo autorizar el acceso y que tramite una temporal en recepción.",
+      "pragmatic_distractor": "Lo dejo pasar pero le pido que se registre en la bitácora con su nombre completo y hora de entrada.",
+      "evasive_distractor": "Le digo que mejor espere a que mi compañero baje a recogerlo personalmente porque yo no tengo ese nivel de acceso.",
+      "rationalized_distractor": "Lo dejo pasar porque mi compañero ya lo identificó y la credencial solo confirma lo que ya sabemos."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 17",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q378",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un cliente insistente me pide mi número personal para que le avise cuando lleguen promociones exclusivas. Me dice que 'así le hacen en otras tiendas' y que si no le doy el número, se va con la competencia. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le explico que por política no puedo compartir mi contacto personal y le ofrezco inscribirlo al boletín oficial.",
+      "pragmatic_distractor": "Le doy el número de la tienda y le digo que ahí pueden atenderlo directo cuando haya promociones.",
+      "evasive_distractor": "Le digo que por aquí ya no tengo señal y que mejor deje su correo en el sistema para que le llegue el boletín automático.",
+      "rationalized_distractor": "Le paso mi número porque un cliente frecuente que gasta bien merece atención personalizada, es buen negocio."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 18",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q379",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Un supervisor de otra área me pide que le pase los datos de contacto y horarios de mis compañeros para un 'estudio interno'. No trae formato firmado ni autorización del gerente. Dice que es urgente y que si pregunto, lo entorpezco. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que para compartir datos personales necesito ver la autorización formal del gerente de mi área.",
+      "pragmatic_distractor": "Le doy solo los nombres y horarios sin teléfonos ni direcciones, para no dar datos sensibles sin autorización.",
+      "evasive_distractor": "Le digo que yo no manejo esa información y que mejor se la pida directamente a Recursos Humanos.",
+      "rationalized_distractor": "Le paso los datos porque es supervisor y si el estudio se atrasa por no tener la firma a tiempo, no quiero ser yo el cuello de botella."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 19",
+    "sot_checksum": "ops400_m3_options_v1"
+  },
+  {
+    "id": "block-OPS400-M3-q380",
+    "module_id": 3,
+    "block_id": "OPS400-M3",
+    "type": "options",
+    "scenario": "Me topo con un cliente en la calle fuera del trabajo y me pide que le dé descuento especial porque 'ya nos conocemos'. Me ofrece pagar en efectivo sin factura para que yo me quede con una parte. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo que cualquier compra se procesa en sucursal con su precio y factura correspondiente.",
+      "pragmatic_distractor": "Le digo que venga a la tienda y yo le aviso cuando haya una promoción legítima que le convenga.",
+      "evasive_distractor": "Finjo que no lo escuché bien y me subo al camión rápido para evadir la conversación.",
+      "rationalized_distractor": "Acepto ya ni estamos en la tienda y cada quien hace lo que quiere con su dinero."
+    },
+    "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 19 item 20",
+    "sot_checksum": "ops400_m3_options_v1"
+  }
+]

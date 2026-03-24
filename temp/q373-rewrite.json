@@ -1,0 +1,15 @@
+{
+  "id": "block-OPS400-M1-q373",
+  "module_id": 1,
+  "block_id": "OPS400-M1",
+  "type": "options",
+  "scenario": "Al hacer el corte de caja me faltan 300 pesos y mi compañero sugiere que ponga un cargo fantasma para cuadrar rápido y no quedarnos otra hora revisando. ¿Qué hago?",
+  "options_structured": {
+    "integrity_correct": "Registro la diferencia tal cual y dejo el corte abierto para que lo investiguen.",
+    "pragmatic_distractor": "Vuelvo a contar todo desde cero antes de cerrar para asegurarme de que no fue error mío.",
+    "evasive_distractor": "Le pido a mi compañero que cuadre conmigo antes de cerrar; si no, dejamos el corte abierto entre los dos.",
+    "rationalized_distractor": "Ajusto el corte porque la diferencia puede ser de cambio mal dado y ya se compensó con otra venta."
+  },
+  "notes": "OPS400 M1 batch19 item 13",
+  "sot_checksum": "ops400_m1_options_v4"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "block-OPS400-M4-q296",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Llega un proveedor conocido al área de recepción sin cita registrada en el sistema. Dice que viene a resolver un problema urgente de un pedido que está parado. No puedo localizarlo en ninguna agenda ni orden activa. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No lo dejo pasar hasta que alguien del área que lo espera confirme por escrito o en el sistema que su visita es válida, aunque el proveedor se desespere y el pedido siga parado.",
+      "pragmatic_distractor": "Lo dejo entrar a la sala de espera mientras llamo al área que supuestamente lo invitó para que bajen a atenderlo.",
+      "evasive_distractor": "Le digo que espere afuera mientras aviso a la persona que él dice que lo citó, y que ella decida si lo dejo pasar.",
+      "rationalized_distractor": "Lo dejo entrar porque es un proveedor de siempre y si hay un pedido parado lo urgente es que lo resuelva rápido, no que firme un papel."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 16",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q297",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Mi herramienta de trabajo está siendo reparada y un operador del turno de la mañana dejó la suya guardada. Mi supervisor me dice que use esa herramienta porque el dueño no va a regresar hasta mañana y yo tengo trabajo urgente ahora. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No uso la herramienta de mi compañero sin su autorización. Le pido a mi supervisor que gestione la autorización del dueño o tramite un equipo de préstamo oficial, aunque el trabajo urgente espere.",
+      "pragmatic_distractor": "La uso solo para el trabajo urgente de hoy y la dejo exactamente donde estaba antes de que llegue mi compañero mañana.",
+      "evasive_distractor": "Le digo al supervisor que llame al dueño de la herramienta para pedirle permiso directamente.",
+      "rationalized_distractor": "La uso porque el supervisor lo autorizó y mi compañero ni va a saber; es solo préstamo de una herramienta, no un robo."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 17",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q298",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "En ruta paso junto a un conductor del turno anterior que está maniobrando en el patio y hace caso omiso a la señal de alto del cruce interno. Nadie resultó herido pero el incidente fue claro. Si lo reporto se va a saber que fui yo. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Reporto el incidente con los datos del vehículo y la hora exacta aunque el conductor sepa que fui yo quien lo reportó.",
+      "pragmatic_distractor": "Le hablo directo al conductor para decirle que lo vi y que si lo vuelvo a ver, entonces sí lo voy a reportar.",
+      "evasive_distractor": "Le menciono lo que vi al supervisor de forma informal, sin levantar reporte escrito, para que él decida si lo documenta.",
+      "rationalized_distractor": "No lo reporto porque no hubo heridos y levantar un reporte por algo así solo genera conflicto entre turnos sin cambiar nada."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 18",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q299",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al recibir un paquete de un cliente para devolución, noto que la caja llega abierta y con los artículos sin empacar correctamente. El cliente insiste en que así la recibió originalmente y me exige que firme la recepción limpia. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Registro el estado real del paquete con fotos y notas en el sistema antes de firmar, aunque el cliente se ponga agresivo y la fila lo vea.",
+      "pragmatic_distractor": "Firmo la recepción con una nota al pie que diga 'paquete recibido abierto, sujeto a revisión de calidad'.",
+      "evasive_distractor": "Le pido al supervisor que venga a inspeccionar el paquete conmigo para que no sea yo solo quien decida cómo firmarlo.",
+      "rationalized_distractor": "Firmo limpio porque si el cliente lo dice es difícil probar lo contrario y no vale la pena arriesgar su satisfacción por un empaque."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 19",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q300",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Voy a cargar una caja al camión y al levantarla huele fuerte a algo descompuesto. La etiqueta dice que es material textil. Me urge terminar la carga porque el chofer ya está esperando. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Detengo la carga y reporto la caja como material no conforme antes de subirla al camión, aunque el chofer se vaya tarde y yo reciba el reclamo.",
+      "pragmatic_distractor": "La subo pero la pongo en un rincón separado del resto y le aviso al chofer que esa caja huele raro para que él la revise al llegar.",
+      "evasive_distractor": "Le aviso al encargado de almacén del olor y que él decida si la carga o no.",
+      "rationalized_distractor": "La cargo porque a veces los materiales textiles huelen por el proceso de fabricación y si la etiqueta dice textil, el control de calidad ya la aprobó antes."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 20",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]

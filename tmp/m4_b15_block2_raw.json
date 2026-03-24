@@ -1,0 +1,77 @@
+[
+  {
+    "id": "block-OPS400-M4-q286",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Voy a empezar el turno y noto que llevo diecisiete horas seguidas trabajando entre el turno de ayer y el de hoy porque no encontraron relevo. Mi supervisor dice que aguante unas horas más porque ya casi termina la operación. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Le digo a mi supervisor que no puedo continuar de forma segura y exijo el relevo o que paren mi actividad hasta conseguirlo, aunque se arme el problema.",
+      "pragmatic_distractor": "Me tomo un café y descanso veinte minutos en el cuarto de descanso para recuperarme antes de seguir.",
+      "evasive_distractor": "Le digo que sigo pero a velocidad reducida para no cometer errores y que el supervisor anote que pedí el relevo.",
+      "rationalized_distractor": "Aguanto las horas que faltan porque ya casi termina y si me voy ahora el equipo queda descubierto y me van a culpar de los errores."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 6",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q287",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al sacar la pistola de medición de temperatura para revisar un lote, noto que la fecha de calibración en la etiqueta venció hace tres semanas. Con esa pistola acabo de validar cinco lotes en la última hora. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Paro la validación de todos los lotes pendientes, reporto que los cinco lotes ya validados son cuestionables y solicito recalibración urgente, aunque se retenga producto y lleguen quejas.",
+      "pragmatic_distractor": "Consigo otra pistola de calibración vigente y valido los cinco lotes de nuevo rápido antes de reportar el instrumento vencido.",
+      "evasive_distractor": "Le aviso al encargado de calidad que la pistola está vencida y que él decida qué hacer con los lotes ya validados.",
+      "rationalized_distractor": "Sigo usando la pistola porque tres semanas de desfase en la calibración no afectan significativamente una lectura de temperatura."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 7",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q288",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al dar cambio en caja, me doy cuenta de que le di de más al cliente: le entregué un billete de doscientos en lugar de uno de cien. El cliente ya lo guardó y está a punto de irse. La fila presiona. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Llamo al cliente antes de que salga y le explico el error para recuperar el billete de diferencia, aunque se moleste y la fila me juzgue.",
+      "pragmatic_distractor": "Anoto la diferencia en mi libreta y la repongo de mi bolsillo al cierre para que mi corte no marque faltante.",
+      "evasive_distractor": "Dejo que el cliente se vaya y al cierre reporto la diferencia como error de cambio para que el sistema la registre.",
+      "rationalized_distractor": "Lo dejo ir porque si lo llamo va a armar un escándalo y cien pesos de diferencia se compensan fácil con el sobrante de otro cobro."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 8",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q289",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Al recibir un lote de producto empacado noto que el sello de inviolabilidad de cuatro de las cajas está roto. El proveedor dice que fue por el traslado y que el contenido está intacto. El jefe me urge a recibirlo porque hay pedido urgente con ese lote. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Separo las cuatro cajas con sello roto y las registro como recepción condicionada hasta que calidad las inspeccione, aunque el pedido urgente no salga hoy.",
+      "pragmatic_distractor": "Las recibo pero las pongo al final del almacén para usarlas al último y que calidad las revise cuando tenga tiempo.",
+      "evasive_distractor": "Le paso la decisión al jefe de calidad: que él firme la recepción de esas cajas si quiere aceptarlas así.",
+      "rationalized_distractor": "Las recibo porque el proveedor es de confianza y si dice que el contenido está bien, el sello roto es solo un problema cosmético del empaque."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 9",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q290",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El supervisor me pide que ayude a mi compañero chofer a ajustar el odómetro de su bitácora porque la unidad estuvo parada por falla y los kilómetros reales no cuadran con la ruta declarada. Dice que si no lo arreglan les descuentan el viaje. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Me niego a modificar la bitácora y le digo al supervisor que el procedimiento es reportar la falla mecánica para que el área de flota ajuste el registro oficial, aunque nos descuenten el viaje.",
+      "pragmatic_distractor": "Le sugiero a mi compañero que anote la falla en observaciones de la bitácora para que haya un rastro aunque los kilómetros no cuadren perfecto.",
+      "evasive_distractor": "Le digo al supervisor que yo no tengo acceso a esa bitácora y que ellos lo arreglen entre el chofer y el área de flota.",
+      "rationalized_distractor": "Ayudo a cuadrar los kilómetros porque la falla fue real y todos sabemos que el sistema de bitácoras es inflexible; lo importante es no perder el pago del viaje."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 10",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]

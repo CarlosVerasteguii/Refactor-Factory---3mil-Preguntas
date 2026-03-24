@@ -1,0 +1,44 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "ops400-wave-orchestrator": {
+      "mode": "subagent",
+      "permission": {
+        "task": {
+          "*": "deny",
+          "ops400-batch-orchestrator": "allow",
+          "ops400-rationalized-audit-orchestrator": "allow"
+        }
+      }
+    },
+    "ops400-batch-orchestrator": {
+      "mode": "subagent",
+      "hidden": true,
+      "permission": {
+        "task": {
+          "*": "deny",
+          "ops400-five-pack-generator": "allow",
+          "ops400-option-auditor": "allow"
+        }
+      }
+    },
+    "ops400-five-pack-generator": {
+      "mode": "subagent",
+      "hidden": true
+    },
+    "ops400-option-auditor": {
+      "mode": "subagent",
+      "hidden": true
+    },
+    "ops400-rationalized-audit-orchestrator": {
+      "mode": "subagent",
+      "hidden": true,
+      "permission": {
+        "task": {
+          "*": "deny",
+          "ops400-option-auditor": "allow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "block-OPS400-M4-q281",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Estoy atendiendo en el mostrador y el sistema me genera un cargo extra al ticket del cliente sin que yo lo haya ingresado. El cliente ya vio el total en pantalla y empieza a levantar la voz. La fila es larga y si reinicio la transacción me tarda cinco minutos. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Cancelo la transacción y la rehago desde cero para no cobrar un cargo que no corresponde, aunque el cliente siga enojado y la fila se pare.",
+      "pragmatic_distractor": "Le explico el error al cliente y le doy un vale por el monto extra para que lo descuente en su próxima visita.",
+      "evasive_distractor": "Le pido al supervisor que venga a autorizar el ajuste para no detener yo solo la fila.",
+      "rationalized_distractor": "Proceso el cobro con el cargo extra y le digo al cliente que pida el reembolso en caja de servicio al cliente, para no parar la fila."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 1",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q282",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Mi compañero me pide que firme en su lugar el formato de revisión de unidad porque él ya se fue y el supervisor urge el cierre del turno. El documento es oficial y lleva mi nombre. Si no firmo el turno no cierra. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "No firmo en nombre de mi compañero. Le explico al supervisor que la revisión no fue completada por quien corresponde y que no puedo firmar algo que no hice yo, aunque el turno no cierre a tiempo.",
+      "pragmatic_distractor": "Firmo con mi nombre pero anoto 'por instrucción del supervisor' para que quede un respaldo de que no fue mi decisión.",
+      "evasive_distractor": "Le digo al supervisor que localice a mi compañero por teléfono para que venga a firmar o mande una foto de su firma.",
+      "rationalized_distractor": "Firmo porque el supervisor lo pide y si algo pasa él tiene la responsabilidad de haber ordenado cerrar el turno así."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 2",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q283",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "El jefe de patio me dice que apile dos camas más de cajas sobre lo que marca el límite del rack porque necesitan el espacio del piso para el cierre de mes. Las camas de arriba ya se ven inestables. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Me niego a agregar más camas y le digo al jefe que el rack ya está en su límite, aunque me regañe y tenga que buscar otra solución para el piso.",
+      "pragmatic_distractor": "Las subo pero les pongo doble emplaye alrededor para que no se caigan y le aviso al jefe cómo lo aseguré.",
+      "evasive_distractor": "Le digo al jefe que pida autorización por escrito a seguridad industrial antes de que yo apile más.",
+      "rationalized_distractor": "Las subo porque el jefe conoce el rack mejor que yo y si él dice que aguanta, seguramente tiene razón."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 3",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q284",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Estoy por mover una plataforma de carga cargada y noto que las cuñas de las ruedas no están puestas. El andén tiene ligera pendiente. Me urge liberar el espacio porque viene otro camión. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Pongo las cuñas antes de soltar la plataforma, aunque el camión que espera tenga que aguantarse unos minutos.",
+      "pragmatic_distractor": "Le pido a un compañero que se pare detrás de la plataforma para detenerla con el pie mientras yo la muevo rápido.",
+      "evasive_distractor": "Le aviso al encargado del andén que faltan las cuñas y que él decida si muevan la plataforma así.",
+      "rationalized_distractor": "La muevo rápido porque la pendiente es poca y en el tiempo que tarda en deslizarse ya la tengo amarrada al siguiente punto."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 4",
+    "sot_checksum": "ops400_m4_options_v1"
+  },
+  {
+    "id": "block-OPS400-M4-q285",
+    "module_id": 4,
+    "block_id": "OPS400-M4",
+    "type": "options",
+    "scenario": "Llego a una entrega en un edificio y el elevador de carga está fuera de servicio. El paquete pesa cuarenta kilos y el cliente vive en el quinto piso. El cliente me dice que suba como pueda porque no puede bajar él. Tengo tres paradas más. ¿Qué hago?",
+    "options_structured": {
+      "integrity_correct": "Registro la entrega como no completada por condición insegura y aviso a la base para que reprogramen con equipo o apoyo, aunque el cliente quede molesto y yo baje en mi porcentaje.",
+      "pragmatic_distractor": "Subo la caja un piso a la vez haciendo paradas para descansar, para no lastimarme y aun así completar la entrega.",
+      "evasive_distractor": "Le digo al cliente que llame a la empresa para que gestionen una entrega especial con equipo adecuado.",
+      "rationalized_distractor": "Subo los cinco pisos de un jalón porque si lo hago rápido el esfuerzo no es tanto y así no pierdo el tiempo de las otras paradas."
+    },
+    "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 15 item 5",
+    "sot_checksum": "ops400_m4_options_v1"
+  }
+]
