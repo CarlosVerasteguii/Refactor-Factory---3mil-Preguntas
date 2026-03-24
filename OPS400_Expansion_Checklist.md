@@ -22,6 +22,22 @@ Regla maestra:
 - [x] M1 batch-12
 - [x] M1 batch-13
 - [x] M1 batch-14
+- [x] M1 batch-15
+- [x] M1 batch-16
+- [ ] M1 batch-17
+- [ ] M1 batch-18
+- [ ] M1 batch-19
+- [ ] M1 batch-20
+- [ ] M1 batch-21
+- [ ] M1 batch-22
+- [ ] M1 batch-23
+- [ ] M1 batch-24
+- [ ] M1 batch-25
+- [ ] M1 batch-26
+- [ ] M1 batch-27
+- [ ] M1 batch-28
+- [ ] M1 batch-29
+- [ ] M1 batch-30
 
 ## Module 2
 - [x] M2 batch-05
@@ -34,6 +50,22 @@ Regla maestra:
 - [x] M2 batch-12
 - [x] M2 batch-13
 - [x] M2 batch-14
+- [x] M2 batch-15
+- [x] M2 batch-16
+- [ ] M2 batch-17
+- [ ] M2 batch-18
+- [ ] M2 batch-19
+- [ ] M2 batch-20
+- [ ] M2 batch-21
+- [ ] M2 batch-22
+- [ ] M2 batch-23
+- [ ] M2 batch-24
+- [ ] M2 batch-25
+- [ ] M2 batch-26
+- [ ] M2 batch-27
+- [ ] M2 batch-28
+- [ ] M2 batch-29
+- [ ] M2 batch-30
 
 ## Module 3
 - [x] M3 batch-05
@@ -46,6 +78,22 @@ Regla maestra:
 - [x] M3 batch-12
 - [x] M3 batch-13
 - [x] M3 batch-14
+- [x] M3 batch-15
+- [x] M3 batch-16
+- [ ] M3 batch-17
+- [ ] M3 batch-18
+- [ ] M3 batch-19
+- [ ] M3 batch-20
+- [ ] M3 batch-21
+- [ ] M3 batch-22
+- [ ] M3 batch-23
+- [ ] M3 batch-24
+- [ ] M3 batch-25
+- [ ] M3 batch-26
+- [ ] M3 batch-27
+- [ ] M3 batch-28
+- [ ] M3 batch-29
+- [ ] M3 batch-30
 
 ## Module 4
 - [x] M4 batch-05
@@ -58,6 +106,22 @@ Regla maestra:
 - [x] M4 batch-12
 - [x] M4 batch-13
 - [x] M4 batch-14
+- [x] M4 batch-15
+- [x] M4 batch-16
+- [ ] M4 batch-17
+- [ ] M4 batch-18
+- [ ] M4 batch-19
+- [ ] M4 batch-20
+- [ ] M4 batch-21
+- [ ] M4 batch-22
+- [ ] M4 batch-23
+- [ ] M4 batch-24
+- [ ] M4 batch-25
+- [ ] M4 batch-26
+- [ ] M4 batch-27
+- [ ] M4 batch-28
+- [ ] M4 batch-29
+- [ ] M4 batch-30
 
 ## Module 5
 - [x] M5 batch-05
@@ -70,3 +134,19 @@ Regla maestra:
 - [x] M5 batch-12
 - [x] M5 batch-13
 - [x] M5 batch-14
+- [x] M5 batch-15
+- [x] M5 batch-16
+- [ ] M5 batch-17
+- [ ] M5 batch-18
+- [ ] M5 batch-19
+- [ ] M5 batch-20
+- [ ] M5 batch-21
+- [ ] M5 batch-22
+- [ ] M5 batch-23
+- [ ] M5 batch-24
+- [ ] M5 batch-25
+- [ ] M5 batch-26
+- [ ] M5 batch-27
+- [ ] M5 batch-28
+- [ ] M5 batch-29
+- [ ] M5 batch-30
