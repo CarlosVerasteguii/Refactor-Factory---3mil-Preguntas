@@ -1,0 +1,15 @@
+- Módulo: `M5`
+- Batch: `26`
+- Archivo escrito: [01_processed_json_ops400/module5/block-OPS400-M5/batch-26.json](/mnt/c/Users/veras/Documents/Refactor_Preguntas/01_processed_json_ops400/module5/block-OPS400-M5/batch-26.json)
+- Validación final: `Sí`
+
+Validé parseo JSON, 20 items, IDs únicos en rango `block-OPS400-M5-q501` a `block-OPS400-M5-q520`, esquema completo por item y barrido de palabras vetadas. No toqué `OPS400_Expansion_Checklist.md`, batches previos ni otros módulos.
+
+Riesgos o dudas:
+- No vi bloqueo técnico. El único detalle del runtime fue que no hay `python`; la validación final la cerré con `jq` y `node`.
+- El archivo destino ya existía como no rastreado (`??`) y lo reescribí completo para dejar un batch consistente con el ancla `batch-01` a `batch-04`.
+
+Items más delicados de calibrar:
+- `q507`: equilibrio entre revisión correcta del folio y no volver obvia la racionalización.
+- `q513`: distractores de evidencia/terminal podían cruzar fácil a algo demasiado burdo.
+- `q519`: separar órdenes sin que los distractores cayeran en fraude demasiado explícito.

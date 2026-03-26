@@ -1,0 +1,9 @@
+- módulo: `M1`
+- batch: `26`
+- archivo escrito: [batch-26.json](/mnt/c/Users/veras/Documents/Refactor_Preguntas/01_processed_json_ops400/module1/block-OPS400-M1/batch-26.json)
+- pasó validación final: `sí`
+
+Validé `20` items exactos, IDs `q501` a `q520`, `module_id/block_id/type` correctos, JSON válido, `options_structured` completo en todos los casos y sin banderas de duplicación interna en la pasada automática. No toqué checklist, batches previos ni otros módulos.
+
+- riesgos o dudas: riesgo bajo en `q517` y `q520` porque son más de registro interno que de interacción visible, aunque se mantuvieron dentro del tono real de M1; el resto quedó con costo personal claro y distractores plausibles.
+- item(s) que costó más calibrar: `q514` y `q518`, porque al inicio se parecían demasiado a conflictos ya usados en M1 y hubo que reescribirlos para bajar solapamiento sin perder el dolor de la opción correcta.

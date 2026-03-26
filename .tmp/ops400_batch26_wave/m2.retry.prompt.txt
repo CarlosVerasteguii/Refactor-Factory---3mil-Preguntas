@@ -1,0 +1,21 @@
+Lee y sigue `AGENTS.md`, `01_processed_json_ops400/AGENTS.md` y `.opencode/agents/ops400-batch-orchestrator.md`.
+
+Trabaja en modo worker paralelo para generar exactamente un solo batch del módulo asignado.
+IMPORTANTE: en este runtime no intentes usar `spawn_agent` ni otros subagentes internos; ejecuta tú mismo los 4 bloques de 5 reactivos en el mismo proceso y consolida el batch final.
+Módulo: M2
+Batch: 26
+Destino exclusivo de escritura: `01_processed_json_ops400/module2/block-OPS400-M2/batch-26.json`
+IDs esperados: `block-OPS400-M2-q501` a `block-OPS400-M2-q520`
+Convención reciente sugerida de notes: `OPS400 M2 batch26 item 1`
+Convención reciente sugerida de checksum: `ops400_m2_options_v3`
+
+Restricciones:
+- No edites `OPS400_Expansion_Checklist.md`.
+- No modifiques batches previos.
+- No toques otros módulos.
+- Usa como ancla de estilo exclusivamente `batch-01.json` a `batch-04.json` del mismo módulo.
+- No uses batches posteriores como ancla de estilo.
+- Guarda el JSON final solo si pasa validación.
+
+Antes de guardar valida: 20 items, JSON correcto, ids únicos, tono real del módulo, costo personal claro en la correcta, distractores plausibles, sin repeticiones visibles.
+Al final devuelve: módulo, batch, archivo escrito, si pasó validación final, riesgos o dudas, e items difíciles de calibrar.

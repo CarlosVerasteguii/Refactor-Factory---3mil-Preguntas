@@ -49,3 +49,17 @@ To avoid memory overflow, you must process large files in specific chunks:
 3. **Process** Batch 1 -> Audit -> Save Temp File.
 4. **Process** Batch 2 -> Audit -> Save Temp File.
 5. **Merge** all temp files into one final JSON.
+
+---
+
+## OPS400 CODEX OVERRIDE
+If the task touches `01_processed_json_ops400/`, `OPS400_Expansion_Checklist.md`, `OPS400_Batch_Generation_Prompt.md`, or any `OPS400_*` artifact, do not use the generic `00_raw_data/ -> 01_processed_json/` pipeline above as the working contract.
+
+For OPS400 work in Codex CLI:
+
+1. Read and follow `01_processed_json_ops400/AGENTS.md`.
+2. Treat `.opencode/agents/ops400-batch-orchestrator.md` as the canonical single-batch contract.
+3. Treat `.opencode/agents/ops400-wave-orchestrator.md` as the canonical multi-module wave contract.
+4. Use `.github/agents/*` as mirror copies for cross-checking only.
+
+If there is any conflict between the generic factory rules and the OPS400 contract, OPS400 rules win for that task.

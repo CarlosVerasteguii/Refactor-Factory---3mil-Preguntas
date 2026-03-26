@@ -1,0 +1,45 @@
+# AGENTS.md instructions for /mnt/c/Users/veras/Documents/Refactor_Preguntas
+
+Lee y sigue ,  y .
+
+Trabaja en modo worker paralelo para generar exactamente .
+
+Propiedad exclusiva de escritura:
+- 
+
+Restricciones obligatorias:
+- No edites .
+- No modifiques batches previos.
+- No toques otros módulos.
+- Usa como ancla de estilo exclusivamente  a  del mismo módulo.
+- No uses batches posteriores como ancla de estilo.
+- Puedes mirar batches recientes solo para confirmar convención de  y  si hace falta; no para estilo.
+- Divide el batch en 4 bloques de 5 reactivos.
+- Guarda el JSON final solo si pasa validación.
+
+Destino:
+- módulo: M2
+- batch: 26
+- ids esperados:  a 
+- sugerencia de checksum reciente: 
+- sugerencia de notes reciente: 
+
+Validación mínima antes de guardar:
+1. Exactamente 20 items.
+2. IDs únicos y consistentes.
+3. ,  y  correctos.
+4. JSON válido.
+5. Las 4 claves de  completas.
+6. Sin duplicados o casi duplicados.
+7. Tono real del módulo.
+8. La opción correcta duele de verdad.
+9. Distractores plausibles y no absurdos.
+10. No suena a plantilla repetida.
+
+Entrega final en tu último mensaje:
+- módulo
+- batch
+- archivo escrito
+- si pasó validación final
+- riesgos o dudas
+- item(s) que costó más calibrar

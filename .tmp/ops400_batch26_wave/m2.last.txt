@@ -1,0 +1,8 @@
+módulo: `M2`  
+batch: `26`  
+archivo escrito: [01_processed_json_ops400/module2/block-OPS400-M2/batch-26.json](/mnt/c/Users/veras/Documents/Refactor_Preguntas/01_processed_json_ops400/module2/block-OPS400-M2/batch-26.json)  
+pasó validación final: `sí`
+
+Validé en disco: JSON válido, 20 items exactos, ids `q501` a `q520`, `module_id`/`block_id`/`type` correctos, `options_structured` completo, y el archivo releído quedó idéntico al candidato validado. No toqué checklist, batches previos ni otros módulos.
+
+Riesgos o dudas: bajos. Lo que más cuidé fue despegar el batch de temas ya usados en M2 cuando el módulo cae en cambios de proceso, entrenamiento y presión por adaptación. Los items que más costó calibrar fueron `q509`, `q510`, `q516` y `q518`, porque estaban muy cerca de conflictos ya presentes en batches anteriores y hubo que separarlos sin salir del tono real del módulo.

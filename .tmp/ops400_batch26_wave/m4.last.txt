@@ -1,0 +1,9 @@
+Módulo: `M4`  
+Batch: `26`
+
+Archivo escrito: [batch-26.json](/mnt/c/Users/veras/Documents/Refactor_Preguntas/01_processed_json_ops400/module4/block-OPS400-M4/batch-26.json)
+
+Pasó validación final: `sí`. Releí el archivo en disco y validé JSON, 20 items exactos, IDs `q501` a `q520`, `module_id/block_id/type`, claves completas en `options_structured`, `notes`, `sot_checksum` y unicidad básica de escenarios. No toqué checklist ni otros módulos.
+
+Riesgos o dudas: bajos. Lo más sensible era mantener el tono M4 sin volver obvias las correctas en los items de control documental y caja.  
+Items que costó más calibrar: `q513`, `q516` y `q518`.

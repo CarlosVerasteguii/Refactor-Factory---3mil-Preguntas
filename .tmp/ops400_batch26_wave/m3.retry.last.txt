@@ -1,0 +1,23 @@
+- Módulo: `M3`
+- Batch: `26`
+- Archivo escrito: [01_processed_json_ops400/module3/block-OPS400-M3/batch-26.json](/mnt/c/Users/veras/Documents/Refactor_Preguntas/01_processed_json_ops400/module3/block-OPS400-M3/batch-26.json)
+- Pasó validación final: `sí`
+
+Validación aplicada:
+- JSON válido y con 20 items.
+- IDs únicos y completos de `block-OPS400-M3-q501` a `block-OPS400-M3-q520`.
+- `module_id`, `block_id`, `type`, `notes` y `sot_checksum` consistentes.
+- Escaneo de palabras vetadas sin coincidencias reales.
+- Revisión manual de tono `M3`, costo personal en la correcta, distractores plausibles y menor repetición visible en cierres/evasivas.
+
+Riesgos o dudas:
+- Detecté una sobrescritura concurrente sobre `batch-26.json` mientras trabajaba; la validación final la hice sobre el estado final actualmente guardado en disco.
+- Algunos reactivos quedan deliberadamente tensos entre operación y criterio, que es correcto para `M3`, pero conviene vigilar que no se lean demasiado “de control documental” en conjunto.
+
+Items difíciles de calibrar:
+- `q503` por el balance entre retiro inmediato y no sonar alarmista.
+- `q512` por la línea fina entre obedecer una orden operativa y dejar trazabilidad válida.
+- `q516` por mantener plausible la presión de auditoría sin volver obvia la racionalización.
+- `q520` por evitar que la racionalizada sonara a falsificación demasiado descarada.
+
+No toqué `OPS400_Expansion_Checklist.md` ni otros módulos.
