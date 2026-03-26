@@ -33,8 +33,8 @@ Regla maestra:
 - [ ] M1 batch-23
 - [x] M1 batch-24
 - [x] M1 batch-25
-- [ ] M1 batch-26
-- [ ] M1 batch-27
+- [x] M1 batch-26
+- [x] M1 batch-27
 - [ ] M1 batch-28
 - [ ] M1 batch-29
 - [ ] M1 batch-30
@@ -61,8 +61,8 @@ Regla maestra:
 - [ ] M2 batch-23
 - [x] M2 batch-24
 - [x] M2 batch-25
-- [ ] M2 batch-26
-- [ ] M2 batch-27
+- [x] M2 batch-26
+- [x] M2 batch-27
 - [ ] M2 batch-28
 - [ ] M2 batch-29
 - [ ] M2 batch-30
@@ -89,8 +89,8 @@ Regla maestra:
 - [ ] M3 batch-23
 - [x] M3 batch-24
 - [x] M3 batch-25
-- [ ] M3 batch-26
-- [ ] M3 batch-27
+- [x] M3 batch-26
+- [x] M3 batch-27
 - [ ] M3 batch-28
 - [ ] M3 batch-29
 - [ ] M3 batch-30
@@ -117,8 +117,8 @@ Regla maestra:
 - [ ] M4 batch-23
 - [x] M4 batch-24
 - [x] M4 batch-25
-- [ ] M4 batch-26
-- [ ] M4 batch-27
+- [x] M4 batch-26
+- [x] M4 batch-27
 - [ ] M4 batch-28
 - [ ] M4 batch-29
 - [ ] M4 batch-30
@@ -145,8 +145,8 @@ Regla maestra:
 - [ ] M5 batch-23
 - [x] M5 batch-24
 - [x] M5 batch-25
-- [ ] M5 batch-26
-- [ ] M5 batch-27
+- [x] M5 batch-26
+- [x] M5 batch-27
 - [ ] M5 batch-28
 - [ ] M5 batch-29
 - [ ] M5 batch-30
