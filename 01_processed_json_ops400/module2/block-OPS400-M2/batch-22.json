@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M2-q421",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me entregan una herramienta nueva para marcar inventario y no la domino. Ya empezó mi turno y hay mucho producto por registrar.",
+    "options_structured": {
+      "integrity_correct": "Arranco con la herramienta nueva desde el primer producto, aunque vaya lento y me atrase.",
+      "pragmatic_distractor": "Le pido al compañero de al lado que me dé los atajos más rápidos para no frenar la línea.",
+      "evasive_distractor": "Voy alternando: registro unos productos con la nueva y otros los anoto a mano para pasarlos después.",
+      "rationalized_distractor": "Uso la herramienta vieja hoy y mañana temprano le dedico tiempo a la nueva cuando haya menos carga."
+    },
+    "notes": "OPS400 M2 batch22 item 1",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q422",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me asignan turno nocturno por tres semanas sin consultarme. En casa tengo compromisos que se complican con ese horario.",
+    "options_structured": {
+      "integrity_correct": "Asumo el turno nocturno y reorganizo mis compromisos de casa para cumplir.",
+      "pragmatic_distractor": "Le propongo al encargado alternar noches con un compañero para que el impacto sea menor para los dos.",
+      "evasive_distractor": "Pregunto si puedo empezar la próxima semana para tener tiempo de acomodar mis asuntos personales.",
+      "rationalized_distractor": "Acepto el turno pero organizo mis entregas para concentrar lo pesado al inicio, cuando todavía traigo energía."
+    },
+    "notes": "OPS400 M2 batch22 item 2",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q423",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Desde hoy un cliente me grita porque su pedido llegó mal. No fue mi error pero él está furioso conmigo.",
+    "options_structured": {
+      "integrity_correct": "Lo escucho sin interrumpir y le explico cómo vamos a resolver su problema.",
+      "pragmatic_distractor": "Le paso la llamada al encargado para que él maneje el reclamo fuerte.",
+      "evasive_distractor": "Le pido que me deje revisar el sistema y le regreso la llamada en unos minutos.",
+      "rationalized_distractor": "Le aclaro que el error no fue mío para que entienda que gritarme no tiene sentido."
+    },
+    "notes": "OPS400 M2 batch22 item 3",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q424",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me asignan trabajar con un compañero que me ignora cuando le hablo. Necesito coordinarme con él para sacar la tarea.",
+    "options_structured": {
+      "integrity_correct": "Me acerco otra vez y le digo directamente qué necesito que hagamos juntos.",
+      "pragmatic_distractor": "Divido la tarea en dos partes independientes para que cada quien avance sin depender del otro.",
+      "evasive_distractor": "Le aviso al encargado que hay un problema de comunicación antes de que afecte los tiempos.",
+      "rationalized_distractor": "Hago mi parte completa y si él no cumple la suya queda claro quién falló."
+    },
+    "notes": "OPS400 M2 batch22 item 4",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q425",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Desde hoy la meta de entregas subió y no me dieron más tiempo ni apoyo. Siento que es imposible llegar.",
+    "options_structured": {
+      "integrity_correct": "Cumplo con la nueva meta desde el primer turno aunque termine agotado.",
+      "pragmatic_distractor": "Reorganizo mi ruta para recortar tiempos muertos y ver si así alcanzo el número.",
+      "evasive_distractor": "Le pregunto al coordinador cuáles entregas son prioritarias por si no llego a todas.",
+      "rationalized_distractor": "Intento alcanzar el número pero si veo que no llego, le aviso al coordinador antes de que cierre el turno."
+    },
+    "notes": "OPS400 M2 batch22 item 5",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q426",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Anuncian que hay capacitación obligatoria hoy, justo el día más pesado de la semana. Todos andamos corriendo.",
+    "options_structured": {
+      "integrity_correct": "Tomo la capacitación en el horario que me asignaron aunque el turno se me complique.",
+      "pragmatic_distractor": "Le pido al encargado que me la mueva para mañana temprano cuando hay menos carga.",
+      "evasive_distractor": "Reviso si algún compañero puede pasarme los puntos clave para yo verla después con calma.",
+      "rationalized_distractor": "Saco primero lo más urgente del piso y llego tarde a la capacitación; lo importante es que no se caiga la operación."
+    },
+    "notes": "OPS400 M2 batch22 item 6",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q427",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me mandan a cubrir una zona de reparto que no conozco. Las calles tienen nombres parecidos y me voy a perder seguro.",
+    "options_structured": {
+      "integrity_correct": "Acepto la zona y le pido al coordinador unos minutos para estudiar el mapa antes de salir.",
+      "pragmatic_distractor": "Salgo directo con el GPS y voy resolviendo sobre la marcha; así aprendí mi ruta actual.",
+      "evasive_distractor": "Le pregunto al compañero que cubre esa zona si puede acompañarme hoy para orientarme.",
+      "rationalized_distractor": "Reorganizo las entregas por cercanía según mi criterio para no dar tantas vueltas en lo que aprendo."
+    },
+    "notes": "OPS400 M2 batch22 item 7",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q428",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "A partir de hoy debo llenar un reporte adicional por cada incidencia. Siento que me va a frenar mucho y voy a quedar mal en mis tiempos.",
+    "options_structured": {
+      "integrity_correct": "Aplico el reporte completo desde la primera incidencia aunque me atrase.",
+      "pragmatic_distractor": "Anoto las incidencias en mi libreta y las paso al sistema al final del turno para no perder ritmo.",
+      "evasive_distractor": "Le pregunto al encargado cuáles incidencias son las que realmente importa reportar.",
+      "rationalized_distractor": "Lleno solo los campos obligatorios; los detalles extras los agrego cuando el sistema esté menos saturado."
+    },
+    "notes": "OPS400 M2 batch22 item 8",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q429",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me rotan a un puesto que no quería. Tenía buen ritmo donde estaba y ahora voy a empezar de cero otra vez.",
+    "options_structured": {
+      "integrity_correct": "Tomo el puesto nuevo y empiezo a aprender las tareas desde el primer día.",
+      "pragmatic_distractor": "Le propongo al encargado que me deje una semana más en mi puesto actual para cerrar bien mis pendientes.",
+      "evasive_distractor": "Observo cómo trabajan los demás en ese puesto antes de meterme de lleno.",
+      "rationalized_distractor": "Acepto pero le digo que mi experiencia rinde más en el puesto anterior por si quiere reconsiderar."
+    },
+    "notes": "OPS400 M2 batch22 item 9",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q430",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Mi escáner falla a cada rato y me hace quedar mal porque no registro las entregas a tiempo. Ya lo reporté pero no lo cambian.",
+    "options_structured": {
+      "integrity_correct": "Sigo reportando la falla cada vez que ocurre y registro manual mientras tanto.",
+      "pragmatic_distractor": "Le pido prestado el escáner a un compañero en sus tiempos muertos para no atrasarme.",
+      "evasive_distractor": "Espero a que el técnico venga a revisarlo antes de seguir quejándome.",
+      "rationalized_distractor": "Uso el escáner solo para las entregas grandes y las chicas las anoto manual; así no pierdo tanto tiempo reiniciándolo."
+    },
+    "notes": "OPS400 M2 batch22 item 10",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q431",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Nos indican que el proceso de cierre ahora incluye tres pasos extra de verificación. Varios compañeros ya se están quejando porque nos retrasa la salida.",
+    "options_structured": {
+      "integrity_correct": "Inicio el cierre con los tres pasos nuevos aunque hoy salga más tarde de lo habitual.",
+      "pragmatic_distractor": "Hago los pasos extra solo en los puntos donde sé que el encargado revisa con más detalle.",
+      "evasive_distractor": "Espero a ver cómo lo hacen los demás esta semana antes de modificar mi rutina de cierre.",
+      "rationalized_distractor": "Agrupo dos de los pasos en uno solo porque al final verifican lo mismo y así no pierdo tanto tiempo."
+    },
+    "notes": "OPS400 M2 batch22 item 11",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q432",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "El encargado nuevo es muy estricto y revisa todo con lupa. Me pone nervioso porque siento que cualquier detalle me lo va a marcar.",
+    "options_structured": {
+      "integrity_correct": "Respeto su forma de supervisar y le pregunto directamente qué espera de mi trabajo.",
+      "pragmatic_distractor": "Mejoro los puntos que él más revisa para que no me llame la atención seguido.",
+      "evasive_distractor": "Mantengo perfil bajo y hago mi trabajo sin meterme en problemas hasta que agarre su estilo.",
+      "rationalized_distractor": "Le comento que el equipo trabaja mejor con menos presión para que relaje un poco su método."
+    },
+    "notes": "OPS400 M2 batch22 item 12",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q433",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Ponen regla de quedarnos media hora más sin aviso previo porque hay mucha carga. Tenía planes en casa y me cae de sorpresa.",
+    "options_structured": {
+      "integrity_correct": "Acato el horario extendido y aviso a mi familia que llegaré más tarde hoy.",
+      "pragmatic_distractor": "Me quedo pero le propongo al encargado que mañana rotemos para que no siempre sean los mismos.",
+      "evasive_distractor": "Pregunto si puedo salir a mi hora normal hoy y compensar mañana que no tengo compromisos.",
+      "rationalized_distractor": "Me quedo la media hora pero concentro mi esfuerzo en lo más urgente y dejo lo secundario para mañana temprano."
+    },
+    "notes": "OPS400 M2 batch22 item 13",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q434",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Un compañero me dice que podemos saltarnos el registro de inventario porque nadie lo revisa y así acabamos más rápido. La verdad me tienta.",
+    "options_structured": {
+      "integrity_correct": "Respeto el registro completo aunque mi compañero termine antes que yo.",
+      "pragmatic_distractor": "Lleno lo esencial del registro y dejo los campos secundarios para cuando haya auditoría.",
+      "evasive_distractor": "Le digo que lo voy a pensar y sigo con mi forma de trabajar sin comprometerme.",
+      "rationalized_distractor": "Anoto todo en mi libreta para tener respaldo y paso al sistema solo lo que pide el formato rápido."
+    },
+    "notes": "OPS400 M2 batch22 item 14",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q435",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Nos avisan que recortaron el bono de puntualidad este mes. El equipo está muy molesto y algunos dicen que ya no vale la pena llegar temprano.",
+    "options_structured": {
+      "integrity_correct": "Sigo llegando a mi hora de entrada aunque el incentivo sea menor.",
+      "pragmatic_distractor": "Mantengo mi puntualidad pero le pregunto al encargado si habrá otra forma de compensar ese bono.",
+      "evasive_distractor": "Observo qué hacen los demás antes de cambiar mis hábitos de llegada.",
+      "rationalized_distractor": "Llego puntual pero dejo de correr para alcanzar el transporte más temprano porque el margen extra ya no rinde."
+    },
+    "notes": "OPS400 M2 batch22 item 15",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q436",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambian el sistema de registro y ahora falla a cada rato. Pierdo tiempo reiniciando y el encargado sigue pidiendo los mismos números de siempre.",
+    "options_structured": {
+      "integrity_correct": "Reporto cada falla en cuanto ocurre y sigo capturando aunque me atrase.",
+      "pragmatic_distractor": "Llevo un registro en papel y lo paso al sistema cuando deje de fallar.",
+      "evasive_distractor": "Le aviso al encargado que el sistema anda mal para que sepa por qué voy lento.",
+      "rationalized_distractor": "Capturo solo lo más urgente y completo los detalles cuando el sistema esté estable."
+    },
+    "notes": "OPS400 M2 batch22 item 16",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q437",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me llega aviso de que debo cubrir una sucursal a hora y media de mi casa por dos semanas. El trayecto me va a dejar molido.",
+    "options_structured": {
+      "integrity_correct": "Acepto y ajusto mis horarios de sueño para comenzar el lunes sin pretextos.",
+      "pragmatic_distractor": "Le pido al coordinador un horario de entrada más tarde para compensar el traslado.",
+      "evasive_distractor": "Pregunto si hay alguien que viva más cerca y pueda ir en mi lugar.",
+      "rationalized_distractor": "Voy pero arranco más temprano para que el trayecto no me quite tiempo efectivo de trabajo."
+    },
+    "notes": "OPS400 M2 batch22 item 17",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q438",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Hoy toca estrenar el calzado de seguridad nuevo. Después de dos horas ya me arden los pies y todavía falta mucho turno.",
+    "options_structured": {
+      "integrity_correct": "Sigo usándolos y al terminar el turno pido que me cambien la talla.",
+      "pragmatic_distractor": "Les pongo unas plantillas que traigo y aguanto el resto del día.",
+      "evasive_distractor": "Busco tareas donde camine menos mientras se me acostumbra el pie.",
+      "rationalized_distractor": "Aflojo las agujetas cuando estoy en el escritorio para aliviar la presión mientras me acostumbro."
+    },
+    "notes": "OPS400 M2 batch22 item 18",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q439",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Pusieron un tablero público donde aparecen los resultados de todos. Hoy salí en los últimos lugares y mis compañeros ya lo vieron.",
+    "options_structured": {
+      "integrity_correct": "Atiendo mis tareas con el mismo esfuerzo y le pregunto al encargado qué puedo mejorar.",
+      "pragmatic_distractor": "Reviso qué hacen los que salen arriba para copiar sus métodos.",
+      "evasive_distractor": "Espero unos días a ver si mis números suben antes de preocuparme.",
+      "rationalized_distractor": "Le comento al encargado que el tablero no refleja bien mi tipo de trabajo."
+    },
+    "notes": "OPS400 M2 batch22 item 19",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q440",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "A diez minutos de salir me piden quedarme a cubrir una urgencia. Ya tenía planes con mi familia que no puedo mover.",
+    "options_structured": {
+      "integrity_correct": "Me quedo a cubrir la urgencia y le aviso a mi familia que llego tarde.",
+      "pragmatic_distractor": "Propongo quedarme media hora y dejar avanzado lo más crítico.",
+      "evasive_distractor": "Pregunto si hay alguien más que pueda quedarse antes de confirmar.",
+      "rationalized_distractor": "Me quedo porque si no apoyo en las urgencias luego no me van a considerar cuando yo necesite un favor."
+    },
+    "notes": "OPS400 M2 batch22 item 20",
+    "sot_checksum": "ops400_m2_options_v3"
+  }
+]
