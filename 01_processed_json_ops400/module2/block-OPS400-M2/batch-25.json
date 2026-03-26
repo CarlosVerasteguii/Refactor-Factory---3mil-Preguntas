@@ -1,0 +1,302 @@
+[
+  {
+    "id": "block-OPS400-M2-q481",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Falté tres días por enfermedad y al regresar tengo un rezago grande. Mis compañeros ya avanzaron con el proceso nuevo y yo me quedé atrás. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Empiezo a resolver el rezago desde donde lo dejé aunque tarde más que el resto del equipo.",
+      "pragmatic_distractor": "Le pido a un compañero que me pase sus apuntes del proceso nuevo para ponerme al corriente más rápido.",
+      "evasive_distractor": "Le aviso al encargado que necesito un par de horas para revisar qué me perdí antes de arrancar.",
+      "rationalized_distractor": "Me enfoco primero en las tareas del día de hoy para no acumular más retraso y el rezago lo voy sacando en los huecos."
+    },
+    "notes": "OPS400 M2 batch25 item 1",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q482",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambiaron el proceso y ahora cada salida de mercancía necesita una firma de autorización del encargado. El encargado tarda en firmar y mis tiempos se están yendo al suelo. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Espero la firma en cada caso aunque mis tiempos bajen y el encargado vea la diferencia.",
+      "pragmatic_distractor": "Junto varias autorizaciones para pedirlas de una vez y no interrumpir al encargado tantas veces.",
+      "evasive_distractor": "Le pregunto al encargado si hay algún tipo de salida que no requiera firma para ir avanzando en lo que me autoriza.",
+      "rationalized_distractor": "Saco la mercancía sin firma cuando ya conozco el tipo de pedido y después cuadro los papeles."
+    },
+    "notes": "OPS400 M2 batch25 item 2",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q483",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me llega un lote de insumos con defectos visibles. Si los reporto voy a detener la línea y hoy tenemos una meta alta. Los compañeros dicen que se puede trabajar igual. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Reporto el lote defectuoso al encargado aunque eso pare la producción un rato.",
+      "pragmatic_distractor": "Separo los que tienen defecto grave y uso los que están en condición aceptable para no parar todo.",
+      "evasive_distractor": "Le aviso al encargado del problema pero sigo trabajando mientras él decide qué hacer.",
+      "rationalized_distractor": "Los uso todos hoy porque la meta no puede esperar y documento el defecto para que lo consideren en el siguiente pedido."
+    },
+    "notes": "OPS400 M2 batch25 item 3",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q484",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Un compañero con más antigüedad me dice que el proceso nuevo no sirve y que me enseña cómo lo hacían antes porque 'eso sí funciona'. El proceso nuevo es el que me pidieron aplicar. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le agradezco el consejo y sigo con el proceso nuevo tal como me lo indicaron.",
+      "pragmatic_distractor": "Le escucho para entender qué ventajas ve en el método viejo y veo si le puedo sacar algo útil.",
+      "evasive_distractor": "Le digo que voy a probarlo un turno más y si el proceso nuevo no funciona, le pido que me enseñe.",
+      "rationalized_distractor": "Combino lo que me funciona del proceso viejo con los pasos nuevos para no perder velocidad."
+    },
+    "notes": "OPS400 M2 batch25 item 4",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q485",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Por una reestructura, ya no tengo acceso al área donde guardaba mis herramientas. Ahora debo pedir prestadas o esperar a que alguien las desocupe. Siento que me frena mucho. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Me acomodo al nuevo acceso aunque tenga que esperar y mi ritmo baje los primeros días.",
+      "pragmatic_distractor": "Hablo con el encargado para pedirle un juego de herramientas propio para no depender de los demás.",
+      "evasive_distractor": "Busco la forma de terminar mis tareas con lo que tengo disponible sin hacer preguntas por ahora.",
+      "rationalized_distractor": "Me quedo cerca del área restringida para ser el primero en usarla cuando la desocupen."
+    },
+    "notes": "OPS400 M2 batch25 item 5",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q486",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me asignan como referente de calidad del turno para que apoye a los compañeros que tienen dudas, pero mi propia carga de trabajo sigue igual. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Atiendo las dudas que me lleguen aunque eso me retrase en mis propias tareas.",
+      "pragmatic_distractor": "Le propongo al encargado reducir mi carga un poco para poder atender bien las dos responsabilidades.",
+      "evasive_distractor": "Espero a ver cuántas dudas me llegan en realidad antes de pedir un ajuste.",
+      "rationalized_distractor": "Contesto solo las dudas urgentes y las demás las dejo para el final del turno para no perder mi ritmo."
+    },
+    "notes": "OPS400 M2 batch25 item 6",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q487",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Ocurre un incidente menor de seguridad en mi área. El nuevo protocolo pide llenar un reporte de cinco pasos antes de retomar el trabajo. Varios compañeros saltaron el reporte porque 'fue cosa de nada'. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Lleno el reporte completo de los cinco pasos aunque tarde más en retomar la actividad.",
+      "pragmatic_distractor": "Anoto los puntos más relevantes del incidente y completo el reporte en el descanso para no parar.",
+      "evasive_distractor": "Le pregunto al encargado si este tipo de incidente realmente requiere el reporte completo o solo los pasos críticos.",
+      "rationalized_distractor": "Marco el reporte como completado y lo lleno con detalle al final del turno cuando tenga más calma."
+    },
+    "notes": "OPS400 M2 batch25 item 7",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q488",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambiaron el método de conteo de inventario. El nuevo es más riguroso y me tarda el doble. El encargado espera los mismos resultados que antes al mismo horario. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Aplico el nuevo método completo y le aviso al encargado que el conteo tardará más.",
+      "pragmatic_distractor": "Hago el nuevo método en las secciones de mayor rotación y el viejo en las que casi no se mueven.",
+      "evasive_distractor": "Le pregunto a quien lo diseñó si hay algún atajo aprobado para agilizar sin saltarse pasos.",
+      "rationalized_distractor": "Comienzo el conteo una hora antes por mi cuenta para entregar a tiempo sin cambiar nada."
+    },
+    "notes": "OPS400 M2 batch25 item 8",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q489",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Hay una tarea crítica que nadie más en el turno sabe hacer y me la dejan a mí aunque no la domino del todo. No hay tiempo para capacitarme formalmente antes de empezar. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "La ejecuto con lo que sé, al ritmo que me permita no cometer errores graves.",
+      "pragmatic_distractor": "Llamo a alguien del turno anterior para que me dé indicaciones rápidas antes de arrancar.",
+      "evasive_distractor": "Le digo al encargado que la hago pero que me acompañe los primeros minutos por si se me complica.",
+      "rationalized_distractor": "Hago la parte que domino y dejo lo que no sé para cuando llegue alguien que pueda ayudarme."
+    },
+    "notes": "OPS400 M2 batch25 item 9",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q490",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me entregan una evaluación escrita con puntuación baja en un indicador donde yo creía estar bien. No entiendo de dónde salen esos números. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le pido al encargado una reunión para revisar juntos los registros que generaron esa puntuación.",
+      "pragmatic_distractor": "Acepto los resultados y me enfoco en mejorar ese indicador para que la próxima evaluación salga mejor.",
+      "evasive_distractor": "Busco en mis propios registros del periodo para entender qué pudo haber bajado mi nota.",
+      "rationalized_distractor": "Le pregunto a un compañero si a él también le fue mal en ese indicador para saber si es un error del sistema."
+    },
+    "notes": "OPS400 M2 batch25 item 10",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q491",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Un cliente pide algo que antes lo podía aprobar yo solo, pero el nuevo proceso requiere que un supervisor lo autorice. El supervisor está ocupado y el cliente dice que no puede esperar. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le explico al cliente que necesita autorización del supervisor y espero a que el supervisor esté disponible.",
+      "pragmatic_distractor": "Llamo al supervisor por radio para que lo autorice desde donde está sin que tenga que venir.",
+      "evasive_distractor": "Le digo al cliente que me dé unos minutos y busco al supervisor antes de decirle que no.",
+      "rationalized_distractor": "Lo proceso yo mismo esta vez porque conozco bien el caso y luego le aviso al supervisor para que lo valide."
+    },
+    "notes": "OPS400 M2 batch25 item 11",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q492",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambian el estándar de presentación personal y ahora debo usar un tipo de calzado diferente que me resulta incómodo y no tenía contemplado comprar. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Consigo el calzado requerido y lo uso desde el primer día que entra en vigor la regla.",
+      "pragmatic_distractor": "Le pregunto al encargado si hay un plazo de adaptación o si el trabajo me puede apoyar con el costo.",
+      "evasive_distractor": "Uso el calzado más cercano al nuevo estándar que ya tengo mientras consigo el que piden.",
+      "rationalized_distractor": "Lo uso en los turnos donde sé que habrá supervisión y fuera de esos turnos sigo con lo que tengo."
+    },
+    "notes": "OPS400 M2 batch25 item 12",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q493",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "A mitad de turno cambian la herramienta física con la que trabajo por una diferente. No la conozco bien y el ritmo de producción no se detiene. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Empiezo a trabajar con la herramienta nueva aunque vaya más despacio y cometa más errores al inicio.",
+      "pragmatic_distractor": "Le pido al compañero más cercano que me muestre rápido los puntos clave de la herramienta nueva.",
+      "evasive_distractor": "Sigo con la herramienta anterior mientras pasa la hora pico y después hago el cambio.",
+      "rationalized_distractor": "Uso la herramienta nueva solo para las piezas más simples y la anterior para las que requieren precisión."
+    },
+    "notes": "OPS400 M2 batch25 item 13",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q494",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me toca hacer el conteo final de turno y el sistema nuevo que debo usar para registrarlo no lo conozco. Ya quiero irme y hay gente esperando para entrar al siguiente turno. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Hago el conteo final en el sistema nuevo aunque tarde más y la salida se retrase.",
+      "pragmatic_distractor": "Le pido al compañero del siguiente turno que me guíe en el sistema mientras hacemos el conteo juntos.",
+      "evasive_distractor": "Anoto el conteo en papel y lo subo al sistema cuando alguien me explique cómo operarlo.",
+      "rationalized_distractor": "Dejo el conteo en el formato anterior para que no haya errores y lo pasan al sistema mañana con más calma."
+    },
+    "notes": "OPS400 M2 batch25 item 14",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q495",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Un compañero me dice en voz alta que él va a seguir con el proceso viejo porque 'nadie lo revisa' y me invita a hacer lo mismo. Me da miedo quedar mal si lo sigo pero también si me señalo. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Sigo el proceso nuevo sin comentar lo que hace él y sin defenderme de su presión.",
+      "pragmatic_distractor": "Le digo en voz baja que por lo pronto yo lo voy a seguir para no arriesgarme.",
+      "evasive_distractor": "No digo nada en ese momento y espero a ver si el encargado se da cuenta de lo que está pasando.",
+      "rationalized_distractor": "Lo reporto con el encargado para que lo corrijan a él y yo no quede implicado en su decisión."
+    },
+    "notes": "OPS400 M2 batch25 item 15",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q496",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "El sistema registró mal el pedido de un cliente y él viene enojado porque le llegó incompleto. El error no fue mío pero tengo que atenderlo. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le explico lo que pasó con el sistema y me encargo de resolverle el faltante aunque me tome tiempo extra.",
+      "pragmatic_distractor": "Le digo que fue un error del sistema y lo paso con el área de soporte para que ellos lo resuelvan.",
+      "evasive_distractor": "Le pido que me deje verificar su pedido en el sistema antes de comprometer cualquier solución.",
+      "rationalized_distractor": "Le ofrezco una compensación rápida para que se vaya contento y reporto el error del sistema después."
+    },
+    "notes": "OPS400 M2 batch25 item 16",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q497",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Necesito un insumo crítico para terminar mi tarea y el encargado dice que no hay. Sin ese insumo no puedo avanzar y mi trabajo se va a quedar incompleto hoy. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo al encargado que sin ese insumo mi tarea queda incompleta y le pido que lo documente.",
+      "pragmatic_distractor": "Busco si hay algo equivalente en el almacén que pueda sustituirlo de forma provisional.",
+      "evasive_distractor": "Avanzo en las partes de la tarea que no dependen de ese insumo y espero a que aparezca.",
+      "rationalized_distractor": "Hablo con otro encargado de turno para ver si tiene el insumo en su área y me lo puede prestar."
+    },
+    "notes": "OPS400 M2 batch25 item 17",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q498",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambian el criterio de prioridad de pedidos. Ahora los pequeños van primero aunque llegaron después. A mí me parece que eso va a generar más errores. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Aplico el nuevo criterio de prioridad desde el primer pedido aunque no lo entienda del todo.",
+      "pragmatic_distractor": "Lo aplico pero anoto los casos donde el criterio nuevo parece afectar los tiempos para proponérselos al encargado.",
+      "evasive_distractor": "Le pregunto al encargado si puedo hacer excepciones cuando el criterio nuevo cause una demora muy visible.",
+      "rationalized_distractor": "Sigo mi criterio lógico de llegada y cuando alguien lo note le explico por qué tiene más sentido."
+    },
+    "notes": "OPS400 M2 batch25 item 18",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q499",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Me piden darle retroalimentación a un compañero sobre un error que cometió. Sé que se va a poner a la defensiva y que puede generar tensión en el equipo. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Le digo lo que observé con calma y directo, aunque se incomode o lo tome mal.",
+      "pragmatic_distractor": "Le comento el error de forma general para que lo entienda sin que sienta que lo estoy atacando.",
+      "evasive_distractor": "Le digo al encargado que yo no me siento con autoridad para darle la retroalimentación y que lo haga él.",
+      "rationalized_distractor": "Espero a que haya un mejor momento para decírselo, cuando el ambiente esté más calmado."
+    },
+    "notes": "OPS400 M2 batch25 item 19",
+    "sot_checksum": "ops400_m2_options_v3"
+  },
+  {
+    "id": "block-OPS400-M2-q500",
+    "module_id": 2,
+    "block_id": "OPS400-M2",
+    "type": "options",
+    "scenario": "Cambian al responsable de mi evaluación justo cuando llevaba meses construyendo una buena relación con el anterior. El nuevo no me conoce y ya empezó a evaluar. ¿Qué es lo primero que haces?",
+    "options_structured": {
+      "integrity_correct": "Me presento con el nuevo evaluador y le explico cómo trabajo para que tenga contexto desde el inicio.",
+      "pragmatic_distractor": "Me enfoco en que mis números sean visibles estos primeros días para que el nuevo evaluador los note.",
+      "evasive_distractor": "Espero a que él me convoque primero antes de acercarme para no parecer que estoy buscando favores.",
+      "rationalized_distractor": "Hablo con el evaluador anterior para que le pase contexto al nuevo y yo no tenga que empezar de cero."
+    },
+    "notes": "OPS400 M2 batch25 item 20",
+    "sot_checksum": "ops400_m2_options_v3"
+  }
+]
