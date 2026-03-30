@@ -4,7 +4,7 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "El contador me pide que postdate una factura de hoy para que entre en el corte del mes pasado y así cuadren los números del cierre. Dice que nadie revisa las fechas y que es común hacerlo. ¿Qué hago?",
+    "scenario": "El contador me pide que antefecha una factura de hoy para que entre en el corte del mes pasado y así cuadren los números del cierre. Dice que nadie revisa las fechas y que es común hacerlo. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Le digo que no puedo modificar la fecha y emito la factura con la fecha real del día de hoy.",
       "pragmatic_distractor": "Le pido que me mande por correo la instrucción para tener respaldo si alguien pregunta después.",
@@ -184,12 +184,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Al hacer mi corte de caja noto un sobrante de 80 pesos que no puedo explicar. Mi compañera me dice que me lo guarde porque nadie lo va a reclamar y el turno ya va de salida. ¿Qué hago?",
+    "scenario": "Un cliente paga en efectivo pero no quiere factura. Mi compañero me sugiere no registrar la venta en sistema y guardar el dinero aparte para 'ajustar' faltantes del mes. Dice que así todos lo hacen cuando el corte no cuadra. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Registro el sobrante en el sistema y lo dejo documentado para que quede en el arqueo del día.",
-      "pragmatic_distractor": "Lo dejo en la caja sin registrarlo y si alguien reclama mañana, ahí está el dinero disponible.",
-      "evasive_distractor": "Le digo a mi compañera que lo registre ella porque yo ya cerré mi sesión del sistema.",
-      "rationalized_distractor": "Me lo guardo como compensación por todas las veces que me toca cubrir faltantes de mi bolsa sin que nadie lo reconozca."
+      "integrity_correct": "Registro la venta completa en sistema aunque el cliente no quiera factura y le entrego su ticket normal.",
+      "pragmatic_distractor": "Le pido al cliente que me deje al menos su RFC por si después quiere su factura y registro la venta.",
+      "evasive_distractor": "Le digo a mi compañero que lo haga él desde su caja porque yo no quiero meterme en problemas.",
+      "rationalized_distractor": "Acepto no registrarla porque es dinero que entra igual y me ayuda a cuadrar cuando hay faltantes."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 29 item 13",
     "sot_checksum": "ops400_m3_options_v1"

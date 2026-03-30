@@ -274,12 +274,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Ves que el extintor de tu zona de trabajo tiene el sello de seguridad roto. No se ve descargado, pero no puedes confirmar que funcione. Tienes mucha chamba pendiente. ¿Qué haces?",
+    "scenario": "Al buscar una gasa en el botiquín de tu área, notas que las vendas y el alcohol tienen fecha vencida desde hace dos meses. Hay mucho trabajo y el encargado de seguridad no está. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Reporto el extintor y pido que lo cambien antes de seguir trabajando en esa zona.",
-      "pragmatic_distractor": "Checo el indicador de presión y si marca verde sigo trabajando con él.",
-      "evasive_distractor": "Le tomo foto al sello roto y lo mando al grupo de seguridad para que ellos lo revisen después.",
-      "rationalized_distractor": "Lo dejo así porque el sello se rompe fácil y el extintor se ve en buen estado."
+      "integrity_correct": "Pongo el botiquín fuera de servicio y reporto que necesita resurtirse con material vigente, aunque me atrase.",
+      "pragmatic_distractor": "Uso solo lo que se ve en buen estado y dejo una nota para que lo resurtieran después.",
+      "evasive_distractor": "Le mando foto al grupo de seguridad para que ellos se encarguen cuando puedan.",
+      "rationalized_distractor": "Lo dejo así porque el alcohol y las vendas no se echan a perder tan rápido aunque diga vencido."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 28 item 19",
     "sot_checksum": "ops400_m4_options_v1"

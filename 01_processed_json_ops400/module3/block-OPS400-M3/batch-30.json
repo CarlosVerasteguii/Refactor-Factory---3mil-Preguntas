@@ -124,12 +124,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Mi compañero me pide que le registre dos horas extra que no trabajó porque dice que la semana pasada sí se quedó tarde pero olvidó ficharlas. Me asegura que es un tema de justicia y que el supervisor nunca revisa esos detalles. ¿Qué hago?",
+    "scenario": "Mi compañero me pide que firme su hoja de asistencia de ayer porque llegó tarde y no quiere que le descuenten. Dice que él me cubre cuando yo necesite lo mismo. El supervisor casi nunca revisa las firmas. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que no puedo registrar horas que no se trabajaron hoy y que hable con el supervisor sobre las anteriores.",
-      "pragmatic_distractor": "Le digo que mejor guarde el mensaje donde me pidió el favor por si después necesita comprobar que sí hubo un malentendido con sus tiempos.",
-      "evasive_distractor": "Le digo que no tengo acceso al módulo de horas extra y que se lo pida a alguien de recursos humanos.",
-      "rationalized_distractor": "Se las registro porque es verdad que siempre se queda y la empresa le debe ese tiempo de una forma u otra."
+      "integrity_correct": "Le digo que no puedo firmar algo que no es verdad y que mejor hable con el supervisor si tuvo un imprevisto.",
+      "pragmatic_distractor": "Le sugiero que él mismo anote una justificación en el formato y lo entregue a recursos humanos.",
+      "evasive_distractor": "Le digo que ya no traigo pluma y que le pida a alguien más que lo ayude con eso.",
+      "rationalized_distractor": "Le firmo porque entre compañeros nos apoyamos y a cualquiera le puede pasar un retraso."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 30 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -199,12 +199,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En mi corte de caja me sobran 200 pesos. No recuerdo a qué cliente le di mal el cambio y ya no hay nadie esperando. Mi compañero me dice que me los guarde porque 'nadie va a reclamar'. ¿Qué decides hacer?",
+    "scenario": "Recibo una devolución en efectivo pero el cliente no trae el ticket original. Mi compañero me dice que la procese de todos modos y anote un número de ticket inventado para que el sistema lo acepte. Dice que es cliente frecuente y seguro sí compró aquí. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Registro el sobrante en el sistema y lo dejo en el sobre de diferencias para que quede documentado.",
-      "pragmatic_distractor": "Reviso los últimos tickets para ver si identifico al cliente y mientras tanto dejo el dinero apartado en la caja.",
-      "evasive_distractor": "Le paso el sobre al supervisor sin decirle el monto exacto para que él decida qué hacer.",
-      "rationalized_distractor": "Lo dejo como fondo extra en la caja porque mañana seguro va a faltar cambio y así se compensa."
+      "integrity_correct": "Le explico al cliente que sin ticket no puedo procesar la devolución y le ofrezco buscar su compra en el sistema con sus datos.",
+      "pragmatic_distractor": "Le pido que me muestre el cargo en su estado de cuenta bancario para verificar que sí compró aquí antes de hacer algo.",
+      "evasive_distractor": "Le digo que el sistema está fallando y que regrese mañana cuando esté el gerente para autorizarlo.",
+      "rationalized_distractor": "Proceso la devolución con un ticket inventado porque el cliente se ve honesto y no quiero perder su preferencia."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 30 item 14",
     "sot_checksum": "ops400_m3_options_v1"

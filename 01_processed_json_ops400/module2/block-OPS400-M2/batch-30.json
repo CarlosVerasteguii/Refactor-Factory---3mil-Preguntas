@@ -199,12 +199,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Desde esta semana me sacan de mi equipo fijo y me rotan con gente que no conozco. Siento que perdí el ritmo que ya tenía con mis compañeros. ¿Qué es lo primero que haces?",
+    "scenario": "Me cambian del turno de mañana al de tarde sin consultarme. Ahora llego a casa más noche y me desajusta la rutina con mi familia. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me presento con el nuevo equipo y les pregunto cómo prefieren coordinar las tareas.",
-      "pragmatic_distractor": "Trabajo por mi cuenta lo más posible y solo me coordino con ellos cuando es necesario.",
-      "evasive_distractor": "Le pido al encargado quedarme un turno más con mi equipo anterior para cerrar pendientes.",
-      "rationalized_distractor": "Aprovecho mi contacto con el equipo anterior para comparar métodos y aplicar lo que mejor funcione aquí."
+      "integrity_correct": "Acepto el cambio de turno y reorganizo mis horarios en casa para adaptarme.",
+      "pragmatic_distractor": "Le pido al encargado intercambiar turno con alguien que prefiera la tarde.",
+      "evasive_distractor": "Espero unas semanas a ver si el cambio es definitivo antes de mover cosas en casa.",
+      "rationalized_distractor": "Sigo llegando temprano como antes porque ya tengo mi rutina armada y rindo mejor así."
     },
     "notes": "OPS400 M2 batch30 item 14",
     "sot_checksum": "ops400_m2_options_v3"
@@ -259,12 +259,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Me reasignan a un jefe directo que tiene fama de ser muy estricto. Mis compañeros me dicen que me prepare para que me exija el doble. ¿Qué es lo primero que haces?",
+    "scenario": "Mi supervisor empieza a pedirme reportes diarios de lo que hice, cuando antes solo los entregaba cada semana. Siento que no confía en mí. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me presento con él y le pregunto qué espera de mi trabajo desde el primer día.",
-      "pragmatic_distractor": "Observo cómo trata a los demás un par de turnos antes de acercarme mucho.",
-      "evasive_distractor": "Mantengo perfil bajo las primeras semanas para no llamar su atención.",
-      "rationalized_distractor": "Sigo trabajando como siempre porque si llevo años así es porque mi método funciona."
+      "integrity_correct": "Entrego el reporte diario como me lo pide y le pregunto si el formato está bien.",
+      "pragmatic_distractor": "Le mando un resumen corto cada día para cumplir sin perder tanto tiempo.",
+      "evasive_distractor": "Espero a ver si le pide lo mismo a todos o solo a mí antes de sacar conclusiones.",
+      "rationalized_distractor": "Le explico que mi trabajo habla por sí solo y que el reporte semanal siempre ha funcionado."
     },
     "notes": "OPS400 M2 batch30 item 18",
     "sot_checksum": "ops400_m2_options_v3"

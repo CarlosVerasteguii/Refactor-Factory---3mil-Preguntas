@@ -19,12 +19,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Al revisar la unidad antes de salir noto que una luz trasera no prende. El encargado dice que la arreglan cuando regrese, que salga así porque hay entregas urgentes.",
+    "scenario": "Termino de cargar la unidad y noto que varias cajas quedaron sueltas porque se acabaron las cinchas. El encargado dice que salga así porque el trayecto es corto y hay prisa. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Le digo que no salgo hasta que la luz funcione, aunque se retrasen las entregas.",
-      "pragmatic_distractor": "Pido que me asignen otra unidad disponible mientras arreglan esta.",
-      "evasive_distractor": "Le pregunto al mecánico cuánto tarda para decidir si espero o no.",
-      "rationalized_distractor": "Salgo porque es de día, no voy a usar las luces y la arreglan en cuanto vuelva."
+      "integrity_correct": "Le digo que no salgo hasta asegurar la carga, aunque tenga que buscar cinchas en otra unidad.",
+      "pragmatic_distractor": "Reacomodo las cajas para que se sostengan entre sí y bajo la velocidad en curvas.",
+      "evasive_distractor": "Le pido al encargado que firme la salida así para que quede bajo su responsabilidad.",
+      "rationalized_distractor": "Salgo porque el trayecto es corto, manejo con cuidado y las cajas no pesan tanto."
     },
     "notes": "OPS400 M1 batch29 item 2",
     "sot_checksum": "ops400_m1_options_v1"

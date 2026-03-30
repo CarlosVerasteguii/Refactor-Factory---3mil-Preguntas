@@ -229,12 +229,12 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Al arrancar la unidad noto que el faro izquierdo no prende. El encargado ya me asignó la ruta completa y el camión sale en cinco minutos. ¿Qué hago?",
+    "scenario": "Al probar los frenos antes de salir a ruta noto un ruido metálico que no había escuchado antes. El encargado dice que seguro es por el frío y que salga porque las entregas ya están atrasadas. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto la falla y pido que revisen el faro antes de salir, aunque retrase la salida.",
-      "pragmatic_distractor": "Salgo con la ruta y reporto el faro cuando regrese para que lo arreglen en la noche.",
-      "evasive_distractor": "Le aviso al encargado y que él decida si salgo así o espero a que lo revisen.",
-      "rationalized_distractor": "Salgo porque es de día y el faro no lo voy a necesitar; de noche ya estaré de regreso."
+      "integrity_correct": "Reporto el ruido y pido que revisen los frenos antes de salir, aunque se retrase más la ruta.",
+      "pragmatic_distractor": "Hago una prueba corta en el patio para confirmar si el ruido persiste antes de decidir.",
+      "evasive_distractor": "Le digo al encargado que prefiero que un mecánico lo escuche primero y él decida.",
+      "rationalized_distractor": "Salgo porque el ruido es leve y los frenos responden bien; en la tarde lo revisan con calma."
     },
     "notes": "OPS400 M1 batch28 item 16",
     "sot_checksum": "ops400_m1_options_v1"

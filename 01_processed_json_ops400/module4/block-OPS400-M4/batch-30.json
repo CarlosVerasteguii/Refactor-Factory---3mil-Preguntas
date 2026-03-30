@@ -274,12 +274,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "Al pasar por el área de extinguidores notas que uno tiene la etiqueta de revisión vencida desde hace dos meses. Tu turno ya casi termina y reportarlo implica llenar formatos. ¿Qué haces?",
+    "scenario": "Al pasar por el pasillo trasero del almacén ves que alguien dejó unas tarimas recargadas contra la puerta de emergencia. Tu turno ya casi termina y moverlas te tomaría unos quince minutos. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Señalo el extinguidor como fuera de servicio y lleno el reporte antes de irme aunque me salga tarde.",
-      "pragmatic_distractor": "Le tomo foto con mi cel y se la mando al grupo de mantenimiento para que lo agenden mañana.",
-      "evasive_distractor": "Le aviso de palabra al compañero que entra en el siguiente turno para que él lo reporte.",
-      "rationalized_distractor": "Lo dejo así porque el extinguidor sigue lleno y la etiqueta vencida no significa que no sirva."
+      "integrity_correct": "Me quedo a mover las tarimas hasta que la salida quede libre, aunque me salga tarde.",
+      "pragmatic_distractor": "Las recorro lo suficiente para que la puerta abra a medias y reporto que falta acomodar.",
+      "evasive_distractor": "Le aviso de palabra al compañero del siguiente turno para que él las quite.",
+      "rationalized_distractor": "Las dejo porque esa salida casi nunca se usa y mañana temprano las mueven."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 30 item 19",
     "sot_checksum": "ops400_m4_options_v1"
