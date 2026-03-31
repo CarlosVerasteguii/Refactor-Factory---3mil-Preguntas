@@ -83,7 +83,7 @@
     "options_structured": {
       "integrity_correct": "Le digo a mi compañero que hay que revisar el producto antes de reingresarlo y lo separo para inspeccionarlo.",
       "pragmatic_distractor": "Separo el producto y lo llevo a revisión de calidad para que ellos decidan.",
-      "evasive_distractor": "No digo nada y espero a que el siguiente cliente lo rechace para que entonces se revise.",
+      "evasive_distractor": "Le digo a mi compañero que mejor hable él con calidad para que no parezca que lo estoy acusando.",
       "rationalized_distractor": "Lo dejo así porque si nadie lo compra antes del siguiente inventario, se detectará solo."
     },
     "notes": "OPS400 M1 batch24 item 6",
@@ -187,8 +187,8 @@
     "scenario": "Para hacer una entrega en una calle angosta tendrías que estacionar la unidad en zona prohibida unos minutos. El cliente espera. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Busco un lugar permitido aunque implique caminar más con el paquete.",
-      "pragmatic_distractor": "Me estaciono en doble fila unos minutos con las luces intermitentes y entrego rápido.",
-      "evasive_distractor": "Llamo al cliente para ver si puede salir a recibir el paquete a una esquina sin restricción.",
+      "pragmatic_distractor": "Llamo al cliente para ver si puede salir a recibir el paquete a una esquina donde sí pueda detenerme.",
+      "evasive_distractor": "Marco intento fallido por acceso restringido y dejo que el sistema reprograme la entrega.",
       "rationalized_distractor": "Paro en zona prohibida un momento porque es solo para dejar el paquete y nadie va a multarme tan rápido."
     },
     "notes": "OPS400 M1 batch24 item 13",
@@ -233,7 +233,7 @@
     "options_structured": {
       "integrity_correct": "Le entrego solo el pedido que pagó y registro el duplicado para cancelarlo.",
       "pragmatic_distractor": "Le explico el error y le digo que si quiere el segundo debe pagar antes de recibirlo.",
-      "evasive_distractor": "Los entrego los dos y reporto el error al sistema para que lo ajusten después.",
+      "evasive_distractor": "Le digo que el sistema está mostrando un error y que el encargado tiene que verlo antes de que yo libere algo.",
       "rationalized_distractor": "Se los dejo porque es un error de la empresa y el cliente no tiene la culpa de que el sistema falle."
     },
     "notes": "OPS400 M1 batch24 item 16",

@@ -157,9 +157,9 @@
     "scenario": "Necesitas subir a revisar una estanteria alta y el andamio disponible no tiene seguro en las ruedas. Le puedes pedir a alguien que lo sostenga, pero el manual dice que no se usa sin bloqueo. Tienes que entregar el conteo antes de cerrar. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "No subo hasta que el andamio tenga el seguro puesto, aunque entregue el conteo tarde o incompleto.",
-      "pragmatic_distractor": "Le pido a dos compañeros que lo sostengan de cada lado mientras subo rapido a revisar.",
+      "pragmatic_distractor": "Cuento las cajas desde abajo con la linterna del celular para estimar el numero sin subir.",
       "evasive_distractor": "Le reporto la falla del seguro a mantenimiento y espero a que lo revisen antes de subir.",
-      "rationalized_distractor": "Subo rapido mientras alguien lo sostiene, que es como lo hacemos cuando no hay tiempo para mas."
+      "rationalized_distractor": "Subo rapido mientras un compañero lo sostiene, que es como lo hacemos cuando no hay tiempo para mas."
     },
     "notes": "OPS400 M4 batch24 item 11",
     "sot_checksum": "ops400_m4_options_v4"
@@ -187,7 +187,7 @@
     "scenario": "Vas en carretera de noche y el conductor de enfrente te baja los destellos insistentemente, como avisandote algo en el camino. Llevas prisa y no hay zona de descanso cercana. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Bajo la velocidad y me orillo en cuanto haya un espacio seguro para revisar la unidad, aunque me atrase.",
-      "pragmatic_distractor": "Bajo la velocidad y voy con mas atencion al camino para ver si hay algo antes de parar.",
+      "pragmatic_distractor": "Reviso los espejos y el tablero mientras manejo para ver si detecto algo raro sin pararme.",
       "evasive_distractor": "Le marco a la base para avisarles que alguien me estaba destellando y que me digan si sigo.",
       "rationalized_distractor": "Sigo a mi ritmo porque los destellos son comunes en carretera y no siempre significan algo serio."
     },
@@ -232,7 +232,7 @@
     "scenario": "En la zona de producto terminado encuentras una botella sin etiqueta mezclada con el lote que vas a despachar. No sabes si es agua, un reactivo o algo del area de mantenimiento. Hay presion por cerrar el pedido. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Saco la botella del lote y la pongo en cuarentena para identificarla antes de despachar nada, aunque se retrase el pedido.",
-      "pragmatic_distractor": "La huelo y si no tiene olor raro la pongo a un lado fuera del lote y despacho el resto.",
+      "pragmatic_distractor": "La saco del lote y la dejo en la mesa del pasillo para revisarla al rato, mientras despacho el pedido.",
       "evasive_distractor": "Le aviso al encargado de calidad que hay una botella sin etiquetar para que el la identifique.",
       "rationalized_distractor": "La dejo donde esta y despacho el lote porque la botella no es parte del pedido y no le hace nada al producto."
     },
@@ -276,9 +276,9 @@
     "type": "options",
     "scenario": "Tu compañero te pide que firmes como testigo en un check de seguridad que el dice ya hizo pero tu no viste. Si no firmas lo deja sin cerrar el turno, pero si firmas estas avalando algo que no presenciaste. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "No firmo como testigo de algo que no vi; le digo que repita el check conmigo presente o que busque a alguien que si lo haya visto.",
+      "integrity_correct": "No firmo como testigo de algo que no vi; le digo que repita el check conmigo presente para poder avalarlo.",
       "pragmatic_distractor": "Le pregunto paso a paso que hizo para ver si es creible y si me convence firmo.",
-      "evasive_distractor": "Le digo que no puedo firmar en este momento y que busque a otro testigo que si estuviera.",
+      "evasive_distractor": "Le digo que no me toca a mi firmar eso y que vaya con el supervisor para ver como lo resuelve.",
       "rationalized_distractor": "Firmo porque lo conozco y se que el no se saltaria un check; no tiene caso hacer mas largo el cierre de turno."
     },
     "notes": "OPS400 M4 batch24 item 19",

@@ -9,7 +9,7 @@
       "integrity_correct": "Le digo que no puedo anotar daños que no existen y que si necesita levantar una queja puede llamar a servicio al cliente.",
       "pragmatic_distractor": "Le tomo foto al paquete tal como está y se la mando para que tenga evidencia de cómo llegó.",
       "evasive_distractor": "No anoto nada de daños y cierro la entrega normalmente; si él quiere quejarse, es su asunto.",
-      "rationalized_distractor": "Anoto el daño porque él es quien recibe y si dice que así llegó, es su palabra la que vale para el expediente."
+      "rationalized_distractor": "Anoto el daño porque al final es un trámite administrativo y si eso le facilita su queja, no me afecta a mí."
     },
     "notes": "OPS400 M1 batch20 item 1",
     "sot_checksum": "ops400_m1_options_v4"
@@ -67,7 +67,7 @@
     "scenario": "Al cerrar la ruta, el sistema pide que registres el nivel de combustible. Tu compañero te dice que lo pongas como 'lleno' aunque la unidad te la entregaron con la cuarta parte, porque 'así siempre lo hacemos'. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Registro el nivel real de combustible aunque me incomode contradecir lo que siempre han hecho.",
-      "pragmatic_distractor": "Registro el nivel real y le aviso al encargado que hay una práctica que debería corregirse.",
+      "pragmatic_distractor": "Le digo a mi compañero que no voy a poner 'lleno' y que si quiere lo hable él con el encargado.",
       "evasive_distractor": "Dejo ese campo en blanco y lo reporto al encargado para que él decida cómo registrarlo.",
       "rationalized_distractor": "Lo pongo como 'lleno' porque si todos lo hacen así debe haber alguna razón que yo todavía no conozco."
     },
@@ -189,7 +189,7 @@
       "integrity_correct": "Le digo que no puedo firmar ese reporte porque cuando lo entregué estaba en buen estado y tengo la foto.",
       "pragmatic_distractor": "Le propongo abrir una investigación formal donde yo puedo explicar las condiciones en que lo entregué.",
       "evasive_distractor": "Le sugiero que llame directamente a servicio al cliente para que ellos revisen mi registro.",
-      "rationalized_distractor": "Firmo el reporte porque entre la entrega y que lo abriera pudo haber pasado algo; el cliente sabe mejor que yo lo que recibió."
+      "rationalized_distractor": "Firmo el reporte porque pelearme con el cliente no me conviene y al final la empresa tiene seguro para estos casos."
     },
     "notes": "OPS400 M1 batch20 item 13",
     "sot_checksum": "ops400_m1_options_v4"

@@ -34,12 +34,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un cliente te muestra su teléfono diciendo que va a subir un video a redes sociales acusando a la tienda de estafadores si no le resuelves su queja ahorita. Está alterado y otros clientes lo están viendo. ¿Qué es lo primero que haces?",
+    "scenario": "Un cliente insiste en que le apliquen una garantía que ya venció. Te dice que si no le resuelves ahorita va a pedir hablar con el dueño y no se va hasta que alguien le haga caso. La fila crece y otros clientes empiezan a impacientarse. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo que entiendo su frustración pero que amenazar no va a cambiar las reglas, y le explico qué sí puedo hacer por él.",
-      "pragmatic_distractor": "Le resuelvo lo que pide para evitar que publique algo negativo que afecte la reputación de la tienda.",
-      "evasive_distractor": "Le pido que espere mientras llamo al gerente para que él decida cómo manejar la situación.",
-      "rationalized_distractor": "Le ofrezco algo extra para compensar sin romper las reglas, pensando que así evito el problema de las redes."
+      "integrity_correct": "Le explico que la garantía ya no aplica y le muestro las opciones que sí tengo, aunque se moleste más y la fila siga creciendo.",
+      "pragmatic_distractor": "Le ofrezco un descuento en su próxima compra para que sienta que le estoy ayudando y se vaya sin más conflicto.",
+      "evasive_distractor": "Le pido que espere mientras consulto con el encargado si hay alguna excepción.",
+      "rationalized_distractor": "Le doy un cupón de cortesía para que se vaya contento, pensando que así evito que arme más lío."
     },
     "notes": "OPS400 M2 batch20 item 3",
     "sot_checksum": "ops400_m2_options_v3"
@@ -49,12 +49,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un cliente empieza a gritarte en frente de todos porque su pedido lleva retraso por un problema del sistema. Te dice que eres inútil y que no sabes hacer tu trabajo. Varios clientes te están viendo. ¿Qué es lo primero que haces?",
+    "scenario": "Un cliente alza la voz reclamando que su pedido lleva retraso por un problema del sistema. Te señala a ti y dice que siempre hay excusas. Otros clientes voltean a ver. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le pido con calma que baje la voz y le explico que el problema es del sistema, no mío, aunque siga gritando.",
-      "pragmatic_distractor": "Le pido disculpas aunque no sea mi error para calmarlo rápido y que no siga molestando a los demás clientes.",
-      "evasive_distractor": "Llamo a un compañero o al supervisor para que él maneje al cliente agresivo.",
-      "rationalized_distractor": "Ignoro los insultos y sigo con mi trabajo, pensando que si no le hago caso se va a cansar."
+      "integrity_correct": "Le explico con calma que el retraso es del sistema y le digo en cuánto tiempo estará listo, aunque siga molesto.",
+      "pragmatic_distractor": "Le pido disculpas aunque no sea mi error para que se calme y no haga más escándalo frente a los demás.",
+      "evasive_distractor": "Llamo al encargado para que él le explique la situación y maneje el reclamo.",
+      "rationalized_distractor": "No le contesto nada y sigo con lo mío, pensando que si no le hago caso se va a cansar de reclamar."
     },
     "notes": "OPS400 M2 batch20 item 4",
     "sot_checksum": "ops400_m2_options_v3"
@@ -64,12 +64,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Ya saliste de tu turno y un cliente que atendiste hoy te espera afuera de la tienda para seguir reclamando por un problema que no pudiste resolver. Te dice que no se va hasta que le des una solución. ¿Qué es lo primero que haces?",
+    "scenario": "Justo cuando vas a marcar salida, un cliente que atendiste hace rato regresa y te pide que le ayudes con un problema que no quedó resuelto. Ya pasó tu hora y tienes cita médica. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Me detengo y le escucho, le digo que ya no estoy en turno pero le doy el contacto del encargado para que le resuelva mañana.",
-      "pragmatic_distractor": "Le resuelvo lo más rápido posible para que se vaya y yo pueda irme a casa sin problemas.",
-      "evasive_distractor": "Le digo que espere un momento y llamo al encargado para ver si puede venir a atenderlo ahora.",
-      "rationalized_distractor": "Le explico que ya cerré mi caja y no puedo acceder al sistema, pero le doy mi número por si necesita algo mañana."
+      "integrity_correct": "Le explico que mi turno terminó pero lo paso con el compañero que sigue y le dejo el contexto para que lo atienda bien.",
+      "pragmatic_distractor": "Le resuelvo lo más rápido posible para que no tenga que explicarle todo de nuevo a otro.",
+      "evasive_distractor": "Le pido que espere un momento y llamo al encargado para que él lo canalice.",
+      "rationalized_distractor": "Le doy mi nombre y le digo que mañana lo busco yo, porque ahora no puedo quedarme."
     },
     "notes": "OPS400 M2 batch20 item 5",
     "sot_checksum": "ops400_m2_options_v3"
@@ -129,7 +129,7 @@
       "integrity_correct": "Acepto cubrir pero pido por escrito un plan de descanso y límites claros de horas, sabiendo que me pueden tildar de exagerado y que el bono del trimestre está en juego.",
       "pragmatic_distractor": "Acepto sin condiciones y me pongo las pilas para aguantar las dos semanas, total es temporal y así demuestro compromiso.",
       "evasive_distractor": "Digo que sí pero pido que me acompañe un aprendiz sin certificación para que haga lo básico y yo solo superviso.",
-      "rationalized_distractor": "Me pongo malo los primeros días para que vean que sin mí no funciona y tengan que buscar a alguien, porque si aguanto callado esto se vuelve permanente."
+      "rationalized_distractor": "Acepto pero bajo mi ritmo para no quemarme, pensando que si me exigen mucho y no rindo van a tener que buscar a alguien más."
     },
     "notes": "OPS400 M2 batch20 item 9",
     "sot_checksum": "ops400_m2_options_v3"

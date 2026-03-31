@@ -9,7 +9,7 @@
       "integrity_correct": "Detengo la devolución y busco el folio correcto antes de procesarla, aunque el cliente se moleste.",
       "pragmatic_distractor": "Le pido unos minutos al cliente para revisar si el folio quedó en otra pantalla.",
       "evasive_distractor": "Le digo que vuelva cuando esté libre el encargado para revisarlo con más calma.",
-      "rationalized_distractor": "La saco como ajuste manual y luego acomodo el folio con el ticket correcto."
+      "rationalized_distractor": "La saco como ajuste manual porque al final el cliente sí compró y tiene derecho al reembolso."
     },
     "notes": "OPS400 M1 batch26 item 1",
     "sot_checksum": "ops400_m1_options_v1"
@@ -54,7 +54,7 @@
       "integrity_correct": "La registro como cancelación y no como devolución, aunque el cliente se moleste.",
       "pragmatic_distractor": "Le digo que traiga lo faltante y después revisamos si procede la devolución.",
       "evasive_distractor": "Le pido que regrese cuando esté el encargado y sigo con el siguiente caso.",
-      "rationalized_distractor": "La paso como devolución para no alargarlo y después se corrige el motivo."
+      "rationalized_distractor": "La paso como devolución porque es mejor darle su dinero y evitar quejas que afecten al punto."
     },
     "notes": "OPS400 M1 batch26 item 4",
     "sot_checksum": "ops400_m1_options_v1"
@@ -99,7 +99,7 @@
       "integrity_correct": "Lo regreso a la carpeta correcta y aviso que el cierre se va a tardar, aunque me reclamen.",
       "pragmatic_distractor": "Lo reviso primero y busco de quién es antes de moverlo de lugar.",
       "evasive_distractor": "Lo dejo aparte para que el siguiente turno decida dónde ponerlo.",
-      "rationalized_distractor": "Lo meto en el expediente más cercano para que no se pare el cierre."
+      "rationalized_distractor": "Lo archivo en el expediente más próximo porque igual pertenece a esa área de trabajo."
     },
     "notes": "OPS400 M1 batch26 item 7",
     "sot_checksum": "ops400_m1_options_v1"
@@ -249,7 +249,7 @@
       "integrity_correct": "Paro un momento y corrijo el dato antes de entregar la lista, aunque retrasemos el pase.",
       "pragmatic_distractor": "Reviso con él si el dato coincide en su hoja antes de cerrar.",
       "evasive_distractor": "Entrego la lista así y aviso más tarde si alguien pregunta.",
-      "rationalized_distractor": "Lo dejo como está para no alargar el cambio de turno."
+      "rationalized_distractor": "Lo dejo así porque el dato puede estar en otra hoja y verificarlo toma tiempo que no tenemos."
     },
     "notes": "OPS400 M1 batch26 item 17",
     "sot_checksum": "ops400_m1_options_v1"
@@ -294,7 +294,7 @@
       "integrity_correct": "Lo regreso sin cerrar y pido que lo revisen después, aunque tengamos que esperar.",
       "pragmatic_distractor": "Le pido al responsable que mande el dato antes de irse, aunque sea por llamada.",
       "evasive_distractor": "Lo dejo pendiente y sigo con lo demás para no frenar el cierre.",
-      "rationalized_distractor": "Lo cierro hoy y mañana ajustan el dato en el sistema."
+      "rationalized_distractor": "Lo cierro así porque el responsable sí hizo su parte antes de irse; el dato está en proceso."
     },
     "notes": "OPS400 M1 batch26 item 20",
     "sot_checksum": "ops400_m1_options_v1"

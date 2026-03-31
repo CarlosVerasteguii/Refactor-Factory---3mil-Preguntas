@@ -83,7 +83,7 @@
     "options_structured": {
       "integrity_correct": "Le digo lo que vi, aunque sé que va a haber problema con mi compañero.",
       "pragmatic_distractor": "Le sugiero al supervisor que revise las estanterías de ese pasillo porque vi algo que no cuadraba.",
-      "evasive_distractor": "Le digo que andaba ocupado en mi área y que no seguí bien lo que pasó en el pasillo del montacargas.",
+      "evasive_distractor": "Le digo que mejor le pregunte directo a mi compañero porque él estaba más cerca del rack.",
       "rationalized_distractor": "No digo nada porque mi compañero eligió no reportarlo y no me corresponde meterme en su bronca."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 20 item 6",
@@ -274,12 +274,12 @@
     "module_id": 4,
     "block_id": "OPS400-M4",
     "type": "options",
-    "scenario": "En el área de carga, dos compañeros están discutiendo fuerte porque uno acusa al otro de haberle cambiado de lugar sus herramientas. Te piden que tú decidas quién tiene la razón. ¿Qué haces?",
+    "scenario": "Estás descargando tarimas y notas que un montacargas tiene una grieta visible en una de las uñas. El operador dice que aguanta y que ya casi termina su turno. Si lo reportas paran la descarga y se atrasa el cierre. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Los separo y les pido que cada uno guarde sus cosas en su casillero para evitar problemas, aunque se molesten los dos.",
-      "pragmatic_distractor": "Les propongo que pongan las herramientas en un lugar común para que ambos las usen y dejen de pelear.",
-      "evasive_distractor": "Les digo que lo hablen con el supervisor y me voy a mi área para no involucrarme.",
-      "rationalized_distractor": "Le doy la razón al que tiene más tiempo en la empresa para que el conflicto termine rápido."
+      "integrity_correct": "Reporto la grieta y pido que saquen el montacargas de operación, aunque se atrase el cierre.",
+      "pragmatic_distractor": "Le pido al operador que solo cargue tarimas livianas mientras termina su turno y lo reporte al salir.",
+      "evasive_distractor": "Le aviso al supervisor para que él decida si para el montacargas o lo deja terminar.",
+      "rationalized_distractor": "Lo dejo seguir porque el operador conoce su equipo y dice que la grieta lleva días sin crecer."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 20 item 19",
     "sot_checksum": "ops400_m4_options_v1"
@@ -292,9 +292,9 @@
     "scenario": "Llegas a entregar un paquete de noche y el cliente dice que no lo recibió, aunque el sistema muestra que tú lo entregaste anoche. Te amenaza con reportarte. Si aceptas su reclamo te afecta en tu registro, pero si insistes en que ya lo entregaste se pone agresivo. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Le pido que llame a servicio al cliente para abrir una investigación formal, aunque él se ponga más enojado.",
-      "pragmatic_distractor": "Le muestro el comprobante del sistema con hora y ubicación GPS para que vea que sí se entregó y que reporte lo que quiera.",
-      "evasive_distractor": "Le digo que hable con la base y me voy antes de que la situación escale.",
-      "rationalized_distractor": "Acepto su reclamo y anoto que el paquete no fue recibido, porque si el cliente insiste tanto, algo debió haber fallado en la entrega."
+      "pragmatic_distractor": "Le muestro la foto de entrega en mi aparato y le anoto el folio para que lo revise con la base.",
+      "evasive_distractor": "Le digo que no puedo resolver eso en campo y que tiene que llamar a la línea de atención para que investiguen.",
+      "rationalized_distractor": "Marco en el sistema que hubo un problema y le doy por perdido el paquete, porque pelearme con un cliente agresivo no vale la pena."
     },
     "notes": "OPS400 Modulo 4 Options OPS400-M4 batch 20 item 20",
     "sot_checksum": "ops400_m4_options_v1"

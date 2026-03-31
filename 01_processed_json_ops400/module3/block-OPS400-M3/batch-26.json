@@ -204,7 +204,7 @@
       "integrity_correct": "Me niego a usar puntos de otra clienta y sigo la venta sin ese beneficio, aunque perdamos la venta y me lo cobren.",
       "pragmatic_distractor": "Le ofrezco al cliente apartar la mercancía en lo que busca su propia cuenta o vuelve con ella.",
       "evasive_distractor": "Finjo que la promoción se bloqueó en mi terminal y mando al cliente a servicio.",
-      "rationalized_distractor": "Cierro la venta y le prometo revisar mañana con servicio si se le puede reconocer un beneficio parecido, para no dejar ir la compra hoy."
+      "rationalized_distractor": "Le aplico los puntos porque de todos modos son de un cliente fiel que seguro ni los usa y así cerramos la venta del día."
     },
     "notes": "OPS400 M3 batch26 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -291,10 +291,10 @@
     "type": "options",
     "scenario": "Estoy cerrando el módulo y encuentro un ticket firmado en blanco que un cliente dejó para recoger un equipo mañana. Mi coordinador me dice que lo llenemos ahorita con los datos que 'seguro van' para no dejar trámite abierto. Si me niego, me tocará explicarlo solo al gerente de apertura. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Anulo el ticket firmado en blanco y dejo el trámite pendiente hasta tener los datos reales del cliente, aunque me toque explicarlo yo solo al abrir.",
+      "integrity_correct": "Dejo el ticket en blanco sin llenar y documento el pendiente para completarlo mañana con el cliente presente, aunque me toque explicarlo yo solo al abrir.",
       "pragmatic_distractor": "Lo guardo aparte con una nota para completarlo mañana en cuanto llegue el cliente.",
       "evasive_distractor": "Devuelvo el ticket al coordinador para que él lo resuelva con el gerente de apertura.",
-      "rationalized_distractor": "Lo dejo casi listo con los datos del equipo y mañana completo lo del cliente para que el trámite no amanezca desde cero."
+      "rationalized_distractor": "Lo completo con los datos que seguro van porque el cliente ya firmó y solo falta capturar lo que acordamos para no dejar el trámite abierto."
     },
     "notes": "OPS400 M3 batch26 item 20",
     "sot_checksum": "ops400_m3_options_v1"

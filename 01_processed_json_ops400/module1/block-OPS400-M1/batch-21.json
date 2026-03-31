@@ -82,9 +82,9 @@
     "scenario": "Un cliente regresa con un producto para devolución. El empaque está resellado con cinta diferente y se nota que lo abrieron. Dice que así lo compró. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Le digo que el empaque muestra manipulación y que no puedo procesar la devolución sin que lo revisen primero.",
-      "pragmatic_distractor": "Abro el paquete frente a él para verificar que el contenido esté completo antes de decidir.",
+      "pragmatic_distractor": "Reviso el producto mismo para ver si está en buen estado y dejo que el encargado valide el empaque.",
       "evasive_distractor": "Le pido que regrese cuando esté el encargado para que él autorice.",
-      "rationalized_distractor": "Proceso la devolución porque el cliente se ve honesto y si lo compró así no es culpa de él."
+      "rationalized_distractor": "Proceso la devolución porque nadie lo va a investigar de todas formas si yo lo autorizo."
     },
     "notes": "OPS400 M1 batch21 item 6",
     "sot_checksum": "ops400_m1_options_v1"
@@ -99,7 +99,7 @@
       "integrity_correct": "Le muestro las dos opciones y dejo que el cliente decida según lo que necesita, aunque pierda el bono.",
       "pragmatic_distractor": "Le explico las diferencias reales y solo insisto si veo que el cliente tiene presupuesto.",
       "evasive_distractor": "Le paso al cliente con otro compañero para no meterme en el tema del bono.",
-      "rationalized_distractor": "Le recomiendo el más caro porque de todas formas le va a funcionar mejor y yo me gano algo."
+      "rationalized_distractor": "Le insisto en el más caro porque si luego tiene problemas con el básico, va a volver a quejarse conmigo."
     },
     "notes": "OPS400 M1 batch21 item 7",
     "sot_checksum": "ops400_m1_options_v1"
@@ -112,9 +112,9 @@
     "scenario": "En una entrega comercial el responsable del negocio no está y su empleado me dice que él puede recibir, pero no aparece en el sistema como autorizado. Traigo otros paquetes urgentes. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Le digo al empleado que no puedo dejar el paquete sin autorización formal y reprogramo la entrega.",
-      "pragmatic_distractor": "Le pido al empleado que contacte al responsable para ver si me autoriza por llamada y lo registro.",
+      "pragmatic_distractor": "Dejo el paquete y anoto que lo recibió el empleado; la empresa va a aclarar después si no era autorizado.",
       "evasive_distractor": "Marco intento fallido y sigo con mi ruta; el sistema lo reprograma automáticamente.",
-      "rationalized_distractor": "Se lo dejo al empleado porque trabaja ahí, es un negocio y alguien va a firmar de recibido."
+      "rationalized_distractor": "Se lo dejo al empleado porque trabaja ahí y mi responsabilidad es entregarlo en esa dirección."
     },
     "notes": "OPS400 M1 batch21 item 8",
     "sot_checksum": "ops400_m1_options_v1"
@@ -129,7 +129,7 @@
       "integrity_correct": "Le digo que no puedo ir a esa hora por protocolo y le reprogramo para mañana temprano.",
       "pragmatic_distractor": "Le pregunto si puede recibirme en un punto más seguro cerca de la zona.",
       "evasive_distractor": "Le digo que voy a intentar pero si no llego que entienda, y sigo con mi ruta.",
-      "rationalized_distractor": "Voy porque el cliente me está esperando y conozco bien la zona; nunca me ha pasado nada."
+      "rationalized_distractor": "Voy porque el cliente lo necesita hoy y la empresa no se entera si no reporto la hora exacta."
     },
     "notes": "OPS400 M1 batch21 item 9",
     "sot_checksum": "ops400_m1_options_v1"
@@ -144,7 +144,7 @@
       "integrity_correct": "Reporto el sobrante tal cual y pido que revisen los vales para ubicar la diferencia.",
       "pragmatic_distractor": "Reviso primero los vales pendientes de mi turno para ver si encuentro alguno sin registrar.",
       "evasive_distractor": "Dejo el dinero apartado con una nota y espero a que el encargado lo vea mañana.",
-      "rationalized_distractor": "Lo dejo así porque el excedente demuestra que no falta nada y eso es lo que importa al final."
+      "rationalized_distractor": "Lo guardo quieto para que mañana lo vean con el efectivo; si no digo nada, no hay problema documentado."
     },
     "notes": "OPS400 M1 batch21 item 10",
     "sot_checksum": "ops400_m1_options_v1"
@@ -159,7 +159,7 @@
       "integrity_correct": "Lo retiro del frente y lo paso al área de revisión para que decidan si se liquida o se da de baja.",
       "pragmatic_distractor": "Lo pongo atrás del anaquel con producto más fresco al frente para que salga primero lo nuevo.",
       "evasive_distractor": "Le aviso al encargado de piso y dejo que él decida qué hacer con ese lote.",
-      "rationalized_distractor": "Lo dejo al frente porque todavía no vence y el cliente puede usarlo antes de que caduque."
+      "rationalized_distractor": "Lo dejo al frente porque si no se vende hoy lo van a dar de baja igual; mejor que alguien lo aproveche."
     },
     "notes": "OPS400 M1 batch21 item 11",
     "sot_checksum": "ops400_m1_options_v1"
@@ -174,7 +174,7 @@
       "integrity_correct": "Le digo que necesito a un adulto para entregar y reprogramo aunque me atrase más.",
       "pragmatic_distractor": "Le pregunto si puede llamar a un familiar que autorice la entrega por teléfono mientras espero.",
       "evasive_distractor": "Marco intento fallido y sigo con la ruta; el sistema lo reprograma solo.",
-      "rationalized_distractor": "Le entrego y tomo foto de la fachada porque ya estoy aquí y el menor vive en esa dirección."
+      "rationalized_distractor": "Le entrego porque es su dirección; si hay problema, la empresa se encarga de aclarar con la familia."
     },
     "notes": "OPS400 M1 batch21 item 12",
     "sot_checksum": "ops400_m1_options_v1"
@@ -262,9 +262,9 @@
     "scenario": "Al escanear un artículo caro, el sistema marca un precio de liquidación que sé que no corresponde. El cliente ya vio la pantalla y dice que así lo quiere. Hay fila detrás. ¿Qué hago?",
     "options_structured": {
       "integrity_correct": "Detengo la venta y pido que verifiquen el precio correcto antes de cobrar.",
-      "pragmatic_distractor": "Cobro el precio del sistema pero levanto un reporte del error para que lo corrijan.",
+      "pragmatic_distractor": "Anulo la venta de ese artículo y le muestro el precio correcto; si insiste en otro, me deja decidir.",
       "evasive_distractor": "Llamo al encargado para que él decida qué precio aplicar.",
-      "rationalized_distractor": "Le cobro lo que marca porque si salió así en sistema, al cliente ya le apareció y no puedo quitárselo."
+      "rationalized_distractor": "Le cobro el precio de liquidación porque si paro la fila va a ser peor y sistemas es quien se equivocó."
     },
     "notes": "OPS400 M1 batch21 item 18",
     "sot_checksum": "ops400_m1_options_v1"
@@ -279,7 +279,7 @@
       "integrity_correct": "Dejo el área como está y explico la situación real al auditor si me pregunta.",
       "pragmatic_distractor": "Acomodo lo que pueda sin esconder nada y atiendo al auditor con lo que hay.",
       "evasive_distractor": "Le pido a mi compañero que reciba al auditor mientras yo ordeno un poco.",
-      "rationalized_distractor": "Las paso al almacén porque de todos modos es donde van y así el auditor ve el piso despejado."
+      "rationalized_distractor": "Las paso al almacén para que el auditor no vea desorden; es lo que hace cualquiera cuando viene inspección."
     },
     "notes": "OPS400 M1 batch21 item 19",
     "sot_checksum": "ops400_m1_options_v1"

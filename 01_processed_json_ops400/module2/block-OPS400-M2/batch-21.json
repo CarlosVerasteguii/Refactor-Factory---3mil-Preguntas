@@ -9,9 +9,9 @@
       "integrity_correct": "Uso el scanner nuevo en cada entrega aunque me retrase, y reporto las trabas al encargado.",
       "pragmatic_distractor": "Aprendo a reiniciarlo rápido y sigo con la ruta sin perder más tiempo del necesario.",
       "evasive_distractor": "Le pregunto al compañero que ya lo domina cómo le hace para que no se le trabe tanto.",
-      "rationalized_distractor": "Anoto las entregas a mano cuando se traba y las paso al sistema al final para no perder ritmo."
+      "rationalized_distractor": "Acomodo un sistema donde anoto en mi libreta los datos y escaneo solo los códigos de barra para ir más rápido."
     },
-    "notes": "OPS400 M2 batch21 item 1",
+    "notes": "OPS400 M2 batch21 item 1 - rationalized_distractor clarified to be more operationally plausible but still rationalizing",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -24,9 +24,9 @@
       "integrity_correct": "Registro cada incidente tal como me lo pidieron aunque parezca que reporto de más.",
       "pragmatic_distractor": "Filtro los incidentes que realmente afectan la operación para no saturar el sistema con cosas menores.",
       "evasive_distractor": "Espero a ver qué están reportando mis compañeros para ajustarme a ese nivel.",
-      "rationalized_distractor": "Guardo los incidentes chicos en una lista aparte y solo subo los que el encargado pregunta."
+      "rationalized_distractor": "Verifico con el encargado cuál es el umbral de incidentes realmente importantes antes de llenar todo."
     },
-    "notes": "OPS400 M2 batch21 item 2",
+    "notes": "OPS400 M2 batch21 item 2 - rationalized_distractor reframed to avoid seeming confessional",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -66,12 +66,12 @@
     "type": "options",
     "scenario": "Me suben la meta de productividad sin avisarme. Hoy me enteré que ayer ya no la cumplí. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Empiezo mi turno buscando alcanzar la nueva meta aunque me cueste más esfuerzo.",
+      "integrity_correct": "Le pido al encargado los detalles de la nueva meta y me propongo alcanzarla aunque me cueste más esfuerzo.",
       "pragmatic_distractor": "Reviso mis tiempos para ver dónde puedo recortar pasos y subir el ritmo sin errores.",
       "evasive_distractor": "Le pregunto al encargado por qué cambiaron la meta y si es temporal o permanente.",
       "rationalized_distractor": "Me enfoco en lo que sé hacer bien y voy subiendo el ritmo conforme agarro confianza con la nueva carga."
     },
-    "notes": "OPS400 M2 batch21 item 5",
+    "notes": "OPS400 M2 batch21 item 5 - integrity_correct now includes seeking clarity and communication",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -99,9 +99,9 @@
       "integrity_correct": "Me siento y lleno el formato completo aunque me retrase mi salida.",
       "pragmatic_distractor": "Anoto lo esencial durante el turno para que al final solo sea copiar los datos.",
       "evasive_distractor": "Le pido al compañero del turno siguiente que me ayude a pasarlo si no alcanzo.",
-      "rationalized_distractor": "Lleno solo los campos obligatorios y dejo los opcionales para cuando tenga más tiempo."
+      "rationalized_distractor": "Reviso el formato con mi supervisor para entender cuál es la mejor estrategia de llenado sin sacrificar precisión."
     },
-    "notes": "OPS400 M2 batch21 item 7",
+    "notes": "OPS400 M2 batch21 item 7 - rationalized_distractor more operationally plausible",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -111,12 +111,12 @@
     "type": "options",
     "scenario": "Me rotan a un área donde el trabajo es más pesado físicamente. No me consultaron y siento que es un castigo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Tomo mi lugar en la nueva área y me pongo a trabajar desde el inicio del turno.",
+      "integrity_correct": "Le pregunto al encargado qué debo saber de la nueva área y me pongo a trabajar en ella como se indica.",
       "pragmatic_distractor": "Le pido al encargado que me explique por qué me movieron para entender si es temporal.",
       "evasive_distractor": "Hablo con un compañero para ver si él quiere intercambiar áreas conmigo.",
       "rationalized_distractor": "Cuido mi ritmo para no lesionarme; en esta área conviene ir a paso firme pero sin forzar."
     },
-    "notes": "OPS400 M2 batch21 item 8",
+    "notes": "OPS400 M2 batch21 item 8 - integrity_correct now includes seeking guidance before acting",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -143,10 +143,10 @@
     "options_structured": {
       "integrity_correct": "Guardo el celular y aviso a mi familia que solo puedo contestar en mis descansos.",
       "pragmatic_distractor": "Lo dejo en vibrador y solo lo reviso cuando voy al baño para no faltar a la regla en público.",
-      "evasive_distractor": "Le pregunto al encargado si hay excepciones para emergencias familiares reales.",
-      "rationalized_distractor": "Lo reviso solo cuando hay un momento muerto porque así no descuido ninguna tarea y mantengo la calma en casa."
+      "evasive_distractor": "Sigo checando mi celular en los momentos que creo que nadie se da cuenta para mantenerme pendiente de emergencias.",
+      "rationalized_distractor": "Le pregunto al encargado si hay excepciones para mensajes urgentes de mi familia durante el turno."
     },
-    "notes": "OPS400 M2 batch21 item 10",
+    "notes": "OPS400 M2 batch21 item 10 - evasive_distractor clarified to be evasive, rationalized_distractor moved down",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -174,9 +174,9 @@
       "integrity_correct": "Pido el mapa y salgo a la ruta nueva aunque sé que voy a tardar más.",
       "pragmatic_distractor": "Le pregunto al compañero que cubría esa zona cuáles son los puntos más difíciles.",
       "evasive_distractor": "Propongo hacer hoy solo la mitad de las entregas y mañana ya completas cuando conozca mejor.",
-      "rationalized_distractor": "Sigo mi instinto con el GPS y ajusto sobre la marcha; así aprendí mi zona actual y me ha funcionado."
+      "rationalized_distractor": "Reviso el mapa rápido en mi casa y me preparo mentalmente la ruta para llegar más rápido desde el inicio."
     },
-    "notes": "OPS400 M2 batch21 item 12",
+    "notes": "OPS400 M2 batch21 item 12 - rationalized_distractor less transparent about bypassing process",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -216,12 +216,12 @@
     "type": "options",
     "scenario": "Un compañero se queja todo el turno de los cambios y contagia al equipo. A mí también me molestan, pero veo que el ambiente se pone pesado. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Sigo con mi trabajo y cuando me habla trato de cambiar el tema.",
-      "pragmatic_distractor": "Le digo que mejor nos enfoquemos en sacar el turno y luego nos quejamos.",
+      "integrity_correct": "Le digo que entiendo su molestia pero que necesitamos enfocarnos en el turno y después hablamos.",
+      "pragmatic_distractor": "Le comento que mejor nos enfoquemos en sacar el turno y luego nos quejamos.",
       "evasive_distractor": "Me alejo un poco de él durante el turno para que no me jale al mismo ánimo.",
-      "rationalized_distractor": "Me uno a sus quejas para desahogarme también; al final todos estamos igual de molestos y es normal expresarlo."
+      "rationalized_distractor": "Dejo que desahogue un rato conmigo para que no lo haga con todo el equipo."
     },
-    "notes": "OPS400 M2 batch21 item 15",
+    "notes": "OPS400 M2 batch21 item 15 - integrity_correct now has clearer action with empathy and boundary",
     "sot_checksum": "ops400_m2_options_v3"
   },
   {
@@ -279,7 +279,7 @@
       "integrity_correct": "Le digo que no puedo cubrirlo y sigo usando el proceso nuevo en mi parte.",
       "pragmatic_distractor": "Le hago el paro solo hoy mientras él se acostumbra, pero le dejo claro que no puedo seguir cubriéndolo.",
       "evasive_distractor": "No le digo nada pero tampoco lo cubro; que él vea cómo se las arregla.",
-      "rationalized_distractor": "Lo cubro esta vez porque lleva muchos años aquí y cambiar de golpe es difícil para cualquiera."
+      "rationalized_distractor": "Lo cubro esta vez mientras veo si el encargado hace algo; no quiero meterlo en problemas sin darle oportunidad."
     },
     "notes": "OPS400 M2 batch21 item 19",
     "sot_checksum": "ops400_m2_options_v3"
@@ -294,9 +294,9 @@
       "integrity_correct": "Me quedo a cubrir el tiempo extra y aviso a mi familia que llegaré tarde.",
       "pragmatic_distractor": "Le pido al encargado que me deje salir antes mañana para compensar.",
       "evasive_distractor": "Pregunto si hay alguien que quiera tomar mis horas extras a cambio de un favor después.",
-      "rationalized_distractor": "Me quedo pero bajo un poco el ritmo porque no es justo exigirme igual cuando el aviso llegó tan tarde."
+      "rationalized_distractor": "Me quedo pero le comento al encargado que los avisos con tan poco tiempo afectan mis compromisos personales."
     },
-    "notes": "OPS400 M2 batch21 item 20",
+    "notes": "OPS400 M2 batch21 item 20 - rationalized_distractor less confessional, more rationalization about terms",
     "sot_checksum": "ops400_m2_options_v3"
   }
 ]

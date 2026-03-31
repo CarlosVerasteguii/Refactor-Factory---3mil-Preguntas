@@ -34,12 +34,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Un cliente pide factura con datos que no coinciden con su compra para deducir más impuestos. El supervisor me dice que la emita para no perder la venta, total 'no es nuestro problema'. ¿Qué haces?",
+    "scenario": "Un cliente pide que le emita la factura con un RFC distinto al suyo porque 'la necesita a nombre de su empresa'. El supervisor me dice que la emita para no perder la venta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Me niego a emitir la factura con datos incorrectos y le explico al cliente que debe proporcionar datos reales, aunque el supervisor se moleste y pierda la venta.",
-      "pragmatic_distractor": "Emito la factura pero anoto en el sistema que los datos fueron proporcionados por el cliente para cubrirme.",
-      "evasive_distractor": "Le digo al cliente que primero hable con el supervisor para que él autorice la factura.",
-      "rationalized_distractor": "Emito la factura porque el supervisor lo autorizó y mi responsabilidad es seguir instrucciones, asumiendo que él se hará responsable si hay problemas."
+      "integrity_correct": "Le explico al cliente que la factura debe emitirse con los datos de quien realizó la compra, aunque el supervisor se moleste.",
+      "pragmatic_distractor": "Le digo al cliente que me traiga una carta de la empresa autorizando que se facture a ese RFC para tener respaldo.",
+      "evasive_distractor": "Le pido al cliente que hable con el supervisor para que él decida si procede.",
+      "rationalized_distractor": "La emito con el RFC que me pide porque al final el cliente es quien se hace responsable de su factura."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -79,12 +79,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Reviso la zona de perecederos y encuentro yogurt que vence mañana. El encargado me dice que los ponga al fondo del estante y les cambie la fecha con etiquetas nuevas para que sigan saliendo. ¿Qué hago?",
+    "scenario": "Reviso la zona de perecederos y encuentro yogurt que vence mañana. El encargado me dice que los ponga al fondo del estante para que se confundan con los nuevos y sigan saliendo. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Retiro los productos de exhibición y los marco como merma en el sistema, aunque el encargado se encabrone y me diga que estoy regalando la mercancía.",
-      "pragmatic_distractor": "Los dejo pero les pongo un letrero de 'oferta de último día' para que salgan antes sin alterar la fecha oficial.",
-      "evasive_distractor": "Los aparto y le digo al encargado que él decida qué hacer, que yo solo reporto lo que encontré.",
-      "rationalized_distractor": "Los acomodo con la etiqueta nueva porque el producto sigue en buen estado y la fecha de vencimiento tiene margen de seguridad de sobra."
+      "integrity_correct": "Retiro los productos de exhibición y los marco para liquidación o merma según el procedimiento.",
+      "pragmatic_distractor": "Los dejo al frente con un letrero visible de 'último día' para que el cliente decida.",
+      "evasive_distractor": "Los aparto y le digo al encargado que él decida qué hacer, yo solo reporto lo que encontré.",
+      "rationalized_distractor": "Los acomodo al fondo porque el cliente revisa las fechas y si no los quiere no los compra."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -124,12 +124,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Encuentro en la zona de empaque un lote de producto listo para mandar a clientes que ya venció esta semana. El encargado de logística me dice que lo despache porque 'el cliente nunca se fija en la fecha' y si lo regresamos perdemos la venta y la comisión del equipo. ¿Qué hago?",
+    "scenario": "Encuentro en la zona de empaque un lote de producto con fecha muy próxima a vencer, listo para enviar a clientes. El encargado de logística me dice que lo despache porque 'nadie revisa la fecha' y si lo regresamos perdemos la venta. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Separo el lote vencido y registro la incidencia en el sistema, aunque el equipo pierda la comisión y me reclamen por ser el que atrasa.",
-      "pragmatic_distractor": "Separo el lote y le pregunto al encargado si hay producto sustituto disponible para rearmar el pedido sin retrasar el embarque.",
-      "evasive_distractor": "Le digo que ese pedazo del proceso no me corresponde y que lo reporte al área de calidad para que ellos decidan.",
-      "rationalized_distractor": "Lo despacho porque el lote pasó todas las revisiones internas y si algo saliera mal la responsabilidad recae en el encargado que autorizó, no en mí."
+      "integrity_correct": "Separo el lote y registro la incidencia en el sistema, aunque el equipo pierda la venta.",
+      "pragmatic_distractor": "Le pregunto al encargado si hay producto con más fecha disponible para reemplazar el pedido sin retrasarlo.",
+      "evasive_distractor": "Le digo que esa decisión no me corresponde y que lo escale al área de calidad.",
+      "rationalized_distractor": "Lo despacho porque técnicamente no ha vencido y el cliente puede reclamar si tiene problema."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -229,12 +229,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Estamos cerrando la tienda y falta un producto de alto valor en el conteo. Mi gerente me dice que lo registre como 'merma por deterioro' aunque no hay evidencia, porque si reportamos el faltante real nos cae auditoría a todos. ¿Qué haces?",
+    "scenario": "Estamos cerrando y falta un producto de valor medio en el conteo. Mi gerente me dice que lo registre como 'ajuste de sistema' para no abrir una investigación que nos retrase a todos. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Reporto el faltante real en el sistema, aunque eso signifique una auditoría completa y que el gerente se enfade conmigo todo el mes.",
-      "pragmatic_distractor": "Le pido al gerente que él ponga su clave en el registro de merma para que quede bajo su responsabilidad y no bajo la mía.",
-      "evasive_distractor": "Le digo al gerente que no recuerdo bien los detalles del conteo y que hay que esperar a que llegue el turno de mañana para confirmarlo.",
-      "rationalized_distractor": "Registro la merma como me pide porque una auditoría detiene operaciones una semana y eso le cuesta más a la empresa que un producto."
+      "integrity_correct": "Reporto el faltante real en el sistema, aunque eso signifique quedarnos más tiempo revisando.",
+      "pragmatic_distractor": "Le pido al gerente que él registre el ajuste con su clave para que quede bajo su responsabilidad.",
+      "evasive_distractor": "Le digo al gerente que no recuerdo bien el conteo y que hay que esperar al turno de mañana para confirmar.",
+      "rationalized_distractor": "Registro el ajuste porque un faltante menor no vale la pena de abrir investigación y retrasar a todo el equipo."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -274,12 +274,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Llega el de valores por el depósito del fin de semana pero el gerente ya se fue y no firmó la hoja de custodia. Me manda un audio diciendo: 'Pásale el dinero, confía en mí, el lunes firmo todo'. El protocolo exige firma física antes de entregar efectivo. ¿Qué decides hacer?",
+    "scenario": "Llega el de valores por el depósito pero el gerente ya se fue y no firmó la hoja de custodia. Me manda un mensaje diciendo que le entregue el sobre, que él firma el lunes. El protocolo exige firma antes de entregar. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "No entrego el efectivo sin la firma y dejo el dinero asegurado en la tómbola hasta que el gerente firme el lunes.",
-      "pragmatic_distractor": "Le pido al de valores que espere 20 minutos mientras llamo al gerente para que vuelva a firmar antes de irse.",
-      "evasive_distractor": "Le digo al de valores que mi usuario no me deja autorizar entregas sin firma y que mejor espere al gerente.",
-      "rationalized_distractor": "Entrego el dinero porque tengo el audio del gerente como respaldo y es más riesgoso dejar el efectivo todo el fin de semana en tienda."
+      "integrity_correct": "No entrego el sobre sin la firma y lo dejo asegurado hasta que el gerente pueda firmar.",
+      "pragmatic_distractor": "Le pido al de valores que espere mientras localizo al gerente para que regrese a firmar.",
+      "evasive_distractor": "Le digo al de valores que el sistema no me deja autorizar sin la firma del gerente en turno.",
+      "rationalized_distractor": "Entrego el sobre porque el mensaje del gerente me respalda y es más seguro que dejarlo en tienda."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -289,12 +289,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Mi jefe directo me pide que le pase la lista de clientes que compraron hoy con sus datos de contacto para que él les mande promociones de un negocio aparte que tiene. Dice que nadie se va a enterar y que es una lana extra para los dos. ¿Qué hago?",
+    "scenario": "Mi jefe directo me pide que le pase los contactos de algunos clientes frecuentes para invitarlos a un evento que está organizando fuera del trabajo. Dice que es para darles un beneficio. ¿Qué hago?",
     "options_structured": {
-      "integrity_correct": "Me niego a compartir los datos de clientes y le digo que esa información es propiedad de la empresa y no se puede usar para fines personales.",
-      "pragmatic_distractor": "Le digo que si los clientes me dan su permiso directo yo se los paso, pero sin autorización no puedo.",
-      "evasive_distractor": "Le digo que los datos los maneja el sistema de corporativo y que yo no tengo acceso a exportarlos.",
-      "rationalized_distractor": "Le paso los datos porque al final son clientes que ya compraron y recibir más ofertas solo los beneficia a ellos también."
+      "integrity_correct": "Le digo que no puedo compartir datos de clientes porque son información de la empresa.",
+      "pragmatic_distractor": "Le digo que si los clientes me autorizan directamente, con gusto se los paso.",
+      "evasive_distractor": "Le digo que los datos los maneja el sistema corporativo y yo no tengo acceso para exportarlos.",
+      "rationalized_distractor": "Le paso los contactos porque al final es para beneficiar a los mismos clientes."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 20 item 20",
     "sot_checksum": "ops400_m3_options_v1"

@@ -9,7 +9,7 @@
       "integrity_correct": "Documento el extintor como vencido y aviso de inmediato para que se gestione el reemplazo urgente.",
       "pragmatic_distractor": "Anoto la observación en un post-it aparte y no lo pongo en el formato oficial hasta ver si mañana temprano lo cambian.",
       "evasive_distractor": "Le digo que mejor lo anote él porque a mí me asignaron otra zona de revisión.",
-      "rationalized_distractor": "Lo marco como vigente porque el extintor sigue funcionando y no vale la pena alertar al inspector por dos meses de diferencia."
+      "rationalized_distractor": "Lo marco como vigente para que el inspector mañana no bloquee las operaciones, asumiendo que el equipo igual funciona si se activa."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 1",
     "sot_checksum": "ops400_m3_options_v1"
@@ -39,7 +39,7 @@
       "integrity_correct": "Le explico que debo esperar a las 8:00 para registrar la entrada con la hora real del sistema.",
       "pragmatic_distractor": "Empiezo a revisar la mercancía físicamente y capturo justo cuando el reloj marque las 8:00.",
       "evasive_distractor": "Le digo al encargado que prefiero que él autorice la captura porque no quiero problemas si auditoría revisa los horarios.",
-      "rationalized_distractor": "Lo capturo como 8:01 porque la diferencia son quince minutos y el producto ya está aquí físicamente."
+      "rationalized_distractor": "Lo capturo como 8:01 porque la operación es lo primero y la diferencia de horario no afecta la calidad ni la cantidad de lo que recibimos."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 3",
     "sot_checksum": "ops400_m3_options_v1"
@@ -54,7 +54,7 @@
       "integrity_correct": "Le digo que no puedo compartir información de inventario y que su empresa contacte al área comercial.",
       "pragmatic_distractor": "Le doy un rango aproximado sin ser exacto para no comprometerme tanto.",
       "evasive_distractor": "Lo dejo en visto y no le contesto hasta que se le pase la urgencia.",
-      "rationalized_distractor": "Le paso el dato porque es información operativa básica que cualquiera puede preguntar en mostrador."
+      "rationalized_distractor": "Le paso el dato porque es solo una cifra de stock que mañana va a cambiar de todas formas y no afecta la operación."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 4",
     "sot_checksum": "ops400_m3_options_v1"
@@ -84,7 +84,7 @@
       "integrity_correct": "Me niego a firmar la asistencia de alguien que no estuvo presente en la capacitación.",
       "pragmatic_distractor": "Le digo al coordinador que le mande el material por correo a mi compañero y que él responda un cuestionario para validar que lo revisó.",
       "evasive_distractor": "Le paso la hoja al capacitador para que él decida si lo registra o no.",
-      "rationalized_distractor": "Lo firmo porque mi compañero ya tomó esa capacitación el año pasado y el contenido es el mismo."
+      "rationalized_distractor": "Lo firmo porque si el equipo pierde bonificación por una persona, todos van a enojarse conmigo y eso afecta a muchos inocentes."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 6",
     "sot_checksum": "ops400_m3_options_v1"
@@ -99,7 +99,7 @@
       "integrity_correct": "Limpio el área y registro el incidente en la bitácora aunque haya sido menor.",
       "pragmatic_distractor": "Limpio todo pero le aviso al encargado de turno de palabra para que quede enterado sin hacer papeleo.",
       "evasive_distractor": "Dejo la zona acordonada y le digo al de limpieza que él lo documente cuando pase.",
-      "rationalized_distractor": "Lo limpio sin reportar porque no pasó nada grave y saturar la bitácora con incidentes menores solo entorpece el seguimiento de los que sí importan."
+      "rationalized_distractor": "Lo limpio sin reportar porque fue un accidente sin lesionados y si lo documento van a pensar que fui descuidado en mi labor."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 7",
     "sot_checksum": "ops400_m3_options_v1"
@@ -114,7 +114,7 @@
       "integrity_correct": "Le digo que no puedo prestarle mi credencial y que solicite un pase temporal en vigilancia.",
       "pragmatic_distractor": "Lo acompaño yo con mi credencial para que entre conmigo y no ande solo con mi gafete.",
       "evasive_distractor": "Le digo que mejor le hable al supervisor para que le abra con la llave maestra.",
-      "rationalized_distractor": "Se la presto porque lo conozco bien, trabaja aquí y solo va a sacar un producto rápido."
+      "rationalized_distractor": "Se la presto porque al fin de cuentas ambos somos empleados autorizados y no estamos rompiendo ninguna regla real de seguridad."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 8",
     "sot_checksum": "ops400_m3_options_v1"
@@ -129,7 +129,7 @@
       "integrity_correct": "Le explico al cliente que necesito levantar la solicitud a soporte y que el cambio puede tardar unos minutos.",
       "pragmatic_distractor": "Llamo a soporte mientras atiendo al cliente para agilizar, aunque me salte el turno del sistema de tickets.",
       "evasive_distractor": "Le digo que llame al call center para que ellos modifiquen la dirección desde su sistema central.",
-      "rationalized_distractor": "Lo edito directo porque el cliente está enfrente, confirma que es suyo y hacerlo esperar por un trámite interno no tiene sentido."
+      "rationalized_distractor": "Lo edito directo porque el cliente se va a enojar si lo retengo con trámites, y un cliente molesto es más riesgo que un cambio de dirección."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 9",
     "sot_checksum": "ops400_m3_options_v1"
@@ -159,7 +159,7 @@
       "integrity_correct": "Dejo el registro y aviso al supervisor que hubo un error de captura para que se corrija con el procedimiento normal.",
       "pragmatic_distractor": "Agrego una nota al sistema explicando la discrepancia para que quede documentada sin borrar nada.",
       "evasive_distractor": "Le digo a mi compañero que lo revise él porque yo ya me tengo que ir a otra actividad.",
-      "rationalized_distractor": "Borro la captura y la meto de nuevo correcta, porque al final el inventario queda bien y no afecta a nadie."
+      "rationalized_distractor": "Borro la captura y la meto de nuevo, porque si mi supervisor ve el error me va a echar la culpa en frente de todos y eso daña mi credibilidad."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 11",
     "sot_checksum": "ops400_m3_options_v1"
@@ -174,7 +174,7 @@
       "integrity_correct": "Le digo que no puedo validar horas que no trabajó y que lo hable directamente con recursos humanos.",
       "pragmatic_distractor": "Le sugiero que meta una solicitud de permiso especial para que le paguen proporcional sin falsear el registro.",
       "evasive_distractor": "Le digo que no sé cómo se hace eso en el sistema para que busque a alguien más.",
-      "rationalized_distractor": "Le firmo las horas porque tuvo una emergencia real y el sistema debería contemplar esas excepciones."
+      "rationalized_distractor": "Le firmo las horas porque si no le ayudo hoy, mañana cuando me toque una emergencia a mí no va a estar ahí."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 12",
     "sot_checksum": "ops400_m3_options_v1"
@@ -189,7 +189,7 @@
       "integrity_correct": "Le digo que esa información es confidencial y que no puedo compartirla.",
       "pragmatic_distractor": "Le comento solo la fecha de la promoción sin darle precios ni productos específicos.",
       "evasive_distractor": "No le contesto el mensaje y espero a que se le olvide el tema.",
-      "rationalized_distractor": "Le doy una idea general sin números exactos, porque de todos modos eso se hace público en unos días y no le estoy dando nada que no vaya a saber."
+      "rationalized_distractor": "Le doy una idea general sin números exactos, porque es solo un amigo y compartir con conocidos no es lo mismo que vender la información."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 13",
     "sot_checksum": "ops400_m3_options_v1"
@@ -204,7 +204,7 @@
       "integrity_correct": "Escaneo cada caja como indica el proceso aunque nos tardemos más en liberar al proveedor.",
       "pragmatic_distractor": "Escaneo al menos la mitad de las cajas al azar y verifico que el total coincida antes de cerrar.",
       "evasive_distractor": "Le digo al encargado que se me desconfiguró el escáner y que él decida cómo proceder.",
-      "rationalized_distractor": "Meto el número directo porque conozco al proveedor, siempre entrega completo y no vale la pena detenerlo."
+      "rationalized_distractor": "Meto el número directo porque si auditoría después lo revisa, el papeleo va a retrasar mi promoción más que saltarme un escaneo hoy."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 14",
     "sot_checksum": "ops400_m3_options_v1"
@@ -234,7 +234,7 @@
       "integrity_correct": "Registro la fecha real en el sistema y le informo que el lote debe pasar a revisión de calidad antes de cualquier venta.",
       "pragmatic_distractor": "Lo registro con la fecha real pero lo etiqueto yo mismo como liquidación urgente para sacarlo rápido del piso sin alterar datos.",
       "evasive_distractor": "Le digo que no tengo acceso al módulo de fechas y que lo vea con el supervisor de sistemas.",
-      "rationalized_distractor": "Lo doy de alta como liquidación express sin marcar la fecha exacta, porque el descuento hace que se venda en horas y no llega a caducar en anaquel."
+      "rationalized_distractor": "Cambio la fecha a 30 días porque si no lo hacemos, la tienda pierde dinero y eso puede llevar a recortes de personal, que me podrían afectar a mí."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 16",
     "sot_checksum": "ops400_m3_options_v1"
@@ -249,7 +249,7 @@
       "integrity_correct": "Le digo que la información interna no se comparte con externos y que espere a que regrese mi jefe para cualquier solicitud formal.",
       "pragmatic_distractor": "Le mando solo los totales generales sin desglose por categoría para no dejarlo en ceros pero sin dar información sensible.",
       "evasive_distractor": "Le contesto que no tengo acceso a ese archivo y que contacte a comercial cuando abran oficinas.",
-      "rationalized_distractor": "Se lo envío completo porque si siempre se lo han dado, negarme ahora afectaría la relación comercial que ya tiene la empresa."
+      "rationalized_distractor": "Se lo envío porque si mi jefe tiene la costumbre de hacerlo, probablemente está autorizado y rehusarme podría causar conflicto cuando regrese."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 17",
     "sot_checksum": "ops400_m3_options_v1"
@@ -264,7 +264,7 @@
       "integrity_correct": "Documento el daño con fotos y lo registro tal cual en el sistema antes de firmar la recepción.",
       "pragmatic_distractor": "Separo las cajas dañadas sin registrarlas todavía y le aviso al transportista para que firme él el acta de daño.",
       "evasive_distractor": "Le digo a mi compañero que firme él la recepción porque yo voy a ir a bodega por el diablito.",
-      "rationalized_distractor": "Las registro como buenas porque el daño fue del transporte y reclamar nos va a retrasar la operación de todo el día."
+      "rationalized_distractor": "Las registro como buenas para no acusar al transportista sin prueba clara de que fue durante el viaje y no aquí en recepción."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 18",
     "sot_checksum": "ops400_m3_options_v1"
@@ -279,7 +279,7 @@
       "integrity_correct": "Hago el conteo físico completo y registro el monto real aunque nos tardemos más en salir.",
       "pragmatic_distractor": "Cuento solo los billetes grandes y redondeo el cambio chico para agilizar sin inventar el número completo.",
       "evasive_distractor": "Le digo que cuente ella y que me avise el total, yo lo capturo en sistema y cada quien responde por lo suyo.",
-      "rationalized_distractor": "Capturo el monto de ayer porque el fondo está controlado, la diferencia si la hay es de monedas y mañana se regulariza solo."
+      "rationalized_distractor": "Capturo el monto de ayer porque si luego cuadra, nadie se va a dar cuenta y si no cuadra, culparán a la que cuente el sábado."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 19",
     "sot_checksum": "ops400_m3_options_v1"
@@ -294,7 +294,7 @@
       "integrity_correct": "Me niego a registrar visitas que no ocurrieron y le digo que prefiero que el indicador refleje lo real.",
       "pragmatic_distractor": "Le propongo mejor extender el horario de atención mañana para recuperar visitas reales en lugar de inventarlas.",
       "evasive_distractor": "Le digo que no sé usar ese módulo del sistema y que si quiere lo haga él desde su sesión.",
-      "rationalized_distractor": "Registro las visitas porque al final el bono es del equipo completo y negarme afecta a compañeros que sí cumplieron su parte."
+      "rationalized_distractor": "Registro las visitas porque el supervisor me la está pidiendo directo, si sale mal, la responsabilidad es de él, no mía."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 21 item 20",
     "sot_checksum": "ops400_m3_options_v1"
