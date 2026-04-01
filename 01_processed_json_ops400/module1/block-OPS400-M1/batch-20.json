@@ -34,7 +34,7 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Al recibir el turno, tu compañero te dice que hay un faltante de tres cajas que 'ya se reportó' pero no hay nada registrado en el sistema. Te pide que firmes el handoff de todas formas. ¿Qué haces?",
+    "scenario": "Al recibir el turno, tu compañero te dice que hay un faltante de tres cajas que 'ya se reportó' pero no hay nada registrado en el sistema. Te pide que firmes la entrega de turno de todas formas. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "No firmo hasta que haya un registro claro del faltante y sepa quién lo reportó.",
       "pragmatic_distractor": "Firmo pero escribo una nota aparte dejando constancia de que el faltante no aparece en sistema.",
@@ -94,7 +94,7 @@
     "module_id": 1,
     "block_id": "OPS400-M1",
     "type": "options",
-    "scenario": "Encuentras dinero en efectivo dentro de una caja procesada que nadie reclamó. Son unos 200 pesos. Tu compañero dice que 'finders keepers'. ¿Qué haces?",
+    "scenario": "Encuentras dinero en efectivo dentro de una caja procesada que nadie reclamó. Son unos 200 pesos. Tu compañero dice que 'el que lo encuentra se lo queda'. ¿Qué haces?",
     "options_structured": {
       "integrity_correct": "Lo entrego al encargado con una nota de cuándo y dónde lo encontré.",
       "pragmatic_distractor": "Lo llevo a caja y lo reporto como dinero encontrado para que lo registren formalmente.",

@@ -4,12 +4,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un companero te pide que justifiques en el sistema un gasto que el hizo porque no sabe como llenar el formato nuevo. Si no lo entrega hoy pierde el reembolso. ¿Que es lo primero que haces?",
+    "scenario": "Un compañero te pide que justifiques en el sistema un gasto que él hizo porque no sabe cómo llenar el formato nuevo. Si no lo entrega hoy pierde el reembolso. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo que no puedo justificar un gasto que no hice yo y le explico como tiene que llenarlo el.",
-      "pragmatic_distractor": "Le ayudo a llenarlo usando los datos reales del gasto para que quede correcto, aunque la firma sea mia.",
+      "integrity_correct": "Le digo que no puedo justificar un gasto que no hice yo y le explico cómo tiene que llenarlo él.",
+      "pragmatic_distractor": "Le ayudo a llenarlo usando los datos reales del gasto para que quede correcto, aunque la firma sea mía.",
       "evasive_distractor": "Le digo que pregunte al encargado porque yo no conozco bien el formato nuevo.",
-      "rationalized_distractor": "Lo justifico esta vez porque si no lo entrega hoy pierde el reembolso y eso no es culpa de el."
+      "rationalized_distractor": "Lo justifico esta vez porque si no lo entrega hoy pierde el reembolso y eso no es culpa de él."
     },
     "notes": "OPS400 M2 batch13 item 1",
     "sot_checksum": "ops400_m2_options_v13"
@@ -19,12 +19,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un cliente llega sin recibo para hacer un cambio. La politica nueva dice que sin recibo no hay cambio. El cliente dice que siempre se lo habian aceptado asi antes. ¿Que es lo primero que haces?",
+    "scenario": "Un cliente llega sin recibo para hacer un cambio. La política nueva dice que sin recibo no hay cambio. El cliente dice que siempre se lo habían aceptado así antes. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le explico la politica nueva y le digo que sin recibo no puedo procesar el cambio.",
-      "pragmatic_distractor": "Reviso en el sistema si hay registro del pago para ver si puedo proceder sin el recibo fisico.",
-      "evasive_distractor": "Llamo al encargado para que el decida porque es el primer caso sin recibo que me llega desde el cambio.",
-      "rationalized_distractor": "Le hago el cambio porque la politica es nueva, el no tenia como saberlo, y el producto claramente es nuestro."
+      "integrity_correct": "Le explico la política nueva y le digo que sin recibo no puedo procesar el cambio.",
+      "pragmatic_distractor": "Reviso en el sistema si hay registro del pago para ver si puedo proceder sin el recibo físico.",
+      "evasive_distractor": "Llamo al encargado para que él decida porque es el primer caso sin recibo que me llega desde el cambio.",
+      "rationalized_distractor": "Le hago el cambio porque la política es nueva, él no tenía cómo saberlo, y el producto claramente es nuestro."
     },
     "notes": "OPS400 M2 batch13 item 2",
     "sot_checksum": "ops400_m2_options_v13"
@@ -34,12 +34,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Cambian el proceso de surtido y ahora hay que hacer el recorrido de verificacion completo aunque el pasillo ya este despejado. Varios companeros se brincan el recorrido cuando no hay supervision. ¿Que es lo primero que haces?",
+    "scenario": "Cambian el proceso de surtido y ahora hay que hacer el recorrido de verificación completo aunque el pasillo ya esté despejado. Varios compañeros se brincan el recorrido cuando no hay supervisión. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Hago el recorrido completo en cada ciclo aunque tarde mas que mis companeros.",
-      "pragmatic_distractor": "Busco una forma de optimizar mi recorrido sin saltarme ninguno de los puntos de verificacion marcados.",
-      "evasive_distractor": "Le pregunto al encargado si el recorrido completo aplica tambien durante las horas pico de mayor flujo.",
-      "rationalized_distractor": "Me salto el recorrido cuando el pasillo obviamente esta limpio porque hacerlo igual no tiene ningun beneficio real."
+      "integrity_correct": "Hago el recorrido completo en cada ciclo aunque tarde más que mis compañeros.",
+      "pragmatic_distractor": "Busco una forma de optimizar mi recorrido sin saltarme ninguno de los puntos de verificación marcados.",
+      "evasive_distractor": "Le pregunto al encargado si el recorrido completo aplica también durante las horas pico de mayor flujo.",
+      "rationalized_distractor": "Me salto el recorrido cuando el pasillo obviamente está limpio porque hacerlo igual no tiene ningún beneficio real."
     },
     "notes": "OPS400 M2 batch13 item 3",
     "sot_checksum": "ops400_m2_options_v13"
@@ -49,12 +49,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Revisando el sistema notas que un companero registro mas horas de las que trabajo. No es la primera vez que lo ves. ¿Que es lo primero que haces?",
+    "scenario": "Revisando el sistema notas que un compañero registró más horas de las que trabajó. No es la primera vez que lo ves. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo directamente al companero que note la diferencia en su registro y que lo corrija.",
+      "integrity_correct": "Le digo directamente al compañero que noté la diferencia en su registro y que lo corrija.",
       "pragmatic_distractor": "Le comento al encargado sin mencionar nombres que hay inconsistencias en el registro de horas del equipo.",
-      "evasive_distractor": "No digo nada porque probablemente tiene una explicacion que yo no conozco.",
-      "rationalized_distractor": "Tampoco lo reporto; si el sistema lo deja pasar es un problema de control de la empresa, no mio."
+      "evasive_distractor": "No digo nada porque probablemente tiene una explicación que yo no conozco.",
+      "rationalized_distractor": "Tampoco lo reporto; si el sistema lo deja pasar es un problema de control de la empresa, no mío."
     },
     "notes": "OPS400 M2 batch13 item 4",
     "sot_checksum": "ops400_m2_options_v13"
@@ -64,12 +64,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El encargado te pide que adelantes el surtido de una seccion antes de la revision oficial de inventario. No te da una razon. Hacerlo podria alterar los conteos. ¿Que es lo primero que haces?",
+    "scenario": "El encargado te pide que adelantes el surtido de una sección antes de la revisión oficial de inventario. No te da una razón. Hacerlo podría alterar los conteos. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le pregunto si el surtido que me pide va a interferir con el conteo de inventario antes de mover algo.",
-      "pragmatic_distractor": "Lo hago rapidamente y anoto todo lo que movi para que el auditor tenga el registro completo.",
-      "evasive_distractor": "Espero a que termine la revision oficial y luego hago el surtido para no meterme en problemas.",
-      "rationalized_distractor": "Lo hago porque el encargado sabe lo que hay en revision y si me lo pide es porque no va a afectar."
+      "pragmatic_distractor": "Lo hago rápidamente y anoto todo lo que moví para que el auditor tenga el registro completo.",
+      "evasive_distractor": "Espero a que termine la revisión oficial y luego hago el surtido para no meterme en problemas.",
+      "rationalized_distractor": "Lo hago porque el encargado sabe lo que hay en revisión y si me lo pide es porque no va a afectar."
     },
     "notes": "OPS400 M2 batch13 item 5",
     "sot_checksum": "ops400_m2_options_v13"
@@ -79,12 +79,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un cliente dice que lo cobraste de mas en la caja, pero tu no eras el cajero en ese turno. El insiste y ya hay gente esperando detras de el. ¿Que es lo primero que haces?",
+    "scenario": "Un cliente dice que lo cobraste de más en la caja, pero tú no eras el cajero en ese turno. Él insiste y ya hay gente esperando detrás de él. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le digo con calma que yo no era el cajero en ese turno y le ofrezco ir con el encargado juntos para aclarar.",
-      "pragmatic_distractor": "Reviso su ticket rapidamente para ver si hay un error de cobro evidente antes de llamar al encargado.",
+      "pragmatic_distractor": "Reviso su ticket rápidamente para ver si hay un error de cobro evidente antes de llamar al encargado.",
       "evasive_distractor": "Le pido que espere un momento y llamo al encargado sin explicarle nada al cliente.",
-      "rationalized_distractor": "Le ofrezco una solucion rapida aunque no sea mi error porque la fila ya esta creciendo y el cliente esta alterado."
+      "rationalized_distractor": "Le ofrezco una solución rápida aunque no sea mi error porque la fila ya está creciendo y el cliente está alterado."
     },
     "notes": "OPS400 M2 batch13 item 6",
     "sot_checksum": "ops400_m2_options_v13"
@@ -94,12 +94,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Implementan nueva norma de separacion de residuos. El proceso tarda el doble y el encargado ya presiona para que no baje el ritmo del turno. ¿Que es lo primero que haces?",
+    "scenario": "Implementan nueva norma de separación de residuos. El proceso tarda el doble y el encargado ya presiona para que no baje el ritmo del turno. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Sigo la norma de separacion en cada ciclo aunque mi ritmo baje mientras me acostumbro.",
+      "integrity_correct": "Sigo la norma de separación en cada ciclo aunque mi ritmo baje mientras me acostumbro.",
       "pragmatic_distractor": "Le propongo al encargado una forma de organizar el ciclo para separar sin tanto tiempo extra.",
-      "evasive_distractor": "Le pregunto al encargado si se puede asignar a alguien solo para la separacion para que el resto no pierda ritmo.",
-      "rationalized_distractor": "Por ahora junto todo y lo separo al final del turno cuando hay menos presion; el resultado final es el mismo."
+      "evasive_distractor": "Le pregunto al encargado si se puede asignar a alguien solo para la separación para que el resto no pierda ritmo.",
+      "rationalized_distractor": "Por ahora junto todo y lo separo al final del turno cuando hay menos presión; el resultado final es el mismo."
     },
     "notes": "OPS400 M2 batch13 item 7",
     "sot_checksum": "ops400_m2_options_v13"
@@ -109,12 +109,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Le cubriste el turno a un companero con el acuerdo de que el te lo devolveria. Cuando llega tu dia de descanso dice que no puede y ya no hay quien cubra. ¿Que es lo primero que haces?",
+    "scenario": "Le cubriste el turno a un compañero con el acuerdo de que él te lo devolvería. Cuando llega tu día de descanso dice que no puede y ya no hay quien cubra. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le digo que el acuerdo era claro y que necesita buscar a alguien o hablar con el encargado para que se resuelva.",
-      "pragmatic_distractor": "Le propongo al encargado que el dia extra que trabajé quede documentado para recuperarlo en otra fecha.",
-      "evasive_distractor": "Trabajo ese dia y despues hablo con el encargado para que quede registrado y no vuelva a pasar.",
-      "rationalized_distractor": "Acepto trabajar porque si hago un problema me van a ver como conflictivo y eso puede afectar mi posicion en el equipo."
+      "pragmatic_distractor": "Le propongo al encargado que el día extra que trabajé quede documentado para recuperarlo en otra fecha.",
+      "evasive_distractor": "Trabajo ese día y después hablo con el encargado para que quede registrado y no vuelva a pasar.",
+      "rationalized_distractor": "Acepto trabajar porque si hago un problema me van a ver como conflictivo y eso puede afectar mi posición en el equipo."
     },
     "notes": "OPS400 M2 batch13 item 8",
     "sot_checksum": "ops400_m2_options_v13"
@@ -124,12 +124,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El lector biometrico de asistencia no te lee bien la huella y ya llevan varios dias igual. Te descontaron un dia de trabajo aunque si estuviste presente. ¿Que es lo primero que haces?",
+    "scenario": "El lector biométrico de asistencia no te lee bien la huella y ya llevan varios días igual. Te descontaron un día de trabajo aunque sí estuviste presente. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Reporto el fallo al encargado de inmediato y le pido que quede documentado el descuento que me hicieron sin razon.",
-      "pragmatic_distractor": "Voy directamente con el area de sistemas para que arreglen el lector antes de que me descuenten otro dia.",
+      "integrity_correct": "Reporto el fallo al encargado de inmediato y le pido que quede documentado el descuento que me hicieron sin razón.",
+      "pragmatic_distractor": "Voy directamente con el área de sistemas para que arreglen el lector antes de que me descuenten otro día.",
       "evasive_distractor": "Le pido a un compañero que registre mi entrada mientras el lector siga fallando.",
-      "rationalized_distractor": "No digo nada porque si hago mucho ruido me pueden tildar de conflictivo por algo que es un problema tecnico."
+      "rationalized_distractor": "No digo nada porque si hago mucho ruido me pueden tildar de conflictivo por algo que es un problema técnico."
     },
     "notes": "OPS400 M2 batch13 item 9",
     "sot_checksum": "ops400_m2_options_v13"
@@ -139,11 +139,11 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En la reunion de inicio de turno el encargado te pregunta de improviso tu opinion sobre un problema del que no tienes informacion. Todos te estan mirando. ¿Que es lo primero que haces?",
+    "scenario": "En la reunión de inicio de turno el encargado te pregunta de improviso tu opinión sobre un problema del que no tienes información. Todos te están mirando. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Digo que no tengo suficiente informacion sobre ese punto ahora mismo para dar una opinion util.",
-      "pragmatic_distractor": "Comparto lo poco que se de mi area y digo que para mas detalle necesito revisar los datos del turno anterior.",
-      "evasive_distractor": "Le cedo la palabra a un companero que si esta mas al tanto del tema.",
+      "integrity_correct": "Digo que no tengo suficiente información sobre ese punto ahora mismo para dar una opinión útil.",
+      "pragmatic_distractor": "Comparto lo poco que sé de mi área y digo que para más detalle necesito revisar los datos del turno anterior.",
+      "evasive_distractor": "Le cedo la palabra a un compañero que sí está más al tanto del tema.",
       "rationalized_distractor": "Improviso una respuesta general que suene razonable para no quedar mal frente a todo el equipo."
     },
     "notes": "OPS400 M2 batch13 item 10",
@@ -154,12 +154,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "En la revision de producto encuentras articulos casi caducados. La norma dice que hay que separarlos y reportarlos. Un companero dice que todavia se pueden vender porque tecnicamente aun no caducan. ¿Que es lo primero que haces?",
+    "scenario": "En la revisión de producto encuentras artículos casi caducados. La norma dice que hay que separarlos y reportarlos. Un compañero dice que todavía se pueden vender porque técnicamente aún no caducan. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Los separo y los reporto como indica la norma aunque todavia tengan dias de vigencia.",
-      "pragmatic_distractor": "Los coloco en el area de descuento y le aviso al encargado para que el decida que hacer con ellos.",
-      "evasive_distractor": "Le pregunto al encargado si hay una zona de venta rapida donde puedan ir antes de separarlos definitivamente.",
-      "rationalized_distractor": "Los dejo en exhibicion porque legalmente aun sirven y retirarlos antes de tiempo es perdida innecesaria para el negocio."
+      "integrity_correct": "Los separo y los reporto como indica la norma aunque todavía tengan días de vigencia.",
+      "pragmatic_distractor": "Los coloco en el área de descuento y le aviso al encargado para que él decida qué hacer con ellos.",
+      "evasive_distractor": "Le pregunto al encargado si hay una zona de venta rápida donde puedan ir antes de separarlos definitivamente.",
+      "rationalized_distractor": "Los dejo en exhibición porque legalmente aún sirven y retirarlos antes de tiempo es pérdida innecesaria para el negocio."
     },
     "notes": "OPS400 M2 batch13 item 11",
     "sot_checksum": "ops400_m2_options_v13"
@@ -169,12 +169,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Ves a un companero salir del area de producto con una bolsa que no registro en ningun sistema. No sabes con certeza que lleva dentro. ¿Que es lo primero que haces?",
+    "scenario": "Ves a un compañero salir del área de producto con una bolsa que no registró en ningún sistema. No sabes con certeza qué lleva dentro. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le pregunto directamente que lleva en la bolsa y si lo tiene registrado.",
-      "pragmatic_distractor": "Le digo al encargado lo que vi sin acusar directamente, para que el investigue si es necesario.",
-      "evasive_distractor": "No digo nada porque probablemente tiene permiso y yo no quiero crear un conflicto por algo que no se.",
-      "rationalized_distractor": "Lo dejo pasar esta vez; si es un problema recurrente el sistema lo va a detectar en la proxima auditoria."
+      "integrity_correct": "Le pregunto directamente qué lleva en la bolsa y si lo tiene registrado.",
+      "pragmatic_distractor": "Le digo al encargado lo que vi sin acusar directamente, para que él investigue si es necesario.",
+      "evasive_distractor": "No digo nada porque probablemente tiene permiso y yo no quiero crear un conflicto por algo que no sé.",
+      "rationalized_distractor": "Lo dejo pasar esta vez; si es un problema recurrente el sistema lo va a detectar en la próxima auditoría."
     },
     "notes": "OPS400 M2 batch13 item 12",
     "sot_checksum": "ops400_m2_options_v13"
@@ -184,11 +184,11 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Al cerrar tu turno te das cuenta de que te saltaste un paso de verificacion en un pedido que ya salio al cliente. El error puede o no generar un problema. ¿Que es lo primero que haces?",
+    "scenario": "Al cerrar tu turno te das cuenta de que te saltaste un paso de verificación en un pedido que ya salió al cliente. El error puede o no generar un problema. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Aviso al encargado de inmediato sobre el paso omitido para que puedan contactar al cliente si es necesario.",
-      "pragmatic_distractor": "Llamo al cliente primero para ver si hay algun problema antes de avisarle al encargado.",
-      "evasive_distractor": "Espero a ver si el cliente llama para quejarse; si no llama, el paso no era tan critico.",
+      "pragmatic_distractor": "Llamo al cliente primero para ver si hay algún problema antes de avisarle al encargado.",
+      "evasive_distractor": "Espero a ver si el cliente llama para quejarse; si no llama, el paso no era tan crítico.",
       "rationalized_distractor": "No digo nada porque si lo reporto me afecta el indicador del turno y probablemente no pase nada."
     },
     "notes": "OPS400 M2 batch13 item 13",
@@ -199,12 +199,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Un cliente se acerca y comienza a hablar en otro idioma. Tu no lo entiendes bien. Hay fila y no hay nadie mas disponible en ese momento. ¿Que es lo primero que haces?",
+    "scenario": "Un cliente se acerca y comienza a hablar en otro idioma. Tú no lo entiendes bien. Hay fila y no hay nadie más disponible en ese momento. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Con señas le pido que espere un momento mientras busco a alguien que pueda ayudarlo.",
-      "pragmatic_distractor": "Intento atenderlo con gestos y las palabras basicas que conozco mientras busco a alguien que hable su idioma.",
+      "pragmatic_distractor": "Intento atenderlo con gestos y las palabras básicas que conozco mientras busco a alguien que hable su idioma.",
       "evasive_distractor": "Le hago señas para que espere y sigo con el siguiente cliente de la fila mientras regresa alguien que pueda atenderlo.",
-      "rationalized_distractor": "Le doy lo que parece que necesita segun lo que entiendo aunque no este seguro de que eso es lo correcto."
+      "rationalized_distractor": "Le doy lo que parece que necesita según lo que entiendo aunque no esté seguro de que eso es lo correcto."
     },
     "notes": "OPS400 M2 batch13 item 14",
     "sot_checksum": "ops400_m2_options_v13"
@@ -214,12 +214,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El proceso de recibo requiere dos personas para validar el cargamento. Hoy la otra persona no llego y el transportista ya tiene prisa por irse. ¿Que es lo primero que haces?",
+    "scenario": "El proceso de recibo requiere dos personas para validar el cargamento. Hoy la otra persona no llegó y el transportista ya tiene prisa por irse. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Aviso al encargado de que no tengo segunda persona para validar y espero su autorizacion antes de firmar.",
+      "integrity_correct": "Aviso al encargado de que no tengo segunda persona para validar y espero su autorización antes de firmar.",
       "pragmatic_distractor": "Le pido al transportista unos minutos mientras busco a alguien disponible que pueda hacer la segunda firma.",
-      "evasive_distractor": "Recibo el cargamento solo y le aviso al encargado despues para que quede en el registro.",
-      "rationalized_distractor": "Firmo solo porque el cargamento lleva fecha y si lo rechazo le cuesta mas a la empresa que una irregularidad menor."
+      "evasive_distractor": "Recibo el cargamento solo y le aviso al encargado después para que quede en el registro.",
+      "rationalized_distractor": "Firmo solo porque el cargamento lleva fecha y si lo rechazo le cuesta más a la empresa que una irregularidad menor."
     },
     "notes": "OPS400 M2 batch13 item 15",
     "sot_checksum": "ops400_m2_options_v13"
@@ -229,11 +229,11 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El encargado te pide que hagas un reporte escrito sobre un companero. No te da una razon y lo que quiere que anotes son cosas que tu no has observado directamente. ¿Que es lo primero que haces?",
+    "scenario": "El encargado te pide que hagas un reporte escrito sobre un compañero. No te da una razón y lo que quiere que anotes son cosas que tú no has observado directamente. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo que no puedo reportar cosas que no he visto yo mismo y le pregunto que informacion concreta necesita de mi parte.",
-      "pragmatic_distractor": "Le pregunto que tipo de situaciones quiere documentar para ver si tengo datos reales que le sean utiles.",
-      "evasive_distractor": "Le entrego un reporte muy general que no comprometa ni al companero ni a mi.",
+      "integrity_correct": "Le digo que no puedo reportar cosas que no he visto yo mismo y le pregunto qué información concreta necesita de mi parte.",
+      "pragmatic_distractor": "Le pregunto qué tipo de situaciones quiere documentar para ver si tengo datos reales que le sean útiles.",
+      "evasive_distractor": "Le entrego un reporte muy general que no comprometa ni al compañero ni a mí.",
       "rationalized_distractor": "Lo hago como me pide porque si el encargado lo solicita es porque tiene razones que yo no conozco."
     },
     "notes": "OPS400 M2 batch13 item 16",
@@ -244,12 +244,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Te enteras el dia anterior de que cambiaron tu horario para la semana siguiente. Ya tenias una cita medica pagada ese dia y no es facil reprogramarla. ¿Que es lo primero que haces?",
+    "scenario": "Te enteras el día anterior de que cambiaron tu horario para la semana siguiente. Ya tenías una cita médica pagada ese día y no es fácil reprogramarla. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo al encargado que ya tenia una cita medica ese dia y le pido si hay forma de ajustar el horario o de conseguir cobertura.",
-      "pragmatic_distractor": "Busco un companero que quiera intercambiar turno conmigo para resolver el conflicto sin involucrar al encargado.",
+      "integrity_correct": "Le digo al encargado que ya tenía una cita médica ese día y le pido si hay forma de ajustar el horario o de conseguir cobertura.",
+      "pragmatic_distractor": "Busco un compañero que quiera intercambiar turno conmigo para resolver el conflicto sin involucrar al encargado.",
       "evasive_distractor": "Acepto el cambio de horario y pierdo la cita porque no quiero generar un conflicto por algo personal.",
-      "rationalized_distractor": "Falto ese dia sin avisar porque el cambio fue de ultimo minuto y yo ya tenia un compromiso medico previo."
+      "rationalized_distractor": "Falto ese día sin avisar porque el cambio fue de último minuto y yo ya tenía un compromiso médico previo."
     },
     "notes": "OPS400 M2 batch13 item 17",
     "sot_checksum": "ops400_m2_options_v13"
@@ -259,12 +259,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Llega una regla nueva que prohibe algo que el equipo ha hecho siempre sin problema. El encargado no la ha mencionado y nadie en el equipo la esta aplicando. ¿Que es lo primero que haces?",
+    "scenario": "Llega una regla nueva que prohíbe algo que el equipo ha hecho siempre sin problema. El encargado no la ha mencionado y nadie en el equipo la está aplicando. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Dejo de hacer lo que la regla nueva prohibe desde que me entero, aunque el resto del equipo siga haciendolo.",
+      "integrity_correct": "Dejo de hacer lo que la regla nueva prohíbe desde que me entero, aunque el resto del equipo siga haciéndolo.",
       "pragmatic_distractor": "Le pregunto al encargado si la regla ya es efectiva para saber con certeza si debo aplicarla desde ahora.",
-      "evasive_distractor": "Espero a que el encargado la mencione antes de cambiar nada; si el no dice nada es que no es urgente.",
-      "rationalized_distractor": "Sigo como siempre mientras nadie me diga directamente que pare; una practica que nunca fue problema no puede ser tan grave."
+      "evasive_distractor": "Espero a que el encargado la mencione antes de cambiar nada; si él no dice nada es que no es urgente.",
+      "rationalized_distractor": "Sigo como siempre mientras nadie me diga directamente que pare; una práctica que nunca fue problema no puede ser tan grave."
     },
     "notes": "OPS400 M2 batch13 item 18",
     "sot_checksum": "ops400_m2_options_v13"
@@ -274,12 +274,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Pasaste a un cliente molesto con el encargado para que lo atendiera. Unos minutos despues el cliente regresa contigo mas enojado porque nadie lo atendio. ¿Que es lo primero que haces?",
+    "scenario": "Pasaste a un cliente molesto con el encargado para que lo atendiera. Unos minutos después el cliente regresa contigo más enojado porque nadie lo atendió. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le digo que lo siento y voy a buscar al encargado o a alguien disponible que pueda atenderlo en ese momento.",
-      "pragmatic_distractor": "Le pido que me explique su situacion y trato de resolverla yo mismo si esta dentro de mis atribuciones.",
-      "evasive_distractor": "Le digo que el encargado esta ocupado y que espere un poco mas o que regrese en un rato.",
-      "rationalized_distractor": "Le digo que yo ya hice mi parte al pasarlo y que el retraso en la atencion no es responsabilidad mia."
+      "pragmatic_distractor": "Le pido que me explique su situación y trato de resolverla yo mismo si está dentro de mis atribuciones.",
+      "evasive_distractor": "Le digo que el encargado está ocupado y que espere un poco más o que regrese en un rato.",
+      "rationalized_distractor": "Le digo que yo ya hice mi parte al pasarlo y que el retraso en la atención no es responsabilidad mía."
     },
     "notes": "OPS400 M2 batch13 item 19",
     "sot_checksum": "ops400_m2_options_v13"
@@ -289,11 +289,11 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "Al final del turno el sistema pierde todos los datos de tus registros del dia. El encargado te pide que hagas el reporte de memoria para que no quede vacio. ¿Que es lo primero que haces?",
+    "scenario": "Al final del turno el sistema pierde todos los datos de tus registros del día. El encargado te pide que hagas el reporte de memoria para que no quede vacío. ¿Qué es lo primero que haces?",
     "options_structured": {
       "integrity_correct": "Le digo que no tengo suficiente confianza en mi memoria para entregarlo como exacto y le propongo un reporte parcial marcando lo que no puedo confirmar.",
-      "pragmatic_distractor": "Intento reconstruir los datos con mis notas fisicas y con los registros de los companeros que trabajaron conmigo.",
-      "evasive_distractor": "Le digo que sin los datos del sistema no puedo entregar nada y que sistemas tiene que recuperar la informacion.",
+      "pragmatic_distractor": "Intento reconstruir los datos con mis notas físicas y con los registros de los compañeros que trabajaron conmigo.",
+      "evasive_distractor": "Le digo que sin los datos del sistema no puedo entregar nada y que sistemas tiene que recuperar la información.",
       "rationalized_distractor": "Hago el reporte de memoria lo mejor que puedo y lo firmo; si hay errores el encargado sabe que fue falla del sistema."
     },
     "notes": "OPS400 M2 batch13 item 20",
