@@ -109,12 +109,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "El supervisor me pide que antedatemos el registro de recepción de mercancía del martes pasado porque olvidó capturarlo a tiempo y la auditoría revisa esa semana. Me dice que 'la mercancía sí llegó ese día, solo falta el papel'. ¿Qué decides hacer?",
+    "scenario": "El supervisor me pide que pongamos al registro de recepción de mercancía la fecha del martes pasado porque olvidó capturarlo a tiempo y la auditoría revisa esa semana. Me dice que 'la mercancía sí llegó ese día, solo falta el papel'. ¿Qué decides hacer?",
     "options_structured": {
       "integrity_correct": "Le digo que no puedo firmar un registro con fecha que no corresponde al momento en que se capturó.",
       "pragmatic_distractor": "Le sugiero capturarlo hoy con una nota aclaratoria que explique el retraso en el registro para que quede trazable.",
       "evasive_distractor": "Le digo que yo no tengo acceso al módulo de recepción y que lo haga él con su usuario.",
-      "rationalized_distractor": "Lo antedato porque la mercancía sí llegó el martes y el registro solo formaliza algo que ya pasó; no estoy inventando nada."
+      "rationalized_distractor": "Le pongo esa fecha porque la mercancía sí llegó el martes y el registro solo formaliza algo que ya pasó; no estoy inventando nada."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 13 item 8",
     "sot_checksum": "ops400_m3_options_v1"
