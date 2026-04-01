@@ -139,12 +139,12 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "En el chat grupal de los empleados del turno, los de cajas pesillas y almacén están insultando durísimo al gerente operativo nombrándolo con adjetivos discriminatorios. Algunos sugieren que no diga nada quien no los apoya. ¿Qué decides hacer?",
+    "scenario": "En el grupo de mensajes del turno, varios de cajas y almacén están insultando al gerente con comentarios discriminatorios. También dicen que mejor se quede callado quien no esté de acuerdo. ¿Qué decides hacer?",
     "options_structured": {
-      "integrity_correct": "Tomo las capturas de pantalla de los insultos y activo el buzón anónimo local.",
-      "pragmatic_distractor": "Me limito a escribirles un \"Pobrecito\" un poco sarcástico para participar en el chat sin decir un adjetivo directamente grueso.",
-      "evasive_distractor": "Simplemente 'archivo' el chat grupal para no estar viendo las notificaciones polémicas y mantenerme sumamente alejado del conflicto.",
-      "rationalized_distractor": "Borro los mensajes en mi celular para no dejar rastro, entendiendo que el chat de mensajería es un escape psicológico de la dura presión laboral operaria."
+      "integrity_correct": "Guardo capturas y reporto lo que está pasando por el canal anónimo, aunque después se me vayan encima por no quedarme callado.",
+      "pragmatic_distractor": "Les escribo que ya le bajen y me salgo del grupo para no seguir en el pleito.",
+      "evasive_distractor": "Silencio el grupo y sigo mi turno como si no hubiera visto nada.",
+      "rationalized_distractor": "No digo nada; con la presión del trabajo todos se desahogan y mañana se les pasa."
     },
     "notes": "OPS400 Modulo 3 Options OPS400-M3 batch 03 item 10",
     "sot_checksum": "ops400_m3_options_v1"
@@ -229,9 +229,9 @@
     "module_id": 3,
     "block_id": "OPS400-M3",
     "type": "options",
-    "scenario": "Mi compañera está atorada en el tráfico. Me manda mensaje pidiendo que inicie sesión en la computadora de atrás y le dé 'Play' a su curso para que el sistema le marque asistencia a tiempo. ¿Qué haces?",
+    "scenario": "Mi compañera está atorada en el tráfico. Me manda mensaje pidiendo que inicie sesión en la computadora de atrás y le dé iniciar a su curso para que el sistema le marque asistencia a tiempo. ¿Qué haces?",
     "options_structured": {
-      "integrity_correct": "Le contesto que es necesario que ella inicie su sesión presencialmente en el sistema de la empresa.",
+      "integrity_correct": "Le contesto que ella misma tiene que iniciar sesión en el sistema de la empresa.",
       "pragmatic_distractor": "Pongo a correr el video sin audio para que el sistema avance y ella no pierda su bono de asistencia perfecta.",
       "evasive_distractor": "Le contesto que el teclado de esa máquina falla bloqueando temporalmente el inicio de sesión.",
       "rationalized_distractor": "Inicio su sesión, sabiendo que el tráfico fue un accidente y ella siempre cubre mis horarios de comida."

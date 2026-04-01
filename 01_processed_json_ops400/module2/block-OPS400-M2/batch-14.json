@@ -64,12 +64,12 @@
     "module_id": 2,
     "block_id": "OPS400-M2",
     "type": "options",
-    "scenario": "El encargado te pide usar un producto de limpieza que ya vencio porque dice que para ese trabajo todavia sirve y no hay stock del nuevo. ¿Que es lo primero que haces?",
+    "scenario": "El encargado te pide usar un producto de limpieza que ya venció porque dice que para ese trabajo todavía sirve y no queda del nuevo. ¿Qué es lo primero que haces?",
     "options_structured": {
-      "integrity_correct": "Le digo que no me siento bien usando un producto vencido y le pregunto si hay otra opcion o si puede hacer el pedido de reposicion hoy.",
-      "pragmatic_distractor": "Lo uso esta vez pero al terminar el turno le recuerdo al encargado que hay que pedir el stock nuevo.",
-      "evasive_distractor": "Aplico solo la cantidad minima necesaria para que el riesgo sea el menor posible.",
-      "rationalized_distractor": "Lo uso porque el encargado ya evaluo el riesgo y si el dice que sirve, es su responsabilidad, no la mia."
+      "integrity_correct": "Le digo que no me siento bien usando un producto vencido y le pregunto si hay otra opción o si puede hacer el pedido de reposición hoy.",
+      "pragmatic_distractor": "Lo uso esta vez pero al terminar el turno le recuerdo al encargado que hay que pedir más del nuevo.",
+      "evasive_distractor": "Aplico solo la cantidad mínima necesaria para que el riesgo sea el menor posible.",
+      "rationalized_distractor": "Lo uso porque el encargado ya evaluó el riesgo y si él dice que sirve, es su responsabilidad, no la mía."
     },
     "notes": "OPS400 M2 batch14 item 5",
     "sot_checksum": "ops400_m2_options_v14"

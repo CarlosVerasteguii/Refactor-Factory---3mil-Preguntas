@@ -214,11 +214,11 @@
     "module_id": 5,
     "block_id": "OPS400-M5",
     "type": "options",
-    "scenario": "El equipo de reparto quiere marcar envíos como \"domicilio incontactable\" evadiendo meterse en calles sin luz. ¿Qué decides?",
+    "scenario": "El equipo de reparto quiere marcar envíos como \"cliente no respondió\" para evitar meterse en calles sin luz. ¿Qué decides?",
     "options_structured": {
       "integrity_correct": "Me niego a poner esa clave si no intentamos la entrega y llamo a base para que nos digan cómo proceder en esa zona.",
       "pragmatic_distractor": "Toco el claxon dos veces en la esquina y si nadie sale en treinta segundos marco fallida con foto del letrero de la calle como evidencia.",
-      "evasive_distractor": "Le paso el problema al coordinador de ruta para que él autorice si se puede marcar incontactable sin intentar la entrega.",
+      "evasive_distractor": "Le paso el problema al coordinador de ruta para que él autorice si se puede marcar como no localizado sin intentar la entrega.",
       "rationalized_distractor": "Acepto marcar fallido; meternos de noche a una calle sin luz con paquetes encima es un riesgo que no nos pagan por correr."
     },
     "notes": "OPS400 Modulo 5 Options OPS400-M5 batch 06 item 15",
